@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Gimenez</word>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>PERS</NER>
+          </token>
+          <token id="2">
+            <word>,</word>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>fc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>G.</word>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>PERS</NER>
+          </token>
+          <token id="4">
+            <word>A.</word>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>PERS</NER>
+          </token>
+          <token id="5">
+            <word>;</word>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>fx</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>N.</word>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>PERS</NER>
+          </token>
+          <token id="7">
+            <word>V.</word>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>PERS</NER>
+          </token>
+          <token id="8">
+            <word>Canton</word>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>PERS</NER>
+          </token>
+          <token id="9">
+            <word>;</word>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>fx</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>A.</word>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>PERS</NER>
+          </token>
+          <token id="11">
+            <word>I.</word>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>PERS</NER>
+          </token>
+          <token id="12">
+            <word>Hladki</word>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>PERS</NER>
+          </token>
+          <token id="13">
+            <word>.</word>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>fp</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (sn (grup.nom (np00000 Gimenez) (sn (fc ,) (grup.nom (grup.nom (np00000 G.) (np00000 A.)) (sn (fx ;) (grup.nom (grup.nom (np00000 N.) (np00000 V.) (np00000 Canton)) (sn (fx ;) (grup.nom (grup.nom (np00000 A.) (np00000 I.)) (sn (grup.nom (np00000 Hladki))))))))))) (fp .))) </parse>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>2012</word>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>w</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>.</word>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>fp</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>"</word>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>fe</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (sn (grup.nom (w 2012))) (fp .) (fe "))) </parse>
+      </sentence>
+      <sentence id="3">
+        <tokens>
+          <token id="1">
+            <word>Mixobiota</word>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>vmm0000</POS>
+            <NER>PERS</NER>
+          </token>
+          <token id="2">
+            <word>de</word>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>el</word>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>Departamento</word>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>77</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="5">
+            <word>Chilecito</word>
+            <CharacterOffsetBegin>78</CharacterOffsetBegin>
+            <CharacterOffsetEnd>87</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="6">
+            <word>=LRB=</word>
+            <CharacterOffsetBegin>88</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>fpa</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>La</word>
+            <CharacterOffsetBegin>89</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>Rioja</word>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>97</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>LUG</NER>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <CharacterOffsetBegin>97</CharacterOffsetBegin>
+            <CharacterOffsetEnd>98</CharacterOffsetEnd>
+            <POS>fc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>Argentina</word>
+            <CharacterOffsetBegin>99</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>LUG</NER>
+          </token>
+          <token id="11">
+            <word>=RRB=</word>
+            <CharacterOffsetBegin>108</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+            <POS>fpt</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>"</word>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>110</CharacterOffsetEnd>
+            <POS>fe</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>.</word>
+            <CharacterOffsetBegin>110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>111</CharacterOffsetEnd>
+            <POS>fp</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (S (S (grup.verb (vmm0000 Mixobiota)) (sp (prep (sp000 de)) (sn (spec (da0000 el)) (grup.nom (grup.nom (np00000 Departamento) (np00000 Chilecito)) (sn (fpa =LRB=) (spec (da0000 La)) (grup.nom (np00000 Rioja) (sn (fc ,) (grup.nom (np00000 Argentina)))) (fpt =RRB=)))))) (fe ")) (fp .))) </parse>
+      </sentence>
+      <sentence id="4">
+        <tokens>
+          <token id="1">
+            <word>Lilloa</word>
+            <CharacterOffsetBegin>112</CharacterOffsetBegin>
+            <CharacterOffsetEnd>118</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>49</word>
+            <CharacterOffsetBegin>119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>121</CharacterOffsetEnd>
+            <POS>z0</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>=LRB=</word>
+            <CharacterOffsetBegin>122</CharacterOffsetBegin>
+            <CharacterOffsetEnd>123</CharacterOffsetEnd>
+            <POS>fpa</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>1</word>
+            <CharacterOffsetBegin>123</CharacterOffsetBegin>
+            <CharacterOffsetEnd>124</CharacterOffsetEnd>
+            <POS>z0</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>=RRB=</word>
+            <CharacterOffsetBegin>124</CharacterOffsetBegin>
+            <CharacterOffsetEnd>125</CharacterOffsetEnd>
+            <POS>fpt</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>.</word>
+            <CharacterOffsetBegin>125</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>fp</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (sn (grup.nom (grup.nom (np00000 Lilloa) (z0 49)) (sn (fpa =LRB=) (grup.nom (z0 1)) (fpt =RRB=)))) (fp .))) </parse>
+      </sentence>
+      <sentence id="5">
+        <tokens>
+          <token id="1">
+            <word>Se</word>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>129</CharacterOffsetEnd>
+            <POS>p0000000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>citan</word>
+            <CharacterOffsetBegin>130</CharacterOffsetBegin>
+            <CharacterOffsetEnd>135</CharacterOffsetEnd>
+            <POS>vmip000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>por</word>
+            <CharacterOffsetBegin>136</CharacterOffsetBegin>
+            <CharacterOffsetEnd>139</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>primera</word>
+            <CharacterOffsetBegin>140</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+            <POS>ao0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>vez</word>
+            <CharacterOffsetBegin>148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>151</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>para</word>
+            <CharacterOffsetBegin>152</CharacterOffsetBegin>
+            <CharacterOffsetEnd>156</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>la</word>
+            <CharacterOffsetBegin>157</CharacterOffsetBegin>
+            <CharacterOffsetEnd>159</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>región</word>
+            <CharacterOffsetBegin>160</CharacterOffsetBegin>
+            <CharacterOffsetEnd>166</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>de</word>
+            <CharacterOffsetBegin>167</CharacterOffsetBegin>
+            <CharacterOffsetEnd>169</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>Cuyo</word>
+            <CharacterOffsetBegin>170</CharacterOffsetBegin>
+            <CharacterOffsetEnd>174</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>OTROS</NER>
+          </token>
+          <token id="11">
+            <word>los</word>
+            <CharacterOffsetBegin>175</CharacterOffsetBegin>
+            <CharacterOffsetEnd>178</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>géneros</word>
+            <CharacterOffsetBegin>179</CharacterOffsetBegin>
+            <CharacterOffsetEnd>186</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>Hemitrichia</word>
+            <CharacterOffsetBegin>187</CharacterOffsetBegin>
+            <CharacterOffsetEnd>198</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>LUG</NER>
+          </token>
+          <token id="14">
+            <word>y</word>
+            <CharacterOffsetBegin>199</CharacterOffsetBegin>
+            <CharacterOffsetEnd>200</CharacterOffsetEnd>
+            <POS>cc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>Ceratiomyxa</word>
+            <CharacterOffsetBegin>201</CharacterOffsetBegin>
+            <CharacterOffsetEnd>212</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="16">
+            <word>,</word>
+            <CharacterOffsetBegin>212</CharacterOffsetBegin>
+            <CharacterOffsetEnd>213</CharacterOffsetEnd>
+            <POS>fc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>así</word>
+            <CharacterOffsetBegin>214</CharacterOffsetBegin>
+            <CharacterOffsetEnd>217</CharacterOffsetEnd>
+            <POS>rg</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>como</word>
+            <CharacterOffsetBegin>218</CharacterOffsetBegin>
+            <CharacterOffsetEnd>222</CharacterOffsetEnd>
+            <POS>cs</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>también</word>
+            <CharacterOffsetBegin>223</CharacterOffsetBegin>
+            <CharacterOffsetEnd>230</CharacterOffsetEnd>
+            <POS>rg</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>a</word>
+            <CharacterOffsetBegin>231</CharacterOffsetBegin>
+            <CharacterOffsetEnd>232</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>Arcyria</word>
+            <CharacterOffsetBegin>233</CharacterOffsetBegin>
+            <CharacterOffsetEnd>240</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="22">
+            <word>oerstedii</word>
+            <CharacterOffsetBegin>241</CharacterOffsetBegin>
+            <CharacterOffsetEnd>250</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="23">
+            <word>.</word>
+            <CharacterOffsetBegin>250</CharacterOffsetBegin>
+            <CharacterOffsetEnd>251</CharacterOffsetEnd>
+            <POS>fp</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (S (S (morfema.verbal (p0000000 Se)) (grup.verb (vmip000 citan)) (sp (prep (sp000 por)) (sn (grup.nom (s.a (grup.a (ao0000 primera))) (nc0s000 vez) (sp (prep (sp000 para)) (sn (spec (da0000 la)) (grup.nom (nc0s000 región) (sp (prep (sp000 de)) (sn (grup.nom (np00000 Cuyo)))))))))) (sn (spec (da0000 los)) (grup.nom (nc0p000 géneros)))) (sn (grup.nom (grup.nom (np00000 Hemitrichia)) (conj (cc y)) (grup.nom (np00000 Ceratiomyxa)))) (fc ,)) (conj (grup.cc (rg así) (cs como))) (S (sadv (grup.adv (rg también))) (sp (prep (sp000 a)) (sn (grup.nom (np00000 Arcyria) (np00000 oerstedii))))) (fp .))) </parse>
+      </sentence>
+      <sentence id="6">
+        <tokens>
+          <token id="1">
+            <word>Se</word>
+            <CharacterOffsetBegin>252</CharacterOffsetBegin>
+            <CharacterOffsetEnd>254</CharacterOffsetEnd>
+            <POS>pp000000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>amplia</word>
+            <CharacterOffsetBegin>255</CharacterOffsetBegin>
+            <CharacterOffsetEnd>261</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>el</word>
+            <CharacterOffsetBegin>262</CharacterOffsetBegin>
+            <CharacterOffsetEnd>264</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>área</word>
+            <CharacterOffsetBegin>265</CharacterOffsetBegin>
+            <CharacterOffsetEnd>269</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>de</word>
+            <CharacterOffsetBegin>270</CharacterOffsetBegin>
+            <CharacterOffsetEnd>272</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>distribución</word>
+            <CharacterOffsetBegin>273</CharacterOffsetBegin>
+            <CharacterOffsetEnd>285</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>de</word>
+            <CharacterOffsetBegin>286</CharacterOffsetBegin>
+            <CharacterOffsetEnd>288</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>Physarum</word>
+            <CharacterOffsetBegin>289</CharacterOffsetBegin>
+            <CharacterOffsetEnd>297</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="9">
+            <word>pusillum</word>
+            <CharacterOffsetBegin>298</CharacterOffsetBegin>
+            <CharacterOffsetEnd>306</CharacterOffsetEnd>
+            <POS>vmis000</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="10">
+            <word>para</word>
+            <CharacterOffsetBegin>307</CharacterOffsetBegin>
+            <CharacterOffsetEnd>311</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>la</word>
+            <CharacterOffsetBegin>312</CharacterOffsetBegin>
+            <CharacterOffsetEnd>314</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>provincia</word>
+            <CharacterOffsetBegin>315</CharacterOffsetBegin>
+            <CharacterOffsetEnd>324</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>de</word>
+            <CharacterOffsetBegin>325</CharacterOffsetBegin>
+            <CharacterOffsetEnd>327</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>La</word>
+            <CharacterOffsetBegin>328</CharacterOffsetBegin>
+            <CharacterOffsetEnd>330</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>Rioja</word>
+            <CharacterOffsetBegin>331</CharacterOffsetBegin>
+            <CharacterOffsetEnd>336</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>LUG</NER>
+          </token>
+          <token id="16">
+            <word>.</word>
+            <CharacterOffsetBegin>336</CharacterOffsetBegin>
+            <CharacterOffsetEnd>337</CharacterOffsetEnd>
+            <POS>fp</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (sn (grup.nom (pp000000 Se) (s.a (grup.a (aq0000 amplia))))) (S (sn (spec (da0000 el)) (grup.nom (nc0s000 área) (sp (prep (sp000 de)) (sn (grup.nom (nc0s000 distribución) (sp (prep (sp000 de)) (sn (grup.nom (np00000 Physarum))))))))) (grup.verb (vmis000 pusillum)) (sp (prep (sp000 para)) (sn (spec (da0000 la)) (grup.nom (nc0s000 provincia) (sp (prep (sp000 de)) (sn (spec (da0000 La)) (grup.nom (np00000 Rioja)))))))) (fp .))) </parse>
+      </sentence>
+      <sentence id="7">
+        <tokens>
+          <token id="1">
+            <word>Se</word>
+            <CharacterOffsetBegin>338</CharacterOffsetBegin>
+            <CharacterOffsetEnd>340</CharacterOffsetEnd>
+            <POS>p0000000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>describen</word>
+            <CharacterOffsetBegin>341</CharacterOffsetBegin>
+            <CharacterOffsetEnd>350</CharacterOffsetEnd>
+            <POS>vmip000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>los</word>
+            <CharacterOffsetBegin>351</CharacterOffsetBegin>
+            <CharacterOffsetEnd>354</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>esporangios</word>
+            <CharacterOffsetBegin>355</CharacterOffsetBegin>
+            <CharacterOffsetEnd>366</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>,</word>
+            <CharacterOffsetBegin>366</CharacterOffsetBegin>
+            <CharacterOffsetEnd>367</CharacterOffsetEnd>
+            <POS>fc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>incluyendo</word>
+            <CharacterOffsetBegin>368</CharacterOffsetBegin>
+            <CharacterOffsetEnd>378</CharacterOffsetEnd>
+            <POS>vmg0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>dibujos</word>
+            <CharacterOffsetBegin>379</CharacterOffsetBegin>
+            <CharacterOffsetEnd>386</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>y</word>
+            <CharacterOffsetBegin>387</CharacterOffsetBegin>
+            <CharacterOffsetEnd>388</CharacterOffsetEnd>
+            <POS>cc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>fotografías</word>
+            <CharacterOffsetBegin>389</CharacterOffsetBegin>
+            <CharacterOffsetEnd>400</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>.</word>
+            <CharacterOffsetBegin>400</CharacterOffsetBegin>
+            <CharacterOffsetEnd>401</CharacterOffsetEnd>
+            <POS>fp</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (morfema.verbal (p0000000 Se)) (grup.verb (vmip000 describen)) (sn (spec (da0000 los)) (grup.nom (nc0p000 esporangios) (S (fc ,) (gerundi (vmg0000 incluyendo)) (sn (grup.nom (grup.nom (nc0p000 dibujos)) (conj (cc y)) (grup.nom (nc0p000 fotografías))))))) (fp .))) </parse>
+      </sentence>
+      <sentence id="8">
+        <tokens>
+          <token id="1">
+            <word>Se</word>
+            <CharacterOffsetBegin>402</CharacterOffsetBegin>
+            <CharacterOffsetEnd>404</CharacterOffsetEnd>
+            <POS>p0000000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>incluyen</word>
+            <CharacterOffsetBegin>405</CharacterOffsetBegin>
+            <CharacterOffsetEnd>413</CharacterOffsetEnd>
+            <POS>vmip000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>claves</word>
+            <CharacterOffsetBegin>414</CharacterOffsetBegin>
+            <CharacterOffsetEnd>420</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>dicotómicas</word>
+            <CharacterOffsetBegin>421</CharacterOffsetBegin>
+            <CharacterOffsetEnd>432</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>de</word>
+            <CharacterOffsetBegin>433</CharacterOffsetBegin>
+            <CharacterOffsetEnd>435</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>los</word>
+            <CharacterOffsetBegin>436</CharacterOffsetBegin>
+            <CharacterOffsetEnd>439</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>géneros</word>
+            <CharacterOffsetBegin>440</CharacterOffsetBegin>
+            <CharacterOffsetEnd>447</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>presentes</word>
+            <CharacterOffsetBegin>448</CharacterOffsetBegin>
+            <CharacterOffsetEnd>457</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>en</word>
+            <CharacterOffsetBegin>458</CharacterOffsetBegin>
+            <CharacterOffsetEnd>460</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>La</word>
+            <CharacterOffsetBegin>461</CharacterOffsetBegin>
+            <CharacterOffsetEnd>463</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>Rioja</word>
+            <CharacterOffsetBegin>464</CharacterOffsetBegin>
+            <CharacterOffsetEnd>469</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>LUG</NER>
+          </token>
+          <token id="12">
+            <word>y</word>
+            <CharacterOffsetBegin>470</CharacterOffsetBegin>
+            <CharacterOffsetEnd>471</CharacterOffsetEnd>
+            <POS>cc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>de</word>
+            <CharacterOffsetBegin>472</CharacterOffsetBegin>
+            <CharacterOffsetEnd>474</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>las</word>
+            <CharacterOffsetBegin>475</CharacterOffsetBegin>
+            <CharacterOffsetEnd>478</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>especies</word>
+            <CharacterOffsetBegin>479</CharacterOffsetBegin>
+            <CharacterOffsetEnd>487</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>citadas</word>
+            <CharacterOffsetBegin>488</CharacterOffsetBegin>
+            <CharacterOffsetEnd>495</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>para</word>
+            <CharacterOffsetBegin>496</CharacterOffsetBegin>
+            <CharacterOffsetEnd>500</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>el</word>
+            <CharacterOffsetBegin>501</CharacterOffsetBegin>
+            <CharacterOffsetEnd>503</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>departamento</word>
+            <CharacterOffsetBegin>504</CharacterOffsetBegin>
+            <CharacterOffsetEnd>516</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>Chilecito</word>
+            <CharacterOffsetBegin>517</CharacterOffsetBegin>
+            <CharacterOffsetEnd>526</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>LUG</NER>
+          </token>
+          <token id="21">
+            <word>.</word>
+            <CharacterOffsetBegin>526</CharacterOffsetBegin>
+            <CharacterOffsetEnd>527</CharacterOffsetEnd>
+            <POS>fp</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (morfema.verbal (p0000000 Se)) (grup.verb (vmip000 incluyen)) (sn (grup.nom (nc0p000 claves) (s.a (grup.a (aq0000 dicotómicas))))) (sadv (grup.adv (sp (prep (sp000 de)) (sn (spec (da0000 los)) (grup.nom (nc0p000 géneros) (s.a (grup.a (aq0000 presentes)))))))) (sp (sp (prep (sp000 en)) (sn (spec (da0000 La)) (grup.nom (np00000 Rioja)))) (conj (cc y)) (sp (prep (sp000 de)) (sn (spec (da0000 las)) (grup.nom (nc0p000 especies) (S (participi (aq0000 citadas)) (sp (prep (sp000 para)) (sn (spec (da0000 el)) (grup.nom (nc0s000 departamento) (sn (grup.nom (np00000 Chilecito))))))))))) (fp .))) </parse>
+      </sentence>
+    </sentences>
+  </document>
+</root>

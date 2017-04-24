@@ -1,0 +1,741 @@
+Sentence #1 (41 tokens):
+Se estudió una muestra de roedores proveniente del yacimiento arqueológico de Tebenquiche Chico, situado en el departamento Antofagasta de la Sierra, provincia de Catamarca, a 520 m de altitud y próximo al salar de Antofalla.
+[Text=Se CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=estudió CharacterOffsetBegin=3 CharacterOffsetEnd=10 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=11 CharacterOffsetEnd=14 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=muestra CharacterOffsetBegin=15 CharacterOffsetEnd=22 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=23 CharacterOffsetEnd=25 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=roedores CharacterOffsetBegin=26 CharacterOffsetEnd=34 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=proveniente CharacterOffsetBegin=35 CharacterOffsetEnd=46 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=47 CharacterOffsetEnd=48 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=48 CharacterOffsetEnd=50 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=yacimiento CharacterOffsetBegin=51 CharacterOffsetEnd=61 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=arqueológico CharacterOffsetBegin=62 CharacterOffsetEnd=74 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=75 CharacterOffsetEnd=77 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Tebenquiche CharacterOffsetBegin=78 CharacterOffsetEnd=89 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=Chico CharacterOffsetBegin=90 CharacterOffsetEnd=95 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=95 CharacterOffsetEnd=96 PartOfSpeech=fc NamedEntityTag=O]
+[Text=situado CharacterOffsetBegin=97 CharacterOffsetEnd=104 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=105 CharacterOffsetEnd=107 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=108 CharacterOffsetEnd=110 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=departamento CharacterOffsetBegin=111 CharacterOffsetEnd=123 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=Antofagasta CharacterOffsetBegin=124 CharacterOffsetEnd=135 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=de CharacterOffsetBegin=136 CharacterOffsetEnd=138 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=139 CharacterOffsetEnd=141 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Sierra CharacterOffsetBegin=142 CharacterOffsetEnd=148 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=, CharacterOffsetBegin=148 CharacterOffsetEnd=149 PartOfSpeech=fc NamedEntityTag=O]
+[Text=provincia CharacterOffsetBegin=150 CharacterOffsetEnd=159 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=160 CharacterOffsetEnd=162 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Catamarca CharacterOffsetBegin=163 CharacterOffsetEnd=172 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=172 CharacterOffsetEnd=173 PartOfSpeech=fc NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=174 CharacterOffsetEnd=175 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=520 CharacterOffsetBegin=176 CharacterOffsetEnd=179 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=m CharacterOffsetBegin=180 CharacterOffsetEnd=181 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=182 CharacterOffsetEnd=184 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=altitud CharacterOffsetBegin=185 CharacterOffsetEnd=192 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=193 CharacterOffsetEnd=194 PartOfSpeech=cc NamedEntityTag=O]
+[Text=próximo CharacterOffsetBegin=195 CharacterOffsetEnd=202 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=203 CharacterOffsetEnd=204 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=204 CharacterOffsetEnd=205 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=salar CharacterOffsetBegin=206 CharacterOffsetEnd=211 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=212 CharacterOffsetEnd=214 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Antofalla CharacterOffsetBegin=215 CharacterOffsetEnd=224 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=224 CharacterOffsetEnd=225 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (morfema.pronominal (p0000000 Se))
+      (grup.verb (vmis000 estudió))
+      (sn
+        (spec (di0000 una))
+        (grup.nom (nc0s000 muestra)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 roedores)
+                (s.a
+                  (grup.a (aq0000 proveniente))))))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 yacimiento)
+            (s.a
+              (grup.a (aq0000 arqueológico))))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom
+            (grup.nom (np00000 Tebenquiche) (np00000 Chico))
+            (S (fc ,)
+              (participi (aq0000 situado))
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 departamento)
+                    (sn
+                      (grup.nom (np00000 Antofagasta))))))
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (np00000 Sierra)
+                    (sn (fc ,)
+                      (grup.nom (nc0s000 provincia)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (np00000 Catamarca)))))
+                      (fc ,)))))
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (spec (z0 520))
+                  (grup.nom (np00000 m)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 altitud))))))))))))
+    (conj (cc y))
+    (S
+      (participi (aq0000 próximo))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 salar)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (np00000 Antofalla))))))))
+    (fp .)))
+
+Sentence #2 (24 tokens):
+El sitio corresponde a un pequeño asentamiento habitado entre los siglos IV y XII y reocupado en el siglo XVII de nuestra era.
+[Text=El CharacterOffsetBegin=226 CharacterOffsetEnd=228 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sitio CharacterOffsetBegin=229 CharacterOffsetEnd=234 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=corresponde CharacterOffsetBegin=235 CharacterOffsetEnd=246 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=247 CharacterOffsetEnd=248 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=249 CharacterOffsetEnd=251 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=pequeño CharacterOffsetBegin=252 CharacterOffsetEnd=259 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=asentamiento CharacterOffsetBegin=260 CharacterOffsetEnd=272 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=habitado CharacterOffsetBegin=273 CharacterOffsetEnd=281 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=282 CharacterOffsetEnd=287 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=288 CharacterOffsetEnd=291 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=siglos CharacterOffsetBegin=292 CharacterOffsetEnd=298 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=IV CharacterOffsetBegin=299 CharacterOffsetEnd=301 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=302 CharacterOffsetEnd=303 PartOfSpeech=cc NamedEntityTag=O]
+[Text=XII CharacterOffsetBegin=304 CharacterOffsetEnd=307 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=y CharacterOffsetBegin=308 CharacterOffsetEnd=309 PartOfSpeech=cc NamedEntityTag=O]
+[Text=reocupado CharacterOffsetBegin=310 CharacterOffsetEnd=319 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=320 CharacterOffsetEnd=322 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=323 CharacterOffsetEnd=325 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=siglo CharacterOffsetBegin=326 CharacterOffsetEnd=331 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=XVII CharacterOffsetBegin=332 CharacterOffsetEnd=336 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=de CharacterOffsetBegin=337 CharacterOffsetEnd=339 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nuestra CharacterOffsetBegin=340 CharacterOffsetEnd=347 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=era CharacterOffsetBegin=348 CharacterOffsetEnd=351 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=351 CharacterOffsetEnd=352 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 sitio)))
+    (grup.verb (vmip000 corresponde))
+    (sp
+      (prep (sp000 a))
+      (sn
+        (spec (di0000 un))
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 pequeño)))
+          (nc0s000 asentamiento)
+          (s.a
+            (grup.a (aq0000 habitado))))))
+    (sp
+      (prep (sp000 entre))
+      (sn
+        (spec (da0000 los))
+        (grup.nom (nc0p000 siglos)
+          (sn
+            (grup.nom
+              (grup.nom
+                (grup.nom (np00000 IV))
+                (conj (cc y))
+                (grup.nom (np00000 XII)))
+              (conj (cc y))
+              (grup.nom
+                (S
+                  (participi (aq0000 reocupado))
+                  (sp
+                    (prep (sp000 en))
+                    (sn
+                      (spec (da0000 el))
+                      (grup.nom (nc0s000 siglo)))))
+                (grup.nom (np00000 XVII)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (dp0000 nuestra))
+                      (grup.nom (nc0s000 era)))))))))))
+    (fp .)))
+
+Sentence #3 (35 tokens):
+Los restos óseos fueron recuperados en el interior de las estructuras habitacionales del sitio arqueológico, situado en las proximidades de una pequeña vega, antiguas acequias de riego y campos agrícolas.
+[Text=Los CharacterOffsetBegin=353 CharacterOffsetEnd=356 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=restos CharacterOffsetBegin=357 CharacterOffsetEnd=363 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=ose CharacterOffsetBegin=364 CharacterOffsetEnd=367 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=os CharacterOffsetBegin=367 CharacterOffsetEnd=369 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=fueron CharacterOffsetBegin=370 CharacterOffsetEnd=376 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=recuperados CharacterOffsetBegin=377 CharacterOffsetEnd=388 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=389 CharacterOffsetEnd=391 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=392 CharacterOffsetEnd=394 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=interior CharacterOffsetBegin=395 CharacterOffsetEnd=403 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=404 CharacterOffsetEnd=406 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=407 CharacterOffsetEnd=410 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=estructuras CharacterOffsetBegin=411 CharacterOffsetEnd=422 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=habitacionales CharacterOffsetBegin=423 CharacterOffsetEnd=437 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=438 CharacterOffsetEnd=439 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=439 CharacterOffsetEnd=441 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sitio CharacterOffsetBegin=442 CharacterOffsetEnd=447 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=arqueológico CharacterOffsetBegin=448 CharacterOffsetEnd=460 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=460 CharacterOffsetEnd=461 PartOfSpeech=fc NamedEntityTag=O]
+[Text=situado CharacterOffsetBegin=462 CharacterOffsetEnd=469 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=470 CharacterOffsetEnd=472 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=473 CharacterOffsetEnd=476 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=proximidades CharacterOffsetBegin=477 CharacterOffsetEnd=489 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=490 CharacterOffsetEnd=492 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=493 CharacterOffsetEnd=496 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=pequeña CharacterOffsetBegin=497 CharacterOffsetEnd=504 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=vega CharacterOffsetBegin=505 CharacterOffsetEnd=509 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=509 CharacterOffsetEnd=510 PartOfSpeech=fc NamedEntityTag=O]
+[Text=antiguas CharacterOffsetBegin=511 CharacterOffsetEnd=519 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=acequias CharacterOffsetBegin=520 CharacterOffsetEnd=528 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=529 CharacterOffsetEnd=531 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=riego CharacterOffsetBegin=532 CharacterOffsetEnd=537 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=538 CharacterOffsetEnd=539 PartOfSpeech=cc NamedEntityTag=O]
+[Text=campos CharacterOffsetBegin=540 CharacterOffsetEnd=546 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=agrícolas CharacterOffsetBegin=547 CharacterOffsetEnd=556 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=556 CharacterOffsetEnd=557 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Los))
+      (grup.nom (nc0p000 restos)))
+    (grup.verb (vmis000 ose))
+    (S
+      (sn
+        (grup.nom (pp000000 os)))
+      (grup.verb (vmis000 fueron))
+      (S (vmp0000 recuperados)
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 interior)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 las))
+                  (grup.nom (nc0p000 estructuras)
+                    (s.a
+                      (grup.a (aq0000 habitacionales)))))))))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 sitio)
+          (s.a
+            (grup.a (aq0000 arqueológico)))
+          (S (fc ,)
+            (participi (aq0000 situado))
+            (sp
+              (prep (sp000 en))
+              (sn
+                (spec (da0000 las))
+                (grup.nom
+                  (grup.nom (nc0p000 proximidades)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (spec (di0000 una))
+                        (grup.nom
+                          (s.a
+                            (grup.a (aq0000 pequeña)))
+                          (nc0s000 vega)))))
+                  (fc ,)
+                  (grup.nom
+                    (s.a
+                      (grup.a (aq0000 antiguas)))
+                    (nc0p000 acequias)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 riego)))))
+                  (conj (cc y))
+                  (grup.nom (nc0p000 campos)
+                    (s.a
+                      (grup.a (aq0000 agrícolas)))))))))))
+    (fp .)))
+
+Sentence #4 (14 tokens):
+Se han registrado los taxones Abrothrix andinus, Phyllotis xanthopygus, Phyllotis sp.
+[Text=Se CharacterOffsetBegin=558 CharacterOffsetEnd=560 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=han CharacterOffsetBegin=561 CharacterOffsetEnd=564 PartOfSpeech=vaip000 NamedEntityTag=O]
+[Text=registrado CharacterOffsetBegin=565 CharacterOffsetEnd=575 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=576 CharacterOffsetEnd=579 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=taxones CharacterOffsetBegin=580 CharacterOffsetEnd=587 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=Abrothrix CharacterOffsetBegin=588 CharacterOffsetEnd=597 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=andinus CharacterOffsetBegin=598 CharacterOffsetEnd=605 PartOfSpeech=nc0n000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=605 CharacterOffsetEnd=606 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Phyllotis CharacterOffsetBegin=607 CharacterOffsetEnd=616 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=xanthopygus CharacterOffsetBegin=617 CharacterOffsetEnd=628 PartOfSpeech=nc0p000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=628 CharacterOffsetEnd=629 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Phyllotis CharacterOffsetBegin=630 CharacterOffsetEnd=639 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=sp CharacterOffsetBegin=640 CharacterOffsetEnd=642 PartOfSpeech=vmip000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=642 CharacterOffsetEnd=643 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (morfema.verbal (p0000000 Se))
+      (grup.verb (vaip000 han) (vmp0000 registrado))
+      (sn
+        (spec (da0000 los))
+        (grup.nom (nc0p000 taxones)
+          (sn
+            (grup.nom (np00000 Abrothrix)
+              (sn
+                (grup.nom (nc0n000 andinus)
+                  (sn (fc ,)
+                    (sn
+                      (grup.nom (np00000 Phyllotis)))
+                    (sn
+                      (grup.nom (nc0p000 xanthopygus)))
+                    (fc ,))))
+              (np00000 Phyllotis))))))
+    (grup.verb (vmip000 sp))
+    (fp .)))
+
+Sentence #5 (10 tokens):
+, Neotomys ebriosus, Chinchilla chinchilla, Lagidium sp.
+[Text=, CharacterOffsetBegin=643 CharacterOffsetEnd=644 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Neotomys CharacterOffsetBegin=645 CharacterOffsetEnd=653 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=ebriosus CharacterOffsetBegin=654 CharacterOffsetEnd=662 PartOfSpeech=nc00000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=662 CharacterOffsetEnd=663 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Chinchilla CharacterOffsetBegin=664 CharacterOffsetEnd=674 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=chinchilla CharacterOffsetBegin=675 CharacterOffsetEnd=685 PartOfSpeech=nc0s000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=685 CharacterOffsetEnd=686 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Lagidium CharacterOffsetBegin=687 CharacterOffsetEnd=695 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=sp CharacterOffsetBegin=696 CharacterOffsetEnd=698 PartOfSpeech=vmip000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=698 CharacterOffsetEnd=699 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn (fc ,)
+      (grup.nom
+        (grup.nom (np00000 Neotomys))
+        (sn
+          (grup.nom (nc00000 ebriosus)))
+        (sn (fc ,)
+          (grup.nom
+            (grup.nom (np00000 Chinchilla) (nc0s000 chinchilla))
+            (sn (fc ,)
+              (grup.nom (np00000 Lagidium)))))))
+    (grup.verb (vmip000 sp))
+    (fp .)))
+
+Sentence #6 (4 tokens):
+, Ctenomys sp.
+[Text=, CharacterOffsetBegin=699 CharacterOffsetEnd=700 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Ctenomys CharacterOffsetBegin=701 CharacterOffsetEnd=709 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=sp CharacterOffsetBegin=710 CharacterOffsetEnd=712 PartOfSpeech=vmip000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=712 CharacterOffsetEnd=713 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn (fc ,)
+      (grup.nom (np00000 Ctenomys)))
+    (grup.verb (vmip000 sp))
+    (fp .)))
+
+Sentence #7 (4 tokens):
+y Abrocoma cinerea.
+[Text=y CharacterOffsetBegin=714 CharacterOffsetEnd=715 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Abrocoma CharacterOffsetBegin=716 CharacterOffsetEnd=724 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=cinerea CharacterOffsetBegin=725 CharacterOffsetEnd=732 PartOfSpeech=vmip000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=732 CharacterOffsetEnd=733 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (conj (cc y))
+    (sn
+      (grup.nom (np00000 Abrocoma)))
+    (S
+      (grup.verb (vmip000 cinerea)))
+    (fp .)))
+
+Sentence #8 (45 tokens):
+Se describen en detalle los numerosos caracteres cráneo-dentarios que permiten la distinción entre los géneros Chinchilla y Lagidium a partir de restos fragmentarios, dos taxones ampliamente utilizados como recurso básico en la economía de los pueblos de los Andes centrales.
+[Text=Se CharacterOffsetBegin=734 CharacterOffsetEnd=736 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=describen CharacterOffsetBegin=737 CharacterOffsetEnd=746 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=747 CharacterOffsetEnd=749 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=detalle CharacterOffsetBegin=750 CharacterOffsetEnd=757 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=758 CharacterOffsetEnd=761 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=numerosos CharacterOffsetBegin=762 CharacterOffsetEnd=771 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=caracteres CharacterOffsetBegin=772 CharacterOffsetEnd=782 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=cráneo CharacterOffsetBegin=783 CharacterOffsetEnd=789 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=789 CharacterOffsetEnd=790 PartOfSpeech=fg NamedEntityTag=O]
+[Text=dentarios CharacterOffsetBegin=790 CharacterOffsetEnd=799 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=800 CharacterOffsetEnd=803 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=permiten CharacterOffsetBegin=804 CharacterOffsetEnd=812 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=813 CharacterOffsetEnd=815 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=distinción CharacterOffsetBegin=816 CharacterOffsetEnd=826 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=827 CharacterOffsetEnd=832 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=833 CharacterOffsetEnd=836 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=géneros CharacterOffsetBegin=837 CharacterOffsetEnd=844 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=Chinchilla CharacterOffsetBegin=845 CharacterOffsetEnd=855 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=y CharacterOffsetBegin=856 CharacterOffsetEnd=857 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Lagidium CharacterOffsetBegin=858 CharacterOffsetEnd=866 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=a CharacterOffsetBegin=867 CharacterOffsetEnd=868 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=partir CharacterOffsetBegin=869 CharacterOffsetEnd=875 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=876 CharacterOffsetEnd=878 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=restos CharacterOffsetBegin=879 CharacterOffsetEnd=885 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=fragmentarios CharacterOffsetBegin=886 CharacterOffsetEnd=899 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=899 CharacterOffsetEnd=900 PartOfSpeech=fc NamedEntityTag=O]
+[Text=dos CharacterOffsetBegin=901 CharacterOffsetEnd=904 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=taxones CharacterOffsetBegin=905 CharacterOffsetEnd=912 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=ampliamente CharacterOffsetBegin=913 CharacterOffsetEnd=924 PartOfSpeech=rg NamedEntityTag=O]
+[Text=utilizados CharacterOffsetBegin=925 CharacterOffsetEnd=935 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=936 CharacterOffsetEnd=940 PartOfSpeech=cs NamedEntityTag=O]
+[Text=recurso CharacterOffsetBegin=941 CharacterOffsetEnd=948 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=básico CharacterOffsetBegin=949 CharacterOffsetEnd=955 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=956 CharacterOffsetEnd=958 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=959 CharacterOffsetEnd=961 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=economía CharacterOffsetBegin=962 CharacterOffsetEnd=970 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=971 CharacterOffsetEnd=973 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=974 CharacterOffsetEnd=977 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pueblos CharacterOffsetBegin=978 CharacterOffsetEnd=985 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=986 CharacterOffsetEnd=988 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=989 CharacterOffsetEnd=992 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Andes CharacterOffsetBegin=993 CharacterOffsetEnd=998 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=centra CharacterOffsetBegin=999 CharacterOffsetEnd=1005 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=les CharacterOffsetBegin=1005 CharacterOffsetEnd=1008 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1008 CharacterOffsetEnd=1009 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (S
+        (morfema.pronominal (p0000000 Se))
+        (grup.verb (vmsp000 describen))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (grup.nom (nc0s000 detalle)))))
+      (sn
+        (spec (da0000 los))
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 numerosos)))
+          (nc0p000 caracteres)
+          (s.a
+            (grup.a (nc0s000 cráneo) (fg -) (nc0p000 dentarios)))
+          (S
+            (relatiu (pr000000 que))
+            (grup.verb (vmip000 permiten))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 distinción)
+                (sp
+                  (prep (sp000 entre))
+                  (sn
+                    (spec (da0000 los))
+                    (grup.nom (nc0p000 géneros) (np00000 Chinchilla))))))))))
+    (conj (cc y))
+    (S
+      (sn
+        (grup.nom (np00000 Lagidium)))
+      (sp
+        (prep (sp000 a))
+        (S
+          (grup.verb
+            (infinitiu (vmn0000 partir))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0p000 restos)
+                  (s.a
+                    (grup.a (aq0000 fragmentarios)))))))
+          (S
+            (S
+              (sadv (fc ,)
+                (sn
+                  (spec (dn0000 dos))
+                  (grup.nom (nc0p000 taxones)))
+                (sadv
+                  (grup.adv (rg ampliamente))))
+              (participi (aq0000 utilizados))
+              (sp
+                (prep (cs como))
+                (sn
+                  (grup.nom (nc0s000 recurso)
+                    (S
+                      (participi (aq0000 básico))
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom (nc0s000 economía)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (spec (da0000 los))
+                                (grup.nom (nc0p000 pueblos)
+                                  (sp
+                                    (prep (sp000 de))
+                                    (sn
+                                      (spec (da0000 los))
+                                      (grup.nom (np00000 Andes)))))))))))))))
+            (grup.verb (vmip000 centra)))
+          (sn
+            (grup.nom (pp000000 les))))))
+    (fp .)))
+
+Sentence #9 (23 tokens):
+Con la excepción de Neotomys ebriosus, todas las especies registradas en el yacimiento habitan actualmente en esta región de la Puna.
+[Text=Con CharacterOffsetBegin=1010 CharacterOffsetEnd=1013 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1014 CharacterOffsetEnd=1016 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=excepción CharacterOffsetBegin=1017 CharacterOffsetEnd=1026 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1027 CharacterOffsetEnd=1029 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Neotomys CharacterOffsetBegin=1030 CharacterOffsetEnd=1038 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=ebriosus CharacterOffsetBegin=1039 CharacterOffsetEnd=1047 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=1047 CharacterOffsetEnd=1048 PartOfSpeech=fc NamedEntityTag=O]
+[Text=todas CharacterOffsetBegin=1049 CharacterOffsetEnd=1054 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1055 CharacterOffsetEnd=1058 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=1059 CharacterOffsetEnd=1067 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=registradas CharacterOffsetBegin=1068 CharacterOffsetEnd=1079 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1080 CharacterOffsetEnd=1082 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1083 CharacterOffsetEnd=1085 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=yacimiento CharacterOffsetBegin=1086 CharacterOffsetEnd=1096 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=habitan CharacterOffsetBegin=1097 CharacterOffsetEnd=1104 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=actualmente CharacterOffsetBegin=1105 CharacterOffsetEnd=1116 PartOfSpeech=rg NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1117 CharacterOffsetEnd=1119 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=esta CharacterOffsetBegin=1120 CharacterOffsetEnd=1124 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=región CharacterOffsetBegin=1125 CharacterOffsetEnd=1131 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1132 CharacterOffsetEnd=1134 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1135 CharacterOffsetEnd=1137 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Puna CharacterOffsetBegin=1138 CharacterOffsetEnd=1142 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=1142 CharacterOffsetEnd=1143 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 Con))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 excepción)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (np00000 Neotomys))))
+          (S
+            (participi (aq0000 ebriosus)))))
+      (fc ,))
+    (S
+      (sn
+        (spec (di0000 todas) (da0000 las))
+        (grup.nom (nc0p000 especies)
+          (S
+            (participi (aq0000 registradas))
+            (sp
+              (prep (sp000 en))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 yacimiento)))))))
+      (grup.verb (vmip000 habitan))
+      (sadv
+        (grup.adv (rg actualmente)))
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (dd0000 esta))
+          (grup.nom (nc0s000 región)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (np00000 Puna))))))))
+    (fp .)))
+
+Sentence #10 (21 tokens):
+Destaca el registro de N. ebriosus, sólo documentada actualmente en los sectores montañosos húmedos orientales de la región.
+[Text=Destaca CharacterOffsetBegin=1144 CharacterOffsetEnd=1151 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1152 CharacterOffsetEnd=1154 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=registro CharacterOffsetBegin=1155 CharacterOffsetEnd=1163 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1164 CharacterOffsetEnd=1166 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=N. CharacterOffsetBegin=1167 CharacterOffsetEnd=1169 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=ebriosus CharacterOffsetBegin=1170 CharacterOffsetEnd=1178 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=1178 CharacterOffsetEnd=1179 PartOfSpeech=fc NamedEntityTag=O]
+[Text=sólo CharacterOffsetBegin=1180 CharacterOffsetEnd=1184 PartOfSpeech=rg NamedEntityTag=O]
+[Text=documentada CharacterOffsetBegin=1185 CharacterOffsetEnd=1196 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=actualmente CharacterOffsetBegin=1197 CharacterOffsetEnd=1208 PartOfSpeech=rg NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1209 CharacterOffsetEnd=1211 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1212 CharacterOffsetEnd=1215 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sectores CharacterOffsetBegin=1216 CharacterOffsetEnd=1224 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=montañosos CharacterOffsetBegin=1225 CharacterOffsetEnd=1235 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=húmedos CharacterOffsetBegin=1236 CharacterOffsetEnd=1243 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=orienta CharacterOffsetBegin=1244 CharacterOffsetEnd=1251 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=les CharacterOffsetBegin=1251 CharacterOffsetEnd=1254 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1255 CharacterOffsetEnd=1257 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1258 CharacterOffsetEnd=1260 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=región CharacterOffsetBegin=1261 CharacterOffsetEnd=1267 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1267 CharacterOffsetEnd=1268 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (grup.verb (vmip000 Destaca))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 registro)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (np00000 N.))))))
+      (S
+        (S
+          (participi (aq0000 ebriosus)))
+        (fc ,)
+        (S
+          (sadv
+            (grup.adv (rg sólo)))
+          (participi (aq0000 documentada))
+          (sadv
+            (grup.adv (rg actualmente)
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (spec (da0000 los))
+                  (grup.nom (nc0p000 sectores)
+                    (s.a
+                      (grup.a (aq0000 montañosos)))
+                    (S
+                      (participi (aq0000 húmedos)))))))))))
+    (grup.verb (vmip000 orienta))
+    (sn
+      (grup.nom (pp000000 les)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 región))))))
+    (fp .)))
+
+Sentence #11 (41 tokens):
+La amplitud temporal, el carácter exiguo de la muestra, la ausencia de muestras modernas comparables y la modificación antrópica del paisaje local impiden la reconstrucción de las condiciones paleoambientales a partir de los roedores de Tebenquiche Chico.
+[Text=La CharacterOffsetBegin=1269 CharacterOffsetEnd=1271 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=amplitud CharacterOffsetBegin=1272 CharacterOffsetEnd=1280 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=temporal CharacterOffsetBegin=1281 CharacterOffsetEnd=1289 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1289 CharacterOffsetEnd=1290 PartOfSpeech=fc NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1291 CharacterOffsetEnd=1293 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=carácter CharacterOffsetBegin=1294 CharacterOffsetEnd=1302 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=exiguo CharacterOffsetBegin=1303 CharacterOffsetEnd=1309 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1310 CharacterOffsetEnd=1312 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1313 CharacterOffsetEnd=1315 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=muestra CharacterOffsetBegin=1316 CharacterOffsetEnd=1323 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1323 CharacterOffsetEnd=1324 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1325 CharacterOffsetEnd=1327 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ausencia CharacterOffsetBegin=1328 CharacterOffsetEnd=1336 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1337 CharacterOffsetEnd=1339 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=muestras CharacterOffsetBegin=1340 CharacterOffsetEnd=1348 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=modernas CharacterOffsetBegin=1349 CharacterOffsetEnd=1357 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=comparables CharacterOffsetBegin=1358 CharacterOffsetEnd=1369 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1370 CharacterOffsetEnd=1371 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1372 CharacterOffsetEnd=1374 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=modificación CharacterOffsetBegin=1375 CharacterOffsetEnd=1387 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=antrópica CharacterOffsetBegin=1388 CharacterOffsetEnd=1397 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1398 CharacterOffsetEnd=1399 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1399 CharacterOffsetEnd=1401 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=paisaje CharacterOffsetBegin=1402 CharacterOffsetEnd=1409 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=local CharacterOffsetBegin=1410 CharacterOffsetEnd=1415 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=impiden CharacterOffsetBegin=1416 CharacterOffsetEnd=1423 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1424 CharacterOffsetEnd=1426 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=reconstrucción CharacterOffsetBegin=1427 CharacterOffsetEnd=1441 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1442 CharacterOffsetEnd=1444 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1445 CharacterOffsetEnd=1448 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=condiciones CharacterOffsetBegin=1449 CharacterOffsetEnd=1460 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=paleoambientales CharacterOffsetBegin=1461 CharacterOffsetEnd=1477 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1478 CharacterOffsetEnd=1479 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=partir CharacterOffsetBegin=1480 CharacterOffsetEnd=1486 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1487 CharacterOffsetEnd=1489 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1490 CharacterOffsetEnd=1493 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=roedores CharacterOffsetBegin=1494 CharacterOffsetEnd=1502 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1503 CharacterOffsetEnd=1505 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Tebenquiche CharacterOffsetBegin=1506 CharacterOffsetEnd=1517 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=Chico CharacterOffsetBegin=1518 CharacterOffsetEnd=1523 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=1523 CharacterOffsetEnd=1524 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (sn
+        (spec (da0000 La))
+        (grup.nom (nc0s000 amplitud)
+          (s.a
+            (grup.a (aq0000 temporal)))))
+      (fc ,)
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 carácter)
+          (S
+            (participi (aq0000 exiguo))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 muestra)))))))
+      (fc ,)
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 ausencia)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 muestras)
+                (s.a
+                  (grup.a (aq0000 modernas)))
+                (S
+                  (participi (aq0000 comparables))))))))
+      (conj (cc y))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 modificación)
+          (s.a
+            (grup.a (aq0000 antrópica)))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 paisaje)
+                (s.a
+                  (grup.a (aq0000 local)))))))))
+    (grup.verb (vmip000 impiden))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 reconstrucción)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 las))
+            (grup.nom (nc0p000 condiciones)
+              (S
+                (participi (aq0000 paleoambientales))
+                (sp
+                  (prep (sp000 a))
+                  (S
+                    (infinitiu (vmn0000 partir))
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (spec (da0000 los))
+                        (grup.nom (nc0p000 roedores)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (np00000 Tebenquiche) (np00000 Chico)))))))))))))))
+    (fp .)))
+

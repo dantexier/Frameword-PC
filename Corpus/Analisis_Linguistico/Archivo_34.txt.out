@@ -1,0 +1,244 @@
+Sentence #1 (17 tokens):
+El presente trabajo analiza la evolución de la pobreza en Argentina y en el Gran Córdoba.
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presente CharacterOffsetBegin=3 CharacterOffsetEnd=11 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=12 CharacterOffsetEnd=19 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=analiza CharacterOffsetBegin=20 CharacterOffsetEnd=27 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=28 CharacterOffsetEnd=30 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=evolución CharacterOffsetBegin=31 CharacterOffsetEnd=40 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=41 CharacterOffsetEnd=43 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=44 CharacterOffsetEnd=46 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pobreza CharacterOffsetBegin=47 CharacterOffsetEnd=54 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=55 CharacterOffsetEnd=57 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=58 CharacterOffsetEnd=67 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=y CharacterOffsetBegin=68 CharacterOffsetEnd=69 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=70 CharacterOffsetEnd=72 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=73 CharacterOffsetEnd=75 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Gran CharacterOffsetBegin=76 CharacterOffsetEnd=80 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=Córdoba CharacterOffsetBegin=81 CharacterOffsetEnd=88 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=88 CharacterOffsetEnd=89 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom
+        (s.a
+          (grup.a (aq0000 presente)))
+        (nc0s000 trabajo)))
+    (grup.verb (vmip000 analiza))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 evolución)
+        (sp
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 pobreza)
+                (sp
+                  (prep (sp000 en))
+                  (sn
+                    (grup.nom (np00000 Argentina)))))))
+          (conj (cc y))
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (np00000 Gran) (np00000 Córdoba)))))))
+    (fp .)))
+
+Sentence #2 (32 tokens):
+El análisis muestra que la pobreza ha disminuido en los aglomerados urbanos y en el Gran Córdoba, aunque la magnitud de la misma depende de la línea de pobreza empleada.
+[Text=El CharacterOffsetBegin=90 CharacterOffsetEnd=92 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=93 CharacterOffsetEnd=101 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=muestra CharacterOffsetBegin=102 CharacterOffsetEnd=109 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=110 CharacterOffsetEnd=113 PartOfSpeech=cs NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=114 CharacterOffsetEnd=116 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pobreza CharacterOffsetBegin=117 CharacterOffsetEnd=124 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=ha CharacterOffsetBegin=125 CharacterOffsetEnd=127 PartOfSpeech=vaip000 NamedEntityTag=O]
+[Text=disminuido CharacterOffsetBegin=128 CharacterOffsetEnd=138 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=139 CharacterOffsetEnd=141 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=142 CharacterOffsetEnd=145 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=aglomerados CharacterOffsetBegin=146 CharacterOffsetEnd=157 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=urbanos CharacterOffsetBegin=158 CharacterOffsetEnd=165 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=166 CharacterOffsetEnd=167 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=168 CharacterOffsetEnd=170 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=171 CharacterOffsetEnd=173 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Gran CharacterOffsetBegin=174 CharacterOffsetEnd=178 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=Córdoba CharacterOffsetBegin=179 CharacterOffsetEnd=186 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=186 CharacterOffsetEnd=187 PartOfSpeech=fc NamedEntityTag=O]
+[Text=aunque CharacterOffsetBegin=188 CharacterOffsetEnd=194 PartOfSpeech=cs NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=195 CharacterOffsetEnd=197 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=magnitud CharacterOffsetBegin=198 CharacterOffsetEnd=206 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=207 CharacterOffsetEnd=209 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=210 CharacterOffsetEnd=212 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=misma CharacterOffsetBegin=213 CharacterOffsetEnd=218 PartOfSpeech=pi000000 NamedEntityTag=O]
+[Text=depende CharacterOffsetBegin=219 CharacterOffsetEnd=226 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=227 CharacterOffsetEnd=229 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=230 CharacterOffsetEnd=232 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=línea CharacterOffsetBegin=233 CharacterOffsetEnd=238 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=239 CharacterOffsetEnd=241 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=pobreza CharacterOffsetBegin=242 CharacterOffsetEnd=249 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=empleada CharacterOffsetBegin=250 CharacterOffsetEnd=258 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=258 CharacterOffsetEnd=259 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0n000 análisis)))
+    (grup.verb (vmip000 muestra))
+    (S
+      (conj (cs que))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 pobreza)))
+      (grup.verb (vaip000 ha)
+        (grup.verb (nc0s000 disminuido)
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (da0000 los))
+              (grup.nom
+                (s.a
+                  (grup.a (aq0000 aglomerados))))))))
+      (s.a
+        (s.a
+          (grup.a (aq0000 urbanos)))
+        (conj (cc y))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (np00000 Gran) (np00000 Córdoba))))
+        (fc ,))
+      (S
+        (conj (cs aunque))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 magnitud)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (pi000000 misma))))))
+        (grup.verb (vmip000 depende))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 línea)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 pobreza) (nc0s000 empleada)))))))))
+    (fp .)))
+
+Sentence #3 (38 tokens):
+Para llevar a cabo estimaciones inequívocas de la evolución de la pobreza, se utiliza el método de dominancia estocástica para determinar cómo ha evolucionado la pobreza, observándose reducción de la misma en el rango relevante
+[Text=Para CharacterOffsetBegin=260 CharacterOffsetEnd=264 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=llevar CharacterOffsetBegin=265 CharacterOffsetEnd=271 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=272 CharacterOffsetEnd=273 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cabo CharacterOffsetBegin=274 CharacterOffsetEnd=278 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=estimaciones CharacterOffsetBegin=279 CharacterOffsetEnd=291 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=inequívocas CharacterOffsetBegin=292 CharacterOffsetEnd=303 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=304 CharacterOffsetEnd=306 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=307 CharacterOffsetEnd=309 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=evolución CharacterOffsetBegin=310 CharacterOffsetEnd=319 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=320 CharacterOffsetEnd=322 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=323 CharacterOffsetEnd=325 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pobreza CharacterOffsetBegin=326 CharacterOffsetEnd=333 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=333 CharacterOffsetEnd=334 PartOfSpeech=fc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=335 CharacterOffsetEnd=337 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=utiliza CharacterOffsetBegin=338 CharacterOffsetEnd=345 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=346 CharacterOffsetEnd=348 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=método CharacterOffsetBegin=349 CharacterOffsetEnd=355 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=356 CharacterOffsetEnd=358 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=dominancia CharacterOffsetBegin=359 CharacterOffsetEnd=369 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=estocástica CharacterOffsetBegin=370 CharacterOffsetEnd=381 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=382 CharacterOffsetEnd=386 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=determinar CharacterOffsetBegin=387 CharacterOffsetEnd=397 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=cómo CharacterOffsetBegin=398 CharacterOffsetEnd=402 PartOfSpeech=pt000000 NamedEntityTag=O]
+[Text=ha CharacterOffsetBegin=403 CharacterOffsetEnd=405 PartOfSpeech=vaip000 NamedEntityTag=O]
+[Text=evolucionado CharacterOffsetBegin=406 CharacterOffsetEnd=418 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=419 CharacterOffsetEnd=421 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pobreza CharacterOffsetBegin=422 CharacterOffsetEnd=429 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=429 CharacterOffsetEnd=430 PartOfSpeech=fc NamedEntityTag=O]
+[Text=observando CharacterOffsetBegin=431 CharacterOffsetEnd=441 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=441 CharacterOffsetEnd=443 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=reducción CharacterOffsetBegin=444 CharacterOffsetEnd=453 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=454 CharacterOffsetEnd=456 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=457 CharacterOffsetEnd=459 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=misma CharacterOffsetBegin=460 CharacterOffsetEnd=465 PartOfSpeech=pi000000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=466 CharacterOffsetEnd=468 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=469 CharacterOffsetEnd=471 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=rango CharacterOffsetBegin=472 CharacterOffsetEnd=477 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=relevante CharacterOffsetBegin=478 CharacterOffsetEnd=487 PartOfSpeech=aq0000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep (sp000 Para))
+        (S
+          (infinitiu (vmn0000 llevar))
+          (sp
+            (prep (sp000 a))
+            (sn
+              (grup.nom (nc0s000 cabo))))
+          (sn
+            (grup.nom (nc0p000 estimaciones)
+              (S
+                (participi (aq0000 inequívocas))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 evolución)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom (nc0s000 pobreza)))))))))))))
+    (fc ,)
+    (S
+      (morfema.verbal (p0000000 se))
+      (grup.verb (vmip000 utiliza))
+      (S
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 método)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 dominancia))))
+            (S
+              (participi (aq0000 estocástica))
+              (sp
+                (prep (sp000 para))
+                (S
+                  (infinitiu (vmn0000 determinar))
+                  (sn
+                    (grup.nom (pt000000 cómo))))))))
+        (grup.verb (vaip000 ha) (vmp0000 evolucionado))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 pobreza)))
+        (fc ,))
+      (S
+        (grup.verb
+          (gerundi (vmg0000 observando))
+          (morfema.pronominal (pp000000 se)))
+        (sn
+          (grup.nom (nc0s000 reducción)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (pi000000 misma)
+                  (sp
+                    (prep (sp000 en))
+                    (sn
+                      (spec (da0000 el))
+                      (grup.nom (nc0s000 rango)
+                        (s.a
+                          (grup.a (aq0000 relevante)))))))))))))))
+

@@ -1,0 +1,624 @@
+Sentence #1 (29 tokens):
+La urbanización afecta de manera compleja la avifauna de una región y numerosos estudios realizados en el Hemisferio Norte muestran una mayor incidencia negativa sobre las especies migratorias.
+[Text=La CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=urbanización CharacterOffsetBegin=3 CharacterOffsetEnd=15 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=afecta CharacterOffsetBegin=16 CharacterOffsetEnd=22 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=23 CharacterOffsetEnd=25 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=manera CharacterOffsetBegin=26 CharacterOffsetEnd=32 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=compleja CharacterOffsetBegin=33 CharacterOffsetEnd=41 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=42 CharacterOffsetEnd=44 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=avifauna CharacterOffsetBegin=45 CharacterOffsetEnd=53 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=54 CharacterOffsetEnd=56 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=57 CharacterOffsetEnd=60 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=región CharacterOffsetBegin=61 CharacterOffsetEnd=67 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=68 CharacterOffsetEnd=69 PartOfSpeech=cc NamedEntityTag=O]
+[Text=numerosos CharacterOffsetBegin=70 CharacterOffsetEnd=79 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=estudios CharacterOffsetBegin=80 CharacterOffsetEnd=88 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=realizados CharacterOffsetBegin=89 CharacterOffsetEnd=99 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=100 CharacterOffsetEnd=102 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=103 CharacterOffsetEnd=105 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Hemisferio CharacterOffsetBegin=106 CharacterOffsetEnd=116 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=Norte CharacterOffsetBegin=117 CharacterOffsetEnd=122 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=muestran CharacterOffsetBegin=123 CharacterOffsetEnd=131 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=132 CharacterOffsetEnd=135 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=mayor CharacterOffsetBegin=136 CharacterOffsetEnd=141 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=incidencia CharacterOffsetBegin=142 CharacterOffsetEnd=152 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=negativa CharacterOffsetBegin=153 CharacterOffsetEnd=161 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=162 CharacterOffsetEnd=167 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=168 CharacterOffsetEnd=171 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=172 CharacterOffsetEnd=180 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=migratorias CharacterOffsetBegin=181 CharacterOffsetEnd=192 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=192 CharacterOffsetEnd=193 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (da0000 La))
+        (grup.nom (nc0s000 urbanización)))
+      (grup.verb (vmip000 afecta))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom (nc0s000 manera)
+            (s.a
+              (grup.a (aq0000 compleja))))))
+      (sn
+        (spec (pp000000 la))
+        (grup.nom (nc0s000 avifauna)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (di0000 una))
+              (grup.nom (nc0s000 región)))))))
+    (conj (cc y))
+    (S
+      (sn
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 numerosos)))
+          (nc0p000 estudios)
+          (S
+            (participi (aq0000 realizados))
+            (sp
+              (prep (sp000 en))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (np00000 Hemisferio) (np00000 Norte)))))))
+      (grup.verb (vmip000 muestran))
+      (sn
+        (spec (di0000 una))
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 mayor)))
+          (nc0s000 incidencia)
+          (s.a
+            (grup.a (aq0000 negativa)))))
+      (sp
+        (prep (sp000 sobre))
+        (sn
+          (spec (da0000 las))
+          (grup.nom (nc0p000 especies)
+            (s.a
+              (grup.a (aq0000 migratorias)))))))
+    (fp .)))
+
+Sentence #2 (57 tokens):
+En una zona urbana de la provincia de Tucumán, un trabajo previo reveló que la riqueza de aves aumenta con la cobertura vegetal de las urbanizaciones, si bien no se conoce su patrón estacional ni en qué medida el grado de urbanización afecta de forma diferencial a las especies residentes y a las visitantes.
+[Text=En CharacterOffsetBegin=194 CharacterOffsetEnd=196 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=197 CharacterOffsetEnd=200 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=zona CharacterOffsetBegin=201 CharacterOffsetEnd=205 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=urbana CharacterOffsetBegin=206 CharacterOffsetEnd=212 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=213 CharacterOffsetEnd=215 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=216 CharacterOffsetEnd=218 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=provincia CharacterOffsetBegin=219 CharacterOffsetEnd=228 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=229 CharacterOffsetEnd=231 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Tucumán CharacterOffsetBegin=232 CharacterOffsetEnd=239 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=, CharacterOffsetBegin=239 CharacterOffsetEnd=240 PartOfSpeech=fc NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=241 CharacterOffsetEnd=243 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=244 CharacterOffsetEnd=251 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=previo CharacterOffsetBegin=252 CharacterOffsetEnd=258 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=reveló CharacterOffsetBegin=259 CharacterOffsetEnd=265 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=266 CharacterOffsetEnd=269 PartOfSpeech=cs NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=270 CharacterOffsetEnd=272 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=riqueza CharacterOffsetBegin=273 CharacterOffsetEnd=280 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=281 CharacterOffsetEnd=283 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=aves CharacterOffsetBegin=284 CharacterOffsetEnd=288 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=aumenta CharacterOffsetBegin=289 CharacterOffsetEnd=296 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=297 CharacterOffsetEnd=300 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=301 CharacterOffsetEnd=303 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cobertura CharacterOffsetBegin=304 CharacterOffsetEnd=313 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=vegetal CharacterOffsetBegin=314 CharacterOffsetEnd=321 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=322 CharacterOffsetEnd=324 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=325 CharacterOffsetEnd=328 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=urbanizaciones CharacterOffsetBegin=329 CharacterOffsetEnd=343 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=343 CharacterOffsetEnd=344 PartOfSpeech=fc NamedEntityTag=O]
+[Text=si CharacterOffsetBegin=345 CharacterOffsetEnd=347 PartOfSpeech=cs NamedEntityTag=O]
+[Text=bien CharacterOffsetBegin=348 CharacterOffsetEnd=352 PartOfSpeech=rg NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=353 CharacterOffsetEnd=355 PartOfSpeech=rn NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=356 CharacterOffsetEnd=358 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=conoce CharacterOffsetBegin=359 CharacterOffsetEnd=365 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=366 CharacterOffsetEnd=368 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=patrón CharacterOffsetBegin=369 CharacterOffsetEnd=375 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=estacional CharacterOffsetBegin=376 CharacterOffsetEnd=386 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=ni CharacterOffsetBegin=387 CharacterOffsetEnd=389 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=390 CharacterOffsetEnd=392 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=qué CharacterOffsetBegin=393 CharacterOffsetEnd=396 PartOfSpeech=pt000000 NamedEntityTag=O]
+[Text=medida CharacterOffsetBegin=397 CharacterOffsetEnd=403 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=404 CharacterOffsetEnd=406 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=grado CharacterOffsetBegin=407 CharacterOffsetEnd=412 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=413 CharacterOffsetEnd=415 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=urbanización CharacterOffsetBegin=416 CharacterOffsetEnd=428 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=afecta CharacterOffsetBegin=429 CharacterOffsetEnd=435 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=436 CharacterOffsetEnd=438 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=forma CharacterOffsetBegin=439 CharacterOffsetEnd=444 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=diferencial CharacterOffsetBegin=445 CharacterOffsetEnd=456 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=457 CharacterOffsetEnd=458 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=459 CharacterOffsetEnd=462 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=463 CharacterOffsetEnd=471 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=residentes CharacterOffsetBegin=472 CharacterOffsetEnd=482 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=483 CharacterOffsetEnd=484 PartOfSpeech=cc NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=485 CharacterOffsetEnd=486 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=487 CharacterOffsetEnd=490 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=visitantes CharacterOffsetBegin=491 CharacterOffsetEnd=501 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=501 CharacterOffsetEnd=502 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (spec (di0000 una))
+        (grup.nom (nc0s000 zona)
+          (s.a
+            (grup.a (aq0000 urbana)))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 provincia)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (np00000 Tucumán)))))))))
+      (fc ,))
+    (sn
+      (spec (di0000 un))
+      (grup.nom (nc0s000 trabajo)
+        (s.a
+          (grup.a (aq0000 previo)))))
+    (grup.verb (vmis000 reveló))
+    (S
+      (conj (cs que))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 riqueza)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 aves))))))
+      (grup.verb (vmip000 aumenta))
+      (sp
+        (prep (sp000 con))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 cobertura)
+            (s.a
+              (grup.a (aq0000 vegetal))))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 las))
+          (grup.nom (nc0p000 urbanizaciones)))
+        (fc ,))
+      (S
+        (S
+          (conj
+            (grup.cs (cs si) (rg bien)))
+          (neg (rn no))
+          (morfema.pronominal (p0000000 se))
+          (grup.verb (vmip000 conoce))
+          (sn
+            (spec (dp0000 su))
+            (grup.nom (nc0s000 patrón)
+              (s.a
+                (grup.a (aq0000 estacional))))))
+        (conj (cc ni))
+        (S
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (pt000000 qué))
+              (grup.nom (nc0s000 medida))))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 grado)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 urbanización))))))
+          (grup.verb (vmip000 afecta))
+          (sp
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 forma)
+                  (s.a
+                    (grup.a (aq0000 diferencial)))
+                  (sp
+                    (prep (sp000 a))
+                    (sn
+                      (spec (da0000 las))
+                      (grup.nom (nc0p000 especies)
+                        (s.a
+                          (grup.a (aq0000 residentes)))))))))
+            (conj (cc y))
+            (sp
+              (prep (sp000 a))
+              (sn
+                (spec (da0000 las))
+                (grup.nom (nc0p000 visitantes))))))))
+    (fp .)))
+
+Sentence #3 (37 tokens):
+En este trabajo analizamos la variación estacional de la comunidad de aves y evaluamos el impacto de la urbanización sobre las especies residentes y visitantes, en un gradiente urbano durante un período de dos años.
+[Text=En CharacterOffsetBegin=503 CharacterOffsetEnd=505 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=506 CharacterOffsetEnd=510 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=511 CharacterOffsetEnd=518 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=analizamos CharacterOffsetBegin=519 CharacterOffsetEnd=529 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=530 CharacterOffsetEnd=532 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=variación CharacterOffsetBegin=533 CharacterOffsetEnd=542 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=estacional CharacterOffsetBegin=543 CharacterOffsetEnd=553 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=554 CharacterOffsetEnd=556 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=557 CharacterOffsetEnd=559 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=comunidad CharacterOffsetBegin=560 CharacterOffsetEnd=569 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=570 CharacterOffsetEnd=572 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=aves CharacterOffsetBegin=573 CharacterOffsetEnd=577 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=578 CharacterOffsetEnd=579 PartOfSpeech=cc NamedEntityTag=O]
+[Text=evaluamos CharacterOffsetBegin=580 CharacterOffsetEnd=589 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=590 CharacterOffsetEnd=592 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=impacto CharacterOffsetBegin=593 CharacterOffsetEnd=600 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=601 CharacterOffsetEnd=603 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=604 CharacterOffsetEnd=606 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=urbanización CharacterOffsetBegin=607 CharacterOffsetEnd=619 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=620 CharacterOffsetEnd=625 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=626 CharacterOffsetEnd=629 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=630 CharacterOffsetEnd=638 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=residentes CharacterOffsetBegin=639 CharacterOffsetEnd=649 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=650 CharacterOffsetEnd=651 PartOfSpeech=cc NamedEntityTag=O]
+[Text=visitantes CharacterOffsetBegin=652 CharacterOffsetEnd=662 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=662 CharacterOffsetEnd=663 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=664 CharacterOffsetEnd=666 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=667 CharacterOffsetEnd=669 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=gradiente CharacterOffsetBegin=670 CharacterOffsetEnd=679 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=urbano CharacterOffsetBegin=680 CharacterOffsetEnd=686 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=durante CharacterOffsetBegin=687 CharacterOffsetEnd=694 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=695 CharacterOffsetEnd=697 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=período CharacterOffsetBegin=698 CharacterOffsetEnd=705 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=706 CharacterOffsetEnd=708 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=dos CharacterOffsetBegin=709 CharacterOffsetEnd=712 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=años CharacterOffsetBegin=713 CharacterOffsetEnd=717 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=717 CharacterOffsetEnd=718 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep (sp000 En))
+        (sn
+          (spec (dd0000 este))
+          (grup.nom (nc0s000 trabajo))))
+      (grup.verb (vmip000 analizamos))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 variación)
+          (s.a
+            (grup.a (aq0000 estacional)))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 comunidad)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0p000 aves))))))))
+    (conj (cc y))
+    (S
+      (grup.verb (vmip000 evaluamos))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 impacto)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 urbanización)
+                (sp
+                  (prep (sp000 sobre))
+                  (sn
+                    (spec (da0000 las))
+                    (grup.nom (nc0p000 especies)
+                      (s.a
+                        (grup.a
+                          (grup.a (aq0000 residentes))
+                          (conj (cc y))
+                          (grup.a (aq0000 visitantes))))))))))))
+      (sp (fc ,)
+        (prep (sp000 en))
+        (sn
+          (spec (di0000 un))
+          (grup.nom (nc0s000 gradiente)
+            (s.a
+              (grup.a (aq0000 urbano)))
+            (sp
+              (prep (sp000 durante))
+              (sn
+                (spec (di0000 un))
+                (grup.nom (nc0s000 período)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (dn0000 dos))
+                      (grup.nom (nc0p000 años)))))))))))
+    (fp .)))
+
+Sentence #4 (35 tokens):
+La diversidad varió estacionalmente en los tres sitios: en el sitio más urbanizado fue mayor en primavera mientras que en los sitios con urbanización intermedia y menor fue mayor en invierno y otoño.
+[Text=La CharacterOffsetBegin=719 CharacterOffsetEnd=721 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=diversidad CharacterOffsetBegin=722 CharacterOffsetEnd=732 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=varió CharacterOffsetBegin=733 CharacterOffsetEnd=738 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=estacionalmente CharacterOffsetBegin=739 CharacterOffsetEnd=754 PartOfSpeech=rg NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=755 CharacterOffsetEnd=757 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=758 CharacterOffsetEnd=761 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tres CharacterOffsetBegin=762 CharacterOffsetEnd=766 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=sitios CharacterOffsetBegin=767 CharacterOffsetEnd=773 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=773 CharacterOffsetEnd=774 PartOfSpeech=fd NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=775 CharacterOffsetEnd=777 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=778 CharacterOffsetEnd=780 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sitio CharacterOffsetBegin=781 CharacterOffsetEnd=786 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=787 CharacterOffsetEnd=790 PartOfSpeech=rg NamedEntityTag=O]
+[Text=urbanizado CharacterOffsetBegin=791 CharacterOffsetEnd=801 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=fue CharacterOffsetBegin=802 CharacterOffsetEnd=805 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=mayor CharacterOffsetBegin=806 CharacterOffsetEnd=811 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=812 CharacterOffsetEnd=814 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=primavera CharacterOffsetBegin=815 CharacterOffsetEnd=824 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=mientras CharacterOffsetBegin=825 CharacterOffsetEnd=833 PartOfSpeech=cs NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=834 CharacterOffsetEnd=837 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=838 CharacterOffsetEnd=840 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=841 CharacterOffsetEnd=844 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sitios CharacterOffsetBegin=845 CharacterOffsetEnd=851 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=852 CharacterOffsetEnd=855 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=urbanización CharacterOffsetBegin=856 CharacterOffsetEnd=868 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=intermedia CharacterOffsetBegin=869 CharacterOffsetEnd=879 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=880 CharacterOffsetEnd=881 PartOfSpeech=cc NamedEntityTag=O]
+[Text=menor CharacterOffsetBegin=882 CharacterOffsetEnd=887 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=fue CharacterOffsetBegin=888 CharacterOffsetEnd=891 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=mayor CharacterOffsetBegin=892 CharacterOffsetEnd=897 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=898 CharacterOffsetEnd=900 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=invierno CharacterOffsetBegin=901 CharacterOffsetEnd=909 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=910 CharacterOffsetEnd=911 PartOfSpeech=cc NamedEntityTag=O]
+[Text=otoño CharacterOffsetBegin=912 CharacterOffsetEnd=917 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=917 CharacterOffsetEnd=918 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 La))
+      (grup.nom (nc0s000 diversidad)))
+    (grup.verb (vmis000 varió))
+    (sadv
+      (grup.adv (rg estacionalmente)))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (spec (da0000 los) (dn0000 tres))
+        (grup.nom (nc0p000 sitios))))
+    (S (fd :)
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 sitio)
+            (s.a
+              (spec (rg más))
+              (grup.a (aq0000 urbanizado))))))
+      (grup.verb (vsis000 fue))
+      (sn
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 mayor)
+              (sp
+                (sp
+                  (prep (sp000 en))
+                  (sn
+                    (grup.nom (nc0s000 primavera))))
+                (conj
+                  (grup.cc (cs mientras) (pr000000 que)))
+                (sp
+                  (prep (sp000 en))
+                  (sn
+                    (spec (da0000 los))
+                    (grup.nom (nc0p000 sitios)
+                      (sp
+                        (prep (sp000 con))
+                        (sn
+                          (grup.nom (nc0s000 urbanización))))))))))
+          (s.a
+            (grup.a
+              (grup.a (aq0000 intermedia))
+              (conj (cc y))
+              (grup.a (aq0000 menor))))))
+      (S
+        (grup.verb (vsis000 fue))
+        (s.a
+          (grup.a (aq0000 mayor)))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (grup.nom
+              (grup.nom (nc0s000 invierno))
+              (conj (cc y))
+              (grup.nom (nc0s000 otoño)))))))
+    (fp .)))
+
+Sentence #5 (28 tokens):
+En las zonas urbanas con mayor volumen de vegetación la riqueza de especies en general fue mayor y, en particular, la proporción de especies visitantes.
+[Text=En CharacterOffsetBegin=919 CharacterOffsetEnd=921 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=922 CharacterOffsetEnd=925 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=zonas CharacterOffsetBegin=926 CharacterOffsetEnd=931 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=urbanas CharacterOffsetBegin=932 CharacterOffsetEnd=939 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=940 CharacterOffsetEnd=943 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=mayor CharacterOffsetBegin=944 CharacterOffsetEnd=949 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=volumen CharacterOffsetBegin=950 CharacterOffsetEnd=957 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=958 CharacterOffsetEnd=960 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=vegetación CharacterOffsetBegin=961 CharacterOffsetEnd=971 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=972 CharacterOffsetEnd=974 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=riqueza CharacterOffsetBegin=975 CharacterOffsetEnd=982 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=983 CharacterOffsetEnd=985 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=986 CharacterOffsetEnd=994 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=995 CharacterOffsetEnd=997 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=general CharacterOffsetBegin=998 CharacterOffsetEnd=1005 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=fue CharacterOffsetBegin=1006 CharacterOffsetEnd=1009 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=mayor CharacterOffsetBegin=1010 CharacterOffsetEnd=1015 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1016 CharacterOffsetEnd=1017 PartOfSpeech=cc NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1017 CharacterOffsetEnd=1018 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1019 CharacterOffsetEnd=1021 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=particular CharacterOffsetBegin=1022 CharacterOffsetEnd=1032 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1032 CharacterOffsetEnd=1033 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1034 CharacterOffsetEnd=1036 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=proporción CharacterOffsetBegin=1037 CharacterOffsetEnd=1047 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1048 CharacterOffsetEnd=1050 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=1051 CharacterOffsetEnd=1059 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=visitantes CharacterOffsetBegin=1060 CharacterOffsetEnd=1070 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1070 CharacterOffsetEnd=1071 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep (sp000 En))
+        (sn
+          (spec (da0000 las))
+          (grup.nom (nc0p000 zonas)
+            (s.a
+              (grup.a (aq0000 urbanas)))
+            (sp
+              (prep (sp000 con))
+              (sn
+                (grup.nom
+                  (s.a
+                    (grup.a (aq0000 mayor)))
+                  (nc0s000 volumen)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0s000 vegetación))))))))))
+      (sn
+        (spec (pp000000 la))
+        (grup.nom (nc0s000 riqueza)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 especies)
+                (sp
+                  (prep (sp000 en))
+                  (s.a
+                    (grup.a (aq0000 general)))))))))
+      (grup.verb (vsis000 fue))
+      (s.a
+        (grup.a (aq0000 mayor))))
+    (conj (cc y))
+    (S
+      (sadv (fc ,)
+        (grup.adv
+          (sp
+            (prep (sp000 en))
+            (sn
+              (grup.nom
+                (s.a
+                  (grup.a (aq0000 particular)))))))
+        (fc ,))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 proporción)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 especies)
+                (s.a
+                  (grup.a (aq0000 visitantes)))))))))
+    (fp .)))
+
+Sentence #6 (35 tokens):
+Nuestros datos sugieren que el aumento de jardines y árboles en la ciudad permitiría la llegada de más visitantes, ya sean migratorias o residentes de los entornos naturales que utilizan la ciudad como refugio
+[Text=Nuestros CharacterOffsetBegin=1072 CharacterOffsetEnd=1080 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=datos CharacterOffsetBegin=1081 CharacterOffsetEnd=1086 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=sugieren CharacterOffsetBegin=1087 CharacterOffsetEnd=1095 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=1096 CharacterOffsetEnd=1099 PartOfSpeech=cs NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1100 CharacterOffsetEnd=1102 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=aumento CharacterOffsetBegin=1103 CharacterOffsetEnd=1110 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1111 CharacterOffsetEnd=1113 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=jardines CharacterOffsetBegin=1114 CharacterOffsetEnd=1122 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1123 CharacterOffsetEnd=1124 PartOfSpeech=cc NamedEntityTag=O]
+[Text=árboles CharacterOffsetBegin=1125 CharacterOffsetEnd=1132 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1133 CharacterOffsetEnd=1135 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1136 CharacterOffsetEnd=1138 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ciudad CharacterOffsetBegin=1139 CharacterOffsetEnd=1145 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=permitiría CharacterOffsetBegin=1146 CharacterOffsetEnd=1156 PartOfSpeech=vmic000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1157 CharacterOffsetEnd=1159 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=llegada CharacterOffsetBegin=1160 CharacterOffsetEnd=1167 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1168 CharacterOffsetEnd=1170 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=1171 CharacterOffsetEnd=1174 PartOfSpeech=rg NamedEntityTag=O]
+[Text=visitantes CharacterOffsetBegin=1175 CharacterOffsetEnd=1185 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1185 CharacterOffsetEnd=1186 PartOfSpeech=fc NamedEntityTag=O]
+[Text=ya CharacterOffsetBegin=1187 CharacterOffsetEnd=1189 PartOfSpeech=rg NamedEntityTag=O]
+[Text=sean CharacterOffsetBegin=1190 CharacterOffsetEnd=1194 PartOfSpeech=vssp000 NamedEntityTag=O]
+[Text=migratorias CharacterOffsetBegin=1195 CharacterOffsetEnd=1206 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=1207 CharacterOffsetEnd=1208 PartOfSpeech=cc NamedEntityTag=O]
+[Text=residentes CharacterOffsetBegin=1209 CharacterOffsetEnd=1219 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1220 CharacterOffsetEnd=1222 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1223 CharacterOffsetEnd=1226 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=entornos CharacterOffsetBegin=1227 CharacterOffsetEnd=1235 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=naturales CharacterOffsetBegin=1236 CharacterOffsetEnd=1245 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=1246 CharacterOffsetEnd=1249 PartOfSpeech=cs NamedEntityTag=O]
+[Text=utilizan CharacterOffsetBegin=1250 CharacterOffsetEnd=1258 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1259 CharacterOffsetEnd=1261 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ciudad CharacterOffsetBegin=1262 CharacterOffsetEnd=1268 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=1269 CharacterOffsetEnd=1273 PartOfSpeech=cs NamedEntityTag=O]
+[Text=refugio CharacterOffsetBegin=1274 CharacterOffsetEnd=1281 PartOfSpeech=nc0s000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (dp0000 Nuestros))
+      (grup.nom (nc0p000 datos)))
+    (grup.verb (vmip000 sugieren))
+    (S
+      (conj (cs que))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 aumento)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom
+                (grup.nom (nc0p000 jardines))
+                (conj (cc y))
+                (grup.nom (nc0p000 árboles)))))
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 ciudad))))))
+      (grup.verb (vmic000 permitiría))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 llegada)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (sn
+                (spec (rg más))
+                (grup.nom (nc0p000 visitantes))
+                (fc ,))
+              (conj
+                (grup.cc (rg ya) (vssp000 sean)))
+              (sn
+                (grup.nom
+                  (grup.nom
+                    (grup.nom (nc0p000 migratorias))
+                    (conj (cc o))
+                    (grup.nom (nc0p000 residentes)))
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 los))
+                      (grup.nom (nc0p000 entornos)
+                        (s.a
+                          (grup.a (aq0000 naturales))))))))))))
+      (S
+        (conj (cs que))
+        (grup.verb (vmip000 utilizan))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 ciudad)
+            (sp
+              (prep (cs como))
+              (sn
+                (grup.nom (nc0s000 refugio))))))))))
+

@@ -1,0 +1,1374 @@
+Sentence #1 (43 tokens):
+Nos proponemos estimar los flujos fiscales geográficos netos que ocurren a  través de los mecanismos que opera el gobierno nacional e índices derivados que  sean útiles a la hora de trazar políticas redistributivas interregionales en función del federalismo fiscal argentino real.
+[Text=Nos CharacterOffsetBegin=0 CharacterOffsetEnd=3 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=proponemos CharacterOffsetBegin=4 CharacterOffsetEnd=14 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=estimar CharacterOffsetBegin=15 CharacterOffsetEnd=22 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=23 CharacterOffsetEnd=26 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=flujos CharacterOffsetBegin=27 CharacterOffsetEnd=33 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=fiscales CharacterOffsetBegin=34 CharacterOffsetEnd=42 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=geográficos CharacterOffsetBegin=43 CharacterOffsetEnd=54 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=netos CharacterOffsetBegin=55 CharacterOffsetEnd=60 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=61 CharacterOffsetEnd=64 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=ocurren CharacterOffsetBegin=65 CharacterOffsetEnd=72 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=73 CharacterOffsetEnd=74 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=través CharacterOffsetBegin=76 CharacterOffsetEnd=82 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=83 CharacterOffsetEnd=85 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=86 CharacterOffsetEnd=89 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=mecanismos CharacterOffsetBegin=90 CharacterOffsetEnd=100 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=101 CharacterOffsetEnd=104 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=opera CharacterOffsetBegin=105 CharacterOffsetEnd=110 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=111 CharacterOffsetEnd=113 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=gobierno CharacterOffsetBegin=114 CharacterOffsetEnd=122 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=nacional CharacterOffsetBegin=123 CharacterOffsetEnd=131 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=e CharacterOffsetBegin=132 CharacterOffsetEnd=133 PartOfSpeech=cc NamedEntityTag=O]
+[Text=índices CharacterOffsetBegin=134 CharacterOffsetEnd=141 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=derivados CharacterOffsetBegin=142 CharacterOffsetEnd=151 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=152 CharacterOffsetEnd=155 PartOfSpeech=cs NamedEntityTag=O]
+[Text=sean CharacterOffsetBegin=157 CharacterOffsetEnd=161 PartOfSpeech=vssp000 NamedEntityTag=O]
+[Text=útiles CharacterOffsetBegin=162 CharacterOffsetEnd=168 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=169 CharacterOffsetEnd=170 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=171 CharacterOffsetEnd=173 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=hora CharacterOffsetBegin=174 CharacterOffsetEnd=178 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=179 CharacterOffsetEnd=181 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=trazar CharacterOffsetBegin=182 CharacterOffsetEnd=188 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=políticas CharacterOffsetBegin=189 CharacterOffsetEnd=198 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=redistributivas CharacterOffsetBegin=199 CharacterOffsetEnd=214 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=interregionales CharacterOffsetBegin=215 CharacterOffsetEnd=230 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=231 CharacterOffsetEnd=233 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=función CharacterOffsetBegin=234 CharacterOffsetEnd=241 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=242 CharacterOffsetEnd=243 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=243 CharacterOffsetEnd=245 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=federalismo CharacterOffsetBegin=246 CharacterOffsetEnd=257 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=fiscal CharacterOffsetBegin=258 CharacterOffsetEnd=264 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=argentino CharacterOffsetBegin=265 CharacterOffsetEnd=274 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=real CharacterOffsetBegin=275 CharacterOffsetEnd=279 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=279 CharacterOffsetEnd=280 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (pp000000 Nos)))
+    (grup.verb (vmip000 proponemos))
+    (S
+      (infinitiu (vmn0000 estimar))
+      (sn
+        (spec (da0000 los))
+        (grup.nom (nc0p000 flujos)
+          (s.a
+            (grup.a (aq0000 fiscales)))
+          (s.a
+            (grup.a (aq0000 geográficos)
+              (s.a
+                (grup.a (aq0000 netos)))))
+          (S
+            (relatiu (pr000000 que))
+            (grup.verb (vmip000 ocurren))
+            (sp
+              (prep (sp000 a))
+              (sn
+                (grup.nom (nc0s000 través))))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 los))
+                (grup.nom (nc0p000 mecanismos)
+                  (S
+                    (relatiu (pr000000 que))
+                    (grup.verb (vmip000 opera))
+                    (sn
+                      (sn
+                        (spec (da0000 el))
+                        (grup.nom (nc0s000 gobierno)
+                          (s.a
+                            (grup.a (aq0000 nacional)))))
+                      (conj (cc e))
+                      (sn
+                        (grup.nom (nc0p000 índices)
+                          (S
+                            (participi (aq0000 derivados))))))))))))))
+    (S
+      (conj (cs que))
+      (grup.verb (vssp000 sean))
+      (sn
+        (grup.nom
+          (S
+            (participi (aq0000 útiles))
+            (sp
+              (prep (sp000 a))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 hora))))
+            (sp
+              (prep (sp000 de))
+              (S
+                (infinitiu (vmn0000 trazar))
+                (sn
+                  (grup.nom (nc0p000 políticas)
+                    (s.a
+                      (grup.a (aq0000 redistributivas)))
+                    (S
+                      (participi (aq0000 interregionales))
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (grup.nom (nc0s000 función)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (spec (da0000 el))
+                                (grup.nom (nc0s000 federalismo)
+                                  (sn
+                                    (grup.nom (nc0s000 fiscal)))))))))))))))
+          (nc0s000 argentino)
+          (s.a
+            (grup.a (aq0000 real))))))
+    (fp .)))
+
+Sentence #2 (58 tokens):
+En pos de ello renovamos la concepción de territorio y presentamos un modelo de federalismo ad hoc para el sistema de gobierno que hoy impera en la Argentina, junto con enfocarnos en el rol fiscal y en la conducta de los administrados residentes, ya sea como contribuyentes o como destinatarios del gasto gubernamental.
+[Text=En CharacterOffsetBegin=281 CharacterOffsetEnd=283 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=pos CharacterOffsetBegin=284 CharacterOffsetEnd=287 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=288 CharacterOffsetEnd=290 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ello CharacterOffsetBegin=291 CharacterOffsetEnd=295 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=renovamos CharacterOffsetBegin=296 CharacterOffsetEnd=305 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=306 CharacterOffsetEnd=308 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=concepción CharacterOffsetBegin=309 CharacterOffsetEnd=319 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=320 CharacterOffsetEnd=322 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=territorio CharacterOffsetBegin=323 CharacterOffsetEnd=333 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=334 CharacterOffsetEnd=335 PartOfSpeech=cc NamedEntityTag=O]
+[Text=presentamos CharacterOffsetBegin=336 CharacterOffsetEnd=347 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=348 CharacterOffsetEnd=350 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=modelo CharacterOffsetBegin=351 CharacterOffsetEnd=357 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=358 CharacterOffsetEnd=360 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=federalismo CharacterOffsetBegin=361 CharacterOffsetEnd=372 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=ad CharacterOffsetBegin=373 CharacterOffsetEnd=375 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=hoc CharacterOffsetBegin=376 CharacterOffsetEnd=379 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=380 CharacterOffsetEnd=384 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=385 CharacterOffsetEnd=387 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sistema CharacterOffsetBegin=388 CharacterOffsetEnd=395 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=396 CharacterOffsetEnd=398 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=gobierno CharacterOffsetBegin=399 CharacterOffsetEnd=407 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=408 CharacterOffsetEnd=411 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=hoy CharacterOffsetBegin=412 CharacterOffsetEnd=415 PartOfSpeech=rg NamedEntityTag=O]
+[Text=impera CharacterOffsetBegin=416 CharacterOffsetEnd=422 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=423 CharacterOffsetEnd=425 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=426 CharacterOffsetEnd=428 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=429 CharacterOffsetEnd=438 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=438 CharacterOffsetEnd=439 PartOfSpeech=fc NamedEntityTag=O]
+[Text=junto CharacterOffsetBegin=440 CharacterOffsetEnd=445 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=446 CharacterOffsetEnd=449 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=enfocar CharacterOffsetBegin=450 CharacterOffsetEnd=457 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=nos CharacterOffsetBegin=457 CharacterOffsetEnd=460 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=461 CharacterOffsetEnd=463 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=464 CharacterOffsetEnd=466 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=rol CharacterOffsetBegin=467 CharacterOffsetEnd=470 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=fiscal CharacterOffsetBegin=471 CharacterOffsetEnd=477 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=478 CharacterOffsetEnd=479 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=480 CharacterOffsetEnd=482 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=483 CharacterOffsetEnd=485 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=conducta CharacterOffsetBegin=486 CharacterOffsetEnd=494 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=495 CharacterOffsetEnd=497 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=498 CharacterOffsetEnd=501 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=administrados CharacterOffsetBegin=502 CharacterOffsetEnd=515 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=residentes CharacterOffsetBegin=516 CharacterOffsetEnd=526 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=526 CharacterOffsetEnd=527 PartOfSpeech=fc NamedEntityTag=O]
+[Text=ya CharacterOffsetBegin=528 CharacterOffsetEnd=530 PartOfSpeech=rg NamedEntityTag=O]
+[Text=sea CharacterOffsetBegin=531 CharacterOffsetEnd=534 PartOfSpeech=vssp000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=535 CharacterOffsetEnd=539 PartOfSpeech=cs NamedEntityTag=O]
+[Text=contribuyentes CharacterOffsetBegin=540 CharacterOffsetEnd=554 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=555 CharacterOffsetEnd=556 PartOfSpeech=cc NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=557 CharacterOffsetEnd=561 PartOfSpeech=cs NamedEntityTag=O]
+[Text=destinatarios CharacterOffsetBegin=562 CharacterOffsetEnd=575 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=576 CharacterOffsetEnd=577 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=577 CharacterOffsetEnd=579 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=gasto CharacterOffsetBegin=580 CharacterOffsetEnd=585 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=gubernamental CharacterOffsetBegin=586 CharacterOffsetEnd=599 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=599 CharacterOffsetEnd=600 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep
+          (grup.prep
+            (prep (sp000 En))
+            (sn
+              (grup.nom (nc0s000 pos)))
+            (prep (sp000 de))))
+        (sn
+          (grup.nom (pp000000 ello))))
+      (grup.verb (vmip000 renovamos))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 concepción)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 territorio)))))))
+    (conj (cc y))
+    (S
+      (grup.verb (vmip000 presentamos))
+      (sn
+        (spec (di0000 un))
+        (grup.nom (nc0s000 modelo)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 federalismo))))))
+      (sn
+        (spec (pp000000 ad))
+        (grup.nom (nc0s000 hoc)
+          (sp
+            (prep (sp000 para))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 sistema)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0s000 gobierno))))
+                (S
+                  (relatiu (pr000000 que))
+                  (sadv
+                    (grup.adv (rg hoy)))
+                  (grup.verb (vmip000 impera))
+                  (sp
+                    (prep (sp000 en))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (np00000 Argentina))))))))
+          (s.a (fc ,)
+            (grup.a (aq0000 junto)
+              (sp
+                (prep (sp000 con))
+                (S
+                  (infinitiu (vmn0000 enfocar))
+                  (sn
+                    (grup.nom (pp000000 nos)))
+                  (sp
+                    (sp
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (spec (da0000 el))
+                          (grup.nom (nc0s000 rol)
+                            (s.a
+                              (grup.a (aq0000 fiscal))))))
+                      (conj (cc y))
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom (nc0s000 conducta)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (spec (da0000 los))
+                                (grup.nom
+                                  (s.a
+                                    (grup.a (aq0000 administrados)))
+                                  (nc0p000 residentes)))))))
+                      (fc ,))
+                    (conj
+                      (grup.cc (rg ya) (vssp000 sea)))
+                    (sp
+                      (sp
+                        (prep (cs como))
+                        (sn
+                          (grup.nom (nc0p000 contribuyentes))))
+                      (conj (cc o))
+                      (sp
+                        (prep (cs como))
+                        (sn
+                          (grup.nom (nc0p000 destinatarios)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (spec (da0000 el))
+                                (grup.nom (nc0s000 gasto)
+                                  (s.a
+                                    (grup.a (aq0000 gubernamental))))))))))))))))))
+    (fp .)))
+
+Sentence #3 (50 tokens):
+En el esquema a desarrollar calculamos esos flujos de manera directa o más realista, en el sentido que evitamos el recálculo que requeriría un formato de balanza fiscal regional para distribuir déficit/superávit y obtener una igualdad ficta entre ingresos y egresos totales del gobierno central.
+[Text=En CharacterOffsetBegin=601 CharacterOffsetEnd=603 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=604 CharacterOffsetEnd=606 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=esquema CharacterOffsetBegin=607 CharacterOffsetEnd=614 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=615 CharacterOffsetEnd=616 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=desarrollar CharacterOffsetBegin=617 CharacterOffsetEnd=628 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=calculamos CharacterOffsetBegin=629 CharacterOffsetEnd=639 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=esos CharacterOffsetBegin=640 CharacterOffsetEnd=644 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=flujos CharacterOffsetBegin=645 CharacterOffsetEnd=651 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=652 CharacterOffsetEnd=654 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=manera CharacterOffsetBegin=655 CharacterOffsetEnd=661 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=directa CharacterOffsetBegin=662 CharacterOffsetEnd=669 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=670 CharacterOffsetEnd=671 PartOfSpeech=cc NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=672 CharacterOffsetEnd=675 PartOfSpeech=rg NamedEntityTag=O]
+[Text=realista CharacterOffsetBegin=676 CharacterOffsetEnd=684 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=684 CharacterOffsetEnd=685 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=686 CharacterOffsetEnd=688 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=689 CharacterOffsetEnd=691 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sentido CharacterOffsetBegin=692 CharacterOffsetEnd=699 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=700 CharacterOffsetEnd=703 PartOfSpeech=cs NamedEntityTag=O]
+[Text=evitamos CharacterOffsetBegin=704 CharacterOffsetEnd=712 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=713 CharacterOffsetEnd=715 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=recálculo CharacterOffsetBegin=716 CharacterOffsetEnd=725 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=726 CharacterOffsetEnd=729 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=requeriría CharacterOffsetBegin=730 CharacterOffsetEnd=740 PartOfSpeech=vmic000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=741 CharacterOffsetEnd=743 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=formato CharacterOffsetBegin=744 CharacterOffsetEnd=751 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=752 CharacterOffsetEnd=754 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=balanza CharacterOffsetBegin=755 CharacterOffsetEnd=762 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=fiscal CharacterOffsetBegin=763 CharacterOffsetEnd=769 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=regional CharacterOffsetBegin=770 CharacterOffsetEnd=778 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=779 CharacterOffsetEnd=783 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=distribuir CharacterOffsetBegin=784 CharacterOffsetEnd=794 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=déficit CharacterOffsetBegin=795 CharacterOffsetEnd=802 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=/ CharacterOffsetBegin=802 CharacterOffsetEnd=803 PartOfSpeech=fh NamedEntityTag=O]
+[Text=superávit CharacterOffsetBegin=803 CharacterOffsetEnd=812 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=813 CharacterOffsetEnd=814 PartOfSpeech=cc NamedEntityTag=O]
+[Text=obtener CharacterOffsetBegin=815 CharacterOffsetEnd=822 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=823 CharacterOffsetEnd=826 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=igualdad CharacterOffsetBegin=827 CharacterOffsetEnd=835 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=ficta CharacterOffsetBegin=836 CharacterOffsetEnd=841 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=842 CharacterOffsetEnd=847 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ingresos CharacterOffsetBegin=848 CharacterOffsetEnd=856 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=857 CharacterOffsetEnd=858 PartOfSpeech=cc NamedEntityTag=O]
+[Text=egresos CharacterOffsetBegin=859 CharacterOffsetEnd=866 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=totales CharacterOffsetBegin=867 CharacterOffsetEnd=874 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=875 CharacterOffsetEnd=876 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=876 CharacterOffsetEnd=878 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=gobierno CharacterOffsetBegin=879 CharacterOffsetEnd=887 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=central CharacterOffsetBegin=888 CharacterOffsetEnd=895 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=895 CharacterOffsetEnd=896 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep (sp000 En))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 esquema))))
+      (inc
+        (sp
+          (prep (sp000 a))
+          (S
+            (infinitiu (vmn0000 desarrollar)))))
+      (S
+        (grup.verb (vmip000 calculamos))
+        (sn
+          (spec (dd0000 esos))
+          (grup.nom (nc0p000 flujos)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 manera))))
+            (s.a
+              (S
+                (participi (aq0000 directa)))
+              (conj (cc o))
+              (s.a
+                (spec (rg más))
+                (grup.a (aq0000 realista))))))
+        (fc ,))
+      (conj
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 sentido)))))
+      (S
+        (S
+          (conj (cs que))
+          (grup.verb (vmip000 evitamos))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 recálculo)
+              (S
+                (relatiu (pr000000 que))
+                (grup.verb (vmic000 requeriría))
+                (sn
+                  (spec (di0000 un))
+                  (grup.nom (nc0s000 formato)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 balanza)
+                          (s.a
+                            (grup.a (aq0000 fiscal))))))))
+                (s.a
+                  (grup.a (aq0000 regional)
+                    (sp
+                      (prep (sp000 para))
+                      (S
+                        (infinitiu (vmn0000 distribuir))))))))))
+        (inc
+          (sn
+            (grup.nom
+              (grup.nom (nc0s000 déficit))
+              (fh /)
+              (grup.nom (nc0s000 superávit)))))))
+    (conj (cc y))
+    (S
+      (S
+        (infinitiu (vmn0000 obtener))
+        (sn
+          (spec (di0000 una))
+          (grup.nom (nc0s000 igualdad)
+            (s.a
+              (grup.a (aq0000 ficta)))
+            (sp
+              (prep (sp000 entre))
+              (sn
+                (grup.nom (nc0p000 ingresos)))))))
+      (conj (cc y))
+      (S
+        (sn
+          (grup.nom (nc0p000 egresos)
+            (s.a
+              (grup.a (aq0000 totales)))))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 gobierno)
+              (s.a
+                (grup.a (aq0000 central))))))))
+    (fp .)))
+
+Sentence #4 (38 tokens):
+Sin embargo, a la manera de nuestros trabajos previos sobre balanzas regionales, en este estudio mantenemos la  particularidad de mostrar por separado los flujos en tres tipos, según se refieran a los: 1.
+[Text=Sin CharacterOffsetBegin=897 CharacterOffsetEnd=900 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=embargo CharacterOffsetBegin=901 CharacterOffsetEnd=908 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=908 CharacterOffsetEnd=909 PartOfSpeech=fc NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=910 CharacterOffsetEnd=911 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=912 CharacterOffsetEnd=914 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=manera CharacterOffsetBegin=915 CharacterOffsetEnd=921 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=922 CharacterOffsetEnd=924 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nuestros CharacterOffsetBegin=925 CharacterOffsetEnd=933 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=trabajos CharacterOffsetBegin=934 CharacterOffsetEnd=942 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=previos CharacterOffsetBegin=943 CharacterOffsetEnd=950 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=951 CharacterOffsetEnd=956 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=balanzas CharacterOffsetBegin=957 CharacterOffsetEnd=965 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=regionales CharacterOffsetBegin=966 CharacterOffsetEnd=976 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=976 CharacterOffsetEnd=977 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=978 CharacterOffsetEnd=980 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=981 CharacterOffsetEnd=985 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=estudio CharacterOffsetBegin=986 CharacterOffsetEnd=993 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=mantenemos CharacterOffsetBegin=994 CharacterOffsetEnd=1004 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1005 CharacterOffsetEnd=1007 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=particularidad CharacterOffsetBegin=1009 CharacterOffsetEnd=1023 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1024 CharacterOffsetEnd=1026 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=mostrar CharacterOffsetBegin=1027 CharacterOffsetEnd=1034 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=1035 CharacterOffsetEnd=1038 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=separado CharacterOffsetBegin=1039 CharacterOffsetEnd=1047 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1048 CharacterOffsetEnd=1051 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=flujos CharacterOffsetBegin=1052 CharacterOffsetEnd=1058 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1059 CharacterOffsetEnd=1061 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=tres CharacterOffsetBegin=1062 CharacterOffsetEnd=1066 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=tipos CharacterOffsetBegin=1067 CharacterOffsetEnd=1072 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1072 CharacterOffsetEnd=1073 PartOfSpeech=fc NamedEntityTag=O]
+[Text=según CharacterOffsetBegin=1074 CharacterOffsetEnd=1079 PartOfSpeech=cs NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=1080 CharacterOffsetEnd=1082 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=refieran CharacterOffsetBegin=1083 CharacterOffsetEnd=1091 PartOfSpeech=vmsi000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1092 CharacterOffsetEnd=1093 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1094 CharacterOffsetEnd=1097 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1097 CharacterOffsetEnd=1098 PartOfSpeech=fd NamedEntityTag=O]
+[Text=1 CharacterOffsetBegin=1099 CharacterOffsetEnd=1100 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1100 CharacterOffsetEnd=1101 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (sp
+        (prep (sp000 Sin))
+        (sn
+          (grup.nom (nc0s000 embargo))))
+      (fc ,)
+      (sp
+        (prep (sp000 a))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 manera)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (dp0000 nuestros))
+                (grup.nom (nc0p000 trabajos)
+                  (s.a
+                    (grup.a (aq0000 previos)))
+                  (sp
+                    (prep (sp000 sobre))
+                    (sn
+                      (grup.nom (nc0p000 balanzas)
+                        (s.a
+                          (grup.a (aq0000 regionales))))))))))))
+      (fc ,)
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (dd0000 este))
+          (grup.nom (nc0s000 estudio)))))
+    (grup.verb (vmip000 mantenemos))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 particularidad)
+        (sp
+          (prep (sp000 de))
+          (S
+            (infinitiu (vmn0000 mostrar))
+            (sp
+              (prep (sp000 por))
+              (S
+                (S
+                  (grup.verb (vmp0000 separado))
+                  (sn
+                    (spec (da0000 los))
+                    (grup.nom (nc0p000 flujos)
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (spec (dn0000 tres))
+                          (grup.nom (nc0p000 tipos)))))))
+                (fc ,)
+                (S
+                  (conj (cs según))
+                  (morfema.pronominal (p0000000 se))
+                  (grup.verb (vmsi000 refieran))
+                  (sp
+                    (prep (sp000 a))
+                    (sn
+                      (spec (da0000 los))
+                      (grup.nom
+                        (sn (fd :)
+                          (grup.nom (z0 1)))))))))))))
+    (fp .)))
+
+Sentence #5 (10 tokens):
+ocasionados por la coparticipación secundaria y afines, 2.
+[Text=ocasionados CharacterOffsetBegin=1102 CharacterOffsetEnd=1113 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=1114 CharacterOffsetEnd=1117 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1118 CharacterOffsetEnd=1120 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=coparticipación CharacterOffsetBegin=1121 CharacterOffsetEnd=1136 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=secundaria CharacterOffsetBegin=1137 CharacterOffsetEnd=1147 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1148 CharacterOffsetEnd=1149 PartOfSpeech=cc NamedEntityTag=O]
+[Text=afines CharacterOffsetBegin=1150 CharacterOffsetEnd=1156 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1156 CharacterOffsetEnd=1157 PartOfSpeech=fc NamedEntityTag=O]
+[Text=2 CharacterOffsetBegin=1158 CharacterOffsetEnd=1159 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1159 CharacterOffsetEnd=1160 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (nc0p000 ocasionados)
+        (sp
+          (prep (sp000 por))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 coparticipación)
+              (s.a
+                (grup.a
+                  (grup.a (aq0000 secundaria))
+                  (conj (cc y))
+                  (grup.a (aq0000 afines)))))))
+        (sn (fc ,)
+          (grup.nom (z0 2)))))
+    (fp .)))
+
+Sentence #6 (12 tokens):
+encuadrados en las funciones específicas de la administración central, 3.
+[Text=encuadrados CharacterOffsetBegin=1161 CharacterOffsetEnd=1172 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1173 CharacterOffsetEnd=1175 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1176 CharacterOffsetEnd=1179 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=funciones CharacterOffsetBegin=1180 CharacterOffsetEnd=1189 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=específicas CharacterOffsetBegin=1190 CharacterOffsetEnd=1201 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1202 CharacterOffsetEnd=1204 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1205 CharacterOffsetEnd=1207 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=administración CharacterOffsetBegin=1208 CharacterOffsetEnd=1222 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=central CharacterOffsetBegin=1223 CharacterOffsetEnd=1230 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1230 CharacterOffsetEnd=1231 PartOfSpeech=fc NamedEntityTag=O]
+[Text=3 CharacterOffsetBegin=1232 CharacterOffsetEnd=1233 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1233 CharacterOffsetEnd=1234 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (s.a
+      (grup.a (aq0000 encuadrados)
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 las))
+            (grup.nom (nc0p000 funciones)
+              (S
+                (participi (aq0000 específicas))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 administración)
+                      (s.a
+                        (grup.a (aq0000 central)))))))
+              (sn (fc ,)
+                (grup.nom (z0 3))))))))
+    (fp .)))
+
+Sentence #7 (9 tokens):
+propios de las instituciones de seguridad social nacional.
+[Text=propios CharacterOffsetBegin=1235 CharacterOffsetEnd=1242 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1243 CharacterOffsetEnd=1245 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1246 CharacterOffsetEnd=1249 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=instituciones CharacterOffsetBegin=1250 CharacterOffsetEnd=1263 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1264 CharacterOffsetEnd=1266 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=seguridad CharacterOffsetBegin=1267 CharacterOffsetEnd=1276 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=social CharacterOffsetBegin=1277 CharacterOffsetEnd=1283 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=nacional CharacterOffsetBegin=1284 CharacterOffsetEnd=1292 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1292 CharacterOffsetEnd=1293 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (nc0p000 propios)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 las))
+            (grup.nom (nc0p000 instituciones)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 seguridad)
+                    (s.a
+                      (grup.a (aq0000 social)))
+                    (s.a
+                      (grup.a (aq0000 nacional)))))))))))
+    (fp .)))
+
+Sentence #8 (16 tokens):
+Y, al agregarlos, obtenemos un cuarto cuadro descriptivo de tipo general.
+[Text=Y CharacterOffsetBegin=1294 CharacterOffsetEnd=1295 PartOfSpeech=cc NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1295 CharacterOffsetEnd=1296 PartOfSpeech=fc NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1297 CharacterOffsetEnd=1298 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1298 CharacterOffsetEnd=1299 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=agregar CharacterOffsetBegin=1300 CharacterOffsetEnd=1307 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1307 CharacterOffsetEnd=1310 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1310 CharacterOffsetEnd=1311 PartOfSpeech=fc NamedEntityTag=O]
+[Text=obtenemos CharacterOffsetBegin=1312 CharacterOffsetEnd=1321 PartOfSpeech=vmic000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=1322 CharacterOffsetEnd=1324 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=cuarto CharacterOffsetBegin=1325 CharacterOffsetEnd=1331 PartOfSpeech=ao0000 NamedEntityTag=O]
+[Text=cuadro CharacterOffsetBegin=1332 CharacterOffsetEnd=1338 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=descriptivo CharacterOffsetBegin=1339 CharacterOffsetEnd=1350 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1351 CharacterOffsetEnd=1353 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=tipo CharacterOffsetBegin=1354 CharacterOffsetEnd=1358 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=general CharacterOffsetBegin=1359 CharacterOffsetEnd=1366 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1366 CharacterOffsetEnd=1367 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (conj (cc Y))
+    (sp (fc ,)
+      (prep (sp000 a))
+      (sn
+        (spec (da0000 el))
+        (S
+          (infinitiu (vmn0000 agregar))
+          (sn
+            (grup.nom (pp000000 los)))))
+      (fc ,))
+    (grup.verb (vmic000 obtenemos))
+    (sn
+      (spec (di0000 un))
+      (grup.nom
+        (s.a
+          (grup.a (ao0000 cuarto)))
+        (nc0s000 cuadro)
+        (S
+          (participi (aq0000 descriptivo))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 tipo)
+                (s.a
+                  (grup.a (aq0000 general)))))))))
+    (fp .)))
+
+Sentence #9 (29 tokens):
+Cuando confrontemos las cifras en que se distribuyen territorialmente esos tres, vamos a poder determinar cuán similares o diferentes son las pautas distributivas aplicadas en cada uno.
+[Text=Cuando CharacterOffsetBegin=1367 CharacterOffsetEnd=1373 PartOfSpeech=cs NamedEntityTag=O]
+[Text=confrontemos CharacterOffsetBegin=1374 CharacterOffsetEnd=1386 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1387 CharacterOffsetEnd=1390 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cifras CharacterOffsetBegin=1391 CharacterOffsetEnd=1397 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1398 CharacterOffsetEnd=1400 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=1401 CharacterOffsetEnd=1404 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=1405 CharacterOffsetEnd=1407 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=distribuyen CharacterOffsetBegin=1408 CharacterOffsetEnd=1419 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=territorialmente CharacterOffsetBegin=1420 CharacterOffsetEnd=1436 PartOfSpeech=rg NamedEntityTag=O]
+[Text=esos CharacterOffsetBegin=1437 CharacterOffsetEnd=1441 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=tres CharacterOffsetBegin=1442 CharacterOffsetEnd=1446 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1446 CharacterOffsetEnd=1447 PartOfSpeech=fc NamedEntityTag=O]
+[Text=vamos CharacterOffsetBegin=1448 CharacterOffsetEnd=1453 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1454 CharacterOffsetEnd=1455 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=poder CharacterOffsetBegin=1456 CharacterOffsetEnd=1461 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=determinar CharacterOffsetBegin=1462 CharacterOffsetEnd=1472 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=cuán CharacterOffsetBegin=1473 CharacterOffsetEnd=1477 PartOfSpeech=rg NamedEntityTag=O]
+[Text=similares CharacterOffsetBegin=1478 CharacterOffsetEnd=1487 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=1488 CharacterOffsetEnd=1489 PartOfSpeech=cc NamedEntityTag=O]
+[Text=diferentes CharacterOffsetBegin=1490 CharacterOffsetEnd=1500 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=son CharacterOffsetBegin=1501 CharacterOffsetEnd=1504 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1505 CharacterOffsetEnd=1508 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pautas CharacterOffsetBegin=1509 CharacterOffsetEnd=1515 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=distributivas CharacterOffsetBegin=1516 CharacterOffsetEnd=1529 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=aplicadas CharacterOffsetBegin=1530 CharacterOffsetEnd=1539 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1540 CharacterOffsetEnd=1542 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cada CharacterOffsetBegin=1543 CharacterOffsetEnd=1547 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=uno CharacterOffsetBegin=1548 CharacterOffsetEnd=1551 PartOfSpeech=pi000000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1551 CharacterOffsetEnd=1552 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (conj (cs Cuando))
+      (grup.verb (vmip000 confrontemos))
+      (sn
+        (spec (da0000 las))
+        (grup.nom (nc0p000 cifras)
+          (sp
+            (prep (sp000 en))
+            (sn
+              (grup.nom
+                (S
+                  (relatiu (pr000000 que))
+                  (morfema.verbal (p0000000 se))
+                  (grup.verb (vmip000 distribuyen))
+                  (sadv
+                    (grup.adv (rg territorialmente))))))))))
+    (sn
+      (spec (dd0000 esos) (dn0000 tres))
+      (grup.nom
+        (S (fc ,)
+          (S
+            (grup.verb (vmip000 vamos))
+            (sp
+              (prep (sp000 a))
+              (S
+                (infinitiu (vmn0000 poder)
+                  (infinitiu (vmn0000 determinar)))
+                (s.a
+                  (spec (rg cuán))
+                  (grup.a (aq0000 similares))))))
+          (conj (cc o)))
+        (s.a
+          (grup.a (aq0000 diferentes)))))
+    (grup.verb (vsip000 son))
+    (sn
+      (spec (da0000 las))
+      (grup.nom (nc0p000 pautas)
+        (s.a
+          (grup.a (aq0000 distributivas)))
+        (S
+          (participi (aq0000 aplicadas))
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (di0000 cada))
+              (grup.nom (pi000000 uno)))))))
+    (fp .)))
+
+Sentence #10 (27 tokens):
+La elección de estas pautas es materia de las políticas de redistribución del ingreso, de desarrollo económico y de sustentación institucional del federalismo.
+[Text=La CharacterOffsetBegin=1553 CharacterOffsetEnd=1555 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=elección CharacterOffsetBegin=1556 CharacterOffsetEnd=1564 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1565 CharacterOffsetEnd=1567 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=estas CharacterOffsetBegin=1568 CharacterOffsetEnd=1573 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=pautas CharacterOffsetBegin=1574 CharacterOffsetEnd=1580 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=1581 CharacterOffsetEnd=1583 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=materia CharacterOffsetBegin=1584 CharacterOffsetEnd=1591 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1592 CharacterOffsetEnd=1594 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1595 CharacterOffsetEnd=1598 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=políticas CharacterOffsetBegin=1599 CharacterOffsetEnd=1608 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1609 CharacterOffsetEnd=1611 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=redistribución CharacterOffsetBegin=1612 CharacterOffsetEnd=1626 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1627 CharacterOffsetEnd=1628 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1628 CharacterOffsetEnd=1630 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ingreso CharacterOffsetBegin=1631 CharacterOffsetEnd=1638 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1638 CharacterOffsetEnd=1639 PartOfSpeech=fc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1640 CharacterOffsetEnd=1642 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=1643 CharacterOffsetEnd=1653 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=económico CharacterOffsetBegin=1654 CharacterOffsetEnd=1663 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1664 CharacterOffsetEnd=1665 PartOfSpeech=cc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1666 CharacterOffsetEnd=1668 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=sustentación CharacterOffsetBegin=1669 CharacterOffsetEnd=1681 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=institucional CharacterOffsetBegin=1682 CharacterOffsetEnd=1695 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1696 CharacterOffsetEnd=1697 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1697 CharacterOffsetEnd=1699 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=federalismo CharacterOffsetBegin=1700 CharacterOffsetEnd=1711 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1711 CharacterOffsetEnd=1712 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 La))
+      (grup.nom (nc0s000 elección)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (dd0000 estas))
+            (grup.nom (nc0p000 pautas))))))
+    (grup.verb (vsip000 es))
+    (sn
+      (grup.nom (nc0s000 materia)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 las))
+            (grup.nom (nc0p000 políticas)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 redistribución)))))))))
+    (sp
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 ingreso))))
+      (fc ,)
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom (nc0s000 desarrollo)
+            (s.a
+              (grup.a (aq0000 económico))))))
+      (conj (cc y))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom (nc0s000 sustentación)
+            (s.a
+              (grup.a (aq0000 institucional)))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 federalismo))))))))
+    (fp .)))
+
+Sentence #11 (53 tokens):
+Aunque trabajamos metodológicamente con el enfoque carga-beneficio para imputar  geográficamente los recursos y gastos gubernamentales, como nuestra idea es coadyuvar a los distintos hacedores, quienes deben considerar la factibilidad de obtener apoyo político para la implementación, también mostramos las cifras del enfoque del flujo monetario.
+[Text=Aunque CharacterOffsetBegin=1713 CharacterOffsetEnd=1719 PartOfSpeech=cs NamedEntityTag=O]
+[Text=trabajamos CharacterOffsetBegin=1720 CharacterOffsetEnd=1730 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=metodológicamente CharacterOffsetBegin=1731 CharacterOffsetEnd=1748 PartOfSpeech=rg NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=1749 CharacterOffsetEnd=1752 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1753 CharacterOffsetEnd=1755 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=enfoque CharacterOffsetBegin=1756 CharacterOffsetEnd=1763 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=carga CharacterOffsetBegin=1764 CharacterOffsetEnd=1769 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=1769 CharacterOffsetEnd=1770 PartOfSpeech=fg NamedEntityTag=O]
+[Text=beneficio CharacterOffsetBegin=1770 CharacterOffsetEnd=1779 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=1780 CharacterOffsetEnd=1784 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=imputar CharacterOffsetBegin=1785 CharacterOffsetEnd=1792 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=geográficamente CharacterOffsetBegin=1794 CharacterOffsetEnd=1809 PartOfSpeech=rg NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1810 CharacterOffsetEnd=1813 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=recursos CharacterOffsetBegin=1814 CharacterOffsetEnd=1822 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1823 CharacterOffsetEnd=1824 PartOfSpeech=cc NamedEntityTag=O]
+[Text=gastos CharacterOffsetBegin=1825 CharacterOffsetEnd=1831 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=gubernamentales CharacterOffsetBegin=1832 CharacterOffsetEnd=1847 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1847 CharacterOffsetEnd=1848 PartOfSpeech=fc NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=1849 CharacterOffsetEnd=1853 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nuestra CharacterOffsetBegin=1854 CharacterOffsetEnd=1861 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=idea CharacterOffsetBegin=1862 CharacterOffsetEnd=1866 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=1867 CharacterOffsetEnd=1869 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=coadyuvar CharacterOffsetBegin=1870 CharacterOffsetEnd=1879 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1880 CharacterOffsetEnd=1881 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1882 CharacterOffsetEnd=1885 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=distintos CharacterOffsetBegin=1886 CharacterOffsetEnd=1895 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=hacedores CharacterOffsetBegin=1896 CharacterOffsetEnd=1905 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1905 CharacterOffsetEnd=1906 PartOfSpeech=fc NamedEntityTag=O]
+[Text=quienes CharacterOffsetBegin=1907 CharacterOffsetEnd=1914 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=deben CharacterOffsetBegin=1915 CharacterOffsetEnd=1920 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=considerar CharacterOffsetBegin=1921 CharacterOffsetEnd=1931 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1932 CharacterOffsetEnd=1934 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=factibilidad CharacterOffsetBegin=1935 CharacterOffsetEnd=1947 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1948 CharacterOffsetEnd=1950 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=obtener CharacterOffsetBegin=1951 CharacterOffsetEnd=1958 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=apoyo CharacterOffsetBegin=1959 CharacterOffsetEnd=1964 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=político CharacterOffsetBegin=1965 CharacterOffsetEnd=1973 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=1974 CharacterOffsetEnd=1978 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1979 CharacterOffsetEnd=1981 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=implementación CharacterOffsetBegin=1982 CharacterOffsetEnd=1996 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1996 CharacterOffsetEnd=1997 PartOfSpeech=fc NamedEntityTag=O]
+[Text=también CharacterOffsetBegin=1998 CharacterOffsetEnd=2005 PartOfSpeech=rg NamedEntityTag=O]
+[Text=mostramos CharacterOffsetBegin=2006 CharacterOffsetEnd=2015 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=2016 CharacterOffsetEnd=2019 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cifras CharacterOffsetBegin=2020 CharacterOffsetEnd=2026 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2027 CharacterOffsetEnd=2028 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2028 CharacterOffsetEnd=2030 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=enfoque CharacterOffsetBegin=2031 CharacterOffsetEnd=2038 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2039 CharacterOffsetEnd=2040 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2040 CharacterOffsetEnd=2042 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=flujo CharacterOffsetBegin=2043 CharacterOffsetEnd=2048 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=monetario CharacterOffsetBegin=2049 CharacterOffsetEnd=2058 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2058 CharacterOffsetEnd=2059 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (conj (cs Aunque))
+      (grup.verb (vmip000 trabajamos)
+        (sadv
+          (grup.adv (rg metodológicamente)
+            (sp
+              (prep (sp000 con))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 enfoque)
+                  (s.a
+                    (grup.a (nc0s000 carga) (fg -) (nc0s000 beneficio))))))))
+        (sp000 para)
+        (infinitiu (vmn0000 imputar)))
+      (sadv
+        (grup.adv (rg geográficamente)))
+      (sn
+        (sn
+          (spec (da0000 los))
+          (grup.nom (nc0p000 recursos)))
+        (conj (cc y))
+        (sn
+          (grup.nom (nc0p000 gastos)
+            (s.a
+              (grup.a (aq0000 gubernamentales))))
+          (fc ,)))
+      (sp
+        (sp
+          (prep (sp000 como))
+          (sn
+            (spec (dp0000 nuestra))
+            (grup.nom (nc0s000 idea))))
+        (conj
+          (grup.cc (vsip000 es) (vmn0000 coadyuvar)))
+        (sp
+          (prep (sp000 a))
+          (sn
+            (spec (da0000 los) (di0000 distintos))
+            (grup.nom (nc0p000 hacedores)
+              (S (fc ,)
+                (relatiu (pr000000 quienes))
+                (grup.verb (vmip000 deben)
+                  (infinitiu (vmn0000 considerar))
+                  (morfema.pronominal (pp000000 la)))
+                (sp
+                  (prep
+                    (grup.prep (nc0s000 factibilidad) (sp000 de)))
+                  (S
+                    (infinitiu (vmn0000 obtener))
+                    (sn
+                      (grup.nom (nc0s000 apoyo)
+                        (s.a
+                          (grup.a (aq0000 político)))))
+                    (sp
+                      (prep (sp000 para))
+                      (sn
+                        (spec (da0000 la))
+                        (grup.nom (nc0s000 implementación))))))))))))
+    (fc ,)
+    (S
+      (sadv
+        (grup.adv (rg también)))
+      (grup.verb (vmip000 mostramos))
+      (sn
+        (spec (da0000 las))
+        (grup.nom (nc0p000 cifras)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 enfoque))))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 flujo)
+            (s.a
+              (grup.a (aq0000 monetario)))))))
+    (fp .)))
+
+Sentence #12 (50 tokens):
+El alcance espacial cubre el mapa argentino y, para el cálculo de los flujos  fiscales, lo dividimos en 24 distritos nacionales que empero designamos con los mismos nombres de las provincias y de Capital Federal, sin perjuicio de trazar regiones apropiadas para el análisis de resultados.
+[Text=El CharacterOffsetBegin=2060 CharacterOffsetEnd=2062 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=alcance CharacterOffsetBegin=2063 CharacterOffsetEnd=2070 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=espacial CharacterOffsetBegin=2071 CharacterOffsetEnd=2079 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=cubre CharacterOffsetBegin=2080 CharacterOffsetEnd=2085 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2086 CharacterOffsetEnd=2088 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=mapa CharacterOffsetBegin=2089 CharacterOffsetEnd=2093 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=argentino CharacterOffsetBegin=2094 CharacterOffsetEnd=2103 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2104 CharacterOffsetEnd=2105 PartOfSpeech=cc NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2105 CharacterOffsetEnd=2106 PartOfSpeech=fc NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=2107 CharacterOffsetEnd=2111 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2112 CharacterOffsetEnd=2114 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cálculo CharacterOffsetBegin=2115 CharacterOffsetEnd=2122 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2123 CharacterOffsetEnd=2125 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=2126 CharacterOffsetEnd=2129 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=flujos CharacterOffsetBegin=2130 CharacterOffsetEnd=2136 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=fiscales CharacterOffsetBegin=2138 CharacterOffsetEnd=2146 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2146 CharacterOffsetEnd=2147 PartOfSpeech=fc NamedEntityTag=O]
+[Text=lo CharacterOffsetBegin=2148 CharacterOffsetEnd=2150 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=dividimos CharacterOffsetBegin=2151 CharacterOffsetEnd=2160 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=2161 CharacterOffsetEnd=2163 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=24 CharacterOffsetBegin=2164 CharacterOffsetEnd=2166 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=distritos CharacterOffsetBegin=2167 CharacterOffsetEnd=2176 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=nacionales CharacterOffsetBegin=2177 CharacterOffsetEnd=2187 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=2188 CharacterOffsetEnd=2191 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=empero CharacterOffsetBegin=2192 CharacterOffsetEnd=2198 PartOfSpeech=rg NamedEntityTag=O]
+[Text=designamos CharacterOffsetBegin=2199 CharacterOffsetEnd=2209 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=2210 CharacterOffsetEnd=2213 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=2214 CharacterOffsetEnd=2217 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=mismos CharacterOffsetBegin=2218 CharacterOffsetEnd=2224 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=nombres CharacterOffsetBegin=2225 CharacterOffsetEnd=2232 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2233 CharacterOffsetEnd=2235 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=2236 CharacterOffsetEnd=2239 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=provincias CharacterOffsetBegin=2240 CharacterOffsetEnd=2250 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2251 CharacterOffsetEnd=2252 PartOfSpeech=cc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2253 CharacterOffsetEnd=2255 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Capital CharacterOffsetBegin=2256 CharacterOffsetEnd=2263 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=Federal CharacterOffsetBegin=2264 CharacterOffsetEnd=2271 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=2271 CharacterOffsetEnd=2272 PartOfSpeech=fc NamedEntityTag=O]
+[Text=sin CharacterOffsetBegin=2273 CharacterOffsetEnd=2276 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=perjuicio CharacterOffsetBegin=2277 CharacterOffsetEnd=2286 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2287 CharacterOffsetEnd=2289 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=trazar CharacterOffsetBegin=2290 CharacterOffsetEnd=2296 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=regiones CharacterOffsetBegin=2297 CharacterOffsetEnd=2305 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=apropiadas CharacterOffsetBegin=2306 CharacterOffsetEnd=2316 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=2317 CharacterOffsetEnd=2321 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2322 CharacterOffsetEnd=2324 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=2325 CharacterOffsetEnd=2333 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2334 CharacterOffsetEnd=2336 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=resultados CharacterOffsetBegin=2337 CharacterOffsetEnd=2347 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2347 CharacterOffsetEnd=2348 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (da0000 El))
+        (grup.nom (nc0s000 alcance)
+          (s.a
+            (grup.a (aq0000 espacial)))))
+      (grup.verb (vmip000 cubre))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 mapa)
+          (s.a
+            (grup.a (aq0000 argentino))))))
+    (conj (cc y))
+    (S
+      (sp (fc ,)
+        (prep (sp000 para))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 cálculo)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 los))
+                (grup.nom (nc0p000 flujos)
+                  (s.a
+                    (grup.a (aq0000 fiscales))))))))
+        (fc ,))
+      (sn
+        (grup.nom (pp000000 lo)))
+      (grup.verb (vmip000 dividimos))
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (z0 24))
+          (grup.nom (nc0p000 distritos)
+            (s.a
+              (grup.a (aq0000 nacionales)))
+            (S
+              (relatiu (pr000000 que))
+              (sadv
+                (grup.adv (rg empero)))
+              (grup.verb (vmip000 designamos))
+              (sp
+                (sp
+                  (prep (sp000 con))
+                  (sn
+                    (spec (da0000 los) (di0000 mismos))
+                    (grup.nom (nc0p000 nombres)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (da0000 las))
+                          (grup.nom (nc0p000 provincias)))))))
+                (conj (cc y))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (np00000 Capital) (np00000 Federal)))
+                  (fc ,))))
+            (sp
+              (prep (sp000 sin))
+              (sn
+                (grup.nom (nc0s000 perjuicio)
+                  (sp
+                    (prep (sp000 de))
+                    (S
+                      (infinitiu (vmn0000 trazar))
+                      (sn
+                        (grup.nom (nc0p000 regiones)
+                          (s.a
+                            (grup.a (aq0000 apropiadas)))))
+                      (sp
+                        (prep (sp000 para))
+                        (sn
+                          (spec (da0000 el))
+                          (grup.nom (nc0n000 análisis)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (grup.nom (nc0p000 resultados))))))))))))))))
+    (fp .)))
+
+Sentence #13 (38 tokens):
+El alcance temporal es peculiar al extenderse al sexenio 2001 - 2006, hecho que nos pone en condiciones de visualizar eventuales cambios coyunturales o estabilidad en los indicadores fiscales regionales durante este período.
+[Text=El CharacterOffsetBegin=2349 CharacterOffsetEnd=2351 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=alcance CharacterOffsetBegin=2352 CharacterOffsetEnd=2359 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=temporal CharacterOffsetBegin=2360 CharacterOffsetEnd=2368 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=2369 CharacterOffsetEnd=2371 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=peculiar CharacterOffsetBegin=2372 CharacterOffsetEnd=2380 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2381 CharacterOffsetEnd=2382 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2382 CharacterOffsetEnd=2383 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=extender CharacterOffsetBegin=2384 CharacterOffsetEnd=2392 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=2392 CharacterOffsetEnd=2394 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2395 CharacterOffsetEnd=2396 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2396 CharacterOffsetEnd=2397 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sexenio CharacterOffsetBegin=2398 CharacterOffsetEnd=2405 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=2001 CharacterOffsetBegin=2406 CharacterOffsetEnd=2410 PartOfSpeech=w NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=2411 CharacterOffsetEnd=2412 PartOfSpeech=fg NamedEntityTag=O]
+[Text=2006 CharacterOffsetBegin=2413 CharacterOffsetEnd=2417 PartOfSpeech=w NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2417 CharacterOffsetEnd=2418 PartOfSpeech=fc NamedEntityTag=O]
+[Text=hecho CharacterOffsetBegin=2419 CharacterOffsetEnd=2424 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=2425 CharacterOffsetEnd=2428 PartOfSpeech=cs NamedEntityTag=O]
+[Text=nos CharacterOffsetBegin=2429 CharacterOffsetEnd=2432 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=pone CharacterOffsetBegin=2433 CharacterOffsetEnd=2437 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=2438 CharacterOffsetEnd=2440 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=condiciones CharacterOffsetBegin=2441 CharacterOffsetEnd=2452 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2453 CharacterOffsetEnd=2455 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=visualizar CharacterOffsetBegin=2456 CharacterOffsetEnd=2466 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=eventuales CharacterOffsetBegin=2467 CharacterOffsetEnd=2477 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=cambios CharacterOffsetBegin=2478 CharacterOffsetEnd=2485 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=coyunturales CharacterOffsetBegin=2486 CharacterOffsetEnd=2498 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=2499 CharacterOffsetEnd=2500 PartOfSpeech=cc NamedEntityTag=O]
+[Text=estabilidad CharacterOffsetBegin=2501 CharacterOffsetEnd=2512 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=2513 CharacterOffsetEnd=2515 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=2516 CharacterOffsetEnd=2519 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=indicadores CharacterOffsetBegin=2520 CharacterOffsetEnd=2531 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=fiscales CharacterOffsetBegin=2532 CharacterOffsetEnd=2540 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=regionales CharacterOffsetBegin=2541 CharacterOffsetEnd=2551 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=durante CharacterOffsetBegin=2552 CharacterOffsetEnd=2559 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=2560 CharacterOffsetEnd=2564 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=período CharacterOffsetBegin=2565 CharacterOffsetEnd=2572 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2572 CharacterOffsetEnd=2573 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 alcance)
+        (s.a
+          (grup.a (aq0000 temporal)))))
+    (grup.verb (vsip000 es))
+    (s.a
+      (grup.a (aq0000 peculiar)))
+    (sp
+      (prep (sp000 a))
+      (sn
+        (spec (da0000 el))
+        (S
+          (infinitiu (vmn0000 extender))
+          (morfema.pronominal (pp000000 se))
+          (sp
+            (prep (sp000 a))
+            (sn
+              (spec (da0000 el))
+              (grup.nom
+                (S
+                  (participi (aq0000 sexenio)))
+                (grup.w (w 2001) (fg -) (w 2006))
+                (S (fc ,)
+                  (S
+                    (grup.verb (vmp0000 hecho))
+                    (S
+                      (conj (cs que))
+                      (morfema.pronominal (p0000000 nos))
+                      (grup.verb (vmip000 pone))
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (grup.nom (nc0p000 condiciones)
+                            (sp
+                              (prep (sp000 de))
+                              (S
+                                (infinitiu (vmn0000 visualizar))
+                                (sn
+                                  (grup.nom
+                                    (s.a
+                                      (grup.a (aq0000 eventuales)))
+                                    (nc0p000 cambios)
+                                    (s.a
+                                      (grup.a (aq0000 coyunturales))))))))))))
+                  (conj (cc o))
+                  (S
+                    (sn
+                      (grup.nom (nc0s000 estabilidad)
+                        (sp
+                          (prep (sp000 en))
+                          (sn
+                            (spec (da0000 los))
+                            (grup.nom (nc0p000 indicadores)
+                              (s.a
+                                (grup.a (aq0000 fiscales))))))))
+                    (s.a
+                      (grup.a (aq0000 regionales))))))))
+          (sp
+            (prep (sp000 durante))
+            (sn
+              (spec (dd0000 este))
+              (grup.nom (nc0s000 período)))))))
+    (fp .)))
+
+Sentence #14 (50 tokens):
+Comenzamos con breves descripciones conceptuales sobre territorio y federalismo y de un modelo de federalismo argentino; luego desarrollamos conceptualmente el esquema de Saldos Fiscales Regionales y las cuestiones metodológicas; a continuación ofrecemos los resultados numéricos en gráficos y tablas junto con observaciones y finalmente hacemos síntesis y conclusiones
+[Text=Comenzamos CharacterOffsetBegin=2574 CharacterOffsetEnd=2584 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=2585 CharacterOffsetEnd=2588 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=breves CharacterOffsetBegin=2589 CharacterOffsetEnd=2595 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=descripciones CharacterOffsetBegin=2596 CharacterOffsetEnd=2609 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=conceptuales CharacterOffsetBegin=2610 CharacterOffsetEnd=2622 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=2623 CharacterOffsetEnd=2628 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=territorio CharacterOffsetBegin=2629 CharacterOffsetEnd=2639 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2640 CharacterOffsetEnd=2641 PartOfSpeech=cc NamedEntityTag=O]
+[Text=federalismo CharacterOffsetBegin=2642 CharacterOffsetEnd=2653 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2654 CharacterOffsetEnd=2655 PartOfSpeech=cc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2656 CharacterOffsetEnd=2658 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=2659 CharacterOffsetEnd=2661 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=modelo CharacterOffsetBegin=2662 CharacterOffsetEnd=2668 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2669 CharacterOffsetEnd=2671 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=federalismo CharacterOffsetBegin=2672 CharacterOffsetEnd=2683 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=argentino CharacterOffsetBegin=2684 CharacterOffsetEnd=2693 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=2693 CharacterOffsetEnd=2694 PartOfSpeech=fx NamedEntityTag=O]
+[Text=luego CharacterOffsetBegin=2695 CharacterOffsetEnd=2700 PartOfSpeech=rg NamedEntityTag=O]
+[Text=desarrollamos CharacterOffsetBegin=2701 CharacterOffsetEnd=2714 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=conceptualmente CharacterOffsetBegin=2715 CharacterOffsetEnd=2730 PartOfSpeech=rg NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2731 CharacterOffsetEnd=2733 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=esquema CharacterOffsetBegin=2734 CharacterOffsetEnd=2741 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2742 CharacterOffsetEnd=2744 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Saldos CharacterOffsetBegin=2745 CharacterOffsetEnd=2751 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Fiscales CharacterOffsetBegin=2752 CharacterOffsetEnd=2760 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Regionales CharacterOffsetBegin=2761 CharacterOffsetEnd=2771 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=y CharacterOffsetBegin=2772 CharacterOffsetEnd=2773 PartOfSpeech=cc NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=2774 CharacterOffsetEnd=2777 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cuestiones CharacterOffsetBegin=2778 CharacterOffsetEnd=2788 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=metodológicas CharacterOffsetBegin=2789 CharacterOffsetEnd=2802 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=2802 CharacterOffsetEnd=2803 PartOfSpeech=fx NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2804 CharacterOffsetEnd=2805 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=continuación CharacterOffsetBegin=2806 CharacterOffsetEnd=2818 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=ofrecemos CharacterOffsetBegin=2819 CharacterOffsetEnd=2828 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=2829 CharacterOffsetEnd=2832 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=resultados CharacterOffsetBegin=2833 CharacterOffsetEnd=2843 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=numéricos CharacterOffsetBegin=2844 CharacterOffsetEnd=2853 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=2854 CharacterOffsetEnd=2856 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=gráficos CharacterOffsetBegin=2857 CharacterOffsetEnd=2865 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2866 CharacterOffsetEnd=2867 PartOfSpeech=cc NamedEntityTag=O]
+[Text=tablas CharacterOffsetBegin=2868 CharacterOffsetEnd=2874 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=junto CharacterOffsetBegin=2875 CharacterOffsetEnd=2880 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=2881 CharacterOffsetEnd=2884 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=observaciones CharacterOffsetBegin=2885 CharacterOffsetEnd=2898 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2899 CharacterOffsetEnd=2900 PartOfSpeech=cc NamedEntityTag=O]
+[Text=finalmente CharacterOffsetBegin=2901 CharacterOffsetEnd=2911 PartOfSpeech=rg NamedEntityTag=O]
+[Text=hacemos CharacterOffsetBegin=2912 CharacterOffsetEnd=2919 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=síntesis CharacterOffsetBegin=2920 CharacterOffsetEnd=2928 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2929 CharacterOffsetEnd=2930 PartOfSpeech=cc NamedEntityTag=O]
+[Text=conclusiones CharacterOffsetBegin=2931 CharacterOffsetEnd=2943 PartOfSpeech=nc0p000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (grup.verb (vmip000 Comenzamos))
+      (sp
+        (prep (sp000 con))
+        (sn
+          (grup.nom
+            (s.a
+              (grup.a (aq0000 breves)))
+            (nc0p000 descripciones)
+            (S
+              (participi (aq0000 conceptuales))
+              (sp
+                (prep (sp000 sobre))
+                (sn
+                  (grup.nom (nc0s000 territorio)))))))))
+    (conj (cc y))
+    (S
+      (S
+        (S
+          (S
+            (participi (aq0000 federalismo)))
+          (conj (cc y))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (di0000 un))
+              (grup.nom (nc0s000 modelo)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0s000 federalismo)
+                      (s.a
+                        (grup.a (aq0000 argentino))))))))))
+        (fx ;)
+        (S
+          (sadv
+            (grup.adv (rg luego)))
+          (grup.verb (vmip000 desarrollamos))
+          (sadv
+            (grup.adv (rg conceptualmente)))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 esquema)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (sn
+                    (grup.nom (np00000 Saldos) (np00000 Fiscales) (np00000 Regionales)))
+                  (conj (cc y))
+                  (sn
+                    (spec (da0000 las))
+                    (grup.nom (nc0p000 cuestiones)
+                      (s.a
+                        (grup.a (aq0000 metodológicas))))))))))
+        (fx ;)
+        (S
+          (sadv
+            (grup.adv
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (grup.nom (nc0s000 continuación))))))
+          (grup.verb (vmip000 ofrecemos))
+          (sn
+            (spec (da0000 los))
+            (grup.nom (nc0p000 resultados)
+              (s.a
+                (grup.a (aq0000 numéricos)))
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (grup.nom
+                    (grup.nom
+                      (S
+                        (participi (aq0000 gráficos))))
+                    (conj (cc y))
+                    (grup.nom (nc0p000 tablas)
+                      (s.a
+                        (grup.a (aq0000 junto)))
+                      (sp
+                        (prep (sp000 con))
+                        (sn
+                          (grup.nom (nc0p000 observaciones))))))))))))
+      (conj (cc y))
+      (S
+        (sadv
+          (grup.adv (rg finalmente)))
+        (grup.verb (vmip000 hacemos))
+        (sn
+          (grup.nom
+            (grup.nom (nc0n000 síntesis))
+            (conj (cc y))
+            (grup.nom (nc0p000 conclusiones))))))))
+

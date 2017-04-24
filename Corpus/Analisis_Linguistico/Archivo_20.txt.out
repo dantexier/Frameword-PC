@@ -1,0 +1,297 @@
+Sentence #1 (33 tokens):
+El propósito de este artículo es, en primer lugar, exponer el análisis que Smith desarrolla en The History of Astronomy sobre el origen de las emociones de asombro y sorpresa.
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=propósito CharacterOffsetBegin=3 CharacterOffsetEnd=12 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=13 CharacterOffsetEnd=15 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=16 CharacterOffsetEnd=20 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=artículo CharacterOffsetBegin=21 CharacterOffsetEnd=29 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=30 CharacterOffsetEnd=32 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=32 CharacterOffsetEnd=33 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=34 CharacterOffsetEnd=36 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=primer CharacterOffsetBegin=37 CharacterOffsetEnd=43 PartOfSpeech=ao0000 NamedEntityTag=O]
+[Text=lugar CharacterOffsetBegin=44 CharacterOffsetEnd=49 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=49 CharacterOffsetEnd=50 PartOfSpeech=fc NamedEntityTag=O]
+[Text=exponer CharacterOffsetBegin=51 CharacterOffsetEnd=58 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=59 CharacterOffsetEnd=61 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=62 CharacterOffsetEnd=70 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=71 CharacterOffsetEnd=74 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=Smith CharacterOffsetBegin=75 CharacterOffsetEnd=80 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=desarrolla CharacterOffsetBegin=81 CharacterOffsetEnd=91 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=92 CharacterOffsetEnd=94 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=The CharacterOffsetBegin=95 CharacterOffsetEnd=98 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=History CharacterOffsetBegin=99 CharacterOffsetEnd=106 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=of CharacterOffsetBegin=107 CharacterOffsetEnd=109 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Astronomy CharacterOffsetBegin=110 CharacterOffsetEnd=119 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=sobre CharacterOffsetBegin=120 CharacterOffsetEnd=125 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=126 CharacterOffsetEnd=128 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=origen CharacterOffsetBegin=129 CharacterOffsetEnd=135 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=136 CharacterOffsetEnd=138 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=139 CharacterOffsetEnd=142 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=emociones CharacterOffsetBegin=143 CharacterOffsetEnd=152 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=153 CharacterOffsetEnd=155 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=asombro CharacterOffsetBegin=156 CharacterOffsetEnd=163 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=164 CharacterOffsetEnd=165 PartOfSpeech=cc NamedEntityTag=O]
+[Text=sorpresa CharacterOffsetBegin=166 CharacterOffsetEnd=174 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=174 CharacterOffsetEnd=175 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 propósito)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (dd0000 este))
+            (grup.nom (nc0s000 artículo))))))
+    (grup.verb (vsip000 es))
+    (sp (fc ,)
+      (prep (sp000 en))
+      (sn
+        (grup.nom
+          (s.a
+            (grup.a (ao0000 primer)))
+          (nc0s000 lugar)))
+      (fc ,))
+    (S
+      (infinitiu (vmn0000 exponer))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0n000 análisis)
+          (S
+            (relatiu (pr000000 que))
+            (sn
+              (grup.nom (np00000 Smith)))
+            (grup.verb (vmip000 desarrolla))
+            (sp
+              (prep (sp000 en))
+              (sn
+                (grup.nom (np00000 The) (np00000 History) (np00000 of) (np00000 Astronomy))))
+            (sp
+              (prep (sp000 sobre))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 origen)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 las))
+                      (grup.nom (nc0p000 emociones)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom
+                              (grup.nom (nc0s000 asombro))
+                              (conj (cc y))
+                              (grup.nom (nc0s000 sorpresa)))))))))))))))
+    (fp .)))
+
+Sentence #2 (51 tokens):
+En este artículo se abordará, en segundo lugar, cómo Smith relaciona las características propias de un objeto o evento que produce asombro o sorpresa en el marco de las concepciones de los salvajes con relación al uso de la expresión “la mano invisible de Júpiter”.
+[Text=En CharacterOffsetBegin=176 CharacterOffsetEnd=178 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=179 CharacterOffsetEnd=183 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=artículo CharacterOffsetBegin=184 CharacterOffsetEnd=192 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=193 CharacterOffsetEnd=195 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=abordará CharacterOffsetBegin=196 CharacterOffsetEnd=204 PartOfSpeech=vmif000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=204 CharacterOffsetEnd=205 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=206 CharacterOffsetEnd=208 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=segundo CharacterOffsetBegin=209 CharacterOffsetEnd=216 PartOfSpeech=ao0000 NamedEntityTag=O]
+[Text=lugar CharacterOffsetBegin=217 CharacterOffsetEnd=222 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=222 CharacterOffsetEnd=223 PartOfSpeech=fc NamedEntityTag=O]
+[Text=cómo CharacterOffsetBegin=224 CharacterOffsetEnd=228 PartOfSpeech=rg NamedEntityTag=O]
+[Text=Smith CharacterOffsetBegin=229 CharacterOffsetEnd=234 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=relaciona CharacterOffsetBegin=235 CharacterOffsetEnd=244 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=245 CharacterOffsetEnd=248 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=características CharacterOffsetBegin=249 CharacterOffsetEnd=264 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=propias CharacterOffsetBegin=265 CharacterOffsetEnd=272 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=273 CharacterOffsetEnd=275 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=276 CharacterOffsetEnd=278 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=objeto CharacterOffsetBegin=279 CharacterOffsetEnd=285 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=286 CharacterOffsetEnd=287 PartOfSpeech=cc NamedEntityTag=O]
+[Text=evento CharacterOffsetBegin=288 CharacterOffsetEnd=294 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=295 CharacterOffsetEnd=298 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=produce CharacterOffsetBegin=299 CharacterOffsetEnd=306 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=asombro CharacterOffsetBegin=307 CharacterOffsetEnd=314 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=315 CharacterOffsetEnd=316 PartOfSpeech=cc NamedEntityTag=O]
+[Text=sorpresa CharacterOffsetBegin=317 CharacterOffsetEnd=325 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=326 CharacterOffsetEnd=328 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=329 CharacterOffsetEnd=331 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=marco CharacterOffsetBegin=332 CharacterOffsetEnd=337 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=338 CharacterOffsetEnd=340 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=341 CharacterOffsetEnd=344 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=concepciones CharacterOffsetBegin=345 CharacterOffsetEnd=357 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=358 CharacterOffsetEnd=360 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=361 CharacterOffsetEnd=364 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=salvajes CharacterOffsetBegin=365 CharacterOffsetEnd=373 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=374 CharacterOffsetEnd=377 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=relación CharacterOffsetBegin=378 CharacterOffsetEnd=386 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=387 CharacterOffsetEnd=388 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=388 CharacterOffsetEnd=389 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=uso CharacterOffsetBegin=390 CharacterOffsetEnd=393 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=394 CharacterOffsetEnd=396 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=397 CharacterOffsetEnd=399 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=expresión CharacterOffsetBegin=400 CharacterOffsetEnd=409 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=410 CharacterOffsetEnd=411 PartOfSpeech=fe NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=411 CharacterOffsetEnd=413 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=mano CharacterOffsetBegin=414 CharacterOffsetEnd=418 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=invisible CharacterOffsetBegin=419 CharacterOffsetEnd=428 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=429 CharacterOffsetEnd=431 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Júpiter CharacterOffsetBegin=432 CharacterOffsetEnd=439 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=" CharacterOffsetBegin=439 CharacterOffsetEnd=440 PartOfSpeech=fe NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=440 CharacterOffsetEnd=441 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sadv
+        (grup.adv
+          (sp
+            (prep (sp000 En))
+            (sn
+              (spec (dd0000 este))
+              (grup.nom (nc0s000 artículo))))))
+      (morfema.pronominal (pp000000 se))
+      (grup.verb (vmif000 abordará))
+      (sp (fc ,)
+        (prep (sp000 en))
+        (sn
+          (grup.nom
+            (s.a
+              (grup.a (ao0000 segundo)))
+            (nc0s000 lugar)))
+        (fc ,))
+      (sadv
+        (grup.adv (rg cómo))))
+    (sn
+      (grup.nom (np00000 Smith)))
+    (grup.verb (vmip000 relaciona))
+    (sn
+      (spec (da0000 las))
+      (grup.nom (nc0p000 características)
+        (s.a
+          (grup.a (aq0000 propias)))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (spec (di0000 un))
+        (grup.nom
+          (grup.nom
+            (grup.nom (nc0s000 objeto))
+            (conj (cc o))
+            (grup.nom (nc0s000 evento)))
+          (S
+            (relatiu (pr000000 que))
+            (grup.verb (vmip000 produce))
+            (sn
+              (grup.nom
+                (grup.nom (nc0s000 asombro))
+                (conj (cc o))
+                (grup.nom (nc0s000 sorpresa))))
+            (sp
+              (prep (sp000 en))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 marco)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 las))
+                      (grup.nom (nc0p000 concepciones)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (spec (da0000 los))
+                            (grup.nom
+                              (s.a
+                                (grup.a (aq0000 salvajes)))
+                              (sp
+                                (prep (sp000 con))
+                                (sn
+                                  (grup.nom (nc0s000 relación))))
+                              (sp
+                                (prep (sp000 a))
+                                (sn
+                                  (spec (da0000 el))
+                                  (grup.nom (nc0s000 uso)
+                                    (sp
+                                      (prep (sp000 de))
+                                      (sn
+                                        (spec (da0000 la))
+                                        (grup.nom (nc0s000 expresión)))))))
+                              (sn (fe ")
+                                (spec (da0000 la))
+                                (grup.nom (nc0s000 mano)
+                                  (s.a
+                                    (grup.a (aq0000 invisible)))
+                                  (sp
+                                    (prep (sp000 de))
+                                    (sn
+                                      (grup.nom (np00000 Júpiter)))))
+                                (fe ")))))))))))))))
+    (fp .)))
+
+Sentence #3 (24 tokens):
+En tercer lugar, se analizará la explicación que Smith brinda sobre lo que es el “curso ordinario de las cosas”.
+[Text=En CharacterOffsetBegin=442 CharacterOffsetEnd=444 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=tercer CharacterOffsetBegin=445 CharacterOffsetEnd=451 PartOfSpeech=ao0000 NamedEntityTag=O]
+[Text=lugar CharacterOffsetBegin=452 CharacterOffsetEnd=457 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=457 CharacterOffsetEnd=458 PartOfSpeech=fc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=459 CharacterOffsetEnd=461 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=analizará CharacterOffsetBegin=462 CharacterOffsetEnd=471 PartOfSpeech=vmif000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=472 CharacterOffsetEnd=474 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=explicación CharacterOffsetBegin=475 CharacterOffsetEnd=486 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=487 CharacterOffsetEnd=490 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=Smith CharacterOffsetBegin=491 CharacterOffsetEnd=496 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=brinda CharacterOffsetBegin=497 CharacterOffsetEnd=503 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=504 CharacterOffsetEnd=509 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=lo CharacterOffsetBegin=510 CharacterOffsetEnd=512 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=513 CharacterOffsetEnd=516 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=517 CharacterOffsetEnd=519 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=520 CharacterOffsetEnd=522 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=523 CharacterOffsetEnd=524 PartOfSpeech=fe NamedEntityTag=O]
+[Text=curso CharacterOffsetBegin=524 CharacterOffsetEnd=529 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=ordinario CharacterOffsetBegin=530 CharacterOffsetEnd=539 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=540 CharacterOffsetEnd=542 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=543 CharacterOffsetEnd=546 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cosas CharacterOffsetBegin=547 CharacterOffsetEnd=552 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=552 CharacterOffsetEnd=553 PartOfSpeech=fe NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=553 CharacterOffsetEnd=554 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (grup.nom
+          (s.a
+            (grup.a (ao0000 tercer)))
+          (nc0s000 lugar)))
+      (fc ,))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmif000 analizará))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 explicación)
+        (S
+          (relatiu (pr000000 que))
+          (sn
+            (grup.nom (np00000 Smith)))
+          (grup.verb (vmip000 brinda))
+          (sp
+            (prep (sp000 sobre))
+            (sn
+              (spec (da0000 lo))
+              (grup.nom
+                (S
+                  (relatiu (pr000000 que))
+                  (grup.verb (vsip000 es))
+                  (sn
+                    (spec (da0000 el))
+                    (grup.nom (fe ") (nc0s000 curso)
+                      (s.a
+                        (grup.a (aq0000 ordinario)))
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (da0000 las))
+                          (grup.nom (nc0p000 cosas))))
+                      (fe "))))))))))
+    (fp .)))
+

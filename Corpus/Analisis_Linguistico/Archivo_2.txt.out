@@ -1,0 +1,439 @@
+Sentence #1 (16 tokens):
+A partir de partes aéreas de Xenophyllum poposum (Phil) V.A. Funk (ex.
+[Text=A CharacterOffsetBegin=0 CharacterOffsetEnd=1 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=partir CharacterOffsetBegin=2 CharacterOffsetEnd=8 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=9 CharacterOffsetEnd=11 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=partes CharacterOffsetBegin=12 CharacterOffsetEnd=18 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=aéreas CharacterOffsetBegin=19 CharacterOffsetEnd=25 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=26 CharacterOffsetEnd=28 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Xenophyllum CharacterOffsetBegin=29 CharacterOffsetEnd=40 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=poposum CharacterOffsetBegin=41 CharacterOffsetEnd=48 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=49 CharacterOffsetEnd=50 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Phil CharacterOffsetBegin=50 CharacterOffsetEnd=54 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==RRB= CharacterOffsetBegin=54 CharacterOffsetEnd=55 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=V.A. CharacterOffsetBegin=56 CharacterOffsetEnd=60 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Funk CharacterOffsetBegin=61 CharacterOffsetEnd=65 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=66 CharacterOffsetEnd=67 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=ex CharacterOffsetBegin=67 CharacterOffsetEnd=69 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=69 CharacterOffsetEnd=70 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 A))
+      (S
+        (infinitiu (vmn0000 partir))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0p000 partes))))))
+    (S
+      (participi (aq0000 aéreas))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (sn
+            (grup.nom (np00000 Xenophyllum)
+              (s.a
+                (grup.a (aq0000 poposum)))
+              (sn
+                (grup.nom (fpa =LRB=) (np00000 Phil) (fpt =RRB=)))))
+          (sn
+            (grup.nom (np00000 V.A.) (np00000 Funk))))
+        (inc
+          (S (fpa =LRB=)
+            (S
+              (participi (aq0000 ex)))))))
+    (fp .)))
+
+Sentence #2 (4 tokens):
+Werneria poposa Phil.
+[Text=Werneria CharacterOffsetBegin=71 CharacterOffsetEnd=79 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=poposa CharacterOffsetBegin=80 CharacterOffsetEnd=86 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=Phil CharacterOffsetBegin=87 CharacterOffsetEnd=91 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=. CharacterOffsetBegin=91 CharacterOffsetEnd=92 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (np00000 Werneria)
+        (S
+          (participi (aq0000 poposa)))))
+    (sn
+      (grup.nom (np00000 Phil)))
+    (fp .)))
+
+Sentence #3 (35 tokens):
+), cuyo nombre común en Argentina es “poposa”, “puposa” o “fosfosa”, se aisló e identificó la sustancia 2R-(-)-6-hidroxitremetona.
+[Text==RRB= CharacterOffsetBegin=93 CharacterOffsetEnd=94 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=94 CharacterOffsetEnd=95 PartOfSpeech=fc NamedEntityTag=O]
+[Text=cuyo CharacterOffsetBegin=96 CharacterOffsetEnd=100 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=nombre CharacterOffsetBegin=101 CharacterOffsetEnd=107 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=común CharacterOffsetBegin=108 CharacterOffsetEnd=113 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=114 CharacterOffsetEnd=116 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=117 CharacterOffsetEnd=126 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=es CharacterOffsetBegin=127 CharacterOffsetEnd=129 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=130 CharacterOffsetEnd=131 PartOfSpeech=fe NamedEntityTag=O]
+[Text=poposa CharacterOffsetBegin=131 CharacterOffsetEnd=137 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=137 CharacterOffsetEnd=138 PartOfSpeech=fe NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=138 CharacterOffsetEnd=139 PartOfSpeech=fc NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=140 CharacterOffsetEnd=141 PartOfSpeech=fe NamedEntityTag=O]
+[Text=puposa CharacterOffsetBegin=141 CharacterOffsetEnd=147 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=147 CharacterOffsetEnd=148 PartOfSpeech=fe NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=149 CharacterOffsetEnd=150 PartOfSpeech=cc NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=151 CharacterOffsetEnd=152 PartOfSpeech=fe NamedEntityTag=O]
+[Text=fosfosa CharacterOffsetBegin=152 CharacterOffsetEnd=159 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=159 CharacterOffsetEnd=160 PartOfSpeech=fe NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=160 CharacterOffsetEnd=161 PartOfSpeech=fc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=162 CharacterOffsetEnd=164 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=aisló CharacterOffsetBegin=165 CharacterOffsetEnd=170 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=e CharacterOffsetBegin=171 CharacterOffsetEnd=172 PartOfSpeech=cc NamedEntityTag=O]
+[Text=identificó CharacterOffsetBegin=173 CharacterOffsetEnd=183 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=184 CharacterOffsetEnd=186 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sustancia CharacterOffsetBegin=187 CharacterOffsetEnd=196 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=2R CharacterOffsetBegin=197 CharacterOffsetEnd=199 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=199 CharacterOffsetEnd=200 PartOfSpeech=fg NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=200 CharacterOffsetEnd=201 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=201 CharacterOffsetEnd=202 PartOfSpeech=fg NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=202 CharacterOffsetEnd=203 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=-6 CharacterOffsetBegin=203 CharacterOffsetEnd=205 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=205 CharacterOffsetEnd=206 PartOfSpeech=fg NamedEntityTag=O]
+[Text=hidroxitremetona CharacterOffsetBegin=206 CharacterOffsetEnd=222 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=222 CharacterOffsetEnd=223 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (fpt =RRB=))
+        (grup.nom
+          (S (fc ,)
+            (sn
+              (relatiu (pr000000 cuyo))
+              (grup.nom (nc0s000 nombre)
+                (s.a
+                  (grup.a (aq0000 común)))
+                (sp
+                  (prep (sp000 en))
+                  (sn
+                    (grup.nom (np00000 Argentina))))))
+            (grup.verb (vsip000 es))
+            (s.a (fe ")
+              (grup.a (aq0000 poposa))
+              (fe ")))
+          (sn (fc ,)
+            (grup.nom
+              (grup.nom (fe ") (nc00000 puposa) (fe "))
+              (conj (cc o))
+              (grup.nom (fe ") (nc0s000 fosfosa) (fe ")))
+            (fc ,))))
+      (morfema.verbal (p0000000 se))
+      (grup.verb (vmis000 aisló)))
+    (conj (cc e))
+    (S
+      (grup.verb (vmis000 identificó))
+      (sn
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 sustancia)
+            (sn
+              (grup.nom (z0 2R)))
+            (sn (fg -)
+              (grup.nom
+                (sn
+                  (grup.nom (fpa =LRB=) (fg -) (fpt =RRB=)))
+                (z0 -6))
+              (fg -))))
+        (sn
+          (grup.nom (nc0s000 hidroxitremetona)))))
+    (fp .)))
+
+Sentence #4 (23 tokens):
+En el presente trabajo se evaluó, in vitro, la actividad antifúngica de esta sustancia, frente a Fusarium semitectum Berk.
+[Text=En CharacterOffsetBegin=224 CharacterOffsetEnd=226 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=227 CharacterOffsetEnd=229 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presente CharacterOffsetBegin=230 CharacterOffsetEnd=238 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=239 CharacterOffsetEnd=246 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=247 CharacterOffsetEnd=249 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=evaluó CharacterOffsetBegin=250 CharacterOffsetEnd=256 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=256 CharacterOffsetEnd=257 PartOfSpeech=fc NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=258 CharacterOffsetEnd=260 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=vitro CharacterOffsetBegin=261 CharacterOffsetEnd=266 PartOfSpeech=nc0s000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=266 CharacterOffsetEnd=267 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=268 CharacterOffsetEnd=270 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=actividad CharacterOffsetBegin=271 CharacterOffsetEnd=280 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=antifúngica CharacterOffsetBegin=281 CharacterOffsetEnd=292 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=293 CharacterOffsetEnd=295 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=esta CharacterOffsetBegin=296 CharacterOffsetEnd=300 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=sustancia CharacterOffsetBegin=301 CharacterOffsetEnd=310 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=310 CharacterOffsetEnd=311 PartOfSpeech=fc NamedEntityTag=O]
+[Text=frente CharacterOffsetBegin=312 CharacterOffsetEnd=318 PartOfSpeech=rg NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=319 CharacterOffsetEnd=320 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Fusarium CharacterOffsetBegin=321 CharacterOffsetEnd=329 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=semitectum CharacterOffsetBegin=330 CharacterOffsetEnd=340 PartOfSpeech=nc0s000 NamedEntityTag=ORG]
+[Text=Berk CharacterOffsetBegin=341 CharacterOffsetEnd=345 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=345 CharacterOffsetEnd=346 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (spec (da0000 el))
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 presente)))
+          (nc0s000 trabajo))))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmis000 evaluó))
+    (sn (fc ,)
+      (grup.nom
+        (grup.nom (np00000 in) (nc0s000 vitro))
+        (sn (fc ,)
+          (spec (da0000 la))
+          (grup.nom (nc0s000 actividad)
+            (S
+              (participi (aq0000 antifúngica))
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (dd0000 esta))
+                  (grup.nom (nc0s000 sustancia)
+                    (sp (fc ,)
+                      (sadv
+                        (grup.adv (rg frente)))
+                      (sp
+                        (prep (sp000 a))
+                        (sn
+                          (grup.nom (np00000 Fusarium) (nc0s000 semitectum) (np00000 Berk)))))))))))))
+    (fp .)))
+
+Sentence #5 (37 tokens):
+and Rav, hongo fitopatógeno, aislado de la rizosfera de cultivares de olivo (Olea europea L.) en el valle Antinaco- Los Colorados, departamento Chilecito, provincia de La Rioja, Argentina.
+[Text=and CharacterOffsetBegin=347 CharacterOffsetEnd=350 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=Rav CharacterOffsetBegin=351 CharacterOffsetEnd=354 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=354 CharacterOffsetEnd=355 PartOfSpeech=fc NamedEntityTag=O]
+[Text=hongo CharacterOffsetBegin=356 CharacterOffsetEnd=361 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=fitopatógeno CharacterOffsetBegin=362 CharacterOffsetEnd=374 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=374 CharacterOffsetEnd=375 PartOfSpeech=fc NamedEntityTag=O]
+[Text=aislado CharacterOffsetBegin=376 CharacterOffsetEnd=383 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=384 CharacterOffsetEnd=386 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=387 CharacterOffsetEnd=389 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=rizosfera CharacterOffsetBegin=390 CharacterOffsetEnd=399 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=400 CharacterOffsetEnd=402 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cultivares CharacterOffsetBegin=403 CharacterOffsetEnd=413 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=414 CharacterOffsetEnd=416 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=olivo CharacterOffsetBegin=417 CharacterOffsetEnd=422 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=423 CharacterOffsetEnd=424 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Olea CharacterOffsetBegin=424 CharacterOffsetEnd=428 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=europea CharacterOffsetBegin=429 CharacterOffsetEnd=436 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=L. CharacterOffsetBegin=437 CharacterOffsetEnd=439 PartOfSpeech=nc00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=439 CharacterOffsetEnd=440 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=441 CharacterOffsetEnd=443 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=444 CharacterOffsetEnd=446 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=valle CharacterOffsetBegin=447 CharacterOffsetEnd=452 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=Antinaco CharacterOffsetBegin=453 CharacterOffsetEnd=461 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=- CharacterOffsetBegin=461 CharacterOffsetEnd=462 PartOfSpeech=fg NamedEntityTag=O]
+[Text=Los CharacterOffsetBegin=463 CharacterOffsetEnd=466 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Colorados CharacterOffsetBegin=467 CharacterOffsetEnd=476 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=476 CharacterOffsetEnd=477 PartOfSpeech=fc NamedEntityTag=O]
+[Text=departamento CharacterOffsetBegin=478 CharacterOffsetEnd=490 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=Chilecito CharacterOffsetBegin=491 CharacterOffsetEnd=500 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=500 CharacterOffsetEnd=501 PartOfSpeech=fc NamedEntityTag=O]
+[Text=provincia CharacterOffsetBegin=502 CharacterOffsetEnd=511 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=512 CharacterOffsetEnd=514 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=515 CharacterOffsetEnd=517 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=518 CharacterOffsetEnd=523 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=523 CharacterOffsetEnd=524 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=525 CharacterOffsetEnd=534 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=534 CharacterOffsetEnd=535 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom
+        (grup.nom (np00000 and) (np00000 Rav))
+        (sn (fc ,)
+          (grup.nom (nc0s000 hongo)
+            (s.a
+              (grup.a (aq0000 fitopatógeno)))
+            (S (fc ,)
+              (participi (aq0000 aislado))
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 rizosfera)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0p000 cultivares)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (np00000 olivo)))))))
+                    (sn (fpa =LRB=)
+                      (grup.nom
+                        (grup.nom (np00000 Olea)
+                          (s.a
+                            (grup.a (aq0000 europea))))
+                        (sn
+                          (grup.nom (nc00000 L.))))
+                      (fpt =RRB=)))))
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 valle)
+                    (sn
+                      (grup.nom (np00000 Antinaco)))))))))))
+    (sn (fg -)
+      (spec (da0000 Los))
+      (grup.nom
+        (grup.nom (np00000 Colorados))
+        (fc ,)
+        (sn
+          (grup.nom (nc0s000 departamento)
+            (sn
+              (grup.nom (np00000 Chilecito)))))
+        (fc ,)
+        (sn
+          (grup.nom (nc0s000 provincia)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 La))
+                (grup.nom (np00000 Rioja))))))
+        (fc ,)
+        (sn
+          (grup.nom (np00000 Argentina)))))
+    (fp .)))
+
+Sentence #6 (30 tokens):
+Mediante la técnica de difusión en agar se ensayaron diferentes concentraciones: 20, 30 y 40 µg/mL de 2R-(-)-6-hidroxitremetona.
+[Text=Mediante CharacterOffsetBegin=536 CharacterOffsetEnd=544 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=545 CharacterOffsetEnd=547 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=técnica CharacterOffsetBegin=548 CharacterOffsetEnd=555 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=556 CharacterOffsetEnd=558 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=difusión CharacterOffsetBegin=559 CharacterOffsetEnd=567 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=568 CharacterOffsetEnd=570 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=agar CharacterOffsetBegin=571 CharacterOffsetEnd=575 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=576 CharacterOffsetEnd=578 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=ensayaron CharacterOffsetBegin=579 CharacterOffsetEnd=588 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=diferentes CharacterOffsetBegin=589 CharacterOffsetEnd=599 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=concentraciones CharacterOffsetBegin=600 CharacterOffsetEnd=615 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=615 CharacterOffsetEnd=616 PartOfSpeech=fd NamedEntityTag=O]
+[Text=20 CharacterOffsetBegin=617 CharacterOffsetEnd=619 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=619 CharacterOffsetEnd=620 PartOfSpeech=fc NamedEntityTag=O]
+[Text=30 CharacterOffsetBegin=621 CharacterOffsetEnd=623 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=624 CharacterOffsetEnd=625 PartOfSpeech=cc NamedEntityTag=O]
+[Text=40 CharacterOffsetBegin=626 CharacterOffsetEnd=628 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=µg CharacterOffsetBegin=629 CharacterOffsetEnd=631 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=/ CharacterOffsetBegin=631 CharacterOffsetEnd=632 PartOfSpeech=fh NamedEntityTag=O]
+[Text=mL CharacterOffsetBegin=632 CharacterOffsetEnd=634 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=635 CharacterOffsetEnd=637 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=2R CharacterOffsetBegin=638 CharacterOffsetEnd=640 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=640 CharacterOffsetEnd=641 PartOfSpeech=fg NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=641 CharacterOffsetEnd=642 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=642 CharacterOffsetEnd=643 PartOfSpeech=fg NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=643 CharacterOffsetEnd=644 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=-6 CharacterOffsetBegin=644 CharacterOffsetEnd=646 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=646 CharacterOffsetEnd=647 PartOfSpeech=fg NamedEntityTag=O]
+[Text=hidroxitremetona CharacterOffsetBegin=647 CharacterOffsetEnd=663 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=663 CharacterOffsetEnd=664 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 Mediante))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 técnica)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 difusión))))
+          (sp
+            (prep (sp000 en))
+            (S
+              (infinitiu (vmn0000 agar)))))))
+    (sn
+      (grup.nom (pp000000 se)))
+    (grup.verb (vmis000 ensayaron))
+    (sn
+      (grup.nom
+        (s.a
+          (grup.a (aq0000 diferentes)))
+        (nc0p000 concentraciones)))
+    (sn
+      (sn (fd :)
+        (grup.nom
+          (grup.nom (z0 20))
+          (fc ,)
+          (grup.nom (z0 30))
+          (conj (cc y))
+          (grup.nom (z0 40))))
+      (inc
+        (sn
+          (grup.nom
+            (grup.nom (nc00000 µg))
+            (fh /)
+            (grup.nom (np00000 mL)))))
+      (conj (sp000 de))
+      (sn
+        (sn
+          (grup.nom (np00000 2R)
+            (sn (fg -)
+              (grup.nom
+                (sn
+                  (grup.nom (fpa =LRB=) (fg -) (fpt =RRB=)))
+                (z0 -6))
+              (fg -))))
+        (sn
+          (grup.nom (nc0s000 hidroxitremetona)))))
+    (fp .)))
+
+Sentence #7 (17 tokens):
+La concentración de 40 µg/mL produjo mayor inhibición del crecimiento frente a F. semitectum
+[Text=La CharacterOffsetBegin=665 CharacterOffsetEnd=667 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=concentración CharacterOffsetBegin=668 CharacterOffsetEnd=681 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=682 CharacterOffsetEnd=684 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=40 CharacterOffsetBegin=685 CharacterOffsetEnd=687 PartOfSpeech=w NamedEntityTag=O]
+[Text=µg CharacterOffsetBegin=688 CharacterOffsetEnd=690 PartOfSpeech=p0000000 NamedEntityTag=ORG]
+[Text=/ CharacterOffsetBegin=690 CharacterOffsetEnd=691 PartOfSpeech=fh NamedEntityTag=ORG]
+[Text=mL CharacterOffsetBegin=691 CharacterOffsetEnd=693 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=produjo CharacterOffsetBegin=694 CharacterOffsetEnd=701 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=mayor CharacterOffsetBegin=702 CharacterOffsetEnd=707 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=inhibición CharacterOffsetBegin=708 CharacterOffsetEnd=718 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=719 CharacterOffsetEnd=720 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=720 CharacterOffsetEnd=722 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=crecimiento CharacterOffsetBegin=723 CharacterOffsetEnd=734 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=frente CharacterOffsetBegin=735 CharacterOffsetEnd=741 PartOfSpeech=rg NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=742 CharacterOffsetEnd=743 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=F. CharacterOffsetBegin=744 CharacterOffsetEnd=746 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=semitectum CharacterOffsetBegin=747 CharacterOffsetEnd=757 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 La))
+      (grup.nom (nc0s000 concentración)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (w 40))))
+        (sn
+          (grup.nom (p0000000 µg) (fh /) (np00000 mL)))))
+    (grup.verb (vmis000 produjo))
+    (sn
+      (grup.nom
+        (s.a
+          (grup.a (aq0000 mayor)))
+        (nc0s000 inhibición)))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 crecimiento)
+          (S
+            (sadv
+              (grup.adv (rg frente)
+                (sp
+                  (prep (sp000 a))
+                  (sn
+                    (grup.nom (np00000 F.))))))
+            (participi (aq0000 semitectum))))))))
+

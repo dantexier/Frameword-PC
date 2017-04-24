@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>La</word>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>instancia</word>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>socio</word>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>cultural</word>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>contemporánea</word>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>muestra</word>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>vmip000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>cambios</word>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>y</word>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>cc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>transformaciones</word>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>en</word>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>79</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>la</word>
+            <CharacterOffsetBegin>80</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>concepción</word>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>de</word>
+            <CharacterOffsetBegin>94</CharacterOffsetBegin>
+            <CharacterOffsetEnd>96</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>lo</word>
+            <CharacterOffsetBegin>97</CharacterOffsetBegin>
+            <CharacterOffsetEnd>99</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>institucional</word>
+            <CharacterOffsetBegin>100</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>heredada</word>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>122</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>de</word>
+            <CharacterOffsetBegin>123</CharacterOffsetBegin>
+            <CharacterOffsetEnd>125</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>la</word>
+            <CharacterOffsetBegin>126</CharacterOffsetBegin>
+            <CharacterOffsetEnd>128</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>Modernidad</word>
+            <CharacterOffsetBegin>129</CharacterOffsetBegin>
+            <CharacterOffsetEnd>139</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>OTROS</NER>
+          </token>
+          <token id="20">
+            <word>.</word>
+            <CharacterOffsetBegin>139</CharacterOffsetBegin>
+            <CharacterOffsetEnd>140</CharacterOffsetEnd>
+            <POS>fp</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (sn (spec (da0000 La)) (grup.nom (nc0s000 instancia) (sn (grup.nom (nc0s000 socio) (s.a (grup.a (aq0000 cultural))))) (S (participi (aq0000 contemporánea))))) (grup.verb (vmip000 muestra)) (sn (grup.nom (grup.nom (nc0p000 cambios)) (conj (cc y)) (grup.nom (nc0p000 transformaciones)))) (sp (prep (sp000 en)) (sn (spec (da0000 la)) (grup.nom (nc0s000 concepción) (sp (prep (sp000 de)) (sn (spec (da0000 lo)) (grup.nom (s.a (grup.a (aq0000 institucional))) (S (participi (aq0000 heredada)) (sp (prep (sp000 de)) (sn (spec (da0000 la)) (grup.nom (np00000 Modernidad))))))))))) (fp .))) </parse>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>La</word>
+            <CharacterOffsetBegin>141</CharacterOffsetBegin>
+            <CharacterOffsetEnd>143</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>incorporación</word>
+            <CharacterOffsetBegin>144</CharacterOffsetBegin>
+            <CharacterOffsetEnd>157</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>de</word>
+            <CharacterOffsetBegin>158</CharacterOffsetBegin>
+            <CharacterOffsetEnd>160</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>las</word>
+            <CharacterOffsetBegin>161</CharacterOffsetBegin>
+            <CharacterOffsetEnd>164</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>innovaciones</word>
+            <CharacterOffsetBegin>165</CharacterOffsetBegin>
+            <CharacterOffsetEnd>177</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>de</word>
+            <CharacterOffsetBegin>178</CharacterOffsetBegin>
+            <CharacterOffsetEnd>180</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>la</word>
+            <CharacterOffsetBegin>181</CharacterOffsetBegin>
+            <CharacterOffsetEnd>183</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>tecnología</word>
+            <CharacterOffsetBegin>184</CharacterOffsetBegin>
+            <CharacterOffsetEnd>194</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>vinculada</word>
+            <CharacterOffsetBegin>195</CharacterOffsetBegin>
+            <CharacterOffsetEnd>204</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>a</word>
+            <CharacterOffsetBegin>205</CharacterOffsetBegin>
+            <CharacterOffsetEnd>206</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>la</word>
+            <CharacterOffsetBegin>207</CharacterOffsetBegin>
+            <CharacterOffsetEnd>209</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>comunicación</word>
+            <CharacterOffsetBegin>210</CharacterOffsetBegin>
+            <CharacterOffsetEnd>222</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>y</word>
+            <CharacterOffsetBegin>223</CharacterOffsetBegin>
+            <CharacterOffsetEnd>224</CharacterOffsetEnd>
+            <POS>cc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>los</word>
+            <CharacterOffsetBegin>225</CharacterOffsetBegin>
+            <CharacterOffsetEnd>228</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>rasgos</word>
+            <CharacterOffsetBegin>229</CharacterOffsetBegin>
+            <CharacterOffsetEnd>235</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>posmodernos</word>
+            <CharacterOffsetBegin>236</CharacterOffsetBegin>
+            <CharacterOffsetEnd>247</CharacterOffsetEnd>
+            <POS>vmip000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>en</word>
+            <CharacterOffsetBegin>248</CharacterOffsetBegin>
+            <CharacterOffsetEnd>250</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>la</word>
+            <CharacterOffsetBegin>251</CharacterOffsetBegin>
+            <CharacterOffsetEnd>253</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>sociedad</word>
+            <CharacterOffsetBegin>254</CharacterOffsetBegin>
+            <CharacterOffsetEnd>262</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>introdujeron</word>
+            <CharacterOffsetBegin>263</CharacterOffsetBegin>
+            <CharacterOffsetEnd>275</CharacterOffsetEnd>
+            <POS>vmis000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>nuevos</word>
+            <CharacterOffsetBegin>276</CharacterOffsetBegin>
+            <CharacterOffsetEnd>282</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>modos</word>
+            <CharacterOffsetBegin>283</CharacterOffsetBegin>
+            <CharacterOffsetEnd>288</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>de</word>
+            <CharacterOffsetBegin>289</CharacterOffsetBegin>
+            <CharacterOffsetEnd>291</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>establecimiento</word>
+            <CharacterOffsetBegin>292</CharacterOffsetBegin>
+            <CharacterOffsetEnd>307</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>de</word>
+            <CharacterOffsetBegin>308</CharacterOffsetBegin>
+            <CharacterOffsetEnd>310</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>lazos</word>
+            <CharacterOffsetBegin>311</CharacterOffsetBegin>
+            <CharacterOffsetEnd>316</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>sociales</word>
+            <CharacterOffsetBegin>317</CharacterOffsetBegin>
+            <CharacterOffsetEnd>325</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>entre</word>
+            <CharacterOffsetBegin>326</CharacterOffsetBegin>
+            <CharacterOffsetEnd>331</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>los</word>
+            <CharacterOffsetBegin>332</CharacterOffsetBegin>
+            <CharacterOffsetEnd>335</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>sujetos</word>
+            <CharacterOffsetBegin>336</CharacterOffsetBegin>
+            <CharacterOffsetEnd>343</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>y</word>
+            <CharacterOffsetBegin>344</CharacterOffsetBegin>
+            <CharacterOffsetEnd>345</CharacterOffsetEnd>
+            <POS>cc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>entre</word>
+            <CharacterOffsetBegin>346</CharacterOffsetBegin>
+            <CharacterOffsetEnd>351</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>éstos</word>
+            <CharacterOffsetBegin>352</CharacterOffsetBegin>
+            <CharacterOffsetEnd>357</CharacterOffsetEnd>
+            <POS>pd000000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="34">
+            <word>y</word>
+            <CharacterOffsetBegin>358</CharacterOffsetBegin>
+            <CharacterOffsetEnd>359</CharacterOffsetEnd>
+            <POS>cc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>las</word>
+            <CharacterOffsetBegin>360</CharacterOffsetBegin>
+            <CharacterOffsetEnd>363</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="36">
+            <word>instituciones</word>
+            <CharacterOffsetBegin>364</CharacterOffsetBegin>
+            <CharacterOffsetEnd>377</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="37">
+            <word>,</word>
+            <CharacterOffsetBegin>377</CharacterOffsetBegin>
+            <CharacterOffsetEnd>378</CharacterOffsetEnd>
+            <POS>fc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="38">
+            <word>reconfigurando</word>
+            <CharacterOffsetBegin>379</CharacterOffsetBegin>
+            <CharacterOffsetEnd>393</CharacterOffsetEnd>
+            <POS>vmg0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="39">
+            <word>las</word>
+            <CharacterOffsetBegin>394</CharacterOffsetBegin>
+            <CharacterOffsetEnd>397</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="40">
+            <word>formas</word>
+            <CharacterOffsetBegin>398</CharacterOffsetBegin>
+            <CharacterOffsetEnd>404</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="41">
+            <word>de</word>
+            <CharacterOffsetBegin>405</CharacterOffsetBegin>
+            <CharacterOffsetEnd>407</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="42">
+            <word>sociabilidad</word>
+            <CharacterOffsetBegin>408</CharacterOffsetBegin>
+            <CharacterOffsetEnd>420</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="43">
+            <word>,</word>
+            <CharacterOffsetBegin>420</CharacterOffsetBegin>
+            <CharacterOffsetEnd>421</CharacterOffsetEnd>
+            <POS>fc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="44">
+            <word>de</word>
+            <CharacterOffsetBegin>422</CharacterOffsetBegin>
+            <CharacterOffsetEnd>424</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="45">
+            <word>reconocimiento</word>
+            <CharacterOffsetBegin>425</CharacterOffsetBegin>
+            <CharacterOffsetEnd>439</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="46">
+            <word>y</word>
+            <CharacterOffsetBegin>440</CharacterOffsetBegin>
+            <CharacterOffsetEnd>441</CharacterOffsetEnd>
+            <POS>cc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="47">
+            <word>vínculo</word>
+            <CharacterOffsetBegin>442</CharacterOffsetBegin>
+            <CharacterOffsetEnd>449</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="48">
+            <word>social</word>
+            <CharacterOffsetBegin>450</CharacterOffsetBegin>
+            <CharacterOffsetEnd>456</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="49">
+            <word>,</word>
+            <CharacterOffsetBegin>456</CharacterOffsetBegin>
+            <CharacterOffsetEnd>457</CharacterOffsetEnd>
+            <POS>fc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="50">
+            <word>transferencia</word>
+            <CharacterOffsetBegin>458</CharacterOffsetBegin>
+            <CharacterOffsetEnd>471</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="51">
+            <word>de</word>
+            <CharacterOffsetBegin>472</CharacterOffsetBegin>
+            <CharacterOffsetEnd>474</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="52">
+            <word>la</word>
+            <CharacterOffsetBegin>475</CharacterOffsetBegin>
+            <CharacterOffsetEnd>477</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="53">
+            <word>herencia</word>
+            <CharacterOffsetBegin>478</CharacterOffsetBegin>
+            <CharacterOffsetEnd>486</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="54">
+            <word>cultural</word>
+            <CharacterOffsetBegin>487</CharacterOffsetBegin>
+            <CharacterOffsetEnd>495</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="55">
+            <word>,</word>
+            <CharacterOffsetBegin>495</CharacterOffsetBegin>
+            <CharacterOffsetEnd>496</CharacterOffsetEnd>
+            <POS>fc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="56">
+            <word>participación</word>
+            <CharacterOffsetBegin>497</CharacterOffsetBegin>
+            <CharacterOffsetEnd>510</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="57">
+            <word>ciudadana</word>
+            <CharacterOffsetBegin>511</CharacterOffsetBegin>
+            <CharacterOffsetEnd>520</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="58">
+            <word>,</word>
+            <CharacterOffsetBegin>520</CharacterOffsetBegin>
+            <CharacterOffsetEnd>521</CharacterOffsetEnd>
+            <POS>fc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="59">
+            <word>inserción</word>
+            <CharacterOffsetBegin>522</CharacterOffsetBegin>
+            <CharacterOffsetEnd>531</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="60">
+            <word>en</word>
+            <CharacterOffsetBegin>532</CharacterOffsetBegin>
+            <CharacterOffsetEnd>534</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="61">
+            <word>el</word>
+            <CharacterOffsetBegin>535</CharacterOffsetBegin>
+            <CharacterOffsetEnd>537</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="62">
+            <word>mercado</word>
+            <CharacterOffsetBegin>538</CharacterOffsetBegin>
+            <CharacterOffsetEnd>545</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="63">
+            <word>laboral</word>
+            <CharacterOffsetBegin>546</CharacterOffsetBegin>
+            <CharacterOffsetEnd>553</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="64">
+            <word>.</word>
+            <CharacterOffsetBegin>553</CharacterOffsetBegin>
+            <CharacterOffsetEnd>554</CharacterOffsetEnd>
+            <POS>fp</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (S (sn (spec (da0000 La)) (grup.nom (nc0s000 incorporación) (sp (prep (sp000 de)) (sn (spec (da0000 las)) (grup.nom (nc0p000 innovaciones) (sp (prep (sp000 de)) (sn (spec (da0000 la)) (grup.nom (nc0s000 tecnología)))) (S (participi (aq0000 vinculada)) (sp (prep (sp000 a)) (sn (sn (spec (da0000 la)) (grup.nom (nc0s000 comunicación))) (conj (cc y)) (sn (spec (da0000 los)) (grup.nom (nc0p000 rasgos))))))))))) (grup.verb (vmip000 posmodernos)) (sp (prep (sp000 en)) (sn (spec (da0000 la)) (grup.nom (nc0s000 sociedad))))) (grup.verb (vmis000 introdujeron)) (sn (grup.nom (s.a (grup.a (aq0000 nuevos))) (nc0p000 modos) (sp (prep (sp000 de)) (sn (grup.nom (nc0s000 establecimiento) (sp (prep (sp000 de)) (sn (grup.nom (nc0p000 lazos) (s.a (grup.a (aq0000 sociales))))))))))) (sp (prep (sp000 entre)) (sn (spec (da0000 los)) (grup.nom (S (S (participi (aq0000 sujetos))) (conj (cc y)) (sp (prep (sp000 entre)) (sn (sn (grup.nom (pd000000 éstos))) (conj (cc y)) (sn (spec (da0000 las)) (grup.nom (nc0p000 instituciones) (S (fc ,) (gerundi (vmg0000 reconfigurando)) (sn (spec (da0000 las)) (grup.nom (nc0p000 formas) (sp (prep (sp000 de)) (sn (grup.nom (grup.nom (grup.nom (nc0s000 sociabilidad) (sp (fc ,) (prep (sp000 de)) (sn (grup.nom (nc0s000 reconocimiento))))) (conj (cc y)) (grup.nom (nc0s000 vínculo) (s.a (grup.a (aq0000 social))))) (sn (fc ,) (grup.nom (nc0s000 transferencia) (sp (prep (sp000 de)) (sn (spec (da0000 la)) (grup.nom (nc0s000 herencia) (s.a (grup.a (aq0000 cultural))))))) (fc ,))))))))))))) (nc0s000 participación) (s.a (grup.a (aq0000 ciudadana))) (sn (fc ,) (grup.nom (nc0s000 inserción) (sp (prep (sp000 en)) (sn (spec (da0000 el)) (grup.nom (nc0s000 mercado) (s.a (grup.a (aq0000 laboral))))))))))) (fp .))) </parse>
+      </sentence>
+      <sentence id="3">
+        <tokens>
+          <token id="1">
+            <word>La</word>
+            <CharacterOffsetBegin>555</CharacterOffsetBegin>
+            <CharacterOffsetEnd>557</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>vinculación</word>
+            <CharacterOffsetBegin>558</CharacterOffsetBegin>
+            <CharacterOffsetEnd>569</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Comunicación</word>
+            <CharacterOffsetBegin>570</CharacterOffsetBegin>
+            <CharacterOffsetEnd>582</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="4">
+            <word>-</word>
+            <CharacterOffsetBegin>583</CharacterOffsetBegin>
+            <CharacterOffsetEnd>584</CharacterOffsetEnd>
+            <POS>fg</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="5">
+            <word>Educación</word>
+            <CharacterOffsetBegin>585</CharacterOffsetBegin>
+            <CharacterOffsetEnd>594</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="6">
+            <word>-</word>
+            <CharacterOffsetBegin>595</CharacterOffsetBegin>
+            <CharacterOffsetEnd>596</CharacterOffsetEnd>
+            <POS>fg</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="7">
+            <word>Cultura</word>
+            <CharacterOffsetBegin>597</CharacterOffsetBegin>
+            <CharacterOffsetEnd>604</CharacterOffsetEnd>
+            <POS>np00000</POS>
+            <NER>ORG</NER>
+          </token>
+          <token id="8">
+            <word>se</word>
+            <CharacterOffsetBegin>605</CharacterOffsetBegin>
+            <CharacterOffsetEnd>607</CharacterOffsetEnd>
+            <POS>pp000000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>actualiza</word>
+            <CharacterOffsetBegin>608</CharacterOffsetBegin>
+            <CharacterOffsetEnd>617</CharacterOffsetEnd>
+            <POS>vmip000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>,</word>
+            <CharacterOffsetBegin>617</CharacterOffsetBegin>
+            <CharacterOffsetEnd>618</CharacterOffsetEnd>
+            <POS>fc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>atravesando</word>
+            <CharacterOffsetBegin>619</CharacterOffsetBegin>
+            <CharacterOffsetEnd>630</CharacterOffsetEnd>
+            <POS>vmg0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>procesos</word>
+            <CharacterOffsetBegin>631</CharacterOffsetBegin>
+            <CharacterOffsetEnd>639</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>de</word>
+            <CharacterOffsetBegin>640</CharacterOffsetBegin>
+            <CharacterOffsetEnd>642</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>socialización</word>
+            <CharacterOffsetBegin>643</CharacterOffsetBegin>
+            <CharacterOffsetEnd>656</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>y</word>
+            <CharacterOffsetBegin>657</CharacterOffsetBegin>
+            <CharacterOffsetEnd>658</CharacterOffsetEnd>
+            <POS>cc</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>reconocimiento</word>
+            <CharacterOffsetBegin>659</CharacterOffsetBegin>
+            <CharacterOffsetEnd>673</CharacterOffsetEnd>
+            <POS>nc0s000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>social</word>
+            <CharacterOffsetBegin>674</CharacterOffsetBegin>
+            <CharacterOffsetEnd>680</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>en</word>
+            <CharacterOffsetBegin>681</CharacterOffsetBegin>
+            <CharacterOffsetEnd>683</CharacterOffsetEnd>
+            <POS>sp000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>los</word>
+            <CharacterOffsetBegin>684</CharacterOffsetBegin>
+            <CharacterOffsetEnd>687</CharacterOffsetEnd>
+            <POS>da0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>que</word>
+            <CharacterOffsetBegin>688</CharacterOffsetBegin>
+            <CharacterOffsetEnd>691</CharacterOffsetEnd>
+            <POS>pr000000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>estas</word>
+            <CharacterOffsetBegin>692</CharacterOffsetBegin>
+            <CharacterOffsetEnd>697</CharacterOffsetEnd>
+            <POS>dd0000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>prácticas</word>
+            <CharacterOffsetBegin>698</CharacterOffsetBegin>
+            <CharacterOffsetEnd>707</CharacterOffsetEnd>
+            <POS>nc0p000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>están</word>
+            <CharacterOffsetBegin>708</CharacterOffsetBegin>
+            <CharacterOffsetEnd>713</CharacterOffsetEnd>
+            <POS>vmip000</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>imbricadas</word>
+            <CharacterOffsetBegin>714</CharacterOffsetBegin>
+            <CharacterOffsetEnd>724</CharacterOffsetEnd>
+            <POS>aq0000</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (sentence (S (sn (spec (da0000 La)) (grup.nom (sn (grup.nom (nc0s000 vinculación))) (grup.nom (np00000 Comunicación) (fg -) (np00000 Educación) (fg -) (np00000 Cultura))))) (S (S (sn (grup.nom (pp000000 se))) (grup.verb (vmip000 actualiza)) (S (fc ,) (gerundi (vmg0000 atravesando)) (sn (grup.nom (nc0p000 procesos) (sp (prep (sp000 de)) (sn (grup.nom (nc0s000 socialización)))))))) (conj (cc y)) (S (sn (grup.nom (nc0s000 reconocimiento) (s.a (grup.a (aq0000 social))))) (sp (prep (sp000 en)) (sn (spec (da0000 los)) (grup.nom (S (relatiu (pr000000 que)) (sn (spec (dd0000 estas)) (grup.nom (nc0p000 prácticas))) (grup.verb (vmip000 están)) (S (participi (aq0000 imbricadas))))))))))) </parse>
+      </sentence>
+    </sentences>
+  </document>
+</root>

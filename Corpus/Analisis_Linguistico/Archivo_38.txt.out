@@ -1,0 +1,910 @@
+Sentence #1 (28 tokens):
+El valle Antinaco-Los Colorados es una extensa planicie de la ecorregión del Monte en el centro-oeste de La Rioja (Argentina).
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=valle CharacterOffsetBegin=3 CharacterOffsetEnd=8 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=Antinaco CharacterOffsetBegin=9 CharacterOffsetEnd=17 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=- CharacterOffsetBegin=17 CharacterOffsetEnd=18 PartOfSpeech=fg NamedEntityTag=O]
+[Text=Los CharacterOffsetBegin=18 CharacterOffsetEnd=21 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Colorados CharacterOffsetBegin=22 CharacterOffsetEnd=31 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=es CharacterOffsetBegin=32 CharacterOffsetEnd=34 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=35 CharacterOffsetEnd=38 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=extensa CharacterOffsetBegin=39 CharacterOffsetEnd=46 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=planicie CharacterOffsetBegin=47 CharacterOffsetEnd=55 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=56 CharacterOffsetEnd=58 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=59 CharacterOffsetEnd=61 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ecorregión CharacterOffsetBegin=62 CharacterOffsetEnd=72 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=73 CharacterOffsetEnd=74 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=74 CharacterOffsetEnd=76 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Monte CharacterOffsetBegin=77 CharacterOffsetEnd=82 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=en CharacterOffsetBegin=83 CharacterOffsetEnd=85 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=86 CharacterOffsetEnd=88 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=centro CharacterOffsetBegin=89 CharacterOffsetEnd=95 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=95 CharacterOffsetEnd=96 PartOfSpeech=fg NamedEntityTag=O]
+[Text=oeste CharacterOffsetBegin=96 CharacterOffsetEnd=101 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=102 CharacterOffsetEnd=104 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=105 CharacterOffsetEnd=107 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=108 CharacterOffsetEnd=113 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==LRB= CharacterOffsetBegin=114 CharacterOffsetEnd=115 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=115 CharacterOffsetEnd=124 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==RRB= CharacterOffsetBegin=124 CharacterOffsetEnd=125 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=125 CharacterOffsetEnd=126 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (sn
+        (grup.nom (nc0s000 valle)
+          (sn
+            (grup.nom (np00000 Antinaco))))
+        (fg -)))
+    (sn
+      (spec (da0000 Los))
+      (grup.nom (np00000 Colorados)))
+    (grup.verb (vsip000 es))
+    (sn
+      (spec (di0000 una))
+      (grup.nom
+        (s.a
+          (grup.a (aq0000 extensa)))
+        (nc0p000 planicie)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 ecorregión)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (np00000 Monte)))))))))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (spec (da0000 el))
+        (grup.nom
+          (grup.nom
+            (grup.nom (nc0s000 centro) (fg -) (nc0s000 oeste))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 La))
+                (grup.nom (np00000 Rioja)))))
+          (sn
+            (grup.nom (fpa =LRB=) (np00000 Argentina) (fpt =RRB=))))))
+    (fp .)))
+
+Sentence #2 (19 tokens):
+Este estudio proporciona un inventario exhaustivo de la diversidad de plantas vasculares que crecen espontáneamente en el valle.
+[Text=Este CharacterOffsetBegin=127 CharacterOffsetEnd=131 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=estudio CharacterOffsetBegin=132 CharacterOffsetEnd=139 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=proporciona CharacterOffsetBegin=140 CharacterOffsetEnd=151 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=152 CharacterOffsetEnd=154 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=inventario CharacterOffsetBegin=155 CharacterOffsetEnd=165 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=exhaustivo CharacterOffsetBegin=166 CharacterOffsetEnd=176 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=177 CharacterOffsetEnd=179 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=180 CharacterOffsetEnd=182 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=diversidad CharacterOffsetBegin=183 CharacterOffsetEnd=193 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=194 CharacterOffsetEnd=196 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=plantas CharacterOffsetBegin=197 CharacterOffsetEnd=204 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=vasculares CharacterOffsetBegin=205 CharacterOffsetEnd=215 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=216 CharacterOffsetEnd=219 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=crecen CharacterOffsetBegin=220 CharacterOffsetEnd=226 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=espontáneamente CharacterOffsetBegin=227 CharacterOffsetEnd=242 PartOfSpeech=rg NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=243 CharacterOffsetEnd=245 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=246 CharacterOffsetEnd=248 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=valle CharacterOffsetBegin=249 CharacterOffsetEnd=254 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=254 CharacterOffsetEnd=255 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (dd0000 Este))
+      (grup.nom (nc0s000 estudio)))
+    (grup.verb (vmip000 proporciona))
+    (sn
+      (spec (di0000 un))
+      (grup.nom (nc0s000 inventario)
+        (s.a
+          (grup.a (aq0000 exhaustivo)))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 diversidad)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 plantas)
+                (s.a
+                  (grup.a (aq0000 vasculares)))
+                (S
+                  (relatiu (pr000000 que))
+                  (grup.verb (vmip000 crecen))
+                  (sadv
+                    (grup.adv (rg espontáneamente)))
+                  (sp
+                    (prep (sp000 en))
+                    (sn
+                      (spec (da0000 el))
+                      (grup.nom (nc0s000 valle)))))))))))
+    (fp .)))
+
+Sentence #3 (21 tokens):
+En 90 viajes de campo se registraron 264 especies de 57 familias y 181 géneros en 4 tipos de vegetación.
+[Text=En CharacterOffsetBegin=256 CharacterOffsetEnd=258 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=90 CharacterOffsetBegin=259 CharacterOffsetEnd=261 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=viajes CharacterOffsetBegin=262 CharacterOffsetEnd=268 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=269 CharacterOffsetEnd=271 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=campo CharacterOffsetBegin=272 CharacterOffsetEnd=277 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=278 CharacterOffsetEnd=280 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=registraron CharacterOffsetBegin=281 CharacterOffsetEnd=292 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=264 CharacterOffsetBegin=293 CharacterOffsetEnd=296 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=297 CharacterOffsetEnd=305 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=306 CharacterOffsetEnd=308 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=57 CharacterOffsetBegin=309 CharacterOffsetEnd=311 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=familias CharacterOffsetBegin=312 CharacterOffsetEnd=320 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=321 CharacterOffsetEnd=322 PartOfSpeech=cc NamedEntityTag=O]
+[Text=181 CharacterOffsetBegin=323 CharacterOffsetEnd=326 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=géneros CharacterOffsetBegin=327 CharacterOffsetEnd=334 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=335 CharacterOffsetEnd=337 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=4 CharacterOffsetBegin=338 CharacterOffsetEnd=339 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=tipos CharacterOffsetBegin=340 CharacterOffsetEnd=345 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=346 CharacterOffsetEnd=348 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=vegetación CharacterOffsetBegin=349 CharacterOffsetEnd=359 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=359 CharacterOffsetEnd=360 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (spec (z0 90))
+        (grup.nom (nc0p000 viajes)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 campo)))))))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmis000 registraron))
+    (sn
+      (spec (z0 264))
+      (grup.nom (nc0p000 especies)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.w (z0 57) (nc0p000 familias) (cc y) (z0 181) (nc0p000 géneros))))))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (spec (z0 4))
+        (grup.nom (nc0p000 tipos)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 vegetación)))))))
+    (fp .)))
+
+Sentence #4 (9 tokens):
+Se mencionan 18 citas nuevas para la provincia.
+[Text=Se CharacterOffsetBegin=361 CharacterOffsetEnd=363 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=mencionan CharacterOffsetBegin=364 CharacterOffsetEnd=373 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=18 CharacterOffsetBegin=374 CharacterOffsetEnd=376 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=citas CharacterOffsetBegin=377 CharacterOffsetEnd=382 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=nuevas CharacterOffsetBegin=383 CharacterOffsetEnd=389 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=390 CharacterOffsetEnd=394 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=395 CharacterOffsetEnd=397 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=provincia CharacterOffsetBegin=398 CharacterOffsetEnd=407 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=407 CharacterOffsetEnd=408 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmip000 mencionan))
+    (sn
+      (spec (z0 18))
+      (grup.nom (nc0p000 citas)
+        (s.a
+          (grup.a (aq0000 nuevas)))))
+    (sp
+      (prep (sp000 para))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 provincia))))
+    (fp .)))
+
+Sentence #5 (11 tokens):
+Las cinco familias más diversas fueron Asteraceae (35 spp.
+[Text=Las CharacterOffsetBegin=409 CharacterOffsetEnd=412 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cinco CharacterOffsetBegin=413 CharacterOffsetEnd=418 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=familias CharacterOffsetBegin=419 CharacterOffsetEnd=427 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=428 CharacterOffsetEnd=431 PartOfSpeech=rg NamedEntityTag=O]
+[Text=diversas CharacterOffsetBegin=432 CharacterOffsetEnd=440 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=fueron CharacterOffsetBegin=441 CharacterOffsetEnd=447 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=Asteraceae CharacterOffsetBegin=448 CharacterOffsetEnd=458 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=459 CharacterOffsetEnd=460 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=35 CharacterOffsetBegin=460 CharacterOffsetEnd=462 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=463 CharacterOffsetEnd=466 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=466 CharacterOffsetEnd=467 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Las) (dn0000 cinco))
+      (grup.nom (nc0p000 familias)
+        (s.a
+          (spec (rg más))
+          (grup.a (aq0000 diversas)))))
+    (grup.verb (vsis000 fueron))
+    (sn
+      (grup.nom (np00000 Asteraceae)
+        (sn (fpa =LRB=)
+          (spec (z0 35))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #6 (10 tokens):
+, 13%), Poaceae (32 spp.
+[Text=, CharacterOffsetBegin=467 CharacterOffsetEnd=468 PartOfSpeech=fc NamedEntityTag=O]
+[Text=13 CharacterOffsetBegin=469 CharacterOffsetEnd=471 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=471 CharacterOffsetEnd=472 PartOfSpeech=ft NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=472 CharacterOffsetEnd=473 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=473 CharacterOffsetEnd=474 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Poaceae CharacterOffsetBegin=475 CharacterOffsetEnd=482 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=483 CharacterOffsetEnd=484 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=32 CharacterOffsetBegin=484 CharacterOffsetEnd=486 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=487 CharacterOffsetEnd=490 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=490 CharacterOffsetEnd=491 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (fc ,)
+        (grup.z (z0 13) (ft %))
+        (fpt =RRB=)))
+    (sn (fc ,)
+      (grup.nom (np00000 Poaceae)
+        (sn (fpa =LRB=)
+          (spec (z0 32))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #7 (10 tokens):
+, 12%), Fabaceae (19 spp.
+[Text=, CharacterOffsetBegin=491 CharacterOffsetEnd=492 PartOfSpeech=fc NamedEntityTag=O]
+[Text=12 CharacterOffsetBegin=493 CharacterOffsetEnd=495 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=495 CharacterOffsetEnd=496 PartOfSpeech=ft NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=496 CharacterOffsetEnd=497 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=497 CharacterOffsetEnd=498 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Fabaceae CharacterOffsetBegin=499 CharacterOffsetEnd=507 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=508 CharacterOffsetEnd=509 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=19 CharacterOffsetBegin=509 CharacterOffsetEnd=511 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=512 CharacterOffsetEnd=515 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=515 CharacterOffsetEnd=516 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (fc ,)
+        (grup.z (z0 12) (ft %))
+        (fpt =RRB=)))
+    (sn (fc ,)
+      (grup.nom (np00000 Fabaceae)
+        (sn (fpa =LRB=)
+          (spec (z0 19))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #8 (10 tokens):
+, 7%), Solanaceae (19 spp.
+[Text=, CharacterOffsetBegin=516 CharacterOffsetEnd=517 PartOfSpeech=fc NamedEntityTag=O]
+[Text=7 CharacterOffsetBegin=518 CharacterOffsetEnd=519 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=519 CharacterOffsetEnd=520 PartOfSpeech=ft NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=520 CharacterOffsetEnd=521 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=521 CharacterOffsetEnd=522 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Solanaceae CharacterOffsetBegin=523 CharacterOffsetEnd=533 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=534 CharacterOffsetEnd=535 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=19 CharacterOffsetBegin=535 CharacterOffsetEnd=537 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=538 CharacterOffsetEnd=541 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=541 CharacterOffsetEnd=542 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (fc ,)
+        (grup.z (z0 7) (ft %))
+        (fpt =RRB=)))
+    (sn (fc ,)
+      (grup.nom (np00000 Solanaceae)
+        (sn (fpa =LRB=)
+          (spec (z0 19))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #9 (10 tokens):
+, 7%) y Cactaceaae (16 spp.
+[Text=, CharacterOffsetBegin=542 CharacterOffsetEnd=543 PartOfSpeech=fc NamedEntityTag=O]
+[Text=7 CharacterOffsetBegin=544 CharacterOffsetEnd=545 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=545 CharacterOffsetEnd=546 PartOfSpeech=ft NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=546 CharacterOffsetEnd=547 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=548 CharacterOffsetEnd=549 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Cactaceaae CharacterOffsetBegin=550 CharacterOffsetEnd=560 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==LRB= CharacterOffsetBegin=561 CharacterOffsetEnd=562 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=16 CharacterOffsetBegin=562 CharacterOffsetEnd=564 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=565 CharacterOffsetEnd=568 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=568 CharacterOffsetEnd=569 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (fc ,)
+        (grup.z (z0 7) (ft %))
+        (fpt =RRB=)))
+    (conj (cc y))
+    (sn
+      (grup.nom (np00000 Cactaceaae)
+        (sn (fpa =LRB=)
+          (spec (z0 16))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #10 (5 tokens):
+, 6%).
+[Text=, CharacterOffsetBegin=569 CharacterOffsetEnd=570 PartOfSpeech=fc NamedEntityTag=O]
+[Text=6 CharacterOffsetBegin=571 CharacterOffsetEnd=572 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=572 CharacterOffsetEnd=573 PartOfSpeech=ft NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=573 CharacterOffsetEnd=574 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=574 CharacterOffsetEnd=575 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (fc ,)
+        (grup.z (z0 6) (ft %))
+        (fpt =RRB=)))
+    (fp .)))
+
+Sentence #11 (10 tokens):
+Los géneros mejor representados fueron Tillandsia (10 spp.
+[Text=Los CharacterOffsetBegin=576 CharacterOffsetEnd=579 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=géneros CharacterOffsetBegin=580 CharacterOffsetEnd=587 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=mejor CharacterOffsetBegin=588 CharacterOffsetEnd=593 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=representados CharacterOffsetBegin=594 CharacterOffsetEnd=607 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=fueron CharacterOffsetBegin=608 CharacterOffsetEnd=614 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=Tillandsia CharacterOffsetBegin=615 CharacterOffsetEnd=625 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==LRB= CharacterOffsetBegin=626 CharacterOffsetEnd=627 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=10 CharacterOffsetBegin=627 CharacterOffsetEnd=629 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=630 CharacterOffsetEnd=633 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=633 CharacterOffsetEnd=634 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Los))
+      (grup.nom (nc0p000 géneros)
+        (s.a
+          (grup.a (aq0000 mejor)))
+        (S
+          (participi (aq0000 representados)))))
+    (grup.verb (vsis000 fueron))
+    (sn
+      (grup.nom (np00000 Tillandsia)
+        (sn (fpa =LRB=)
+          (spec (z0 10))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #12 (7 tokens):
+), Solanum (6 spp.
+[Text==RRB= CharacterOffsetBegin=634 CharacterOffsetEnd=635 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=635 CharacterOffsetEnd=636 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Solanum CharacterOffsetBegin=637 CharacterOffsetEnd=644 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=645 CharacterOffsetEnd=646 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=6 CharacterOffsetBegin=646 CharacterOffsetEnd=647 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=648 CharacterOffsetEnd=651 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=651 CharacterOffsetEnd=652 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (interjeccio (fpt =RRB=) (fc ,))
+    (sn
+      (grup.nom (np00000 Solanum)
+        (sn (fpa =LRB=)
+          (spec (z0 6))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #13 (7 tokens):
+), Atriplex (5 spp.
+[Text==RRB= CharacterOffsetBegin=652 CharacterOffsetEnd=653 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=653 CharacterOffsetEnd=654 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Atriplex CharacterOffsetBegin=655 CharacterOffsetEnd=663 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=664 CharacterOffsetEnd=665 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=5 CharacterOffsetBegin=665 CharacterOffsetEnd=666 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=667 CharacterOffsetEnd=670 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=670 CharacterOffsetEnd=671 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (interjeccio (fpt =RRB=) (fc ,))
+    (sn
+      (grup.nom (np00000 Atriplex)
+        (sn (fpa =LRB=)
+          (spec (z0 5))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #14 (7 tokens):
+), Lycium (5 spp.
+[Text==RRB= CharacterOffsetBegin=671 CharacterOffsetEnd=672 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=672 CharacterOffsetEnd=673 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Lycium CharacterOffsetBegin=674 CharacterOffsetEnd=680 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=681 CharacterOffsetEnd=682 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=5 CharacterOffsetBegin=682 CharacterOffsetEnd=683 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=684 CharacterOffsetEnd=687 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=687 CharacterOffsetEnd=688 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (interjeccio (fpt =RRB=) (fc ,))
+    (sn
+      (grup.nom (np00000 Lycium)
+        (sn (fpa =LRB=)
+          (spec (z0 5))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #15 (7 tokens):
+) y Prosopis (5 spp.
+[Text==RRB= CharacterOffsetBegin=688 CharacterOffsetEnd=689 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=690 CharacterOffsetEnd=691 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Prosopis CharacterOffsetBegin=692 CharacterOffsetEnd=700 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=701 CharacterOffsetEnd=702 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=5 CharacterOffsetBegin=702 CharacterOffsetEnd=703 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=704 CharacterOffsetEnd=707 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=707 CharacterOffsetEnd=708 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom
+        (grup.nom
+          (grup.nom (fpt =RRB=))
+          (conj (cc y))
+          (grup.nom (np00000 Prosopis)))
+        (sn (fpa =LRB=)
+          (spec (z0 5))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #16 (2 tokens):
+).
+[Text==RRB= CharacterOffsetBegin=708 CharacterOffsetEnd=709 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=709 CharacterOffsetEnd=710 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (fpt =RRB=)))
+    (fp .)))
+
+Sentence #17 (21 tokens):
+El 13% de las especies (35) son introducidas, principalmente de las familias Poaceae (7 spp.
+[Text=El CharacterOffsetBegin=711 CharacterOffsetEnd=713 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=13 CharacterOffsetBegin=714 CharacterOffsetEnd=716 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=716 CharacterOffsetEnd=717 PartOfSpeech=ft NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=718 CharacterOffsetEnd=720 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=721 CharacterOffsetEnd=724 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=725 CharacterOffsetEnd=733 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=734 CharacterOffsetEnd=735 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=35 CharacterOffsetBegin=735 CharacterOffsetEnd=737 PartOfSpeech=z0 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=737 CharacterOffsetEnd=738 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=son CharacterOffsetBegin=739 CharacterOffsetEnd=742 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=introducidas CharacterOffsetBegin=743 CharacterOffsetEnd=755 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=755 CharacterOffsetEnd=756 PartOfSpeech=fc NamedEntityTag=O]
+[Text=principalmente CharacterOffsetBegin=757 CharacterOffsetEnd=771 PartOfSpeech=rg NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=772 CharacterOffsetEnd=774 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=775 CharacterOffsetEnd=778 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=familias CharacterOffsetBegin=779 CharacterOffsetEnd=787 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=Poaceae CharacterOffsetBegin=788 CharacterOffsetEnd=795 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=796 CharacterOffsetEnd=797 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=7 CharacterOffsetBegin=797 CharacterOffsetEnd=798 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=799 CharacterOffsetEnd=802 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=802 CharacterOffsetEnd=803 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom
+        (grup.z (z0 13) (ft %))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 las))
+            (grup.nom (nc0p000 especies)
+              (sn
+                (grup.nom (fpa =LRB=) (z0 35) (fpt =RRB=))))))))
+    (grup.verb (vsip000 son))
+    (S
+      (participi (aq0000 introducidas))
+      (sp (fc ,)
+        (sadv
+          (grup.adv (rg principalmente)))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 las))
+            (grup.nom
+              (grup.nom (nc0p000 familias) (np00000 Poaceae))
+              (sn (fpa =LRB=)
+                (spec (z0 7))
+                (grup.nom
+                  (s.a
+                    (grup.a (nc00000 spp))))))))))
+    (fp .)))
+
+Sentence #18 (7 tokens):
+), Asteraceae (5 spp.
+[Text==RRB= CharacterOffsetBegin=803 CharacterOffsetEnd=804 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=804 CharacterOffsetEnd=805 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Asteraceae CharacterOffsetBegin=806 CharacterOffsetEnd=816 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=817 CharacterOffsetEnd=818 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=5 CharacterOffsetBegin=818 CharacterOffsetEnd=819 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=820 CharacterOffsetEnd=823 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=823 CharacterOffsetEnd=824 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (interjeccio (fpt =RRB=) (fc ,))
+    (sn
+      (grup.nom (np00000 Asteraceae)
+        (sn (fpa =LRB=)
+          (spec (z0 5))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #19 (7 tokens):
+), Brassicaceae (5 spp.
+[Text==RRB= CharacterOffsetBegin=824 CharacterOffsetEnd=825 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=825 CharacterOffsetEnd=826 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Brassicaceae CharacterOffsetBegin=827 CharacterOffsetEnd=839 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=840 CharacterOffsetEnd=841 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=5 CharacterOffsetBegin=841 CharacterOffsetEnd=842 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=843 CharacterOffsetEnd=846 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=846 CharacterOffsetEnd=847 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (interjeccio (fpt =RRB=) (fc ,))
+    (sn
+      (grup.nom (np00000 Brassicaceae)
+        (sn (fpa =LRB=)
+          (spec (z0 5))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #20 (7 tokens):
+) y Chenopodiaceae (5 spp.
+[Text==RRB= CharacterOffsetBegin=847 CharacterOffsetEnd=848 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=849 CharacterOffsetEnd=850 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Chenopodiaceae CharacterOffsetBegin=851 CharacterOffsetEnd=865 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=866 CharacterOffsetEnd=867 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=5 CharacterOffsetBegin=867 CharacterOffsetEnd=868 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=869 CharacterOffsetEnd=872 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=872 CharacterOffsetEnd=873 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom
+        (grup.nom
+          (grup.nom (fpt =RRB=))
+          (conj (cc y))
+          (grup.nom (np00000 Chenopodiaceae)))
+        (sn (fpa =LRB=)
+          (spec (z0 5))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #21 (2 tokens):
+).
+[Text==RRB= CharacterOffsetBegin=873 CharacterOffsetEnd=874 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=874 CharacterOffsetEnd=875 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (fpt =RRB=)))
+    (fp .)))
+
+Sentence #22 (28 tokens):
+El valle incluye 84 endemismos de nivel nacional, regional y provincial, y en su mayoría (41%) corresponden a Cactaceae (13 spp.
+[Text=El CharacterOffsetBegin=876 CharacterOffsetEnd=878 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=valle CharacterOffsetBegin=879 CharacterOffsetEnd=884 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=incluye CharacterOffsetBegin=885 CharacterOffsetEnd=892 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=84 CharacterOffsetBegin=893 CharacterOffsetEnd=895 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=endemismos CharacterOffsetBegin=896 CharacterOffsetEnd=906 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=907 CharacterOffsetEnd=909 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nivel CharacterOffsetBegin=910 CharacterOffsetEnd=915 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=nacional CharacterOffsetBegin=916 CharacterOffsetEnd=924 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=924 CharacterOffsetEnd=925 PartOfSpeech=fc NamedEntityTag=O]
+[Text=regional CharacterOffsetBegin=926 CharacterOffsetEnd=934 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=935 CharacterOffsetEnd=936 PartOfSpeech=cc NamedEntityTag=O]
+[Text=provincial CharacterOffsetBegin=937 CharacterOffsetEnd=947 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=947 CharacterOffsetEnd=948 PartOfSpeech=fc NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=949 CharacterOffsetEnd=950 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=951 CharacterOffsetEnd=953 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=954 CharacterOffsetEnd=956 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=mayoría CharacterOffsetBegin=957 CharacterOffsetEnd=964 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=965 CharacterOffsetEnd=966 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=41 CharacterOffsetBegin=966 CharacterOffsetEnd=968 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=968 CharacterOffsetEnd=969 PartOfSpeech=ft NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=969 CharacterOffsetEnd=970 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=corresponden CharacterOffsetBegin=971 CharacterOffsetEnd=983 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=984 CharacterOffsetEnd=985 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Cactaceae CharacterOffsetBegin=986 CharacterOffsetEnd=995 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==LRB= CharacterOffsetBegin=996 CharacterOffsetEnd=997 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=13 CharacterOffsetBegin=997 CharacterOffsetEnd=999 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=1000 CharacterOffsetEnd=1003 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1003 CharacterOffsetEnd=1004 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (da0000 El))
+        (grup.nom (nc0s000 valle)))
+      (grup.verb (vmip000 incluye))
+      (sn
+        (spec (z0 84))
+        (grup.nom (nc0p000 endemismos)))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom (nc0s000 nivel)
+            (s.a
+              (grup.a
+                (grup.a (aq0000 nacional))
+                (fc ,)
+                (grup.a (aq0000 regional))
+                (conj (cc y))
+                (grup.a (aq0000 provincial)))))))
+      (fc ,))
+    (conj (cc y))
+    (S
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (dp0000 su))
+          (grup.nom (nc0s000 mayoría))))
+      (sn
+        (grup.nom (fpa =LRB=)
+          (grup.z (z0 41) (ft %))
+          (fpt =RRB=)))
+      (grup.verb (vmip000 corresponden))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (grup.nom (np00000 Cactaceae)
+            (sn (fpa =LRB=)
+              (spec (z0 13))
+              (grup.nom
+                (s.a
+                  (grup.a (nc00000 spp)))))))))
+    (fp .)))
+
+Sentence #23 (7 tokens):
+), Asteraceae (9 spp.
+[Text==RRB= CharacterOffsetBegin=1004 CharacterOffsetEnd=1005 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1005 CharacterOffsetEnd=1006 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Asteraceae CharacterOffsetBegin=1007 CharacterOffsetEnd=1017 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=1018 CharacterOffsetEnd=1019 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=9 CharacterOffsetBegin=1019 CharacterOffsetEnd=1020 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=1021 CharacterOffsetEnd=1024 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1024 CharacterOffsetEnd=1025 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (interjeccio (fpt =RRB=) (fc ,))
+    (sn
+      (grup.nom (np00000 Asteraceae)
+        (sn (fpa =LRB=)
+          (spec (z0 9))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #24 (7 tokens):
+), Solanaceae (7 spp.
+[Text==RRB= CharacterOffsetBegin=1025 CharacterOffsetEnd=1026 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1026 CharacterOffsetEnd=1027 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Solanaceae CharacterOffsetBegin=1028 CharacterOffsetEnd=1038 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=1039 CharacterOffsetEnd=1040 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=7 CharacterOffsetBegin=1040 CharacterOffsetEnd=1041 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=1042 CharacterOffsetEnd=1045 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1045 CharacterOffsetEnd=1046 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (interjeccio (fpt =RRB=) (fc ,))
+    (sn
+      (grup.nom (np00000 Solanaceae)
+        (sn (fpa =LRB=)
+          (spec (z0 7))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #25 (7 tokens):
+), Chenopodiaceae (6 spp.
+[Text==RRB= CharacterOffsetBegin=1046 CharacterOffsetEnd=1047 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1047 CharacterOffsetEnd=1048 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Chenopodiaceae CharacterOffsetBegin=1049 CharacterOffsetEnd=1063 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=1064 CharacterOffsetEnd=1065 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=6 CharacterOffsetBegin=1065 CharacterOffsetEnd=1066 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=1067 CharacterOffsetEnd=1070 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1070 CharacterOffsetEnd=1071 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (interjeccio (fpt =RRB=) (fc ,))
+    (sn
+      (grup.nom (np00000 Chenopodiaceae)
+        (sn (fpa =LRB=)
+          (spec (z0 6))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #26 (7 tokens):
+) y Euphorbiaceae (6 spp.
+[Text==RRB= CharacterOffsetBegin=1071 CharacterOffsetEnd=1072 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1073 CharacterOffsetEnd=1074 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Euphorbiaceae CharacterOffsetBegin=1075 CharacterOffsetEnd=1088 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=1089 CharacterOffsetEnd=1090 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=6 CharacterOffsetBegin=1090 CharacterOffsetEnd=1091 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=spp CharacterOffsetBegin=1092 CharacterOffsetEnd=1095 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1095 CharacterOffsetEnd=1096 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom
+        (grup.nom
+          (grup.nom (fpt =RRB=))
+          (conj (cc y))
+          (grup.nom (np00000 Euphorbiaceae)))
+        (sn (fpa =LRB=)
+          (spec (z0 6))
+          (grup.nom
+            (s.a
+              (grup.a (nc00000 spp)))))))
+    (fp .)))
+
+Sentence #27 (2 tokens):
+).
+[Text==RRB= CharacterOffsetBegin=1096 CharacterOffsetEnd=1097 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1097 CharacterOffsetEnd=1098 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (fpt =RRB=)))
+    (fp .)))
+
+Sentence #28 (25 tokens):
+Las formas de vida dominantes fueron los Fanerófitos (29%), Terófitos (28%) y Hemicriptófitos (21%).
+[Text=Las CharacterOffsetBegin=1099 CharacterOffsetEnd=1102 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=formas CharacterOffsetBegin=1103 CharacterOffsetEnd=1109 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1110 CharacterOffsetEnd=1112 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=vida CharacterOffsetBegin=1113 CharacterOffsetEnd=1117 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=dominantes CharacterOffsetBegin=1118 CharacterOffsetEnd=1128 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=fueron CharacterOffsetBegin=1129 CharacterOffsetEnd=1135 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1136 CharacterOffsetEnd=1139 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Fanerófitos CharacterOffsetBegin=1140 CharacterOffsetEnd=1151 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==LRB= CharacterOffsetBegin=1152 CharacterOffsetEnd=1153 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=29 CharacterOffsetBegin=1153 CharacterOffsetEnd=1155 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=1155 CharacterOffsetEnd=1156 PartOfSpeech=ft NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=1156 CharacterOffsetEnd=1157 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1157 CharacterOffsetEnd=1158 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Terófitos CharacterOffsetBegin=1159 CharacterOffsetEnd=1168 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==LRB= CharacterOffsetBegin=1169 CharacterOffsetEnd=1170 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=28 CharacterOffsetBegin=1170 CharacterOffsetEnd=1172 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=1172 CharacterOffsetEnd=1173 PartOfSpeech=ft NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=1173 CharacterOffsetEnd=1174 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1175 CharacterOffsetEnd=1176 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Hemicriptófitos CharacterOffsetBegin=1177 CharacterOffsetEnd=1192 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==LRB= CharacterOffsetBegin=1193 CharacterOffsetEnd=1194 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=21 CharacterOffsetBegin=1194 CharacterOffsetEnd=1196 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=1196 CharacterOffsetEnd=1197 PartOfSpeech=ft NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=1197 CharacterOffsetEnd=1198 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1198 CharacterOffsetEnd=1199 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Las))
+      (grup.nom (nc0p000 formas)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 vida)
+              (s.a
+                (grup.a (aq0000 dominantes))))))))
+    (grup.verb (vsis000 fueron))
+    (sn
+      (spec (da0000 los))
+      (grup.nom
+        (grup.nom (np00000 Fanerófitos)
+          (sn
+            (grup.nom (fpa =LRB=)
+              (grup.z (z0 29) (ft %))
+              (fpt =RRB=))))
+        (fc ,)
+        (grup.nom (np00000 Terófitos)
+          (sn
+            (grup.nom (fpa =LRB=)
+              (grup.z (z0 28) (ft %))
+              (fpt =RRB=))))
+        (conj (cc y))
+        (grup.nom (np00000 Hemicriptófitos)
+          (sn
+            (grup.nom (fpa =LRB=)
+              (grup.z (z0 21) (ft %))
+              (fpt =RRB=))))))
+    (fp .)))
+
+Sentence #29 (18 tokens):
+El valle concentra aproximadamente el 17% de la diversidad de plantas vasculares conocida para La Rioja.
+[Text=El CharacterOffsetBegin=1200 CharacterOffsetEnd=1202 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=valle CharacterOffsetBegin=1203 CharacterOffsetEnd=1208 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=concentra CharacterOffsetBegin=1209 CharacterOffsetEnd=1218 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=aproximadamente CharacterOffsetBegin=1219 CharacterOffsetEnd=1234 PartOfSpeech=rg NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1235 CharacterOffsetEnd=1237 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=17 CharacterOffsetBegin=1238 CharacterOffsetEnd=1240 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=1240 CharacterOffsetEnd=1241 PartOfSpeech=ft NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1242 CharacterOffsetEnd=1244 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1245 CharacterOffsetEnd=1247 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=diversidad CharacterOffsetBegin=1248 CharacterOffsetEnd=1258 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1259 CharacterOffsetEnd=1261 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=plantas CharacterOffsetBegin=1262 CharacterOffsetEnd=1269 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=vasculares CharacterOffsetBegin=1270 CharacterOffsetEnd=1280 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=conocida CharacterOffsetBegin=1281 CharacterOffsetEnd=1289 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=1290 CharacterOffsetEnd=1294 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=1295 CharacterOffsetEnd=1297 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=1298 CharacterOffsetEnd=1303 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=1303 CharacterOffsetEnd=1304 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 valle)))
+    (grup.verb (vmip000 concentra))
+    (sadv
+      (grup.adv (rg aproximadamente)))
+    (sn
+      (spec (da0000 el))
+      (grup.nom
+        (grup.z (z0 17) (ft %))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 diversidad)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0p000 plantas)
+                    (s.a
+                      (grup.a (aq0000 vasculares)))))))))
+        (S
+          (participi (aq0000 conocida))
+          (sp
+            (prep (sp000 para))
+            (sn
+              (spec (da0000 La))
+              (grup.nom (np00000 Rioja)))))))
+    (fp .)))
+

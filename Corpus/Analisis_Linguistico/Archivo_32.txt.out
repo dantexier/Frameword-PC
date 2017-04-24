@@ -1,0 +1,413 @@
+Sentence #1 (63 tokens):
+El presente trabajo es una reflexión sobre las posibilidades que ofrece la educación como factor de desarrollo personal y colectivo, a partir del marco de referencia que ofrece el análisis de la Comisión Económica para América Latina y el Caribe (CEPAL), en el documento “Juventud y cohesión social en Iberoamérica: un modelo para armar”.
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presente CharacterOffsetBegin=3 CharacterOffsetEnd=11 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=12 CharacterOffsetEnd=19 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=20 CharacterOffsetEnd=22 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=23 CharacterOffsetEnd=26 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=reflexión CharacterOffsetBegin=27 CharacterOffsetEnd=36 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=37 CharacterOffsetEnd=42 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=43 CharacterOffsetEnd=46 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=posibilidades CharacterOffsetBegin=47 CharacterOffsetEnd=60 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=61 CharacterOffsetEnd=64 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=ofrece CharacterOffsetBegin=65 CharacterOffsetEnd=71 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=72 CharacterOffsetEnd=74 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=educación CharacterOffsetBegin=75 CharacterOffsetEnd=84 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=85 CharacterOffsetEnd=89 PartOfSpeech=cs NamedEntityTag=O]
+[Text=factor CharacterOffsetBegin=90 CharacterOffsetEnd=96 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=97 CharacterOffsetEnd=99 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=100 CharacterOffsetEnd=110 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=personal CharacterOffsetBegin=111 CharacterOffsetEnd=119 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=120 CharacterOffsetEnd=121 PartOfSpeech=cc NamedEntityTag=O]
+[Text=colectivo CharacterOffsetBegin=122 CharacterOffsetEnd=131 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=131 CharacterOffsetEnd=132 PartOfSpeech=fc NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=133 CharacterOffsetEnd=134 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=partir CharacterOffsetBegin=135 CharacterOffsetEnd=141 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=142 CharacterOffsetEnd=143 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=143 CharacterOffsetEnd=145 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=marco CharacterOffsetBegin=146 CharacterOffsetEnd=151 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=152 CharacterOffsetEnd=154 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=referencia CharacterOffsetBegin=155 CharacterOffsetEnd=165 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=166 CharacterOffsetEnd=169 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=ofrece CharacterOffsetBegin=170 CharacterOffsetEnd=176 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=177 CharacterOffsetEnd=179 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=180 CharacterOffsetEnd=188 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=189 CharacterOffsetEnd=191 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=192 CharacterOffsetEnd=194 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Comisión CharacterOffsetBegin=195 CharacterOffsetEnd=203 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Económica CharacterOffsetBegin=204 CharacterOffsetEnd=213 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=para CharacterOffsetBegin=214 CharacterOffsetEnd=218 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=América CharacterOffsetBegin=219 CharacterOffsetEnd=226 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Latina CharacterOffsetBegin=227 CharacterOffsetEnd=233 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=y CharacterOffsetBegin=234 CharacterOffsetEnd=235 PartOfSpeech=cc NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=236 CharacterOffsetEnd=238 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Caribe CharacterOffsetBegin=239 CharacterOffsetEnd=245 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text==LRB= CharacterOffsetBegin=246 CharacterOffsetEnd=247 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=CEPAL CharacterOffsetBegin=247 CharacterOffsetEnd=252 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=252 CharacterOffsetEnd=253 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=253 CharacterOffsetEnd=254 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=255 CharacterOffsetEnd=257 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=258 CharacterOffsetEnd=260 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=documento CharacterOffsetBegin=261 CharacterOffsetEnd=270 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=271 CharacterOffsetEnd=272 PartOfSpeech=fe NamedEntityTag=O]
+[Text=Juventud CharacterOffsetBegin=272 CharacterOffsetEnd=280 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=y CharacterOffsetBegin=281 CharacterOffsetEnd=282 PartOfSpeech=cc NamedEntityTag=O]
+[Text=cohesión CharacterOffsetBegin=283 CharacterOffsetEnd=291 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=social CharacterOffsetBegin=292 CharacterOffsetEnd=298 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=299 CharacterOffsetEnd=301 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Iberoamérica CharacterOffsetBegin=302 CharacterOffsetEnd=314 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=: CharacterOffsetBegin=314 CharacterOffsetEnd=315 PartOfSpeech=fd NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=316 CharacterOffsetEnd=318 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=modelo CharacterOffsetBegin=319 CharacterOffsetEnd=325 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=326 CharacterOffsetEnd=330 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=armar CharacterOffsetBegin=331 CharacterOffsetEnd=336 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=336 CharacterOffsetEnd=337 PartOfSpeech=fe NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=337 CharacterOffsetEnd=338 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom
+        (s.a
+          (grup.a (aq0000 presente)))
+        (nc0s000 trabajo)))
+    (grup.verb (vsip000 es))
+    (sn
+      (spec (di0000 una))
+      (grup.nom (nc0s000 reflexión)
+        (sp
+          (prep (sp000 sobre))
+          (sn
+            (spec (da0000 las))
+            (grup.nom (nc0p000 posibilidades)
+              (S
+                (relatiu (pr000000 que))
+                (grup.verb (vmip000 ofrece))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 educación)
+                    (sp
+                      (prep (cs como))
+                      (sn
+                        (grup.nom (nc0s000 factor))))))))))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (grup.nom (nc0s000 desarrollo)
+          (s.a
+            (grup.a
+              (grup.a (aq0000 personal))
+              (conj (cc y))
+              (grup.a (aq0000 colectivo)))))))
+    (sp (fc ,)
+      (prep (sp000 a))
+      (S
+        (infinitiu (vmn0000 partir))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 marco)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 referencia))))
+              (S
+                (relatiu (pr000000 que))
+                (grup.verb (vmip000 ofrece))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0n000 análisis)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (spec (da0000 la))
+                        (grup.nom
+                          (grup.nom (np00000 Comisión) (np00000 Económica)
+                            (sp
+                              (prep (sp000 para))
+                              (sn
+                                (sn
+                                  (grup.nom (np00000 América) (np00000 Latina)))
+                                (conj (cc y))
+                                (sn
+                                  (spec (da0000 el))
+                                  (grup.nom (np00000 Caribe))))))
+                          (sn
+                            (grup.nom (fpa =LRB=) (np00000 CEPAL) (fpt =RRB=)))))))))))))
+      (fc ,))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 documento)
+          (sn
+            (grup.nom (fe ")
+              (grup.nom
+                (grup.nom (np00000 Juventud))
+                (conj (cc y))
+                (grup.nom (nc0s000 cohesión)
+                  (sp
+                    (prep
+                      (grup.prep (aq0000 social) (sp000 en)))
+                    (sn
+                      (grup.nom (np00000 Iberoamérica)
+                        (sn (fd :)
+                          (spec (di0000 un))
+                          (grup.nom (nc0s000 modelo))))))
+                  (sp
+                    (prep (sp000 para))
+                    (S
+                      (infinitiu (vmn0000 armar))))))
+              (fe "))))))
+    (fp .)))
+
+Sentence #2 (45 tokens):
+El eje central de reflexión es el potencial de desarrollo de capacidades que ofrece la educación y las derivaciones personales y sociales que deben sortearse cotidianamente para poder alcanzar esa meta en una sociedad donde la comunicación y el conocimiento adquieren relevancia.
+[Text=El CharacterOffsetBegin=339 CharacterOffsetEnd=341 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=eje CharacterOffsetBegin=342 CharacterOffsetEnd=345 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=central CharacterOffsetBegin=346 CharacterOffsetEnd=353 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=354 CharacterOffsetEnd=356 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=reflexión CharacterOffsetBegin=357 CharacterOffsetEnd=366 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=367 CharacterOffsetEnd=369 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=370 CharacterOffsetEnd=372 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=potencial CharacterOffsetBegin=373 CharacterOffsetEnd=382 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=383 CharacterOffsetEnd=385 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=386 CharacterOffsetEnd=396 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=397 CharacterOffsetEnd=399 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=capacidades CharacterOffsetBegin=400 CharacterOffsetEnd=411 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=412 CharacterOffsetEnd=415 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=ofrece CharacterOffsetBegin=416 CharacterOffsetEnd=422 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=423 CharacterOffsetEnd=425 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=educación CharacterOffsetBegin=426 CharacterOffsetEnd=435 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=436 CharacterOffsetEnd=437 PartOfSpeech=cc NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=438 CharacterOffsetEnd=441 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=derivaciones CharacterOffsetBegin=442 CharacterOffsetEnd=454 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=persona CharacterOffsetBegin=455 CharacterOffsetEnd=462 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=les CharacterOffsetBegin=462 CharacterOffsetEnd=465 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=466 CharacterOffsetEnd=467 PartOfSpeech=cc NamedEntityTag=O]
+[Text=sociales CharacterOffsetBegin=468 CharacterOffsetEnd=476 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=477 CharacterOffsetEnd=480 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=deben CharacterOffsetBegin=481 CharacterOffsetEnd=486 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=sortear CharacterOffsetBegin=487 CharacterOffsetEnd=494 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=494 CharacterOffsetEnd=496 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=cotidianamente CharacterOffsetBegin=497 CharacterOffsetEnd=511 PartOfSpeech=rg NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=512 CharacterOffsetEnd=516 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=poder CharacterOffsetBegin=517 CharacterOffsetEnd=522 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=alcanzar CharacterOffsetBegin=523 CharacterOffsetEnd=531 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=esa CharacterOffsetBegin=532 CharacterOffsetEnd=535 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=meta CharacterOffsetBegin=536 CharacterOffsetEnd=540 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=541 CharacterOffsetEnd=543 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=544 CharacterOffsetEnd=547 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=sociedad CharacterOffsetBegin=548 CharacterOffsetEnd=556 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=donde CharacterOffsetBegin=557 CharacterOffsetEnd=562 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=563 CharacterOffsetEnd=565 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=comunicación CharacterOffsetBegin=566 CharacterOffsetEnd=578 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=579 CharacterOffsetEnd=580 PartOfSpeech=cc NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=581 CharacterOffsetEnd=583 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=conocimiento CharacterOffsetBegin=584 CharacterOffsetEnd=596 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=adquieren CharacterOffsetBegin=597 CharacterOffsetEnd=606 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=relevancia CharacterOffsetBegin=607 CharacterOffsetEnd=617 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=617 CharacterOffsetEnd=618 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 eje)
+        (s.a
+          (grup.a (aq0000 central)))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 reflexión))))))
+    (grup.verb (vsip000 es))
+    (sn
+      (spec (da0000 el))
+      (grup.nom (nc0s000 potencial)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 desarrollo))))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0p000 capacidades)
+              (S
+                (relatiu (pr000000 que))
+                (grup.verb (vmip000 ofrece))
+                (sn
+                  (sn
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (nc0s000 educación)))
+                    (conj (cc y))
+                    (sn
+                      (spec (da0000 las))
+                      (grup.nom (nc0p000 derivaciones)
+                        (sn
+                          (grup.nom
+                            (s.a
+                              (grup.a (nc0s000 persona)))
+                            (pp000000 les))))))
+                  (conj (cc y))
+                  (sn
+                    (grup.nom
+                      (s.a
+                        (grup.a (aq0000 sociales)))
+                      (S
+                        (relatiu (pr000000 que))
+                        (grup.verb (vmip000 deben)
+                          (infinitiu (vmn0000 sortear))
+                          (morfema.pronominal (pp000000 se)))
+                        (sadv
+                          (grup.adv (rg cotidianamente)))))))))))))
+    (sp
+      (prep (sp000 para))
+      (S
+        (infinitiu (vmn0000 poder)
+          (infinitiu (vmn0000 alcanzar)))
+        (sn
+          (spec (dd0000 esa))
+          (grup.nom (nc0s000 meta)
+            (sp
+              (prep (sp000 en))
+              (sn
+                (spec (di0000 una))
+                (grup.nom (nc0s000 sociedad)
+                  (S
+                    (relatiu (pr000000 donde))
+                    (sn
+                      (sn
+                        (spec (da0000 la))
+                        (grup.nom (nc0s000 comunicación)))
+                      (conj (cc y))
+                      (sn
+                        (spec (da0000 el))
+                        (grup.nom (nc0s000 conocimiento))))
+                    (grup.verb (vmip000 adquieren))
+                    (sn
+                      (grup.nom (nc0s000 relevancia)))))))))))
+    (fp .)))
+
+Sentence #3 (43 tokens):
+Es una reflexión teórica que se entreteje con aportes derivados de la experiencia docente con jóvenes estudiantes de  la Licenciatura en Comunicación Social, donde se dvierten trayectos educativos heterogéneos y sus vinculaciones con mayores y mejores oportunidades de desarrollo personal y social
+[Text=Es CharacterOffsetBegin=619 CharacterOffsetEnd=621 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=622 CharacterOffsetEnd=625 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=reflexión CharacterOffsetBegin=626 CharacterOffsetEnd=635 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=teórica CharacterOffsetBegin=636 CharacterOffsetEnd=643 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=644 CharacterOffsetEnd=647 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=648 CharacterOffsetEnd=650 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=entreteje CharacterOffsetBegin=651 CharacterOffsetEnd=660 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=661 CharacterOffsetEnd=664 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=aportes CharacterOffsetBegin=665 CharacterOffsetEnd=672 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=derivados CharacterOffsetBegin=673 CharacterOffsetEnd=682 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=683 CharacterOffsetEnd=685 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=686 CharacterOffsetEnd=688 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=experiencia CharacterOffsetBegin=689 CharacterOffsetEnd=700 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=docente CharacterOffsetBegin=701 CharacterOffsetEnd=708 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=709 CharacterOffsetEnd=712 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=jóvenes CharacterOffsetBegin=713 CharacterOffsetEnd=720 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=estudiantes CharacterOffsetBegin=721 CharacterOffsetEnd=732 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=733 CharacterOffsetEnd=735 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=737 CharacterOffsetEnd=739 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Licenciatura CharacterOffsetBegin=740 CharacterOffsetEnd=752 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=en CharacterOffsetBegin=753 CharacterOffsetEnd=755 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Comunicación CharacterOffsetBegin=756 CharacterOffsetEnd=768 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=Social CharacterOffsetBegin=769 CharacterOffsetEnd=775 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=775 CharacterOffsetEnd=776 PartOfSpeech=fc NamedEntityTag=O]
+[Text=donde CharacterOffsetBegin=777 CharacterOffsetEnd=782 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=783 CharacterOffsetEnd=785 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=dvierten CharacterOffsetBegin=786 CharacterOffsetEnd=794 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=trayectos CharacterOffsetBegin=795 CharacterOffsetEnd=804 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=educativos CharacterOffsetBegin=805 CharacterOffsetEnd=815 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=heterogéneos CharacterOffsetBegin=816 CharacterOffsetEnd=828 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=829 CharacterOffsetEnd=830 PartOfSpeech=cc NamedEntityTag=O]
+[Text=sus CharacterOffsetBegin=831 CharacterOffsetEnd=834 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=vinculaciones CharacterOffsetBegin=835 CharacterOffsetEnd=848 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=849 CharacterOffsetEnd=852 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=mayores CharacterOffsetBegin=853 CharacterOffsetEnd=860 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=861 CharacterOffsetEnd=862 PartOfSpeech=cc NamedEntityTag=O]
+[Text=mejores CharacterOffsetBegin=863 CharacterOffsetEnd=870 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=oportunidades CharacterOffsetBegin=871 CharacterOffsetEnd=884 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=885 CharacterOffsetEnd=887 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=888 CharacterOffsetEnd=898 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=personal CharacterOffsetBegin=899 CharacterOffsetEnd=907 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=908 CharacterOffsetEnd=909 PartOfSpeech=cc NamedEntityTag=O]
+[Text=social CharacterOffsetBegin=910 CharacterOffsetEnd=916 PartOfSpeech=aq0000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (grup.verb (vsip000 Es))
+      (sn
+        (spec (di0000 una))
+        (grup.nom (nc0s000 reflexión)
+          (s.a
+            (grup.a (aq0000 teórica)))
+          (S
+            (relatiu (pr000000 que))
+            (morfema.verbal (p0000000 se))
+            (grup.verb (vmsp000 entreteje))
+            (sp
+              (prep (sp000 con))
+              (sn
+                (grup.nom (nc0p000 aportes))))))))
+    (S
+      (participi (aq0000 derivados))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 experiencia)
+            (s.a
+              (grup.a (aq0000 docente)))
+            (sp
+              (prep (sp000 con))
+              (sn
+                (grup.nom
+                  (s.a
+                    (grup.a (aq0000 jóvenes)))
+                  (nc0p000 estudiantes)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (np00000 Licenciatura)
+                        (sp
+                          (prep (sp000 en))
+                          (sn
+                            (grup.nom (np00000 Comunicación) (np00000 Social))))))))))
+            (S (fc ,)
+              (relatiu (pr000000 donde))
+              (morfema.verbal (p0000000 se))
+              (grup.verb (vmip000 dvierten))
+              (sn
+                (grup.nom (nc0p000 trayectos)
+                  (s.a
+                    (grup.a (aq0000 educativos)))
+                  (s.a
+                    (grup.a (aq0000 heterogéneos))))))))))
+    (conj (cc y))
+    (S
+      (sn
+        (spec (dp0000 sus))
+        (grup.nom (nc0p000 vinculaciones)
+          (sp
+            (prep (sp000 con))
+            (sn
+              (grup.nom
+                (s.a
+                  (grup.a
+                    (grup.a (aq0000 mayores))
+                    (conj (cc y))
+                    (grup.a (aq0000 mejores))))
+                (nc0p000 oportunidades))))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom (nc0s000 desarrollo)
+            (s.a
+              (grup.a
+                (grup.a (aq0000 personal))
+                (conj (cc y))
+                (grup.a (aq0000 social))))))))))
+

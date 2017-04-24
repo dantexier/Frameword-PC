@@ -1,0 +1,569 @@
+Sentence #1 (62 tokens):
+En el presente artículo se presenta una herramienta pedagógica utilizada para la enseñanza de la formulación y evaluación de proyectos de inversión, materia que forma parte de los últimos años del plan de estudio de las carreras de Licenciatura en Economía, Contador Público, Licenciatura en Administración de Empresas y algunas carreras de ingeniería en las Universidades Argentinas.
+[Text=En CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=3 CharacterOffsetEnd=5 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presente CharacterOffsetBegin=6 CharacterOffsetEnd=14 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=artículo CharacterOffsetBegin=15 CharacterOffsetEnd=23 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=24 CharacterOffsetEnd=26 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=presenta CharacterOffsetBegin=27 CharacterOffsetEnd=35 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=36 CharacterOffsetEnd=39 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=herramienta CharacterOffsetBegin=40 CharacterOffsetEnd=51 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=pedagógica CharacterOffsetBegin=52 CharacterOffsetEnd=62 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=utilizada CharacterOffsetBegin=63 CharacterOffsetEnd=72 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=73 CharacterOffsetEnd=77 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=78 CharacterOffsetEnd=80 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=enseñanza CharacterOffsetBegin=81 CharacterOffsetEnd=90 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=91 CharacterOffsetEnd=93 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=94 CharacterOffsetEnd=96 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=formulación CharacterOffsetBegin=97 CharacterOffsetEnd=108 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=109 CharacterOffsetEnd=110 PartOfSpeech=cc NamedEntityTag=O]
+[Text=evaluación CharacterOffsetBegin=111 CharacterOffsetEnd=121 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=122 CharacterOffsetEnd=124 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=proyectos CharacterOffsetBegin=125 CharacterOffsetEnd=134 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=135 CharacterOffsetEnd=137 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=inversión CharacterOffsetBegin=138 CharacterOffsetEnd=147 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=147 CharacterOffsetEnd=148 PartOfSpeech=fc NamedEntityTag=O]
+[Text=materia CharacterOffsetBegin=149 CharacterOffsetEnd=156 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=157 CharacterOffsetEnd=160 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=forma CharacterOffsetBegin=161 CharacterOffsetEnd=166 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=parte CharacterOffsetBegin=167 CharacterOffsetEnd=172 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=173 CharacterOffsetEnd=175 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=176 CharacterOffsetEnd=179 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=últimos CharacterOffsetBegin=180 CharacterOffsetEnd=187 PartOfSpeech=ao0000 NamedEntityTag=O]
+[Text=años CharacterOffsetBegin=188 CharacterOffsetEnd=192 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=193 CharacterOffsetEnd=194 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=194 CharacterOffsetEnd=196 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=plan CharacterOffsetBegin=197 CharacterOffsetEnd=201 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=202 CharacterOffsetEnd=204 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=estudio CharacterOffsetBegin=205 CharacterOffsetEnd=212 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=213 CharacterOffsetEnd=215 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=216 CharacterOffsetEnd=219 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=carreras CharacterOffsetBegin=220 CharacterOffsetEnd=228 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=229 CharacterOffsetEnd=231 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Licenciatura CharacterOffsetBegin=232 CharacterOffsetEnd=244 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=en CharacterOffsetBegin=245 CharacterOffsetEnd=247 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Economía CharacterOffsetBegin=248 CharacterOffsetEnd=256 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=256 CharacterOffsetEnd=257 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Contador CharacterOffsetBegin=258 CharacterOffsetEnd=266 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Público CharacterOffsetBegin=267 CharacterOffsetEnd=274 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=274 CharacterOffsetEnd=275 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Licenciatura CharacterOffsetBegin=276 CharacterOffsetEnd=288 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=en CharacterOffsetBegin=289 CharacterOffsetEnd=291 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Administración CharacterOffsetBegin=292 CharacterOffsetEnd=306 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=307 CharacterOffsetEnd=309 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Empresas CharacterOffsetBegin=310 CharacterOffsetEnd=318 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=y CharacterOffsetBegin=319 CharacterOffsetEnd=320 PartOfSpeech=cc NamedEntityTag=O]
+[Text=algunas CharacterOffsetBegin=321 CharacterOffsetEnd=328 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=carreras CharacterOffsetBegin=329 CharacterOffsetEnd=337 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=338 CharacterOffsetEnd=340 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ingeniería CharacterOffsetBegin=341 CharacterOffsetEnd=351 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=352 CharacterOffsetEnd=354 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=355 CharacterOffsetEnd=358 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Universidades CharacterOffsetBegin=359 CharacterOffsetEnd=372 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Argentinas CharacterOffsetBegin=373 CharacterOffsetEnd=383 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=383 CharacterOffsetEnd=384 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (spec (da0000 el))
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 presente)))
+          (nc0s000 artículo))))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmip000 presenta))
+    (sn
+      (spec (di0000 una))
+      (grup.nom (nc0s000 herramienta)
+        (s.a
+          (grup.a (aq0000 pedagógica)))
+        (S
+          (participi (aq0000 utilizada))
+          (sp
+            (prep (sp000 para))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 enseñanza)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom
+                      (grup.nom (nc0s000 formulación))
+                      (conj (cc y))
+                      (grup.nom (nc0s000 evaluación))))))))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 proyectos)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0s000 inversión))))
+                (sn (fc ,)
+                  (grup.nom (nc0s000 materia)
+                    (S
+                      (relatiu (pr000000 que))
+                      (grup.verb (vmip000 forma))
+                      (sn
+                        (grup.nom (nc0s000 parte)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (spec (da0000 los))
+                              (grup.nom
+                                (s.a
+                                  (grup.a (ao0000 últimos)))
+                                (nc0p000 años)
+                                (sp
+                                  (prep (sp000 de))
+                                  (sn
+                                    (spec (da0000 el))
+                                    (grup.nom (nc0s000 plan)
+                                      (sp
+                                        (prep (sp000 de))
+                                        (sn
+                                          (grup.nom (nc0s000 estudio))))))))))))
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (sn
+                            (spec (da0000 las))
+                            (grup.nom (nc0p000 carreras)
+                              (sp
+                                (prep (sp000 de))
+                                (sn
+                                  (grup.nom (np00000 Licenciatura))))
+                              (sp
+                                (prep (sp000 en))
+                                (sn
+                                  (grup.nom (np00000 Economía)
+                                    (sn (fc ,)
+                                      (grup.nom (np00000 Contador) (np00000 Público))
+                                      (fc ,)))))
+                              (sn
+                                (grup.nom (np00000 Licenciatura)))
+                              (sp
+                                (prep (sp000 en))
+                                (sn
+                                  (grup.nom (np00000 Administración))))
+                              (sp
+                                (prep (sp000 de))
+                                (sn
+                                  (grup.nom (np00000 Empresas))))))
+                          (conj (cc y))
+                          (sn
+                            (spec (di0000 algunas))
+                            (grup.nom (nc0p000 carreras)
+                              (sp
+                                (prep (sp000 de))
+                                (sn
+                                  (grup.nom (nc0s000 ingeniería)
+                                    (sp
+                                      (prep (sp000 en))
+                                      (sn
+                                        (spec (da0000 las))
+                                        (grup.nom (np00000 Universidades) (np00000 Argentinas))))))))))))))))))))
+    (fp .)))
+
+Sentence #2 (56 tokens):
+Se considera que las TIC son herramientas al servicio de esa tarea y se les adjudica la posibilidad de ayudar a los estudiantes para ser buscadores y analizadores de información, solucionadores de problemas, usuarios creativos y eficaces, colaboradores, productores, ciudadanos informados responsables y capaces de contribuir a la sociedad.
+[Text=Se CharacterOffsetBegin=385 CharacterOffsetEnd=387 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=considera CharacterOffsetBegin=388 CharacterOffsetEnd=397 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=398 CharacterOffsetEnd=401 PartOfSpeech=cs NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=402 CharacterOffsetEnd=405 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=TIC CharacterOffsetBegin=406 CharacterOffsetEnd=409 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=son CharacterOffsetBegin=410 CharacterOffsetEnd=413 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=herramientas CharacterOffsetBegin=414 CharacterOffsetEnd=426 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=427 CharacterOffsetEnd=428 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=428 CharacterOffsetEnd=429 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=servicio CharacterOffsetBegin=430 CharacterOffsetEnd=438 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=439 CharacterOffsetEnd=441 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=esa CharacterOffsetBegin=442 CharacterOffsetEnd=445 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=tarea CharacterOffsetBegin=446 CharacterOffsetEnd=451 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=452 CharacterOffsetEnd=453 PartOfSpeech=cc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=454 CharacterOffsetEnd=456 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=les CharacterOffsetBegin=457 CharacterOffsetEnd=460 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=adjudica CharacterOffsetBegin=461 CharacterOffsetEnd=469 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=470 CharacterOffsetEnd=472 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=posibilidad CharacterOffsetBegin=473 CharacterOffsetEnd=484 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=485 CharacterOffsetEnd=487 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ayudar CharacterOffsetBegin=488 CharacterOffsetEnd=494 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=495 CharacterOffsetEnd=496 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=497 CharacterOffsetEnd=500 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=estudiantes CharacterOffsetBegin=501 CharacterOffsetEnd=512 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=513 CharacterOffsetEnd=517 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ser CharacterOffsetBegin=518 CharacterOffsetEnd=521 PartOfSpeech=vsn0000 NamedEntityTag=O]
+[Text=buscadores CharacterOffsetBegin=522 CharacterOffsetEnd=532 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=533 CharacterOffsetEnd=534 PartOfSpeech=cc NamedEntityTag=O]
+[Text=analizadores CharacterOffsetBegin=535 CharacterOffsetEnd=547 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=548 CharacterOffsetEnd=550 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=información CharacterOffsetBegin=551 CharacterOffsetEnd=562 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=562 CharacterOffsetEnd=563 PartOfSpeech=fc NamedEntityTag=O]
+[Text=solucionadores CharacterOffsetBegin=564 CharacterOffsetEnd=578 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=579 CharacterOffsetEnd=581 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=problemas CharacterOffsetBegin=582 CharacterOffsetEnd=591 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=591 CharacterOffsetEnd=592 PartOfSpeech=fc NamedEntityTag=O]
+[Text=usuarios CharacterOffsetBegin=593 CharacterOffsetEnd=601 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=creativos CharacterOffsetBegin=602 CharacterOffsetEnd=611 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=612 CharacterOffsetEnd=613 PartOfSpeech=cc NamedEntityTag=O]
+[Text=eficaces CharacterOffsetBegin=614 CharacterOffsetEnd=622 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=622 CharacterOffsetEnd=623 PartOfSpeech=fc NamedEntityTag=O]
+[Text=colaboradores CharacterOffsetBegin=624 CharacterOffsetEnd=637 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=637 CharacterOffsetEnd=638 PartOfSpeech=fc NamedEntityTag=O]
+[Text=productores CharacterOffsetBegin=639 CharacterOffsetEnd=650 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=650 CharacterOffsetEnd=651 PartOfSpeech=fc NamedEntityTag=O]
+[Text=ciudadanos CharacterOffsetBegin=652 CharacterOffsetEnd=662 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=informados CharacterOffsetBegin=663 CharacterOffsetEnd=673 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=responsables CharacterOffsetBegin=674 CharacterOffsetEnd=686 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=687 CharacterOffsetEnd=688 PartOfSpeech=cc NamedEntityTag=O]
+[Text=capaces CharacterOffsetBegin=689 CharacterOffsetEnd=696 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=697 CharacterOffsetEnd=699 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=contribuir CharacterOffsetBegin=700 CharacterOffsetEnd=710 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=711 CharacterOffsetEnd=712 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=713 CharacterOffsetEnd=715 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sociedad CharacterOffsetBegin=716 CharacterOffsetEnd=724 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=724 CharacterOffsetEnd=725 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (morfema.pronominal (p0000000 Se))
+      (grup.verb (vmip000 considera))
+      (S
+        (S
+          (conj (cs que))
+          (sn
+            (spec (da0000 las))
+            (grup.nom (np00000 TIC)))
+          (grup.verb (vsip000 son))
+          (sn
+            (grup.nom (nc0p000 herramientas)))
+          (sp
+            (prep (sp000 a))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 servicio)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (dd0000 esa))
+                    (grup.nom (nc0s000 tarea))))))))
+        (conj (cc y))
+        (S
+          (morfema.verbal (p0000000 se))
+          (sn
+            (grup.nom (pp000000 les)))
+          (grup.verb (vmip000 adjudica))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 posibilidad)
+              (sp
+                (prep (sp000 de))
+                (S
+                  (infinitiu (vmn0000 ayudar))
+                  (sp
+                    (prep (sp000 a))
+                    (sn
+                      (spec (da0000 los))
+                      (grup.nom (nc0p000 estudiantes))))))))))
+      (sp
+        (prep (sp000 para))
+        (S
+          (infinitiu (vsn0000 ser))
+          (sn
+            (grup.nom (nc0p000 buscadores))))))
+    (conj (cc y))
+    (S
+      (sn
+        (grup.nom (nc0p000 analizadores)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 información)
+                (sn (fc ,)
+                  (grup.nom (nc0p000 solucionadores)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0p000 problemas)))))
+                  (fc ,)))))
+          (s.a
+            (grup.a
+              (grup.a
+                (s.a
+                  (grup.a (aq0000 usuarios)))
+                (aq0000 creativos))
+              (conj (cc y))
+              (grup.a (aq0000 eficaces))))
+          (sn (fc ,)
+            (grup.nom
+              (grup.nom (nc0p000 colaboradores))
+              (fc ,)
+              (grup.nom (nc0p000 productores))
+              (fc ,)
+              (grup.nom (nc0p000 ciudadanos))))))
+      (grup.verb (vmp0000 informados))
+      (s.a
+        (s.a
+          (grup.a (aq0000 responsables)))
+        (conj (cc y))
+        (s.a
+          (grup.a (aq0000 capaces)
+            (sp
+              (prep (sp000 de))
+              (S
+                (infinitiu (vmn0000 contribuir))
+                (sp
+                  (prep (sp000 a))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 sociedad))))))))))
+    (fp .)))
+
+Sentence #3 (28 tokens):
+Luego de realizar una breve introducción, se presenta una descripción de la herramienta utilizada en la enseñanza de la formulación y evaluación de proyectos de inversión.
+[Text=Luego CharacterOffsetBegin=726 CharacterOffsetEnd=731 PartOfSpeech=rg NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=732 CharacterOffsetEnd=734 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=realizar CharacterOffsetBegin=735 CharacterOffsetEnd=743 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=744 CharacterOffsetEnd=747 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=breve CharacterOffsetBegin=748 CharacterOffsetEnd=753 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=introducción CharacterOffsetBegin=754 CharacterOffsetEnd=766 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=766 CharacterOffsetEnd=767 PartOfSpeech=fc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=768 CharacterOffsetEnd=770 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=presenta CharacterOffsetBegin=771 CharacterOffsetEnd=779 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=780 CharacterOffsetEnd=783 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=descripción CharacterOffsetBegin=784 CharacterOffsetEnd=795 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=796 CharacterOffsetEnd=798 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=799 CharacterOffsetEnd=801 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=herramienta CharacterOffsetBegin=802 CharacterOffsetEnd=813 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=utilizada CharacterOffsetBegin=814 CharacterOffsetEnd=823 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=824 CharacterOffsetEnd=826 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=827 CharacterOffsetEnd=829 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=enseñanza CharacterOffsetBegin=830 CharacterOffsetEnd=839 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=840 CharacterOffsetEnd=842 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=843 CharacterOffsetEnd=845 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=formulación CharacterOffsetBegin=846 CharacterOffsetEnd=857 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=858 CharacterOffsetEnd=859 PartOfSpeech=cc NamedEntityTag=O]
+[Text=evaluación CharacterOffsetBegin=860 CharacterOffsetEnd=870 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=871 CharacterOffsetEnd=873 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=proyectos CharacterOffsetBegin=874 CharacterOffsetEnd=883 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=884 CharacterOffsetEnd=886 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=inversión CharacterOffsetBegin=887 CharacterOffsetEnd=896 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=896 CharacterOffsetEnd=897 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (sadv
+        (grup.adv (rg Luego)))
+      (sp
+        (prep (sp000 de))
+        (S
+          (infinitiu (vmn0000 realizar))
+          (sn
+            (spec (di0000 una))
+            (grup.nom
+              (s.a
+                (grup.a (aq0000 breve)))
+              (nc0s000 introducción)))))
+      (fc ,))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmip000 presenta))
+    (sn
+      (spec (di0000 una))
+      (grup.nom (nc0s000 descripción)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 herramienta)
+              (S
+                (participi (aq0000 utilizada))
+                (sp
+                  (prep (sp000 en))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 enseñanza)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom
+                            (grup.nom (nc0s000 formulación))
+                            (conj (cc y))
+                            (grup.nom (nc0s000 evaluación))))))))))))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (grup.nom (nc0p000 proyectos)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 inversión)))))))
+    (fp .)))
+
+Sentence #4 (59 tokens):
+Se trata de un archivo Excel, con programación visual basic subyacente, que permite a los alumnos concentrarse en la formulación del proyecto de inversión, la identificación de las principales variables a considerar, su valoración económica y en la interpretación y análisis de los resultados de la evaluación financiera del proyecto de inversión
+[Text=Se CharacterOffsetBegin=898 CharacterOffsetEnd=900 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=trata CharacterOffsetBegin=901 CharacterOffsetEnd=906 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=907 CharacterOffsetEnd=909 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=910 CharacterOffsetEnd=912 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=archivo CharacterOffsetBegin=913 CharacterOffsetEnd=920 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=Excel CharacterOffsetBegin=921 CharacterOffsetEnd=926 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=926 CharacterOffsetEnd=927 PartOfSpeech=fc NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=928 CharacterOffsetEnd=931 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=programación CharacterOffsetBegin=932 CharacterOffsetEnd=944 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=visual CharacterOffsetBegin=945 CharacterOffsetEnd=951 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=basic CharacterOffsetBegin=952 CharacterOffsetEnd=957 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=subyacente CharacterOffsetBegin=958 CharacterOffsetEnd=968 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=968 CharacterOffsetEnd=969 PartOfSpeech=fc NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=970 CharacterOffsetEnd=973 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=permite CharacterOffsetBegin=974 CharacterOffsetEnd=981 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=982 CharacterOffsetEnd=983 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=984 CharacterOffsetEnd=987 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=alumnos CharacterOffsetBegin=988 CharacterOffsetEnd=995 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=concentrar CharacterOffsetBegin=996 CharacterOffsetEnd=1006 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=1006 CharacterOffsetEnd=1008 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1009 CharacterOffsetEnd=1011 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1012 CharacterOffsetEnd=1014 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=formulación CharacterOffsetBegin=1015 CharacterOffsetEnd=1026 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1027 CharacterOffsetEnd=1028 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1028 CharacterOffsetEnd=1030 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=proyecto CharacterOffsetBegin=1031 CharacterOffsetEnd=1039 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1040 CharacterOffsetEnd=1042 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=inversión CharacterOffsetBegin=1043 CharacterOffsetEnd=1052 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1052 CharacterOffsetEnd=1053 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1054 CharacterOffsetEnd=1056 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=identificación CharacterOffsetBegin=1057 CharacterOffsetEnd=1071 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1072 CharacterOffsetEnd=1074 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1075 CharacterOffsetEnd=1078 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=principales CharacterOffsetBegin=1079 CharacterOffsetEnd=1090 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=variables CharacterOffsetBegin=1091 CharacterOffsetEnd=1100 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1101 CharacterOffsetEnd=1102 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=considerar CharacterOffsetBegin=1103 CharacterOffsetEnd=1113 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1113 CharacterOffsetEnd=1114 PartOfSpeech=fc NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=1115 CharacterOffsetEnd=1117 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=valoración CharacterOffsetBegin=1118 CharacterOffsetEnd=1128 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=económica CharacterOffsetBegin=1129 CharacterOffsetEnd=1138 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1139 CharacterOffsetEnd=1140 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1141 CharacterOffsetEnd=1143 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1144 CharacterOffsetEnd=1146 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=interpretación CharacterOffsetBegin=1147 CharacterOffsetEnd=1161 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1162 CharacterOffsetEnd=1163 PartOfSpeech=cc NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=1164 CharacterOffsetEnd=1172 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1173 CharacterOffsetEnd=1175 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1176 CharacterOffsetEnd=1179 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=resultados CharacterOffsetBegin=1180 CharacterOffsetEnd=1190 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1191 CharacterOffsetEnd=1193 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1194 CharacterOffsetEnd=1196 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=evaluación CharacterOffsetBegin=1197 CharacterOffsetEnd=1207 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=financiera CharacterOffsetBegin=1208 CharacterOffsetEnd=1218 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1219 CharacterOffsetEnd=1220 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1220 CharacterOffsetEnd=1222 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=proyecto CharacterOffsetBegin=1223 CharacterOffsetEnd=1231 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1232 CharacterOffsetEnd=1234 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=inversión CharacterOffsetBegin=1235 CharacterOffsetEnd=1244 PartOfSpeech=nc0s000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (morfema.pronominal (p0000000 Se))
+      (grup.verb (vmip000 trata))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (dn0000 un))
+          (grup.nom (nc0s000 archivo)
+            (sn
+              (grup.nom (np00000 Excel)))))))
+    (S (fc ,)
+      (sp
+        (prep (sp000 con))
+        (sn
+          (grup.nom (nc0s000 programación)
+            (s.a
+              (grup.a (aq0000 visual))))))
+      (grup.verb (vmis000 basic))
+      (sn
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 subyacente)))
+          (S (fc ,)
+            (relatiu (pr000000 que))
+            (grup.verb (vmip000 permite))
+            (sp
+              (prep (sp000 a))
+              (sn
+                (spec (da0000 los))
+                (grup.nom (nc0p000 alumnos))))
+            (S
+              (infinitiu (vmn0000 concentrar))
+              (sn
+                (grup.nom (pp000000 se)))
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 formulación)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (spec (da0000 el))
+                        (grup.nom (nc0s000 proyecto)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (nc0s000 inversión)))))))))
+                (fc ,))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 identificación)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 las))
+                      (grup.nom
+                        (s.a
+                          (grup.a (aq0000 principales)))
+                        (nc0p000 variables)
+                        (sp
+                          (prep (sp000 a))
+                          (S
+                            (infinitiu (vmn0000 considerar))
+                            (sn (fc ,)
+                              (spec (dp0000 su))
+                              (grup.nom (nc0s000 valoración)
+                                (S
+                                  (participi (aq0000 económica)))))))))))))))))
+    (conj (cc y))
+    (S
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (da0000 la))
+          (grup.nom
+            (grup.nom (nc0s000 interpretación))
+            (conj (cc y))
+            (grup.nom (nc0n000 análisis)))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 los))
+          (grup.nom (nc0p000 resultados)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 evaluación)
+                  (s.a
+                    (grup.a (aq0000 financiera)))
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 el))
+                      (grup.nom (nc0s000 proyecto)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (nc0s000 inversión))))))))))))))))
+

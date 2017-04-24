@@ -1,0 +1,338 @@
+Sentence #1 (25 tokens):
+El presente artículo tiene por objetivo aportar algunas reflexiones en torno a las prácticas de evaluación y los sentidos y efectos que estas producen.
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presente CharacterOffsetBegin=3 CharacterOffsetEnd=11 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=artículo CharacterOffsetBegin=12 CharacterOffsetEnd=20 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=tiene CharacterOffsetBegin=21 CharacterOffsetEnd=26 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=27 CharacterOffsetEnd=30 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=objetivo CharacterOffsetBegin=31 CharacterOffsetEnd=39 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=aportar CharacterOffsetBegin=40 CharacterOffsetEnd=47 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=algunas CharacterOffsetBegin=48 CharacterOffsetEnd=55 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=reflexiones CharacterOffsetBegin=56 CharacterOffsetEnd=67 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=68 CharacterOffsetEnd=70 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=torno CharacterOffsetBegin=71 CharacterOffsetEnd=76 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=77 CharacterOffsetEnd=78 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=79 CharacterOffsetEnd=82 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=prácticas CharacterOffsetBegin=83 CharacterOffsetEnd=92 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=93 CharacterOffsetEnd=95 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=evaluación CharacterOffsetBegin=96 CharacterOffsetEnd=106 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=107 CharacterOffsetEnd=108 PartOfSpeech=cc NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=109 CharacterOffsetEnd=112 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sentidos CharacterOffsetBegin=113 CharacterOffsetEnd=121 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=122 CharacterOffsetEnd=123 PartOfSpeech=cc NamedEntityTag=O]
+[Text=efectos CharacterOffsetBegin=124 CharacterOffsetEnd=131 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=132 CharacterOffsetEnd=135 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=estas CharacterOffsetBegin=136 CharacterOffsetEnd=141 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=producen CharacterOffsetBegin=142 CharacterOffsetEnd=150 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=150 CharacterOffsetEnd=151 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom
+        (s.a
+          (grup.a (aq0000 presente)))
+        (nc0s000 artículo)))
+    (grup.verb (vmip000 tiene))
+    (sp
+      (prep (sp000 por))
+      (sn
+        (grup.nom (nc0s000 objetivo))))
+    (S
+      (infinitiu (vmn0000 aportar))
+      (sn
+        (spec (di0000 algunas))
+        (grup.nom (nc0p000 reflexiones)
+          (sp
+            (prep (sp000 en))
+            (sn
+              (grup.nom (nc0s000 torno))))))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (sn
+            (spec (da0000 las))
+            (grup.nom (nc0p000 prácticas)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 evaluación))))))
+          (conj (cc y))
+          (sn
+            (sn
+              (spec (da0000 los))
+              (grup.nom (nc0p000 sentidos)))
+            (conj (cc y))
+            (sn
+              (grup.nom (nc0p000 efectos)))))))
+    (S
+      (sn
+        (grup.nom (pr000000 que))
+        (spec (dd0000 estas)))
+      (grup.verb (vmip000 producen)))
+    (fp .)))
+
+Sentence #2 (16 tokens):
+Plantea una puesta en relación con las trayectorias escolares y las acciones e intervenciones docentes.
+[Text=Plantea CharacterOffsetBegin=152 CharacterOffsetEnd=159 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=160 CharacterOffsetEnd=163 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=puesta CharacterOffsetBegin=164 CharacterOffsetEnd=170 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=171 CharacterOffsetEnd=173 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=relación CharacterOffsetBegin=174 CharacterOffsetEnd=182 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=183 CharacterOffsetEnd=186 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=187 CharacterOffsetEnd=190 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=trayectorias CharacterOffsetBegin=191 CharacterOffsetEnd=203 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=escolares CharacterOffsetBegin=204 CharacterOffsetEnd=213 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=214 CharacterOffsetEnd=215 PartOfSpeech=cc NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=216 CharacterOffsetEnd=219 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=acciones CharacterOffsetBegin=220 CharacterOffsetEnd=228 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=e CharacterOffsetBegin=229 CharacterOffsetEnd=230 PartOfSpeech=cc NamedEntityTag=O]
+[Text=intervenciones CharacterOffsetBegin=231 CharacterOffsetEnd=245 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=docentes CharacterOffsetBegin=246 CharacterOffsetEnd=254 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=254 CharacterOffsetEnd=255 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (grup.verb (vmip000 Plantea))
+    (sn
+      (sn
+        (spec (di0000 una))
+        (grup.nom (nc0s000 puesta)
+          (sp
+            (prep (sp000 en))
+            (sn
+              (grup.nom (nc0s000 relación)
+                (sp
+                  (prep (sp000 con))
+                  (sn
+                    (spec (da0000 las))
+                    (grup.nom (nc0p000 trayectorias)
+                      (s.a
+                        (grup.a (aq0000 escolares)))))))))))
+      (conj (cc y))
+      (sn
+        (spec (da0000 las))
+        (grup.nom
+          (grup.nom
+            (grup.nom (nc0p000 acciones))
+            (conj (cc e))
+            (grup.nom (nc0p000 intervenciones)))
+          (S
+            (participi (aq0000 docentes))))))
+    (fp .)))
+
+Sentence #3 (42 tokens):
+Se pone en relieve la dimensión ético política, la responsabilidad, la confianza y la autoridad que en toda práctica evaluativa se juega, generando condiciones de posibilidad, de crecimiento, de potencialidad o no en los estudiantes evaluados.
+[Text=Se CharacterOffsetBegin=256 CharacterOffsetEnd=258 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=pone CharacterOffsetBegin=259 CharacterOffsetEnd=263 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=264 CharacterOffsetEnd=266 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=relieve CharacterOffsetBegin=267 CharacterOffsetEnd=274 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=275 CharacterOffsetEnd=277 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=dimensión CharacterOffsetBegin=278 CharacterOffsetEnd=287 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=ético CharacterOffsetBegin=288 CharacterOffsetEnd=293 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=política CharacterOffsetBegin=294 CharacterOffsetEnd=302 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=302 CharacterOffsetEnd=303 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=304 CharacterOffsetEnd=306 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=responsabilidad CharacterOffsetBegin=307 CharacterOffsetEnd=322 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=322 CharacterOffsetEnd=323 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=324 CharacterOffsetEnd=326 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=confianza CharacterOffsetBegin=327 CharacterOffsetEnd=336 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=337 CharacterOffsetEnd=338 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=339 CharacterOffsetEnd=341 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=autoridad CharacterOffsetBegin=342 CharacterOffsetEnd=351 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=352 CharacterOffsetEnd=355 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=356 CharacterOffsetEnd=358 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=toda CharacterOffsetBegin=359 CharacterOffsetEnd=363 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=práctica CharacterOffsetBegin=364 CharacterOffsetEnd=372 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=evaluativa CharacterOffsetBegin=373 CharacterOffsetEnd=383 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=384 CharacterOffsetEnd=386 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=juega CharacterOffsetBegin=387 CharacterOffsetEnd=392 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=392 CharacterOffsetEnd=393 PartOfSpeech=fc NamedEntityTag=O]
+[Text=generando CharacterOffsetBegin=394 CharacterOffsetEnd=403 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=condiciones CharacterOffsetBegin=404 CharacterOffsetEnd=415 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=416 CharacterOffsetEnd=418 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=posibilidad CharacterOffsetBegin=419 CharacterOffsetEnd=430 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=430 CharacterOffsetEnd=431 PartOfSpeech=fc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=432 CharacterOffsetEnd=434 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=crecimiento CharacterOffsetBegin=435 CharacterOffsetEnd=446 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=446 CharacterOffsetEnd=447 PartOfSpeech=fc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=448 CharacterOffsetEnd=450 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=potencialidad CharacterOffsetBegin=451 CharacterOffsetEnd=464 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=465 CharacterOffsetEnd=466 PartOfSpeech=cc NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=467 CharacterOffsetEnd=469 PartOfSpeech=rn NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=470 CharacterOffsetEnd=472 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=473 CharacterOffsetEnd=476 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=estudiantes CharacterOffsetBegin=477 CharacterOffsetEnd=488 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=evaluados CharacterOffsetBegin=489 CharacterOffsetEnd=498 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=498 CharacterOffsetEnd=499 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (morfema.verbal (p0000000 Se))
+      (grup.verb (vmip000 pone))
+      (sadv
+        (grup.adv
+          (sp
+            (prep (sp000 en))
+            (sn
+              (grup.nom (nc0s000 relieve))))))
+      (sn
+        (sn
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 dimensión)
+              (s.a
+                (grup.a (aq0000 ético)))
+              (s.a
+                (grup.a (aq0000 política)))))
+          (fc ,)
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 responsabilidad)))
+          (fc ,)
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 confianza)))
+          (conj (cc y))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 autoridad))))
+        (S
+          (relatiu (pr000000 que))
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (di0000 toda))
+              (grup.nom (nc0s000 práctica)
+                (s.a
+                  (grup.a (aq0000 evaluativa)))))))))
+    (morfema.pronominal (p0000000 se))
+    (grup.verb (vmip000 juega))
+    (S (fc ,)
+      (gerundi (vmg0000 generando))
+      (sn
+        (grup.nom (nc0p000 condiciones)
+          (sp
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 posibilidad))))
+            (fc ,)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 crecimiento))))
+            (fc ,)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 potencialidad))))
+            (conj (cc o))
+            (sp
+              (neg (rn no))
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (spec (da0000 los))
+                  (grup.nom (nc0p000 estudiantes)
+                    (S
+                      (participi (aq0000 evaluados)))))))))))
+    (fp .)))
+
+Sentence #4 (35 tokens):
+Asimismo, sobre la base de estos planteos se expone un trabajo llevado a cabo para revisar y fortalecer los procesos de autoevaluación institucional en las escuelas de la Provincia de Córdoba, Argentin
+[Text=Asimismo CharacterOffsetBegin=500 CharacterOffsetEnd=508 PartOfSpeech=rg NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=508 CharacterOffsetEnd=509 PartOfSpeech=fc NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=510 CharacterOffsetEnd=515 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=516 CharacterOffsetEnd=518 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=base CharacterOffsetBegin=519 CharacterOffsetEnd=523 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=524 CharacterOffsetEnd=526 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=estos CharacterOffsetBegin=527 CharacterOffsetEnd=532 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=plante CharacterOffsetBegin=533 CharacterOffsetEnd=539 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=os CharacterOffsetBegin=539 CharacterOffsetEnd=541 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=542 CharacterOffsetEnd=544 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=expone CharacterOffsetBegin=545 CharacterOffsetEnd=551 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=552 CharacterOffsetEnd=554 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=555 CharacterOffsetEnd=562 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=llevado CharacterOffsetBegin=563 CharacterOffsetEnd=570 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=571 CharacterOffsetEnd=572 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cabo CharacterOffsetBegin=573 CharacterOffsetEnd=577 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=578 CharacterOffsetEnd=582 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=revisar CharacterOffsetBegin=583 CharacterOffsetEnd=590 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=591 CharacterOffsetEnd=592 PartOfSpeech=cc NamedEntityTag=O]
+[Text=fortalecer CharacterOffsetBegin=593 CharacterOffsetEnd=603 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=604 CharacterOffsetEnd=607 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=procesos CharacterOffsetBegin=608 CharacterOffsetEnd=616 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=617 CharacterOffsetEnd=619 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=autoevaluación CharacterOffsetBegin=620 CharacterOffsetEnd=634 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=institucional CharacterOffsetBegin=635 CharacterOffsetEnd=648 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=649 CharacterOffsetEnd=651 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=652 CharacterOffsetEnd=655 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=escuelas CharacterOffsetBegin=656 CharacterOffsetEnd=664 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=665 CharacterOffsetEnd=667 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=668 CharacterOffsetEnd=670 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Provincia CharacterOffsetBegin=671 CharacterOffsetEnd=680 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=de CharacterOffsetBegin=681 CharacterOffsetEnd=683 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Córdoba CharacterOffsetBegin=684 CharacterOffsetEnd=691 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=691 CharacterOffsetEnd=692 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Argentin CharacterOffsetBegin=693 CharacterOffsetEnd=701 PartOfSpeech=np00000 NamedEntityTag=PERS]
+(ROOT
+  (sentence
+    (S
+      (sadv
+        (grup.adv (rg Asimismo)))
+      (sp (fc ,)
+        (prep (sp000 sobre))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 base)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (dd0000 estos))
+                (grup.nom (nc0s000 plante))))))))
+    (S
+      (morfema.pronominal (pp000000 os))
+      (sn
+        (grup.nom (p0000000 se)))
+      (grup.verb (vmip000 expone))
+      (S
+        (sn
+          (spec (di0000 un))
+          (grup.nom (nc0s000 trabajo)))
+        (participi (aq0000 llevado)
+          (sp
+            (prep (sp000 a))
+            (sn
+              (grup.nom (nc0s000 cabo)
+                (sp
+                  (prep (sp000 para))
+                  (S
+                    (S
+                      (infinitiu (vmn0000 revisar)))
+                    (conj (cc y))
+                    (S
+                      (infinitiu (vmn0000 fortalecer))
+                      (sn
+                        (spec (da0000 los))
+                        (grup.nom (nc0p000 procesos)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (nc0s000 autoevaluación)
+                                (s.a
+                                  (grup.a (aq0000 institucional)))))))))))))))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 las))
+            (grup.nom (nc0p000 escuelas)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (np00000 Provincia)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (np00000 Córdoba) (fc ,) (np00000 Argentin))))))))))))))
+

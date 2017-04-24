@@ -1,0 +1,104 @@
+Sentence #1 (16 tokens):
+El texto aborda lo más sobresaliente de la comunicación al interior de las organizaciones.
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=texto CharacterOffsetBegin=3 CharacterOffsetEnd=8 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=aborda CharacterOffsetBegin=9 CharacterOffsetEnd=15 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=lo CharacterOffsetBegin=16 CharacterOffsetEnd=18 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=19 CharacterOffsetEnd=22 PartOfSpeech=rg NamedEntityTag=O]
+[Text=sobresaliente CharacterOffsetBegin=23 CharacterOffsetEnd=36 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=37 CharacterOffsetEnd=39 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=40 CharacterOffsetEnd=42 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=comunicación CharacterOffsetBegin=43 CharacterOffsetEnd=55 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=56 CharacterOffsetEnd=57 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=57 CharacterOffsetEnd=58 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=interior CharacterOffsetBegin=59 CharacterOffsetEnd=67 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=68 CharacterOffsetEnd=70 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=71 CharacterOffsetEnd=74 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=organizaciones CharacterOffsetBegin=75 CharacterOffsetEnd=89 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=89 CharacterOffsetEnd=90 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 texto)))
+    (grup.verb (vmip000 aborda))
+    (sn
+      (spec (da0000 lo))
+      (grup.nom
+        (s.a
+          (spec (rg más))
+          (grup.a (aq0000 sobresaliente)))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 comunicación)
+          (sp
+            (prep (sp000 a))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 interior)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 las))
+                    (grup.nom (nc0p000 organizaciones))))))))))
+    (fp .)))
+
+Sentence #2 (20 tokens):
+Valora la gestión de la misma para crear identidad y valores compartidos, en cualquier marco institucional-organizativo.
+[Text=Valora CharacterOffsetBegin=91 CharacterOffsetEnd=97 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=98 CharacterOffsetEnd=100 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=gestión CharacterOffsetBegin=101 CharacterOffsetEnd=108 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=109 CharacterOffsetEnd=111 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=112 CharacterOffsetEnd=114 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=misma CharacterOffsetBegin=115 CharacterOffsetEnd=120 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=121 CharacterOffsetEnd=125 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=crear CharacterOffsetBegin=126 CharacterOffsetEnd=131 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=identidad CharacterOffsetBegin=132 CharacterOffsetEnd=141 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=142 CharacterOffsetEnd=143 PartOfSpeech=cc NamedEntityTag=O]
+[Text=valores CharacterOffsetBegin=144 CharacterOffsetEnd=151 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=compartidos CharacterOffsetBegin=152 CharacterOffsetEnd=163 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=163 CharacterOffsetEnd=164 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=165 CharacterOffsetEnd=167 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cualquier CharacterOffsetBegin=168 CharacterOffsetEnd=177 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=marco CharacterOffsetBegin=178 CharacterOffsetEnd=183 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=institucional CharacterOffsetBegin=184 CharacterOffsetEnd=197 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=197 CharacterOffsetEnd=198 PartOfSpeech=fg NamedEntityTag=O]
+[Text=organizativo CharacterOffsetBegin=198 CharacterOffsetEnd=210 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=210 CharacterOffsetEnd=211 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (grup.verb (vmip000 Valora))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 gestión)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 la))
+              (grup.nom
+                (s.a
+                  (grup.a (aq0000 misma)
+                    (sp
+                      (prep (sp000 para))
+                      (S
+                        (infinitiu (vmn0000 crear))))))
+                (nc0s000 identidad)))))))
+    (conj (cc y))
+    (S
+      (sn
+        (grup.nom (nc0p000 valores)
+          (s.a
+            (grup.a (aq0000 compartidos)))))
+      (sp (fc ,)
+        (prep (sp000 en))
+        (sn
+          (spec (di0000 cualquier))
+          (grup.nom (nc0s000 marco)
+            (S
+              (participi
+                (grup.a (aq0000 institucional) (fg -) (aq0000 organizativo))))))))
+    (fp .)))
+

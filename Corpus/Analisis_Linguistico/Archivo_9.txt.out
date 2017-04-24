@@ -1,0 +1,842 @@
+Sentence #1 (151 tokens):
+En Famatina, La Rioja (Argentina) en cultivo de ajo (Allium sativum L.) en suelo franco arenoso se dispusieron melgas con los tratamientos de suelo siguientes: T1 = 2 años consecutivos sin fertilizantes ni abono después de 1 año sin cultivar; T2 = 2 años consecutivos con fertilizantes químicos (FQ) y 1 año previo con cultivo de ajo; T3 = 1 año con FQ más 23 t/ha de abono orgánico caprino precedido de un cultivo de avena (Avena sativa L.); T = 2 años consecutivos con FQ y abono caprino (23 t/ha) en suelo cultivado previamente con avena; T5 = 1 año con FQ después de 2 años cultivado con avena; T6 = 1 año con FQ y 2 años previos con cultivo de alfalfa (Medicago sativa L.).
+[Text=En CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Famatina CharacterOffsetBegin=3 CharacterOffsetEnd=11 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=11 CharacterOffsetEnd=12 PartOfSpeech=fc NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=13 CharacterOffsetEnd=15 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=16 CharacterOffsetEnd=21 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==LRB= CharacterOffsetBegin=22 CharacterOffsetEnd=23 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=23 CharacterOffsetEnd=32 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==RRB= CharacterOffsetBegin=32 CharacterOffsetEnd=33 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=34 CharacterOffsetEnd=36 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cultivo CharacterOffsetBegin=37 CharacterOffsetEnd=44 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=45 CharacterOffsetEnd=47 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ajo CharacterOffsetBegin=48 CharacterOffsetEnd=51 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=52 CharacterOffsetEnd=53 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Allium CharacterOffsetBegin=53 CharacterOffsetEnd=59 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=sativum CharacterOffsetBegin=60 CharacterOffsetEnd=67 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=L. CharacterOffsetBegin=68 CharacterOffsetEnd=70 PartOfSpeech=nc00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=70 CharacterOffsetEnd=71 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=72 CharacterOffsetEnd=74 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=suelo CharacterOffsetBegin=75 CharacterOffsetEnd=80 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=franco CharacterOffsetBegin=81 CharacterOffsetEnd=87 PartOfSpeech=zm NamedEntityTag=O]
+[Text=arenoso CharacterOffsetBegin=88 CharacterOffsetEnd=95 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=96 CharacterOffsetEnd=98 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=dispusieron CharacterOffsetBegin=99 CharacterOffsetEnd=110 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=melgas CharacterOffsetBegin=111 CharacterOffsetEnd=117 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=118 CharacterOffsetEnd=121 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=122 CharacterOffsetEnd=125 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tratamientos CharacterOffsetBegin=126 CharacterOffsetEnd=138 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=139 CharacterOffsetEnd=141 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=suelo CharacterOffsetBegin=142 CharacterOffsetEnd=147 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=siguientes CharacterOffsetBegin=148 CharacterOffsetEnd=158 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=158 CharacterOffsetEnd=159 PartOfSpeech=fd NamedEntityTag=O]
+[Text=T1 CharacterOffsetBegin=160 CharacterOffsetEnd=162 PartOfSpeech=pi000000 NamedEntityTag=O]
+[Text== CharacterOffsetBegin=163 CharacterOffsetEnd=164 PartOfSpeech=f0 NamedEntityTag=O]
+[Text=2 CharacterOffsetBegin=165 CharacterOffsetEnd=166 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=años CharacterOffsetBegin=167 CharacterOffsetEnd=171 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=consecutivos CharacterOffsetBegin=172 CharacterOffsetEnd=184 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=sin CharacterOffsetBegin=185 CharacterOffsetEnd=188 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=fertilizantes CharacterOffsetBegin=189 CharacterOffsetEnd=202 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=ni CharacterOffsetBegin=203 CharacterOffsetEnd=205 PartOfSpeech=cc NamedEntityTag=O]
+[Text=abono CharacterOffsetBegin=206 CharacterOffsetEnd=211 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=después CharacterOffsetBegin=212 CharacterOffsetEnd=219 PartOfSpeech=rg NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=220 CharacterOffsetEnd=222 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=1 CharacterOffsetBegin=223 CharacterOffsetEnd=224 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=año CharacterOffsetBegin=225 CharacterOffsetEnd=228 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=sin CharacterOffsetBegin=229 CharacterOffsetEnd=232 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cultivar CharacterOffsetBegin=233 CharacterOffsetEnd=241 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=241 CharacterOffsetEnd=242 PartOfSpeech=fx NamedEntityTag=O]
+[Text=T2 CharacterOffsetBegin=243 CharacterOffsetEnd=245 PartOfSpeech=z0 NamedEntityTag=O]
+[Text== CharacterOffsetBegin=246 CharacterOffsetEnd=247 PartOfSpeech=f0 NamedEntityTag=O]
+[Text=2 CharacterOffsetBegin=248 CharacterOffsetEnd=249 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=años CharacterOffsetBegin=250 CharacterOffsetEnd=254 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=consecutivos CharacterOffsetBegin=255 CharacterOffsetEnd=267 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=268 CharacterOffsetEnd=271 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=fertilizantes CharacterOffsetBegin=272 CharacterOffsetEnd=285 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=químicos CharacterOffsetBegin=286 CharacterOffsetEnd=294 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=295 CharacterOffsetEnd=296 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=FQ CharacterOffsetBegin=296 CharacterOffsetEnd=298 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=298 CharacterOffsetEnd=299 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=300 CharacterOffsetEnd=301 PartOfSpeech=cc NamedEntityTag=O]
+[Text=1 CharacterOffsetBegin=302 CharacterOffsetEnd=303 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=año CharacterOffsetBegin=304 CharacterOffsetEnd=307 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=previo CharacterOffsetBegin=308 CharacterOffsetEnd=314 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=315 CharacterOffsetEnd=318 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cultivo CharacterOffsetBegin=319 CharacterOffsetEnd=326 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=327 CharacterOffsetEnd=329 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ajo CharacterOffsetBegin=330 CharacterOffsetEnd=333 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=333 CharacterOffsetEnd=334 PartOfSpeech=fx NamedEntityTag=O]
+[Text=T3 CharacterOffsetBegin=335 CharacterOffsetEnd=337 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text== CharacterOffsetBegin=338 CharacterOffsetEnd=339 PartOfSpeech=f0 NamedEntityTag=O]
+[Text=1 CharacterOffsetBegin=340 CharacterOffsetEnd=341 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=año CharacterOffsetBegin=342 CharacterOffsetEnd=345 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=346 CharacterOffsetEnd=349 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=FQ CharacterOffsetBegin=350 CharacterOffsetEnd=352 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=más CharacterOffsetBegin=353 CharacterOffsetEnd=356 PartOfSpeech=rg NamedEntityTag=O]
+[Text=23 CharacterOffsetBegin=357 CharacterOffsetEnd=359 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=t CharacterOffsetBegin=360 CharacterOffsetEnd=361 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=/ CharacterOffsetBegin=361 CharacterOffsetEnd=362 PartOfSpeech=fh NamedEntityTag=O]
+[Text=ha CharacterOffsetBegin=362 CharacterOffsetEnd=364 PartOfSpeech=vaip000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=365 CharacterOffsetEnd=367 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=abono CharacterOffsetBegin=368 CharacterOffsetEnd=373 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=orgánico CharacterOffsetBegin=374 CharacterOffsetEnd=382 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=caprino CharacterOffsetBegin=383 CharacterOffsetEnd=390 PartOfSpeech=vaic000 NamedEntityTag=O]
+[Text=precedido CharacterOffsetBegin=391 CharacterOffsetEnd=400 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=401 CharacterOffsetEnd=403 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=404 CharacterOffsetEnd=406 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=cultivo CharacterOffsetBegin=407 CharacterOffsetEnd=414 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=415 CharacterOffsetEnd=417 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=avena CharacterOffsetBegin=418 CharacterOffsetEnd=423 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=424 CharacterOffsetEnd=425 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Avena CharacterOffsetBegin=425 CharacterOffsetEnd=430 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=sativa CharacterOffsetBegin=431 CharacterOffsetEnd=437 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=L. CharacterOffsetBegin=438 CharacterOffsetEnd=440 PartOfSpeech=nc00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=440 CharacterOffsetEnd=441 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=441 CharacterOffsetEnd=442 PartOfSpeech=fx NamedEntityTag=O]
+[Text=T CharacterOffsetBegin=443 CharacterOffsetEnd=444 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text== CharacterOffsetBegin=445 CharacterOffsetEnd=446 PartOfSpeech=f0 NamedEntityTag=O]
+[Text=2 CharacterOffsetBegin=447 CharacterOffsetEnd=448 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=años CharacterOffsetBegin=449 CharacterOffsetEnd=453 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=consecutivos CharacterOffsetBegin=454 CharacterOffsetEnd=466 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=467 CharacterOffsetEnd=470 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=FQ CharacterOffsetBegin=471 CharacterOffsetEnd=473 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=474 CharacterOffsetEnd=475 PartOfSpeech=cc NamedEntityTag=O]
+[Text=abono CharacterOffsetBegin=476 CharacterOffsetEnd=481 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=caprino CharacterOffsetBegin=482 CharacterOffsetEnd=489 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=490 CharacterOffsetEnd=491 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=23 CharacterOffsetBegin=491 CharacterOffsetEnd=493 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=t CharacterOffsetBegin=494 CharacterOffsetEnd=495 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=/ CharacterOffsetBegin=495 CharacterOffsetEnd=496 PartOfSpeech=fh NamedEntityTag=O]
+[Text=ha CharacterOffsetBegin=496 CharacterOffsetEnd=498 PartOfSpeech=vaip000 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=498 CharacterOffsetEnd=499 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=500 CharacterOffsetEnd=502 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=suelo CharacterOffsetBegin=503 CharacterOffsetEnd=508 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=cultivado CharacterOffsetBegin=509 CharacterOffsetEnd=518 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=previamente CharacterOffsetBegin=519 CharacterOffsetEnd=530 PartOfSpeech=rg NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=531 CharacterOffsetEnd=534 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=avena CharacterOffsetBegin=535 CharacterOffsetEnd=540 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=540 CharacterOffsetEnd=541 PartOfSpeech=fx NamedEntityTag=O]
+[Text=T5 CharacterOffsetBegin=542 CharacterOffsetEnd=544 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text== CharacterOffsetBegin=545 CharacterOffsetEnd=546 PartOfSpeech=f0 NamedEntityTag=O]
+[Text=1 CharacterOffsetBegin=547 CharacterOffsetEnd=548 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=año CharacterOffsetBegin=549 CharacterOffsetEnd=552 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=553 CharacterOffsetEnd=556 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=FQ CharacterOffsetBegin=557 CharacterOffsetEnd=559 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=después CharacterOffsetBegin=560 CharacterOffsetEnd=567 PartOfSpeech=rg NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=568 CharacterOffsetEnd=570 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=2 CharacterOffsetBegin=571 CharacterOffsetEnd=572 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=años CharacterOffsetBegin=573 CharacterOffsetEnd=577 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=cultivado CharacterOffsetBegin=578 CharacterOffsetEnd=587 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=588 CharacterOffsetEnd=591 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=avena CharacterOffsetBegin=592 CharacterOffsetEnd=597 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=597 CharacterOffsetEnd=598 PartOfSpeech=fx NamedEntityTag=O]
+[Text=T6 CharacterOffsetBegin=599 CharacterOffsetEnd=601 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text== CharacterOffsetBegin=602 CharacterOffsetEnd=603 PartOfSpeech=f0 NamedEntityTag=O]
+[Text=1 CharacterOffsetBegin=604 CharacterOffsetEnd=605 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=año CharacterOffsetBegin=606 CharacterOffsetEnd=609 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=610 CharacterOffsetEnd=613 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=FQ CharacterOffsetBegin=614 CharacterOffsetEnd=616 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=617 CharacterOffsetEnd=618 PartOfSpeech=cc NamedEntityTag=O]
+[Text=2 CharacterOffsetBegin=619 CharacterOffsetEnd=620 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=años CharacterOffsetBegin=621 CharacterOffsetEnd=625 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=previos CharacterOffsetBegin=626 CharacterOffsetEnd=633 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=634 CharacterOffsetEnd=637 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cultivo CharacterOffsetBegin=638 CharacterOffsetEnd=645 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=646 CharacterOffsetEnd=648 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=alfalfa CharacterOffsetBegin=649 CharacterOffsetEnd=656 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=657 CharacterOffsetEnd=658 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Medicago CharacterOffsetBegin=658 CharacterOffsetEnd=666 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=sativa CharacterOffsetBegin=667 CharacterOffsetEnd=673 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=L. CharacterOffsetBegin=674 CharacterOffsetEnd=676 PartOfSpeech=nc00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=676 CharacterOffsetEnd=677 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=677 CharacterOffsetEnd=678 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (grup.nom (np00000 Famatina)))
+      (fc ,))
+    (sn
+      (spec (da0000 La))
+      (grup.nom (np00000 Rioja)
+        (sn (fpa =LRB=)
+          (grup.nom (np00000 Argentina))
+          (fpt =RRB=))
+        (S
+          (relatiu
+            (grup.pron
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (grup.nom (nc0s000 cultivo)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 ajo))))
+                    (sn (fpa =LRB=)
+                      (grup.nom
+                        (grup.nom (np00000 Allium)
+                          (s.a
+                            (grup.a (aq0000 sativum))))
+                        (sn
+                          (grup.nom (nc00000 L.))))
+                      (fpt =RRB=)))))))
+          (S
+            (sp
+              (prep (sp000 en))
+              (sn
+                (grup.nom (nc0s000 suelo)
+                  (sn
+                    (grup.nom (zm franco)
+                      (s.a
+                        (grup.a (aq0000 arenoso))))))))
+            (morfema.verbal (p0000000 se))
+            (grup.verb (vmis000 dispusieron))
+            (S
+              (participi (aq0000 melgas))
+              (sp
+                (prep (sp000 con))
+                (sn
+                  (spec (da0000 los))
+                  (grup.nom (nc0p000 tratamientos)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 suelo)
+                          (s.a
+                            (grup.a (aq0000 siguientes)))
+                          (sn (fd :)
+                            (grup.nom
+                              (grup.nom
+                                (grup.z (pi000000 T1) (f0 =))
+                                (sadv
+                                  (sn
+                                    (sn
+                                      (spec (z0 2))
+                                      (grup.nom (nc0p000 años)
+                                        (s.a
+                                          (grup.a (aq0000 consecutivos)))
+                                        (sp
+                                          (prep (sp000 sin))
+                                          (sn
+                                            (grup.nom (nc0p000 fertilizantes))))))
+                                    (conj (cc ni))
+                                    (sn
+                                      (grup.nom (nc0s000 abono))))
+                                  (sadv
+                                    (grup.adv (rg después))))
+                                (sp
+                                  (prep (sp000 de))
+                                  (sn
+                                    (spec (z0 1))
+                                    (grup.nom (nc0s000 año)
+                                      (sp
+                                        (prep (sp000 sin))
+                                        (S
+                                          (infinitiu (vmn0000 cultivar))))))))
+                              (fx ;)
+                              (grup.nom
+                                (grup.z (z0 T2) (f0 =))
+                                (sn
+                                  (spec (z0 2))
+                                  (grup.nom (nc0p000 años)
+                                    (s.a
+                                      (grup.a (aq0000 consecutivos)))))))))))
+                    (S
+                      (relatiu
+                        (grup.pron
+                          (sp
+                            (prep (sp000 con))
+                            (sn
+                              (grup.nom (nc0p000 fertilizantes))))))
+                      (S
+                        (participi (aq0000 químicos))
+                        (sn
+                          (sn
+                            (grup.nom (fpa =LRB=) (np00000 FQ) (fpt =RRB=)))
+                          (conj (cc y))
+                          (sn
+                            (spec (z0 1))
+                            (grup.nom (nc0s000 año)
+                              (s.a
+                                (grup.a (aq0000 previo)))
+                              (sp
+                                (prep (sp000 con))
+                                (sn
+                                  (grup.nom (nc0s000 cultivo)
+                                    (sp
+                                      (prep (sp000 de))
+                                      (sn
+                                        (grup.nom (nc0s000 ajo))))
+                                    (sn (fx ;)
+                                      (grup.nom
+                                        (grup.z (np00000 T3) (f0 =))
+                                        (sadv
+                                          (sn
+                                            (spec (z0 1))
+                                            (grup.nom (nc0s000 año)
+                                              (sp
+                                                (prep (sp000 con))
+                                                (sn
+                                                  (grup.nom (np00000 FQ))))))
+                                          (sadv
+                                            (grup.adv (rg más)))))))))
+                              (sn
+                                (spec (z0 23))
+                                (grup.nom (nc00000 t)))))))
+                      (fh /)
+                      (S
+                        (grup.verb (vaip000 ha))
+                        (S
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (nc0s000 abono)
+                                (s.a
+                                  (grup.a (aq0000 orgánico))))))
+                          (grup.verb (vaic000 caprino) (vmp0000 precedido))
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (sn
+                                (spec (di0000 un))
+                                (grup.nom (nc0s000 cultivo)
+                                  (sp
+                                    (prep (sp000 de))
+                                    (sn
+                                      (grup.nom (nc0s000 avena))))
+                                  (sn (fpa =LRB=)
+                                    (grup.nom
+                                      (grup.nom (np00000 Avena)
+                                        (s.a
+                                          (grup.a (aq0000 sativa))))
+                                      (sn
+                                        (grup.nom (nc00000 L.))))
+                                    (fpt =RRB=)))
+                                (fx ;))
+                              (sn
+                                (grup.z (np00000 T) (f0 =)))))))
+                      (sn
+                        (spec (z0 2))
+                        (grup.nom (nc0p000 años)
+                          (s.a
+                            (grup.a (aq0000 consecutivos)))))
+                      (sp
+                        (prep (sp000 con))
+                        (sn
+                          (grup.nom
+                            (grup.nom
+                              (grup.nom (np00000 FQ))
+                              (conj (cc y))
+                              (grup.nom (nc0s000 abono)))
+                            (sn
+                              (grup.nom (np00000 caprino)))
+                            (sn (fpa =LRB=)
+                              (spec (z0 23))
+                              (grup.nom
+                                (s.a
+                                  (grup.a (nc00000 t))))))))))))))
+          (fh /)
+          (S
+            (S
+              (sp
+                (sp
+                  (inc
+                    (S
+                      (S
+                        (grup.verb (vaip000 ha)))
+                      (fpt =RRB=)))
+                  (sadv
+                    (grup.adv
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (grup.nom (nc0s000 suelo)
+                            (s.a
+                              (grup.a (aq0000 cultivado))))))))
+                  (sp
+                    (sadv
+                      (grup.adv (rg previamente)))
+                    (sp
+                      (sp
+                        (prep (sp000 con))
+                        (sn
+                          (grup.nom (nc0s000 avena)))
+                        (fx ;))
+                      (sn
+                        (sn
+                          (grup.z (np00000 T5) (f0 =)))
+                        (sn
+                          (spec (z0 1))
+                          (grup.nom (nc0s000 año)
+                            (sp
+                              (prep (sp000 con))
+                              (sn
+                                (grup.nom (np00000 FQ))))))))))
+                (conj (rg después))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (z0 2))
+                    (grup.nom (nc0p000 años)))))
+              (participi (aq0000 cultivado)))
+            (sp
+              (prep (sp000 con))
+              (sn
+                (grup.nom
+                  (sn
+                    (grup.nom (nc0s000 avena))
+                    (fx ;))
+                  (sn
+                    (grup.z (np00000 T6) (f0 =)))))))
+          (sn
+            (sn
+              (spec (z0 1))
+              (grup.nom (nc0s000 año)
+                (sp
+                  (prep (sp000 con))
+                  (sn
+                    (grup.nom (np00000 FQ))))))
+            (conj (cc y))
+            (sn
+              (spec (z0 2))
+              (grup.nom (nc0p000 años)
+                (s.a
+                  (grup.a (aq0000 previos))))))
+          (sp
+            (prep (sp000 con))
+            (sn
+              (grup.nom (nc0s000 cultivo)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0s000 alfalfa))))
+                (sn (fpa =LRB=)
+                  (grup.nom
+                    (grup.nom (np00000 Medicago)
+                      (s.a
+                        (grup.a (aq0000 sativa))))
+                    (sn
+                      (grup.nom (nc00000 L.))))
+                  (fpt =RRB=))))))))
+    (fp .)))
+
+Sentence #2 (18 tokens):
+Se tomaron muestras de suelo a la siembra y en la cosecha hasta 80 cm de profundidad.
+[Text=Se CharacterOffsetBegin=679 CharacterOffsetEnd=681 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=tomaron CharacterOffsetBegin=682 CharacterOffsetEnd=689 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=muestras CharacterOffsetBegin=690 CharacterOffsetEnd=698 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=699 CharacterOffsetEnd=701 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=suelo CharacterOffsetBegin=702 CharacterOffsetEnd=707 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=708 CharacterOffsetEnd=709 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=710 CharacterOffsetEnd=712 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=siembra CharacterOffsetBegin=713 CharacterOffsetEnd=720 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=721 CharacterOffsetEnd=722 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=723 CharacterOffsetEnd=725 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=726 CharacterOffsetEnd=728 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cosecha CharacterOffsetBegin=729 CharacterOffsetEnd=736 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=hasta CharacterOffsetBegin=737 CharacterOffsetEnd=742 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=80 CharacterOffsetBegin=743 CharacterOffsetEnd=745 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=cm CharacterOffsetBegin=746 CharacterOffsetEnd=748 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=749 CharacterOffsetEnd=751 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=profundidad CharacterOffsetBegin=752 CharacterOffsetEnd=763 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=763 CharacterOffsetEnd=764 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmis000 tomaron))
+    (sp
+      (sp
+        (prep
+          (grup.prep (nc0p000 muestras) (sp000 de)))
+        (sn
+          (grup.nom (nc0s000 suelo)
+            (sp
+              (prep (sp000 a))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 siembra)))))))
+      (conj (cc y))
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 cosecha)
+            (sp
+              (prep (sp000 hasta))
+              (sn
+                (spec (z0 80))
+                (grup.nom (np00000 cm)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0s000 profundidad)))))))))))
+    (fp .)))
+
+Sentence #3 (16 tokens):
+Se empleó el análisis de componente principal (ACP) para las variables de suelo.
+[Text=Se CharacterOffsetBegin=765 CharacterOffsetEnd=767 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=empleó CharacterOffsetBegin=768 CharacterOffsetEnd=774 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=775 CharacterOffsetEnd=777 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=778 CharacterOffsetEnd=786 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=787 CharacterOffsetEnd=789 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=componente CharacterOffsetBegin=790 CharacterOffsetEnd=800 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=principal CharacterOffsetBegin=801 CharacterOffsetEnd=810 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=811 CharacterOffsetEnd=812 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=ACP CharacterOffsetBegin=812 CharacterOffsetEnd=815 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=815 CharacterOffsetEnd=816 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=817 CharacterOffsetEnd=821 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=822 CharacterOffsetEnd=825 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=variables CharacterOffsetBegin=826 CharacterOffsetEnd=835 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=836 CharacterOffsetEnd=838 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=suelo CharacterOffsetBegin=839 CharacterOffsetEnd=844 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=844 CharacterOffsetEnd=845 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmis000 empleó))
+    (sn
+      (spec (da0000 el))
+      (grup.nom (nc0n000 análisis)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 componente)
+              (s.a
+                (grup.a (aq0000 principal)))
+              (sn
+                (grup.nom (fpa =LRB=) (np00000 ACP) (fpt =RRB=))))))))
+    (sp
+      (prep (sp000 para))
+      (sn
+        (spec (da0000 las))
+        (grup.nom (nc0p000 variables)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 suelo)))))))
+    (fp .)))
+
+Sentence #4 (28 tokens):
+Los contenidos de materia orgánica, NO3 -, N total, P y K fueron favorecidos por los T3 y T4 en comparación con el T2.
+[Text=Los CharacterOffsetBegin=846 CharacterOffsetEnd=849 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=contenidos CharacterOffsetBegin=850 CharacterOffsetEnd=860 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=861 CharacterOffsetEnd=863 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=materia CharacterOffsetBegin=864 CharacterOffsetEnd=871 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=orgánica CharacterOffsetBegin=872 CharacterOffsetEnd=880 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=880 CharacterOffsetEnd=881 PartOfSpeech=fc NamedEntityTag=O]
+[Text=NO3 CharacterOffsetBegin=882 CharacterOffsetEnd=885 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=886 CharacterOffsetEnd=887 PartOfSpeech=fg NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=887 CharacterOffsetEnd=888 PartOfSpeech=fc NamedEntityTag=O]
+[Text=N CharacterOffsetBegin=889 CharacterOffsetEnd=890 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=total CharacterOffsetBegin=891 CharacterOffsetEnd=896 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=896 CharacterOffsetEnd=897 PartOfSpeech=fc NamedEntityTag=O]
+[Text=P CharacterOffsetBegin=898 CharacterOffsetEnd=899 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=900 CharacterOffsetEnd=901 PartOfSpeech=cc NamedEntityTag=O]
+[Text=K CharacterOffsetBegin=902 CharacterOffsetEnd=903 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=fueron CharacterOffsetBegin=904 CharacterOffsetEnd=910 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=favorecidos CharacterOffsetBegin=911 CharacterOffsetEnd=922 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=923 CharacterOffsetEnd=926 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=927 CharacterOffsetEnd=930 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=T3 CharacterOffsetBegin=931 CharacterOffsetEnd=933 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=934 CharacterOffsetEnd=935 PartOfSpeech=cc NamedEntityTag=O]
+[Text=T4 CharacterOffsetBegin=936 CharacterOffsetEnd=938 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=939 CharacterOffsetEnd=941 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=comparación CharacterOffsetBegin=942 CharacterOffsetEnd=953 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=954 CharacterOffsetEnd=957 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=958 CharacterOffsetEnd=960 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=T2 CharacterOffsetBegin=961 CharacterOffsetEnd=963 PartOfSpeech=nc0s000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=963 CharacterOffsetEnd=964 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Los))
+      (grup.nom
+        (grup.nom (nc0p000 contenidos)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 materia)
+                (s.a
+                  (grup.a (aq0000 orgánica)))))))
+        (fc ,)
+        (grup.nom (np00000 NO3) (fg -)
+          (s.a (fc ,)
+            (sn
+              (grup.nom (np00000 N)))
+            (s.a
+              (grup.a (aq0000 total)))))
+        (fc ,)
+        (grup.nom (np00000 P))
+        (conj (cc y))
+        (grup.nom (np00000 K))))
+    (grup.verb (vsis000 fueron) (vmp0000 favorecidos))
+    (sp
+      (prep (sp000 por))
+      (sn
+        (spec (da0000 los))
+        (grup.nom
+          (grup.nom (np00000 T3))
+          (conj (cc y))
+          (grup.w (z0 T4)
+            (sp
+              (prep (sp000 en))
+              (sn
+                (grup.nom (nc0s000 comparación))))))))
+    (sp
+      (prep (sp000 con))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 T2))))
+    (fp .)))
+
+Sentence #5 (33 tokens):
+El cultivo de alfalfa favoreció los menores valores de pH (6.2) y conductividad eléctrica (CE) asociados con valores máximos de nitratos entre 30 y 80 cm de profundidad.
+[Text=El CharacterOffsetBegin=965 CharacterOffsetEnd=967 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cultivo CharacterOffsetBegin=968 CharacterOffsetEnd=975 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=976 CharacterOffsetEnd=978 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=alfalfa CharacterOffsetBegin=979 CharacterOffsetEnd=986 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=favoreció CharacterOffsetBegin=987 CharacterOffsetEnd=996 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=997 CharacterOffsetEnd=1000 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=menores CharacterOffsetBegin=1001 CharacterOffsetEnd=1008 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=valores CharacterOffsetBegin=1009 CharacterOffsetEnd=1016 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1017 CharacterOffsetEnd=1019 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=pH CharacterOffsetBegin=1020 CharacterOffsetEnd=1022 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=1023 CharacterOffsetEnd=1024 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=6.2 CharacterOffsetBegin=1024 CharacterOffsetEnd=1027 PartOfSpeech=z0 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=1027 CharacterOffsetEnd=1028 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1029 CharacterOffsetEnd=1030 PartOfSpeech=cc NamedEntityTag=O]
+[Text=conductividad CharacterOffsetBegin=1031 CharacterOffsetEnd=1044 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=eléctrica CharacterOffsetBegin=1045 CharacterOffsetEnd=1054 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=1055 CharacterOffsetEnd=1056 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=CE CharacterOffsetBegin=1056 CharacterOffsetEnd=1058 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=1058 CharacterOffsetEnd=1059 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=asociados CharacterOffsetBegin=1060 CharacterOffsetEnd=1069 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=1070 CharacterOffsetEnd=1073 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=valores CharacterOffsetBegin=1074 CharacterOffsetEnd=1081 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=máximos CharacterOffsetBegin=1082 CharacterOffsetEnd=1089 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1090 CharacterOffsetEnd=1092 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nitratos CharacterOffsetBegin=1093 CharacterOffsetEnd=1101 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=1102 CharacterOffsetEnd=1107 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=30 CharacterOffsetBegin=1108 CharacterOffsetEnd=1110 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1111 CharacterOffsetEnd=1112 PartOfSpeech=cc NamedEntityTag=O]
+[Text=80 CharacterOffsetBegin=1113 CharacterOffsetEnd=1115 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=cm CharacterOffsetBegin=1116 CharacterOffsetEnd=1118 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1119 CharacterOffsetEnd=1121 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=profundidad CharacterOffsetBegin=1122 CharacterOffsetEnd=1133 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1133 CharacterOffsetEnd=1134 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 cultivo)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 alfalfa))))))
+    (grup.verb (vmis000 favoreció))
+    (sn
+      (spec (da0000 los))
+      (grup.nom (nc0p000 menores)))
+    (sn
+      (grup.nom (nc0p000 valores)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (np00000 pH))))))
+    (sn
+      (sn
+        (grup.nom (fpa =LRB=) (z0 6.2) (fpt =RRB=)))
+      (conj (cc y))
+      (sn
+        (grup.nom
+          (grup.nom (nc0s000 conductividad)
+            (s.a
+              (grup.a (aq0000 eléctrica)))
+            (sn
+              (grup.nom (fpa =LRB=) (np00000 CE) (fpt =RRB=))))
+          (sn
+            (grup.nom (nc0p000 asociados)
+              (sp
+                (prep (sp000 con))
+                (sn
+                  (grup.nom (nc0p000 valores))))))
+          (S
+            (participi (aq0000 máximos))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0p000 nitratos)
+                  (sp
+                    (prep (sp000 entre))
+                    (sn
+                      (spec
+                        (spec (z0 30))
+                        (conj (cc y))
+                        (spec (z0 80)))
+                      (grup.nom (np00000 cm)))))))))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (grup.nom (nc0s000 profundidad))))
+    (fp .)))
+
+Sentence #6 (20 tokens):
+En esta profundidad, los T3 y T4 presentaron contenidos de nitrato similares a los de T2 y T5.
+[Text=En CharacterOffsetBegin=1135 CharacterOffsetEnd=1137 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=esta CharacterOffsetBegin=1138 CharacterOffsetEnd=1142 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=profundidad CharacterOffsetBegin=1143 CharacterOffsetEnd=1154 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1154 CharacterOffsetEnd=1155 PartOfSpeech=fc NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1156 CharacterOffsetEnd=1159 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=T3 CharacterOffsetBegin=1160 CharacterOffsetEnd=1162 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=1163 CharacterOffsetEnd=1164 PartOfSpeech=cc NamedEntityTag=O]
+[Text=T4 CharacterOffsetBegin=1165 CharacterOffsetEnd=1167 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=presentaron CharacterOffsetBegin=1168 CharacterOffsetEnd=1179 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=contenidos CharacterOffsetBegin=1180 CharacterOffsetEnd=1190 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1191 CharacterOffsetEnd=1193 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nitrato CharacterOffsetBegin=1194 CharacterOffsetEnd=1201 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=similares CharacterOffsetBegin=1202 CharacterOffsetEnd=1211 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1212 CharacterOffsetEnd=1213 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1214 CharacterOffsetEnd=1217 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1218 CharacterOffsetEnd=1220 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=T2 CharacterOffsetBegin=1221 CharacterOffsetEnd=1223 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1224 CharacterOffsetEnd=1225 PartOfSpeech=cc NamedEntityTag=O]
+[Text=T5 CharacterOffsetBegin=1226 CharacterOffsetEnd=1228 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1228 CharacterOffsetEnd=1229 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (spec (dd0000 esta))
+        (grup.nom (nc0s000 profundidad)))
+      (fc ,))
+    (sn
+      (spec (da0000 los))
+      (grup.nom
+        (grup.nom (np00000 T3))
+        (conj (cc y))
+        (grup.nom (z0 T4))))
+    (grup.verb (vmis000 presentaron))
+    (sn
+      (grup.nom (nc0p000 contenidos)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 nitrato)
+              (s.a
+                (grup.a (aq0000 similares))))))))
+    (sp
+      (prep (sp000 a))
+      (sn
+        (spec (da0000 los))
+        (grup.nom
+          (grup.nom
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (np00000 T2)))))
+          (conj (cc y))
+          (grup.nom (np00000 T5)))))
+    (fp .)))
+
+Sentence #7 (36 tokens):
+En el T2, después de 2 años el pH cambió de 7.2 a 6.8, el contenido de C de 0.6 a 0.4% y aumentó la CE de 1.9 a 2.8 dS/m
+[Text=En CharacterOffsetBegin=1230 CharacterOffsetEnd=1232 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1233 CharacterOffsetEnd=1235 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=T2 CharacterOffsetBegin=1236 CharacterOffsetEnd=1238 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1238 CharacterOffsetEnd=1239 PartOfSpeech=fc NamedEntityTag=O]
+[Text=después CharacterOffsetBegin=1240 CharacterOffsetEnd=1247 PartOfSpeech=rg NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1248 CharacterOffsetEnd=1250 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=2 CharacterOffsetBegin=1251 CharacterOffsetEnd=1252 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=años CharacterOffsetBegin=1253 CharacterOffsetEnd=1257 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1258 CharacterOffsetEnd=1260 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pH CharacterOffsetBegin=1261 CharacterOffsetEnd=1263 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=cambió CharacterOffsetBegin=1264 CharacterOffsetEnd=1270 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1271 CharacterOffsetEnd=1273 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=7.2 CharacterOffsetBegin=1274 CharacterOffsetEnd=1277 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1278 CharacterOffsetEnd=1279 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=6.8 CharacterOffsetBegin=1280 CharacterOffsetEnd=1283 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1283 CharacterOffsetEnd=1284 PartOfSpeech=fc NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1285 CharacterOffsetEnd=1287 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=contenido CharacterOffsetBegin=1288 CharacterOffsetEnd=1297 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1298 CharacterOffsetEnd=1300 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=C CharacterOffsetBegin=1301 CharacterOffsetEnd=1302 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=1303 CharacterOffsetEnd=1305 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=0.6 CharacterOffsetBegin=1306 CharacterOffsetEnd=1309 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1310 CharacterOffsetEnd=1311 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=0.4 CharacterOffsetBegin=1312 CharacterOffsetEnd=1315 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=1315 CharacterOffsetEnd=1316 PartOfSpeech=ft NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1317 CharacterOffsetEnd=1318 PartOfSpeech=cc NamedEntityTag=O]
+[Text=aumentó CharacterOffsetBegin=1319 CharacterOffsetEnd=1326 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1327 CharacterOffsetEnd=1329 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=CE CharacterOffsetBegin=1330 CharacterOffsetEnd=1332 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=1333 CharacterOffsetEnd=1335 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=1.9 CharacterOffsetBegin=1336 CharacterOffsetEnd=1339 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1340 CharacterOffsetEnd=1341 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=2.8 CharacterOffsetBegin=1342 CharacterOffsetEnd=1345 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=dS CharacterOffsetBegin=1346 CharacterOffsetEnd=1348 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=/ CharacterOffsetBegin=1348 CharacterOffsetEnd=1349 PartOfSpeech=fh NamedEntityTag=O]
+[Text=m CharacterOffsetBegin=1349 CharacterOffsetEnd=1350 PartOfSpeech=np00000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep (sp000 En))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (np00000 T2)
+            (sp (fc ,)
+              (sadv
+                (grup.adv (rg después)))
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (z0 2))
+                  (grup.nom (nc0p000 años))))))))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (np00000 pH)))
+      (grup.verb (vmis000 cambió))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.w (z0 7.2)
+            (sp
+              (prep (sp000 a))
+              (sn
+                (grup.nom (z0 6.8))))))
+        (fc ,))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 contenido)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (np00000 C))))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (z0 0.6)
+                (sp
+                  (prep (sp000 a))
+                  (sn
+                    (grup.z (z0 0.4) (ft %))))))))))
+    (conj (cc y))
+    (S
+      (grup.verb (vmis000 aumentó))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (np00000 CE)))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom (z0 1.9)
+            (sp
+              (prep (sp000 a))
+              (sn
+                (spec (z0 2.8))
+                (grup.nom (np00000 dS) (fh /) (np00000 m))))))))))
+

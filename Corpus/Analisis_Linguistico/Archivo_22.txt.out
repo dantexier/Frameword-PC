@@ -1,0 +1,217 @@
+Sentence #1 (25 tokens):
+En este artículo se analizará el pasaje de la mano invisible en Investigaciones sobre la naturaleza y causa de la riqueza de las naciones.
+[Text=En CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=3 CharacterOffsetEnd=7 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=artículo CharacterOffsetBegin=8 CharacterOffsetEnd=16 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=17 CharacterOffsetEnd=19 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=analizará CharacterOffsetBegin=20 CharacterOffsetEnd=29 PartOfSpeech=vmif000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=30 CharacterOffsetEnd=32 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pasaje CharacterOffsetBegin=33 CharacterOffsetEnd=39 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=40 CharacterOffsetEnd=42 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=43 CharacterOffsetEnd=45 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=mano CharacterOffsetBegin=46 CharacterOffsetEnd=50 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=invisible CharacterOffsetBegin=51 CharacterOffsetEnd=60 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=61 CharacterOffsetEnd=63 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Investigaciones CharacterOffsetBegin=64 CharacterOffsetEnd=79 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=sobre CharacterOffsetBegin=80 CharacterOffsetEnd=85 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=86 CharacterOffsetEnd=88 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=naturaleza CharacterOffsetBegin=89 CharacterOffsetEnd=99 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=100 CharacterOffsetEnd=101 PartOfSpeech=cc NamedEntityTag=O]
+[Text=causa CharacterOffsetBegin=102 CharacterOffsetEnd=107 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=108 CharacterOffsetEnd=110 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=111 CharacterOffsetEnd=113 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=riqueza CharacterOffsetBegin=114 CharacterOffsetEnd=121 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=122 CharacterOffsetEnd=124 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=125 CharacterOffsetEnd=128 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=naciones CharacterOffsetBegin=129 CharacterOffsetEnd=137 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=137 CharacterOffsetEnd=138 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (spec (dd0000 este))
+        (grup.nom (nc0s000 artículo))))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmif000 analizará))
+    (sn
+      (spec (da0000 el))
+      (grup.nom (nc0s000 pasaje)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 mano)
+              (s.a
+                (grup.a (aq0000 invisible)))
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (grup.nom (np00000 Investigaciones)))))))
+        (sp
+          (prep (sp000 sobre))
+          (sn
+            (spec (da0000 la))
+            (grup.nom
+              (grup.nom (nc0s000 naturaleza))
+              (conj (cc y))
+              (grup.nom (nc0s000 causa)))))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 riqueza)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 las))
+              (grup.nom (nc0p000 naciones)))))))
+    (fp .)))
+
+Sentence #2 (34 tokens):
+Se mostrará que el resultado esperado por la acción de la mano invisible, la maximización del producto total anual, algunas veces es un obstáculo para la defensa de las naciones.
+[Text=Se CharacterOffsetBegin=139 CharacterOffsetEnd=141 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=mostrará CharacterOffsetBegin=142 CharacterOffsetEnd=150 PartOfSpeech=vmif000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=151 CharacterOffsetEnd=154 PartOfSpeech=cs NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=155 CharacterOffsetEnd=157 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=resultado CharacterOffsetBegin=158 CharacterOffsetEnd=167 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=esperado CharacterOffsetBegin=168 CharacterOffsetEnd=176 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=177 CharacterOffsetEnd=180 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=181 CharacterOffsetEnd=183 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=acción CharacterOffsetBegin=184 CharacterOffsetEnd=190 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=191 CharacterOffsetEnd=193 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=194 CharacterOffsetEnd=196 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=mano CharacterOffsetBegin=197 CharacterOffsetEnd=201 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=invisible CharacterOffsetBegin=202 CharacterOffsetEnd=211 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=211 CharacterOffsetEnd=212 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=213 CharacterOffsetEnd=215 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=maximización CharacterOffsetBegin=216 CharacterOffsetEnd=228 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=229 CharacterOffsetEnd=230 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=230 CharacterOffsetEnd=232 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=producto CharacterOffsetBegin=233 CharacterOffsetEnd=241 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=total CharacterOffsetBegin=242 CharacterOffsetEnd=247 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=anual CharacterOffsetBegin=248 CharacterOffsetEnd=253 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=253 CharacterOffsetEnd=254 PartOfSpeech=fc NamedEntityTag=O]
+[Text=algunas CharacterOffsetBegin=255 CharacterOffsetEnd=262 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=veces CharacterOffsetBegin=263 CharacterOffsetEnd=268 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=269 CharacterOffsetEnd=271 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=272 CharacterOffsetEnd=274 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=obstáculo CharacterOffsetBegin=275 CharacterOffsetEnd=284 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=285 CharacterOffsetEnd=289 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=290 CharacterOffsetEnd=292 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=defensa CharacterOffsetBegin=293 CharacterOffsetEnd=300 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=301 CharacterOffsetEnd=303 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=304 CharacterOffsetEnd=307 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=naciones CharacterOffsetBegin=308 CharacterOffsetEnd=316 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=316 CharacterOffsetEnd=317 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmif000 mostrará))
+    (S
+      (conj (cs que))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 resultado)
+          (S
+            (participi (aq0000 esperado))
+            (sp
+              (prep (sp000 por))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 acción)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (nc0s000 mano)
+                        (s.a
+                          (grup.a (aq0000 invisible))))))
+                  (sn (fc ,)
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 maximización)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (da0000 el))
+                          (grup.nom (nc0s000 producto)
+                            (s.a
+                              (grup.a (aq0000 total)))
+                            (s.a
+                              (grup.a (aq0000 anual)))))))
+                    (fc ,))))))))
+      (sn
+        (spec (di0000 algunas))
+        (grup.nom (nc0p000 veces)))
+      (grup.verb (vsip000 es))
+      (sn
+        (spec (di0000 un))
+        (grup.nom (nc0s000 obstáculo)
+          (sp
+            (prep (sp000 para))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 defensa)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 las))
+                    (grup.nom (nc0p000 naciones))))))))))
+    (fp .)))
+
+Sentence #3 (18 tokens):
+Para comprender cabalmente este punto analizaremos previamente algunas cuestiones en relación con el pasaje de la mano invisible
+[Text=Para CharacterOffsetBegin=318 CharacterOffsetEnd=322 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=comprender CharacterOffsetBegin=323 CharacterOffsetEnd=333 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=cabalmente CharacterOffsetBegin=334 CharacterOffsetEnd=344 PartOfSpeech=rg NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=345 CharacterOffsetEnd=349 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=punto CharacterOffsetBegin=350 CharacterOffsetEnd=355 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=analizaremos CharacterOffsetBegin=356 CharacterOffsetEnd=368 PartOfSpeech=vmif000 NamedEntityTag=O]
+[Text=previamente CharacterOffsetBegin=369 CharacterOffsetEnd=380 PartOfSpeech=rg NamedEntityTag=O]
+[Text=algunas CharacterOffsetBegin=381 CharacterOffsetEnd=388 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=cuestiones CharacterOffsetBegin=389 CharacterOffsetEnd=399 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=400 CharacterOffsetEnd=402 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=relación CharacterOffsetBegin=403 CharacterOffsetEnd=411 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=412 CharacterOffsetEnd=415 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=416 CharacterOffsetEnd=418 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pasaje CharacterOffsetBegin=419 CharacterOffsetEnd=425 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=426 CharacterOffsetEnd=428 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=429 CharacterOffsetEnd=431 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=mano CharacterOffsetBegin=432 CharacterOffsetEnd=436 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=invisible CharacterOffsetBegin=437 CharacterOffsetEnd=446 PartOfSpeech=aq0000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep (sp000 Para))
+        (S
+          (infinitiu (vmn0000 comprender))
+          (sadv
+            (grup.adv (rg cabalmente)))
+          (sn
+            (spec (dd0000 este))
+            (grup.nom (nc0s000 punto))))))
+    (grup.verb (vmif000 analizaremos))
+    (sn
+      (grup.nom
+        (s.a
+          (spec (rg previamente))
+          (grup.a (di0000 algunas)))
+        (nc0p000 cuestiones)
+        (sp
+          (prep (sp000 en))
+          (sn
+            (grup.nom (nc0s000 relación)
+              (sp
+                (prep (sp000 con))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 pasaje)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (spec (da0000 la))
+                        (grup.nom (nc0s000 mano)
+                          (s.a
+                            (grup.a (aq0000 invisible))))))))))))))))
+

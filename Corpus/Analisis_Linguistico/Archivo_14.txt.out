@@ -1,0 +1,796 @@
+Sentence #1 (24 tokens):
+Los hábitos tróficos de la Lechuza de Campanario (Tyto alba) han sido ampliamente estudiados en el centro y sur de Argentina.
+[Text=Los CharacterOffsetBegin=0 CharacterOffsetEnd=3 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=hábitos CharacterOffsetBegin=4 CharacterOffsetEnd=11 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=tróficos CharacterOffsetBegin=12 CharacterOffsetEnd=20 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=21 CharacterOffsetEnd=23 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=24 CharacterOffsetEnd=26 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Lechuza CharacterOffsetBegin=27 CharacterOffsetEnd=34 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=de CharacterOffsetBegin=35 CharacterOffsetEnd=37 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Campanario CharacterOffsetBegin=38 CharacterOffsetEnd=48 PartOfSpeech=nc0s000 NamedEntityTag=OTROS]
+[Text==LRB= CharacterOffsetBegin=49 CharacterOffsetEnd=50 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Tyto CharacterOffsetBegin=50 CharacterOffsetEnd=54 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=alba CharacterOffsetBegin=55 CharacterOffsetEnd=59 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=59 CharacterOffsetEnd=60 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=han CharacterOffsetBegin=61 CharacterOffsetEnd=64 PartOfSpeech=vaip000 NamedEntityTag=O]
+[Text=sido CharacterOffsetBegin=65 CharacterOffsetEnd=69 PartOfSpeech=vsp0000 NamedEntityTag=O]
+[Text=ampliamente CharacterOffsetBegin=70 CharacterOffsetEnd=81 PartOfSpeech=rg NamedEntityTag=O]
+[Text=estudiados CharacterOffsetBegin=82 CharacterOffsetEnd=92 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=93 CharacterOffsetEnd=95 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=96 CharacterOffsetEnd=98 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=centro CharacterOffsetBegin=99 CharacterOffsetEnd=105 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=106 CharacterOffsetEnd=107 PartOfSpeech=cc NamedEntityTag=O]
+[Text=sur CharacterOffsetBegin=108 CharacterOffsetEnd=111 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=112 CharacterOffsetEnd=114 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=115 CharacterOffsetEnd=124 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=124 CharacterOffsetEnd=125 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Los))
+      (grup.nom (nc0p000 hábitos)
+        (s.a
+          (grup.a (aq0000 tróficos)))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom
+              (grup.nom (np00000 Lechuza)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0s000 Campanario)))))
+              (sn
+                (grup.nom (fpa =LRB=)
+                  (grup.nom (np00000 Tyto) (nc0s000 alba))
+                  (fpt =RRB=))))))))
+    (grup.verb (vaip000 han) (vsp0000 sido))
+    (sadv
+      (grup.adv (rg ampliamente)))
+    (S
+      (participi (aq0000 estudiados))
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (da0000 el))
+          (grup.nom
+            (grup.nom
+              (grup.nom (nc0s000 centro))
+              (conj (cc y))
+              (grup.nom (nc0s000 sur)))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (np00000 Argentina))))))))
+    (fp .)))
+
+Sentence #2 (11 tokens):
+Sin embargo, en el noroeste los estudios son escasos.
+[Text=Sin CharacterOffsetBegin=126 CharacterOffsetEnd=129 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=embargo CharacterOffsetBegin=130 CharacterOffsetEnd=137 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=137 CharacterOffsetEnd=138 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=139 CharacterOffsetEnd=141 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=142 CharacterOffsetEnd=144 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=noroeste CharacterOffsetBegin=145 CharacterOffsetEnd=153 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=154 CharacterOffsetEnd=157 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=estudios CharacterOffsetBegin=158 CharacterOffsetEnd=166 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=son CharacterOffsetBegin=167 CharacterOffsetEnd=170 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=escasos CharacterOffsetBegin=171 CharacterOffsetEnd=178 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=178 CharacterOffsetEnd=179 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 Sin))
+      (sn
+        (grup.nom (nc0s000 embargo)))
+      (fc ,))
+    (S
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 noroeste))))
+      (sn
+        (spec (da0000 los))
+        (grup.nom (nc0p000 estudios)))
+      (grup.verb (vsip000 son))
+      (s.a
+        (grup.a (aq0000 escasos))))
+    (fp .)))
+
+Sentence #3 (24 tokens):
+Se estudió la dieta de esta rapaz mediante el análisis de egagrópilas colectadas en seis localidades de la ecorregión del Chaco Seco.
+[Text=Se CharacterOffsetBegin=180 CharacterOffsetEnd=182 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=estudió CharacterOffsetBegin=183 CharacterOffsetEnd=190 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=191 CharacterOffsetEnd=193 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=dieta CharacterOffsetBegin=194 CharacterOffsetEnd=199 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=200 CharacterOffsetEnd=202 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=esta CharacterOffsetBegin=203 CharacterOffsetEnd=207 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=rapaz CharacterOffsetBegin=208 CharacterOffsetEnd=213 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=mediante CharacterOffsetBegin=214 CharacterOffsetEnd=222 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=223 CharacterOffsetEnd=225 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=226 CharacterOffsetEnd=234 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=235 CharacterOffsetEnd=237 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=egagrópilas CharacterOffsetBegin=238 CharacterOffsetEnd=249 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=colectadas CharacterOffsetBegin=250 CharacterOffsetEnd=260 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=261 CharacterOffsetEnd=263 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=seis CharacterOffsetBegin=264 CharacterOffsetEnd=268 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=localidades CharacterOffsetBegin=269 CharacterOffsetEnd=280 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=281 CharacterOffsetEnd=283 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=284 CharacterOffsetEnd=286 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ecorregión CharacterOffsetBegin=287 CharacterOffsetEnd=297 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=298 CharacterOffsetEnd=299 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=299 CharacterOffsetEnd=301 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Chaco CharacterOffsetBegin=302 CharacterOffsetEnd=307 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Seco CharacterOffsetBegin=308 CharacterOffsetEnd=312 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=312 CharacterOffsetEnd=313 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmis000 estudió))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 dieta)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (dd0000 esta))
+            (grup.nom (nc0s000 rapaz)
+              (sp
+                (prep (sp000 mediante))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0n000 análisis)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0p000 egagrópilas))))
+                    (S
+                      (participi (aq0000 colectadas))
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (spec (dn0000 seis))
+                          (grup.nom (nc0p000 localidades)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (spec (da0000 la))
+                                (grup.nom (nc0s000 ecorregión)
+                                  (sp
+                                    (prep (sp000 de))
+                                    (sn
+                                      (spec (da0000 el))
+                                      (grup.nom (np00000 Chaco) (np00000 Seco)))))))))))))))))))
+    (fp .)))
+
+Sentence #4 (38 tokens):
+Se determinaron taxonómicamente los restos cráneo-dentarios encontrados y se calcularon para cada localidad el número mínimo de individuos, la frecuencia relativa y el porcentaje de biomasa aportado a la dieta por cada ítem presa.
+[Text=Se CharacterOffsetBegin=314 CharacterOffsetEnd=316 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=determinaron CharacterOffsetBegin=317 CharacterOffsetEnd=329 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=taxonómicamente CharacterOffsetBegin=330 CharacterOffsetEnd=345 PartOfSpeech=rg NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=346 CharacterOffsetEnd=349 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=restos CharacterOffsetBegin=350 CharacterOffsetEnd=356 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=cráneo CharacterOffsetBegin=357 CharacterOffsetEnd=363 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=363 CharacterOffsetEnd=364 PartOfSpeech=fg NamedEntityTag=O]
+[Text=dentarios CharacterOffsetBegin=364 CharacterOffsetEnd=373 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=encontrados CharacterOffsetBegin=374 CharacterOffsetEnd=385 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=386 CharacterOffsetEnd=387 PartOfSpeech=cc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=388 CharacterOffsetEnd=390 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=calcularon CharacterOffsetBegin=391 CharacterOffsetEnd=401 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=402 CharacterOffsetEnd=406 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cada CharacterOffsetBegin=407 CharacterOffsetEnd=411 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=localidad CharacterOffsetBegin=412 CharacterOffsetEnd=421 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=422 CharacterOffsetEnd=424 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=número CharacterOffsetBegin=425 CharacterOffsetEnd=431 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=mínimo CharacterOffsetBegin=432 CharacterOffsetEnd=438 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=439 CharacterOffsetEnd=441 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=individuos CharacterOffsetBegin=442 CharacterOffsetEnd=452 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=452 CharacterOffsetEnd=453 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=454 CharacterOffsetEnd=456 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=frecuencia CharacterOffsetBegin=457 CharacterOffsetEnd=467 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=relativa CharacterOffsetBegin=468 CharacterOffsetEnd=476 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=477 CharacterOffsetEnd=478 PartOfSpeech=cc NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=479 CharacterOffsetEnd=481 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=porcentaje CharacterOffsetBegin=482 CharacterOffsetEnd=492 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=493 CharacterOffsetEnd=495 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=biomasa CharacterOffsetBegin=496 CharacterOffsetEnd=503 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=aportado CharacterOffsetBegin=504 CharacterOffsetEnd=512 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=513 CharacterOffsetEnd=514 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=515 CharacterOffsetEnd=517 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=dieta CharacterOffsetBegin=518 CharacterOffsetEnd=523 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=524 CharacterOffsetEnd=527 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cada CharacterOffsetBegin=528 CharacterOffsetEnd=532 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=ítem CharacterOffsetBegin=533 CharacterOffsetEnd=537 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=presa CharacterOffsetBegin=538 CharacterOffsetEnd=543 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=543 CharacterOffsetEnd=544 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmis000 determinaron))
+    (sadv
+      (grup.adv (rg taxonómicamente)))
+    (sn
+      (spec (da0000 los))
+      (grup.nom (nc0p000 restos)
+        (s.a
+          (grup.a (nc0s000 cráneo) (fg -) (nc0p000 dentarios)))
+        (S
+          (S
+            (participi (aq0000 encontrados)))
+          (conj (cc y))
+          (S
+            (morfema.pronominal (p0000000 se))
+            (grup.verb (vmis000 calcularon))
+            (S
+              (sp
+                (prep (sp000 para))
+                (sn
+                  (spec (di0000 cada))
+                  (grup.nom (nc0s000 localidad))))
+              (sn
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 número)
+                    (s.a
+                      (grup.a (aq0000 mínimo)))
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0p000 individuos))))))
+                (fc ,)
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 frecuencia)
+                    (s.a
+                      (grup.a (aq0000 relativa)))))
+                (conj (cc y))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 porcentaje)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 biomasa)))))))
+              (grup.verb (vmp0000 aportado))
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 dieta)
+                    (sp
+                      (prep (sp000 por))
+                      (sn
+                        (spec (di0000 cada))
+                        (grup.nom (nc0s000 ítem)
+                          (sn
+                            (grup.nom (nc0s000 presa))))))))))))))
+    (fp .)))
+
+Sentence #5 (31 tokens):
+Se calcularon, además, la amplitud de nicho trófico y la amplitud de nicho trófico estandarizada, el promedio geométrico de los pesos de las presas y la diversidad.
+[Text=Se CharacterOffsetBegin=545 CharacterOffsetEnd=547 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=calcularon CharacterOffsetBegin=548 CharacterOffsetEnd=558 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=558 CharacterOffsetEnd=559 PartOfSpeech=fc NamedEntityTag=O]
+[Text=además CharacterOffsetBegin=560 CharacterOffsetEnd=566 PartOfSpeech=rg NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=566 CharacterOffsetEnd=567 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=568 CharacterOffsetEnd=570 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=amplitud CharacterOffsetBegin=571 CharacterOffsetEnd=579 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=580 CharacterOffsetEnd=582 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nicho CharacterOffsetBegin=583 CharacterOffsetEnd=588 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=trófico CharacterOffsetBegin=589 CharacterOffsetEnd=596 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=597 CharacterOffsetEnd=598 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=599 CharacterOffsetEnd=601 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=amplitud CharacterOffsetBegin=602 CharacterOffsetEnd=610 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=611 CharacterOffsetEnd=613 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nicho CharacterOffsetBegin=614 CharacterOffsetEnd=619 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=trófico CharacterOffsetBegin=620 CharacterOffsetEnd=627 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=estandarizada CharacterOffsetBegin=628 CharacterOffsetEnd=641 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=641 CharacterOffsetEnd=642 PartOfSpeech=fc NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=643 CharacterOffsetEnd=645 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=promedio CharacterOffsetBegin=646 CharacterOffsetEnd=654 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=geométrico CharacterOffsetBegin=655 CharacterOffsetEnd=665 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=666 CharacterOffsetEnd=668 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=669 CharacterOffsetEnd=672 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pesos CharacterOffsetBegin=673 CharacterOffsetEnd=678 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=679 CharacterOffsetEnd=681 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=682 CharacterOffsetEnd=685 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presas CharacterOffsetBegin=686 CharacterOffsetEnd=692 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=693 CharacterOffsetEnd=694 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=695 CharacterOffsetEnd=697 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=diversidad CharacterOffsetBegin=698 CharacterOffsetEnd=708 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=708 CharacterOffsetEnd=709 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmis000 calcularon))
+    (sadv (fc ,)
+      (grup.adv (rg además))
+      (fc ,))
+    (sn
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 amplitud)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 nicho)
+                (s.a
+                  (grup.a (aq0000 trófico))))))))
+      (conj (cc y))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 amplitud)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 nicho)
+                (s.a
+                  (grup.a (aq0000 trófico))))))
+          (s.a
+            (grup.a (aq0000 estandarizada)))
+          (sn (fc ,)
+            (spec (da0000 el))
+            (grup.nom (nc0s000 promedio)
+              (S
+                (participi (aq0000 geométrico))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 los))
+                    (grup.nom (nc0p000 pesos)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (sn
+                            (spec (da0000 las))
+                            (grup.nom (nc0p000 presas)))
+                          (conj (cc y))
+                          (sn
+                            (spec (da0000 la))
+                            (grup.nom (nc0s000 diversidad))))))))))))))
+    (fp .)))
+
+Sentence #6 (26 tokens):
+Se obtuvo un total de 1231 ítems presa, en su mayoría pertenecientes al género Calomys, dominante en cinco de las seis localidades.
+[Text=Se CharacterOffsetBegin=710 CharacterOffsetEnd=712 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=obtuvo CharacterOffsetBegin=713 CharacterOffsetEnd=719 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=720 CharacterOffsetEnd=722 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=total CharacterOffsetBegin=723 CharacterOffsetEnd=728 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=729 CharacterOffsetEnd=731 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=1231 CharacterOffsetBegin=732 CharacterOffsetEnd=736 PartOfSpeech=w NamedEntityTag=O]
+[Text=ítems CharacterOffsetBegin=737 CharacterOffsetEnd=742 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=presa CharacterOffsetBegin=743 CharacterOffsetEnd=748 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=748 CharacterOffsetEnd=749 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=750 CharacterOffsetEnd=752 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=753 CharacterOffsetEnd=755 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=mayoría CharacterOffsetBegin=756 CharacterOffsetEnd=763 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=pertenecientes CharacterOffsetBegin=764 CharacterOffsetEnd=778 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=779 CharacterOffsetEnd=780 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=780 CharacterOffsetEnd=781 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=género CharacterOffsetBegin=782 CharacterOffsetEnd=788 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=Calomys CharacterOffsetBegin=789 CharacterOffsetEnd=796 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=796 CharacterOffsetEnd=797 PartOfSpeech=fc NamedEntityTag=O]
+[Text=dominante CharacterOffsetBegin=798 CharacterOffsetEnd=807 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=808 CharacterOffsetEnd=810 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cinco CharacterOffsetBegin=811 CharacterOffsetEnd=816 PartOfSpeech=pn000000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=817 CharacterOffsetEnd=819 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=820 CharacterOffsetEnd=823 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=seis CharacterOffsetBegin=824 CharacterOffsetEnd=828 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=localidades CharacterOffsetBegin=829 CharacterOffsetEnd=840 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=840 CharacterOffsetEnd=841 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmis000 obtuvo))
+    (sn
+      (spec (di0000 un))
+      (grup.nom
+        (s.a
+          (grup.a (aq0000 total)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (w 1231)
+                  (s.a
+                    (grup.a (aq0000 ítems))))))))
+        (nc0s000 presa)
+        (sp (fc ,)
+          (prep (sp000 en))
+          (sn
+            (spec (dp0000 su))
+            (grup.nom (nc0s000 mayoría)
+              (s.a
+                (grup.a (aq0000 pertenecientes)))
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 género)
+                    (sn
+                      (grup.nom (np00000 Calomys))))))))
+          (fc ,))
+        (s.a
+          (grup.a (aq0000 dominante)))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (grup.nom (pn000000 cinco))))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (spec (da0000 las) (dn0000 seis))
+        (grup.nom (nc0p000 localidades))))
+    (fp .)))
+
+Sentence #7 (40 tokens):
+La abundancia de individuos varió entre 83-508 y en todas las localidades dos especies (Calomys cf. C. venustus/ fecundus y Calomys cf. C. laucha/musculinus) aportaron más del 50% de la biomasa consumida.
+[Text=La CharacterOffsetBegin=842 CharacterOffsetEnd=844 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=abundancia CharacterOffsetBegin=845 CharacterOffsetEnd=855 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=856 CharacterOffsetEnd=858 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=individuos CharacterOffsetBegin=859 CharacterOffsetEnd=869 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=varió CharacterOffsetBegin=870 CharacterOffsetEnd=875 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=876 CharacterOffsetEnd=881 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=83-508 CharacterOffsetBegin=882 CharacterOffsetEnd=888 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=889 CharacterOffsetEnd=890 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=891 CharacterOffsetEnd=893 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=todas CharacterOffsetBegin=894 CharacterOffsetEnd=899 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=900 CharacterOffsetEnd=903 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=localidades CharacterOffsetBegin=904 CharacterOffsetEnd=915 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=dos CharacterOffsetBegin=916 CharacterOffsetEnd=919 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=920 CharacterOffsetEnd=928 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=929 CharacterOffsetEnd=930 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Calomys CharacterOffsetBegin=930 CharacterOffsetEnd=937 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=cf. CharacterOffsetBegin=938 CharacterOffsetEnd=941 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=C. CharacterOffsetBegin=942 CharacterOffsetEnd=944 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=venustus CharacterOffsetBegin=945 CharacterOffsetEnd=953 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=/ CharacterOffsetBegin=953 CharacterOffsetEnd=954 PartOfSpeech=fh NamedEntityTag=ORG]
+[Text=fecundus CharacterOffsetBegin=955 CharacterOffsetEnd=963 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=964 CharacterOffsetEnd=965 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Calomys CharacterOffsetBegin=966 CharacterOffsetEnd=973 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=cf. CharacterOffsetBegin=974 CharacterOffsetEnd=977 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=C. CharacterOffsetBegin=978 CharacterOffsetEnd=980 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=laucha CharacterOffsetBegin=981 CharacterOffsetEnd=987 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=/ CharacterOffsetBegin=987 CharacterOffsetEnd=988 PartOfSpeech=fh NamedEntityTag=ORG]
+[Text=musculinus CharacterOffsetBegin=988 CharacterOffsetEnd=998 PartOfSpeech=nc0s000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=998 CharacterOffsetEnd=999 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=aportaron CharacterOffsetBegin=1000 CharacterOffsetEnd=1009 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=1010 CharacterOffsetEnd=1013 PartOfSpeech=rg NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1014 CharacterOffsetEnd=1015 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1015 CharacterOffsetEnd=1017 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=50 CharacterOffsetBegin=1018 CharacterOffsetEnd=1020 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=% CharacterOffsetBegin=1020 CharacterOffsetEnd=1021 PartOfSpeech=ft NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1022 CharacterOffsetEnd=1024 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1025 CharacterOffsetEnd=1027 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=biomasa CharacterOffsetBegin=1028 CharacterOffsetEnd=1035 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=consumida CharacterOffsetBegin=1036 CharacterOffsetEnd=1045 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1045 CharacterOffsetEnd=1046 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (da0000 La))
+        (grup.nom (nc0s000 abundancia)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 individuos))))))
+      (grup.verb (vmis000 varió))
+      (sp
+        (prep (sp000 entre))
+        (sn
+          (grup.nom (z0 83-508)))))
+    (conj (cc y))
+    (S
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (di0000 todas) (da0000 las))
+          (grup.nom (nc0p000 localidades))))
+      (sn
+        (spec (dn0000 dos))
+        (grup.nom (nc0p000 especies)
+          (sn (fpa =LRB=)
+            (grup.nom
+              (grup.nom
+                (grup.nom (np00000 Calomys) (np00000 cf.) (np00000 C.))
+                (s.a
+                  (s.a
+                    (grup.a (aq0000 venustus)))
+                  (fh /)
+                  (s.a
+                    (grup.a (aq0000 fecundus)))))
+              (conj (cc y))
+              (grup.nom
+                (grup.nom (np00000 Calomys) (np00000 cf.) (np00000 C.))
+                (s.a
+                  (grup.a (aq0000 laucha) (fh /) (nc0s000 musculinus)))))
+            (fpt =RRB=))))
+      (grup.verb (vmis000 aportaron))
+      (sadv
+        (grup.adv (rg más)))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 el))
+          (grup.nom
+            (grup.z (z0 50) (ft %))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 biomasa)
+                  (s.a
+                    (grup.a (aq0000 consumida))))))))))
+    (fp .)))
+
+Sentence #8 (10 tokens):
+La amplitud de nicho trófico estandarizada osciló entre 0.111-0.661.
+[Text=La CharacterOffsetBegin=1047 CharacterOffsetEnd=1049 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=amplitud CharacterOffsetBegin=1050 CharacterOffsetEnd=1058 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1059 CharacterOffsetEnd=1061 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nicho CharacterOffsetBegin=1062 CharacterOffsetEnd=1067 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=trófico CharacterOffsetBegin=1068 CharacterOffsetEnd=1075 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=estandarizada CharacterOffsetBegin=1076 CharacterOffsetEnd=1089 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=osciló CharacterOffsetBegin=1090 CharacterOffsetEnd=1096 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=1097 CharacterOffsetEnd=1102 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=0.111-0.661 CharacterOffsetBegin=1103 CharacterOffsetEnd=1114 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1114 CharacterOffsetEnd=1115 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 La))
+      (grup.nom (nc0s000 amplitud)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 nicho)
+              (s.a
+                (grup.a (aq0000 trófico)))
+              (S
+                (participi (aq0000 estandarizada))))))))
+    (grup.verb (vmis000 osciló))
+    (sp
+      (prep (sp000 entre))
+      (sn
+        (grup.nom (z0 0.111-0.661))))
+    (fp .)))
+
+Sentence #9 (15 tokens):
+El promedio geométrico de los pesos fue inferior al establecido para el Neotrópico.
+[Text=El CharacterOffsetBegin=1116 CharacterOffsetEnd=1118 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=promedio CharacterOffsetBegin=1119 CharacterOffsetEnd=1127 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=geométrico CharacterOffsetBegin=1128 CharacterOffsetEnd=1138 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1139 CharacterOffsetEnd=1141 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1142 CharacterOffsetEnd=1145 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pesos CharacterOffsetBegin=1146 CharacterOffsetEnd=1151 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=fue CharacterOffsetBegin=1152 CharacterOffsetEnd=1155 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=inferior CharacterOffsetBegin=1156 CharacterOffsetEnd=1164 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1165 CharacterOffsetEnd=1166 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1166 CharacterOffsetEnd=1167 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=establecido CharacterOffsetBegin=1168 CharacterOffsetEnd=1179 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=1180 CharacterOffsetEnd=1184 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1185 CharacterOffsetEnd=1187 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Neotrópico CharacterOffsetBegin=1188 CharacterOffsetEnd=1198 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=1198 CharacterOffsetEnd=1199 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 promedio)
+        (s.a
+          (grup.a (aq0000 geométrico)))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 los))
+            (grup.nom (nc0p000 pesos))))))
+    (grup.verb (vsis000 fue))
+    (s.a
+      (grup.a (aq0000 inferior)
+        (sp
+          (prep (sp000 a))
+          (sn
+            (spec (da0000 el))
+            (grup.nom
+              (S
+                (participi (aq0000 establecido))
+                (sp
+                  (prep (sp000 para))
+                  (sn
+                    (spec (da0000 el))
+                    (grup.nom (np00000 Neotrópico))))))))))
+    (fp .)))
+
+Sentence #10 (6 tokens):
+La abundancia de Calomys spp.
+[Text=La CharacterOffsetBegin=1200 CharacterOffsetEnd=1202 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=abundancia CharacterOffsetBegin=1203 CharacterOffsetEnd=1213 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1214 CharacterOffsetEnd=1216 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Calomys CharacterOffsetBegin=1217 CharacterOffsetEnd=1224 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=spp CharacterOffsetBegin=1225 CharacterOffsetEnd=1228 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=1228 CharacterOffsetEnd=1229 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 La))
+      (grup.nom (nc0s000 abundancia)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (np00000 Calomys) (np00000 spp))))))
+    (fp .)))
+
+Sentence #11 (27 tokens):
+en la dieta estuvo positivamente relacionada con el grado de transformación de la tierra en agroecosistemas, mientras que la diversidad de especies estuvo negativamente relacionada.
+[Text=en CharacterOffsetBegin=1230 CharacterOffsetEnd=1232 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1233 CharacterOffsetEnd=1235 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=dieta CharacterOffsetBegin=1236 CharacterOffsetEnd=1241 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=estuvo CharacterOffsetBegin=1242 CharacterOffsetEnd=1248 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=positivamente CharacterOffsetBegin=1249 CharacterOffsetEnd=1262 PartOfSpeech=rg NamedEntityTag=O]
+[Text=relacionada CharacterOffsetBegin=1263 CharacterOffsetEnd=1274 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=1275 CharacterOffsetEnd=1278 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1279 CharacterOffsetEnd=1281 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=grado CharacterOffsetBegin=1282 CharacterOffsetEnd=1287 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1288 CharacterOffsetEnd=1290 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=transformación CharacterOffsetBegin=1291 CharacterOffsetEnd=1305 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1306 CharacterOffsetEnd=1308 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1309 CharacterOffsetEnd=1311 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tierra CharacterOffsetBegin=1312 CharacterOffsetEnd=1318 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1319 CharacterOffsetEnd=1321 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=agroecosistemas CharacterOffsetBegin=1322 CharacterOffsetEnd=1337 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1337 CharacterOffsetEnd=1338 PartOfSpeech=fc NamedEntityTag=O]
+[Text=mientras CharacterOffsetBegin=1339 CharacterOffsetEnd=1347 PartOfSpeech=cs NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=1348 CharacterOffsetEnd=1351 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1352 CharacterOffsetEnd=1354 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=diversidad CharacterOffsetBegin=1355 CharacterOffsetEnd=1365 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1366 CharacterOffsetEnd=1368 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=1369 CharacterOffsetEnd=1377 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=estuvo CharacterOffsetBegin=1378 CharacterOffsetEnd=1384 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=negativamente CharacterOffsetBegin=1385 CharacterOffsetEnd=1398 PartOfSpeech=rg NamedEntityTag=O]
+[Text=relacionada CharacterOffsetBegin=1399 CharacterOffsetEnd=1410 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1410 CharacterOffsetEnd=1411 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 dieta))))
+      (grup.verb (vmis000 estuvo))
+      (sadv
+        (grup.adv (rg positivamente)))
+      (S
+        (participi (aq0000 relacionada))
+        (sp
+          (prep (sp000 con))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 grado)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 transformación)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (spec (da0000 la))
+                        (grup.nom (nc0s000 tierra)
+                          (sp
+                            (prep (sp000 en))
+                            (sn
+                              (grup.nom (nc0p000 agroecosistemas)))))))))))))
+        (fc ,)))
+    (conj
+      (grup.cc (cs mientras) (pr000000 que)))
+    (S
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 diversidad)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 especies))))))
+      (grup.verb (vmis000 estuvo))
+      (S
+        (sadv
+          (grup.adv (rg negativamente)))
+        (participi (aq0000 relacionada))))
+    (fp .)))
+
+Sentence #12 (34 tokens):
+Los resultados de este estudio aportan datos novedosos para la ecorregión del Chaco Seco en el noroeste argentino, confirmando los patrones establecidos para la Lechuza de Campanario en otras regiones de Argentina
+[Text=Los CharacterOffsetBegin=1412 CharacterOffsetEnd=1415 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=resultados CharacterOffsetBegin=1416 CharacterOffsetEnd=1426 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1427 CharacterOffsetEnd=1429 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=1430 CharacterOffsetEnd=1434 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=estudio CharacterOffsetBegin=1435 CharacterOffsetEnd=1442 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=aportan CharacterOffsetBegin=1443 CharacterOffsetEnd=1450 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=datos CharacterOffsetBegin=1451 CharacterOffsetEnd=1456 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=novedosos CharacterOffsetBegin=1457 CharacterOffsetEnd=1466 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=1467 CharacterOffsetEnd=1471 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1472 CharacterOffsetEnd=1474 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ecorregión CharacterOffsetBegin=1475 CharacterOffsetEnd=1485 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1486 CharacterOffsetEnd=1487 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1487 CharacterOffsetEnd=1489 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Chaco CharacterOffsetBegin=1490 CharacterOffsetEnd=1495 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Seco CharacterOffsetBegin=1496 CharacterOffsetEnd=1500 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=en CharacterOffsetBegin=1501 CharacterOffsetEnd=1503 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1504 CharacterOffsetEnd=1506 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=noroeste CharacterOffsetBegin=1507 CharacterOffsetEnd=1515 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=argentino CharacterOffsetBegin=1516 CharacterOffsetEnd=1525 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1525 CharacterOffsetEnd=1526 PartOfSpeech=fc NamedEntityTag=O]
+[Text=confirmando CharacterOffsetBegin=1527 CharacterOffsetEnd=1538 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1539 CharacterOffsetEnd=1542 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=patrones CharacterOffsetBegin=1543 CharacterOffsetEnd=1551 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=establecidos CharacterOffsetBegin=1552 CharacterOffsetEnd=1564 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=1565 CharacterOffsetEnd=1569 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1570 CharacterOffsetEnd=1572 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Lechuza CharacterOffsetBegin=1573 CharacterOffsetEnd=1580 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=1581 CharacterOffsetEnd=1583 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Campanario CharacterOffsetBegin=1584 CharacterOffsetEnd=1594 PartOfSpeech=nc0s000 NamedEntityTag=LUG]
+[Text=en CharacterOffsetBegin=1595 CharacterOffsetEnd=1597 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=otras CharacterOffsetBegin=1598 CharacterOffsetEnd=1603 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=regiones CharacterOffsetBegin=1604 CharacterOffsetEnd=1612 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1613 CharacterOffsetEnd=1615 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=1616 CharacterOffsetEnd=1625 PartOfSpeech=np00000 NamedEntityTag=LUG]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Los))
+      (grup.nom (nc0p000 resultados)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (dd0000 este))
+            (grup.nom (nc0s000 estudio))))))
+    (grup.verb (vmip000 aportan))
+    (sn
+      (grup.nom (nc0p000 datos)
+        (s.a
+          (grup.a (aq0000 novedosos)))
+        (sp
+          (prep (sp000 para))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 ecorregión)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (np00000 Chaco) (np00000 Seco)))))))))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 noroeste)
+          (s.a
+            (grup.a (aq0000 argentino)))
+          (S (fc ,)
+            (gerundi (vmg0000 confirmando))
+            (sn
+              (spec (da0000 los))
+              (grup.nom (nc0p000 patrones)
+                (S
+                  (participi (aq0000 establecidos))
+                  (sp
+                    (prep (sp000 para))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (np00000 Lechuza)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (nc0s000 Campanario)
+                              (sp
+                                (prep (sp000 en))
+                                (sn
+                                  (spec (di0000 otras))
+                                  (grup.nom (nc0p000 regiones)
+                                    (sp
+                                      (prep (sp000 de))
+                                      (sn
+                                        (grup.nom (np00000 Argentina))))))))))))))))))))))
+

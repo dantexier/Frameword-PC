@@ -1,0 +1,373 @@
+Sentence #1 (25 tokens):
+Se presentan los primeros resultados en relación con el hallazgo de espeleotemas silíceas en rocas graníticas del batolito de Achala (Córdoba).
+[Text=Se CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=presentan CharacterOffsetBegin=3 CharacterOffsetEnd=12 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=13 CharacterOffsetEnd=16 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=primeros CharacterOffsetBegin=17 CharacterOffsetEnd=25 PartOfSpeech=ao0000 NamedEntityTag=O]
+[Text=resultados CharacterOffsetBegin=26 CharacterOffsetEnd=36 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=37 CharacterOffsetEnd=39 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=relación CharacterOffsetBegin=40 CharacterOffsetEnd=48 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=49 CharacterOffsetEnd=52 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=53 CharacterOffsetEnd=55 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=hallazgo CharacterOffsetBegin=56 CharacterOffsetEnd=64 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=65 CharacterOffsetEnd=67 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=espeleotemas CharacterOffsetBegin=68 CharacterOffsetEnd=80 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=silíceas CharacterOffsetBegin=81 CharacterOffsetEnd=89 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=90 CharacterOffsetEnd=92 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=rocas CharacterOffsetBegin=93 CharacterOffsetEnd=98 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=graníticas CharacterOffsetBegin=99 CharacterOffsetEnd=109 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=110 CharacterOffsetEnd=111 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=111 CharacterOffsetEnd=113 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=batolito CharacterOffsetBegin=114 CharacterOffsetEnd=122 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=123 CharacterOffsetEnd=125 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Achala CharacterOffsetBegin=126 CharacterOffsetEnd=132 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text==LRB= CharacterOffsetBegin=133 CharacterOffsetEnd=134 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Córdoba CharacterOffsetBegin=134 CharacterOffsetEnd=141 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==RRB= CharacterOffsetBegin=141 CharacterOffsetEnd=142 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=142 CharacterOffsetEnd=143 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmip000 presentan))
+    (sn
+      (spec (da0000 los))
+      (grup.nom
+        (s.a
+          (grup.a (ao0000 primeros)))
+        (nc0p000 resultados)
+        (sp
+          (prep (sp000 en))
+          (sn
+            (grup.nom (nc0s000 relación)
+              (sp
+                (prep (sp000 con))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 hallazgo)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0p000 espeleotemas)
+                          (s.a
+                            (grup.a (aq0000 silíceas))))))))))))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (grup.nom (nc0p000 rocas))))
+        (S
+          (participi (aq0000 graníticas))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 batolito)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (np00000 Achala))))
+                (sn
+                  (grup.nom (fpa =LRB=) (np00000 Córdoba) (fpt =RRB=)))))))))
+    (fp .)))
+
+Sentence #2 (28 tokens):
+Estas espeleotemas constituyen formas de acumulación en un ambiente dominado por procesos erosivos; alcanzando un desarrollo de unos de pocos milímetros hasta dos centímetros de espesor.
+[Text=Estas CharacterOffsetBegin=144 CharacterOffsetEnd=149 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=espeleotemas CharacterOffsetBegin=150 CharacterOffsetEnd=162 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=constituyen CharacterOffsetBegin=163 CharacterOffsetEnd=174 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=formas CharacterOffsetBegin=175 CharacterOffsetEnd=181 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=182 CharacterOffsetEnd=184 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=acumulación CharacterOffsetBegin=185 CharacterOffsetEnd=196 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=197 CharacterOffsetEnd=199 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=200 CharacterOffsetEnd=202 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=ambiente CharacterOffsetBegin=203 CharacterOffsetEnd=211 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=dominado CharacterOffsetBegin=212 CharacterOffsetEnd=220 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=221 CharacterOffsetEnd=224 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=procesos CharacterOffsetBegin=225 CharacterOffsetEnd=233 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=erosivos CharacterOffsetBegin=234 CharacterOffsetEnd=242 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=242 CharacterOffsetEnd=243 PartOfSpeech=fx NamedEntityTag=O]
+[Text=alcanzando CharacterOffsetBegin=244 CharacterOffsetEnd=254 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=255 CharacterOffsetEnd=257 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=258 CharacterOffsetEnd=268 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=269 CharacterOffsetEnd=271 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=unos CharacterOffsetBegin=272 CharacterOffsetEnd=276 PartOfSpeech=pi000000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=277 CharacterOffsetEnd=279 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=pocos CharacterOffsetBegin=280 CharacterOffsetEnd=285 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=milímetros CharacterOffsetBegin=286 CharacterOffsetEnd=296 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=hasta CharacterOffsetBegin=297 CharacterOffsetEnd=302 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=dos CharacterOffsetBegin=303 CharacterOffsetEnd=306 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=centímetros CharacterOffsetBegin=307 CharacterOffsetEnd=318 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=319 CharacterOffsetEnd=321 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=espesor CharacterOffsetBegin=322 CharacterOffsetEnd=329 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=329 CharacterOffsetEnd=330 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (dd0000 Estas))
+        (grup.nom (nc0p000 espeleotemas)))
+      (grup.verb (vmip000 constituyen))
+      (sn
+        (grup.nom (nc0p000 formas)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 acumulación)
+                (sp
+                  (prep (sp000 en))
+                  (sn
+                    (spec (di0000 un))
+                    (grup.nom (nc0s000 ambiente)
+                      (s.a
+                        (grup.a (aq0000 dominado)))
+                      (sp
+                        (prep (sp000 por))
+                        (sn
+                          (grup.nom (nc0p000 procesos)
+                            (s.a
+                              (grup.a (aq0000 erosivos))))))))))))))
+      (fx ;))
+    (S
+      (gerundi (vmg0000 alcanzando))
+      (sn
+        (spec (di0000 un))
+        (grup.nom (nc0s000 desarrollo)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (pi000000 unos))))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (di0000 pocos))
+          (grup.nom (nc0p000 milímetros))))
+      (sp
+        (prep (sp000 hasta))
+        (sn
+          (spec (dn0000 dos))
+          (grup.nom (nc0p000 centímetros)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 espesor))))))))
+    (fp .)))
+
+Sentence #3 (10 tokens):
+Se localizan en grietas abiertas y paredes de tafonis.
+[Text=Se CharacterOffsetBegin=331 CharacterOffsetEnd=333 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=localizan CharacterOffsetBegin=334 CharacterOffsetEnd=343 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=344 CharacterOffsetEnd=346 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=grietas CharacterOffsetBegin=347 CharacterOffsetEnd=354 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=abiertas CharacterOffsetBegin=355 CharacterOffsetEnd=363 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=364 CharacterOffsetEnd=365 PartOfSpeech=cc NamedEntityTag=O]
+[Text=paredes CharacterOffsetBegin=366 CharacterOffsetEnd=373 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=374 CharacterOffsetEnd=376 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=tafonis CharacterOffsetBegin=377 CharacterOffsetEnd=384 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=384 CharacterOffsetEnd=385 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmip000 localizan))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (grup.nom
+          (grup.nom (nc0p000 grietas)
+            (S
+              (participi (aq0000 abiertas))))
+          (conj (cc y))
+          (grup.nom (nc0p000 paredes)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0p000 tafonis))))))))
+    (fp .)))
+
+Sentence #4 (11 tokens):
+Presentan morfologías variadas que incluyen estalactitas y espeleotemas tipo flowstone.
+[Text=Presentan CharacterOffsetBegin=386 CharacterOffsetEnd=395 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=morfologías CharacterOffsetBegin=396 CharacterOffsetEnd=407 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=variadas CharacterOffsetBegin=408 CharacterOffsetEnd=416 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=417 CharacterOffsetEnd=420 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=incluyen CharacterOffsetBegin=421 CharacterOffsetEnd=429 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=estalactitas CharacterOffsetBegin=430 CharacterOffsetEnd=442 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=443 CharacterOffsetEnd=444 PartOfSpeech=cc NamedEntityTag=O]
+[Text=espeleotemas CharacterOffsetBegin=445 CharacterOffsetEnd=457 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=tipo CharacterOffsetBegin=458 CharacterOffsetEnd=462 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=flowstone CharacterOffsetBegin=463 CharacterOffsetEnd=472 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=472 CharacterOffsetEnd=473 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (grup.verb (vmip000 Presentan))
+    (sn
+      (grup.nom
+        (grup.nom (nc0p000 morfologías)
+          (S
+            (participi (aq0000 variadas)))
+          (S
+            (relatiu (pr000000 que))
+            (grup.verb (vmip000 incluyen))
+            (sn
+              (grup.nom (nc0p000 estalactitas)))))
+        (conj (cc y))
+        (grup.nom
+          (grup.nom (nc0p000 espeleotemas))
+          (sn
+            (grup.nom (nc0s000 tipo)
+              (sn
+                (grup.nom (np00000 flowstone))))))))
+    (fp .)))
+
+Sentence #5 (21 tokens):
+Están compuestas por sílice amorfa (ópalo A), yeso y fragmentos detríticos de cuarzo, feldespatos y micas.
+[Text=Están CharacterOffsetBegin=474 CharacterOffsetEnd=479 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=compuestas CharacterOffsetBegin=480 CharacterOffsetEnd=490 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=491 CharacterOffsetEnd=494 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=sílice CharacterOffsetBegin=495 CharacterOffsetEnd=501 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=amorfa CharacterOffsetBegin=502 CharacterOffsetEnd=508 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=509 CharacterOffsetEnd=510 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=ópalo CharacterOffsetBegin=510 CharacterOffsetEnd=515 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=A CharacterOffsetBegin=516 CharacterOffsetEnd=517 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=517 CharacterOffsetEnd=518 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=518 CharacterOffsetEnd=519 PartOfSpeech=fc NamedEntityTag=O]
+[Text=yeso CharacterOffsetBegin=520 CharacterOffsetEnd=524 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=525 CharacterOffsetEnd=526 PartOfSpeech=cc NamedEntityTag=O]
+[Text=fragmentos CharacterOffsetBegin=527 CharacterOffsetEnd=537 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=detríticos CharacterOffsetBegin=538 CharacterOffsetEnd=548 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=549 CharacterOffsetEnd=551 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cuarzo CharacterOffsetBegin=552 CharacterOffsetEnd=558 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=558 CharacterOffsetEnd=559 PartOfSpeech=fc NamedEntityTag=O]
+[Text=feldespatos CharacterOffsetBegin=560 CharacterOffsetEnd=571 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=572 CharacterOffsetEnd=573 PartOfSpeech=cc NamedEntityTag=O]
+[Text=micas CharacterOffsetBegin=574 CharacterOffsetEnd=579 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=579 CharacterOffsetEnd=580 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (grup.verb (vmip000 Están))
+    (S
+      (participi (aq0000 compuestas))
+      (sp
+        (prep (sp000 por))
+        (S
+          (S
+            (grup.verb (vmsp000 sílice))
+            (s.a
+              (grup.a (aq0000 amorfa))))
+          (sn
+            (sn
+              (grup.nom (fpa =LRB=)
+                (grup.nom (nc0s000 ópalo) (np00000 A))
+                (fpt =RRB=)))
+            (fc ,)
+            (sn
+              (grup.nom (nc0s000 yeso)))
+            (conj (cc y))
+            (sn
+              (grup.nom (nc0p000 fragmentos)
+                (S
+                  (participi (aq0000 detríticos))
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom
+                        (grup.nom (nc0s000 cuarzo))
+                        (fc ,)
+                        (grup.nom (nc0p000 feldespatos))
+                        (conj (cc y))
+                        (grup.nom (nc0p000 micas))))))))))))
+    (fp .)))
+
+Sentence #6 (34 tokens):
+El modelado geoquímico, mediante el programa PHREEQC, permite simular la formación de estas espeleotemas a partir de procesos de evaporación del agua que circula a través de la roca fracturada.
+[Text=El CharacterOffsetBegin=581 CharacterOffsetEnd=583 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=modelado CharacterOffsetBegin=584 CharacterOffsetEnd=592 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=geoquímico CharacterOffsetBegin=593 CharacterOffsetEnd=603 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=603 CharacterOffsetEnd=604 PartOfSpeech=fc NamedEntityTag=O]
+[Text=mediante CharacterOffsetBegin=605 CharacterOffsetEnd=613 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=614 CharacterOffsetEnd=616 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=programa CharacterOffsetBegin=617 CharacterOffsetEnd=625 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=PHREEQC CharacterOffsetBegin=626 CharacterOffsetEnd=633 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=633 CharacterOffsetEnd=634 PartOfSpeech=fc NamedEntityTag=O]
+[Text=permite CharacterOffsetBegin=635 CharacterOffsetEnd=642 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=simular CharacterOffsetBegin=643 CharacterOffsetEnd=650 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=651 CharacterOffsetEnd=653 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=formación CharacterOffsetBegin=654 CharacterOffsetEnd=663 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=664 CharacterOffsetEnd=666 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=estas CharacterOffsetBegin=667 CharacterOffsetEnd=672 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=espeleotemas CharacterOffsetBegin=673 CharacterOffsetEnd=685 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=686 CharacterOffsetEnd=687 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=partir CharacterOffsetBegin=688 CharacterOffsetEnd=694 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=695 CharacterOffsetEnd=697 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=procesos CharacterOffsetBegin=698 CharacterOffsetEnd=706 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=707 CharacterOffsetEnd=709 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=evaporación CharacterOffsetBegin=710 CharacterOffsetEnd=721 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=722 CharacterOffsetEnd=723 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=723 CharacterOffsetEnd=725 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=agua CharacterOffsetBegin=726 CharacterOffsetEnd=730 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=731 CharacterOffsetEnd=734 PartOfSpeech=cs NamedEntityTag=O]
+[Text=circula CharacterOffsetBegin=735 CharacterOffsetEnd=742 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=743 CharacterOffsetEnd=744 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=través CharacterOffsetBegin=745 CharacterOffsetEnd=751 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=752 CharacterOffsetEnd=754 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=755 CharacterOffsetEnd=757 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=roca CharacterOffsetBegin=758 CharacterOffsetEnd=762 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=fracturada CharacterOffsetBegin=763 CharacterOffsetEnd=773 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=773 CharacterOffsetEnd=774 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 modelado)
+        (s.a
+          (grup.a (aq0000 geoquímico)))))
+    (sp (fc ,)
+      (prep (sp000 mediante))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 programa)
+          (sn
+            (grup.nom (np00000 PHREEQC)))))
+      (fc ,))
+    (grup.verb (vmip000 permite))
+    (S
+      (infinitiu (vmn0000 simular))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 formación)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (dd0000 estas))
+              (grup.nom (nc0p000 espeleotemas))))))
+      (sp
+        (prep (sp000 a))
+        (S
+          (infinitiu (vmn0000 partir))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 procesos)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0s000 evaporación)))))))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 agua)))))))
+    (S
+      (conj (cs que))
+      (grup.verb (vmip000 circula))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (grup.nom (nc0s000 través))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 roca)
+            (S
+              (participi (aq0000 fracturada)))))))
+    (fp .)))
+

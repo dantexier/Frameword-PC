@@ -1,0 +1,165 @@
+Sentence #1 (37 tokens):
+Este artículo analiza las características que poseyó el Estado neoliberal argentino durante los años 90 dividiendo su estructura en cinco áreas de reformas en las cuales los organismos multilaterales de crédito focalizaron por entonces su atención.
+[Text=Este CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=artículo CharacterOffsetBegin=5 CharacterOffsetEnd=13 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=analiza CharacterOffsetBegin=14 CharacterOffsetEnd=21 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=22 CharacterOffsetEnd=25 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=características CharacterOffsetBegin=26 CharacterOffsetEnd=41 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=42 CharacterOffsetEnd=45 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=poseyó CharacterOffsetBegin=46 CharacterOffsetEnd=52 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=53 CharacterOffsetEnd=55 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Estado CharacterOffsetBegin=56 CharacterOffsetEnd=62 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=neoliberal CharacterOffsetBegin=63 CharacterOffsetEnd=73 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=argentino CharacterOffsetBegin=74 CharacterOffsetEnd=83 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=durante CharacterOffsetBegin=84 CharacterOffsetEnd=91 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=92 CharacterOffsetEnd=95 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=años CharacterOffsetBegin=96 CharacterOffsetEnd=100 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=90 CharacterOffsetBegin=101 CharacterOffsetEnd=103 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=dividiendo CharacterOffsetBegin=104 CharacterOffsetEnd=114 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=115 CharacterOffsetEnd=117 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=estructura CharacterOffsetBegin=118 CharacterOffsetEnd=128 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=129 CharacterOffsetEnd=131 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cinco CharacterOffsetBegin=132 CharacterOffsetEnd=137 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=áreas CharacterOffsetBegin=138 CharacterOffsetEnd=143 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=144 CharacterOffsetEnd=146 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=reformas CharacterOffsetBegin=147 CharacterOffsetEnd=155 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=156 CharacterOffsetEnd=158 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=159 CharacterOffsetEnd=162 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cuales CharacterOffsetBegin=163 CharacterOffsetEnd=169 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=170 CharacterOffsetEnd=173 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=organismos CharacterOffsetBegin=174 CharacterOffsetEnd=184 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=multilaterales CharacterOffsetBegin=185 CharacterOffsetEnd=199 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=200 CharacterOffsetEnd=202 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=crédito CharacterOffsetBegin=203 CharacterOffsetEnd=210 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=focalizaron CharacterOffsetBegin=211 CharacterOffsetEnd=222 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=223 CharacterOffsetEnd=226 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=entonces CharacterOffsetBegin=227 CharacterOffsetEnd=235 PartOfSpeech=rg NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=236 CharacterOffsetEnd=238 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=atención CharacterOffsetBegin=239 CharacterOffsetEnd=247 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=247 CharacterOffsetEnd=248 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (dd0000 Este))
+      (grup.nom (nc0s000 artículo)))
+    (grup.verb (vmip000 analiza))
+    (sn
+      (spec (da0000 las))
+      (grup.nom (nc0p000 características)
+        (S
+          (relatiu (pr000000 que))
+          (grup.verb (vmis000 poseyó))
+          (sn
+            (spec (da0000 el))
+            (grup.nom
+              (grup.nom (np00000 Estado) (aq0000 neoliberal) (aq0000 argentino))
+              (sp
+                (prep (sp000 durante))
+                (sn
+                  (spec (da0000 los))
+                  (grup.w (nc0p000 años) (z0 90))))))
+          (S
+            (gerundi (vmg0000 dividiendo))
+            (sn
+              (spec (dp0000 su))
+              (grup.nom (nc0s000 estructura)))
+            (sp
+              (prep (sp000 en))
+              (sn
+                (spec (dn0000 cinco))
+                (grup.nom (nc0p000 áreas)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0p000 reformas)))))))
+            (sp
+              (prep (sp000 en))
+              (sn
+                (spec (da0000 las))
+                (grup.nom
+                  (S
+                    (relatiu (pr000000 cuales))
+                    (sn
+                      (spec (da0000 los))
+                      (grup.nom (nc0p000 organismos)
+                        (s.a
+                          (grup.a (aq0000 multilaterales)))
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (nc0s000 crédito))))))
+                    (grup.verb (vmis000 focalizaron))
+                    (sp
+                      (prep (sp000 por))
+                      (sn
+                        (sadv
+                          (grup.adv (rg entonces)))
+                        (sn
+                          (spec (dp0000 su))
+                          (grup.nom (nc0s000 atención)))))))))))))
+    (fp .)))
+
+Sentence #2 (23 tokens):
+Este análisis se realiza tomando como marco de referencia empírico a las leyes a través de las cuales estas reformas se instrumentalizaron.
+[Text=Este CharacterOffsetBegin=249 CharacterOffsetEnd=253 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=254 CharacterOffsetEnd=262 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=263 CharacterOffsetEnd=265 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=realiza CharacterOffsetBegin=266 CharacterOffsetEnd=273 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=tomando CharacterOffsetBegin=274 CharacterOffsetEnd=281 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=282 CharacterOffsetEnd=286 PartOfSpeech=cs NamedEntityTag=O]
+[Text=marco CharacterOffsetBegin=287 CharacterOffsetEnd=292 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=293 CharacterOffsetEnd=295 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=referencia CharacterOffsetBegin=296 CharacterOffsetEnd=306 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=empírico CharacterOffsetBegin=307 CharacterOffsetEnd=315 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=316 CharacterOffsetEnd=317 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=318 CharacterOffsetEnd=321 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=leyes CharacterOffsetBegin=322 CharacterOffsetEnd=327 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=328 CharacterOffsetEnd=329 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=través CharacterOffsetBegin=330 CharacterOffsetEnd=336 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=337 CharacterOffsetEnd=339 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=340 CharacterOffsetEnd=343 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cuales CharacterOffsetBegin=344 CharacterOffsetEnd=350 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=estas CharacterOffsetBegin=351 CharacterOffsetEnd=356 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=reformas CharacterOffsetBegin=357 CharacterOffsetEnd=365 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=366 CharacterOffsetEnd=368 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=instrumentalizaron CharacterOffsetBegin=369 CharacterOffsetEnd=387 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=387 CharacterOffsetEnd=388 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (dd0000 Este))
+      (grup.nom (nc0n000 análisis)))
+    (morfema.pronominal (p0000000 se))
+    (grup.verb (vmip000 realiza))
+    (S
+      (gerundi (vmg0000 tomando))
+      (sp
+        (prep (cs como))
+        (sn
+          (grup.nom (nc0s000 marco)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 referencia))))
+            (S
+              (participi (aq0000 empírico))
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (spec (da0000 las))
+                  (grup.nom (nc0p000 leyes)
+                    (sp
+                      (prep (sp000 a))
+                      (sn
+                        (grup.nom (nc0s000 través))))
+                    (S
+                      (sp
+                        (prep (sp000 de))
+                        (relatiu (da0000 las) (pr000000 cuales)))
+                      (sn
+                        (spec (dd0000 estas))
+                        (grup.nom (nc0p000 reformas)))
+                      (morfema.verbal (p0000000 se))
+                      (grup.verb (vmis000 instrumentalizaron)))))))))))
+    (fp .)))
+

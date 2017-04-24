@@ -1,0 +1,406 @@
+Sentence #1 (41 tokens):
+Generalmente, los que defienden la interpretación providencialista de la mano invisible de Adam Smith, sostienen que los individuos guiados por una mano invisible poseen ciertas cualidades que se espera se orientan a ciertos fines beneficiosos para la sociedad.
+[Text=Generalmente CharacterOffsetBegin=0 CharacterOffsetEnd=12 PartOfSpeech=rg NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=12 CharacterOffsetEnd=13 PartOfSpeech=fc NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=14 CharacterOffsetEnd=17 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=18 CharacterOffsetEnd=21 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=defienden CharacterOffsetBegin=22 CharacterOffsetEnd=31 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=32 CharacterOffsetEnd=34 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=interpretación CharacterOffsetBegin=35 CharacterOffsetEnd=49 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=providencialista CharacterOffsetBegin=50 CharacterOffsetEnd=66 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=67 CharacterOffsetEnd=69 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=70 CharacterOffsetEnd=72 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=mano CharacterOffsetBegin=73 CharacterOffsetEnd=77 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=invisible CharacterOffsetBegin=78 CharacterOffsetEnd=87 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=88 CharacterOffsetEnd=90 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Adam CharacterOffsetBegin=91 CharacterOffsetEnd=95 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Smith CharacterOffsetBegin=96 CharacterOffsetEnd=101 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=101 CharacterOffsetEnd=102 PartOfSpeech=fc NamedEntityTag=O]
+[Text=sostienen CharacterOffsetBegin=103 CharacterOffsetEnd=112 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=113 CharacterOffsetEnd=116 PartOfSpeech=cs NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=117 CharacterOffsetEnd=120 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=individuos CharacterOffsetBegin=121 CharacterOffsetEnd=131 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=guiados CharacterOffsetBegin=132 CharacterOffsetEnd=139 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=140 CharacterOffsetEnd=143 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=144 CharacterOffsetEnd=147 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=mano CharacterOffsetBegin=148 CharacterOffsetEnd=152 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=invisible CharacterOffsetBegin=153 CharacterOffsetEnd=162 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=poseen CharacterOffsetBegin=163 CharacterOffsetEnd=169 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=ciertas CharacterOffsetBegin=170 CharacterOffsetEnd=177 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=cualidades CharacterOffsetBegin=178 CharacterOffsetEnd=188 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=189 CharacterOffsetEnd=192 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=193 CharacterOffsetEnd=195 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=espera CharacterOffsetBegin=196 CharacterOffsetEnd=202 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=203 CharacterOffsetEnd=205 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=orientan CharacterOffsetBegin=206 CharacterOffsetEnd=214 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=215 CharacterOffsetEnd=216 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ciertos CharacterOffsetBegin=217 CharacterOffsetEnd=224 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=fines CharacterOffsetBegin=225 CharacterOffsetEnd=230 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=beneficiosos CharacterOffsetBegin=231 CharacterOffsetEnd=243 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=244 CharacterOffsetEnd=248 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=249 CharacterOffsetEnd=251 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sociedad CharacterOffsetBegin=252 CharacterOffsetEnd=260 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=260 CharacterOffsetEnd=261 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sadv
+      (grup.adv (rg Generalmente)))
+    (sn (fc ,)
+      (spec (da0000 los))
+      (S
+        (relatiu (pr000000 que))
+        (grup.verb (vmip000 defienden))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 interpretación)
+            (S
+              (participi (aq0000 providencialista))
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 mano)
+                    (s.a
+                      (grup.a (aq0000 invisible)))
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (np00000 Adam) (np00000 Smith)))))))))))
+      (fc ,))
+    (grup.verb (vmip000 sostienen))
+    (S
+      (conj (cs que))
+      (sn
+        (spec (da0000 los))
+        (grup.nom (nc0p000 individuos)
+          (s.a
+            (grup.a (aq0000 guiados)))
+          (sp
+            (prep (sp000 por))
+            (sn
+              (spec (di0000 una))
+              (grup.nom (nc0s000 mano)
+                (s.a
+                  (grup.a (aq0000 invisible))))))))
+      (grup.verb (vmip000 poseen))
+      (sn
+        (spec (di0000 ciertas))
+        (grup.nom (nc0p000 cualidades)
+          (S
+            (relatiu (pr000000 que))
+            (morfema.pronominal (p0000000 se))
+            (grup.verb (vmip000 espera))
+            (S
+              (sn
+                (grup.nom (pp000000 se)))
+              (grup.verb (vmip000 orientan))
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (spec (di0000 ciertos))
+                  (grup.nom (nc0p000 fines)
+                    (s.a
+                      (grup.a (aq0000 beneficiosos))))))
+              (sp
+                (prep (sp000 para))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 sociedad)))))))))
+    (fp .)))
+
+Sentence #2 (16 tokens):
+Este sería, ni más ni menos, el sentido de la famosa expresión smitheana.
+[Text=Este CharacterOffsetBegin=262 CharacterOffsetEnd=266 PartOfSpeech=pd000000 NamedEntityTag=O]
+[Text=sería CharacterOffsetBegin=267 CharacterOffsetEnd=272 PartOfSpeech=vsic000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=272 CharacterOffsetEnd=273 PartOfSpeech=fc NamedEntityTag=O]
+[Text=ni CharacterOffsetBegin=274 CharacterOffsetEnd=276 PartOfSpeech=cc NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=277 CharacterOffsetEnd=280 PartOfSpeech=rg NamedEntityTag=O]
+[Text=ni CharacterOffsetBegin=281 CharacterOffsetEnd=283 PartOfSpeech=rg NamedEntityTag=O]
+[Text=menos CharacterOffsetBegin=284 CharacterOffsetEnd=289 PartOfSpeech=rg NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=289 CharacterOffsetEnd=290 PartOfSpeech=fc NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=291 CharacterOffsetEnd=293 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sentido CharacterOffsetBegin=294 CharacterOffsetEnd=301 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=302 CharacterOffsetEnd=304 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=305 CharacterOffsetEnd=307 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=famosa CharacterOffsetBegin=308 CharacterOffsetEnd=314 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=expresión CharacterOffsetBegin=315 CharacterOffsetEnd=324 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=smitheana CharacterOffsetBegin=325 CharacterOffsetEnd=334 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=334 CharacterOffsetEnd=335 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (pd000000 Este)))
+    (grup.verb (vsic000 sería))
+    (sadv (fc ,)
+      (grup.adv
+        (sadv
+          (grup.adv (cc ni) (rg más) (rg ni)))
+        (rg menos))
+      (fc ,))
+    (sn
+      (spec (da0000 el))
+      (grup.nom (nc0s000 sentido)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom
+              (s.a
+                (grup.a (aq0000 famosa)))
+              (nc0s000 expresión)
+              (S
+                (participi (aq0000 smitheana))))))))
+    (fp .)))
+
+Sentence #3 (45 tokens):
+En este artículo mostraré, por el contrario, que en el pasaje de la mano invisible de La teoría de los sentimientos morales los individuos guiados por una mano invisible no poseen las cualidades que se espera se orientan a dichos fines.
+[Text=En CharacterOffsetBegin=336 CharacterOffsetEnd=338 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=339 CharacterOffsetEnd=343 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=artículo CharacterOffsetBegin=344 CharacterOffsetEnd=352 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=mostraré CharacterOffsetBegin=353 CharacterOffsetEnd=361 PartOfSpeech=vmif000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=361 CharacterOffsetEnd=362 PartOfSpeech=fc NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=363 CharacterOffsetEnd=366 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=367 CharacterOffsetEnd=369 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=contrario CharacterOffsetBegin=370 CharacterOffsetEnd=379 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=379 CharacterOffsetEnd=380 PartOfSpeech=fc NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=381 CharacterOffsetEnd=384 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=385 CharacterOffsetEnd=387 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=388 CharacterOffsetEnd=390 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pasaje CharacterOffsetBegin=391 CharacterOffsetEnd=397 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=398 CharacterOffsetEnd=400 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=401 CharacterOffsetEnd=403 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=mano CharacterOffsetBegin=404 CharacterOffsetEnd=408 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=invisible CharacterOffsetBegin=409 CharacterOffsetEnd=418 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=419 CharacterOffsetEnd=421 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=422 CharacterOffsetEnd=424 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=teoría CharacterOffsetBegin=425 CharacterOffsetEnd=431 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=432 CharacterOffsetEnd=434 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=435 CharacterOffsetEnd=438 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sentimientos CharacterOffsetBegin=439 CharacterOffsetEnd=451 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=mora CharacterOffsetBegin=452 CharacterOffsetEnd=456 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=les CharacterOffsetBegin=456 CharacterOffsetEnd=459 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=460 CharacterOffsetEnd=463 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=individuos CharacterOffsetBegin=464 CharacterOffsetEnd=474 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=guiados CharacterOffsetBegin=475 CharacterOffsetEnd=482 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=483 CharacterOffsetEnd=486 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=487 CharacterOffsetEnd=490 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=mano CharacterOffsetBegin=491 CharacterOffsetEnd=495 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=invisible CharacterOffsetBegin=496 CharacterOffsetEnd=505 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=506 CharacterOffsetEnd=508 PartOfSpeech=rn NamedEntityTag=O]
+[Text=poseen CharacterOffsetBegin=509 CharacterOffsetEnd=515 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=516 CharacterOffsetEnd=519 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cualidades CharacterOffsetBegin=520 CharacterOffsetEnd=530 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=531 CharacterOffsetEnd=534 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=535 CharacterOffsetEnd=537 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=espera CharacterOffsetBegin=538 CharacterOffsetEnd=544 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=545 CharacterOffsetEnd=547 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=orientan CharacterOffsetBegin=548 CharacterOffsetEnd=556 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=557 CharacterOffsetEnd=558 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=dichos CharacterOffsetBegin=559 CharacterOffsetEnd=565 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=fines CharacterOffsetBegin=566 CharacterOffsetEnd=571 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=571 CharacterOffsetEnd=572 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep (sp000 En))
+        (sn
+          (spec (dd0000 este))
+          (grup.nom (nc0s000 artículo))))
+      (S
+        (S
+          (grup.verb (vmif000 mostraré))
+          (sp (fc ,)
+            (prep (sp000 por))
+            (sn
+              (spec (da0000 el))
+              (grup.nom
+                (s.a
+                  (grup.a (aq0000 contrario)))))
+            (fc ,)))
+        (S
+          (relatiu (pr000000 que))
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 pasaje)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 mano)
+                      (s.a
+                        (grup.a (aq0000 invisible)))
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (da0000 La))
+                          (grup.nom (nc0s000 teoría)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (spec (da0000 los))
+                                (grup.nom (nc0p000 sentimientos))))))))))))))))
+    (S
+      (grup.verb (vmip000 mora))
+      (sn
+        (grup.nom (pp000000 les)))
+      (sn
+        (spec (da0000 los))
+        (grup.nom (nc0p000 individuos)
+          (S
+            (participi (aq0000 guiados))
+            (sp
+              (prep (sp000 por))
+              (sn
+                (spec (di0000 una))
+                (grup.nom (nc0s000 mano)
+                  (s.a
+                    (grup.a (aq0000 invisible)))))))))
+      (S
+        (neg (rn no))
+        (grup.verb (vmip000 poseen))
+        (sn
+          (spec (da0000 las))
+          (grup.nom (nc0p000 cualidades)
+            (S
+              (relatiu (pr000000 que))
+              (morfema.verbal (p0000000 se))
+              (grup.verb (vmip000 espera)))))
+        (S
+          (sn
+            (grup.nom (pp000000 se)))
+          (grup.verb (vmip000 orientan))
+          (sp
+            (prep (sp000 a))
+            (sn
+              (grup.nom
+                (s.a
+                  (grup.a (aq0000 dichos)))
+                (nc0p000 fines)))))))
+    (fp .)))
+
+Sentence #4 (46 tokens):
+Así, la interpretación providencialista no puede explicar qué cualidades poseen los terratenientes (los guiados por una mano invisible), de modo tal que se orienten al fin beneficioso en cuestión (la distribución de las cosas necesarias para la vida).
+[Text=Así CharacterOffsetBegin=573 CharacterOffsetEnd=576 PartOfSpeech=rg NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=576 CharacterOffsetEnd=577 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=578 CharacterOffsetEnd=580 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=interpretación CharacterOffsetBegin=581 CharacterOffsetEnd=595 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=providencialista CharacterOffsetBegin=596 CharacterOffsetEnd=612 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=613 CharacterOffsetEnd=615 PartOfSpeech=rn NamedEntityTag=O]
+[Text=puede CharacterOffsetBegin=616 CharacterOffsetEnd=621 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=explicar CharacterOffsetBegin=622 CharacterOffsetEnd=630 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=qué CharacterOffsetBegin=631 CharacterOffsetEnd=634 PartOfSpeech=pt000000 NamedEntityTag=O]
+[Text=cualidades CharacterOffsetBegin=635 CharacterOffsetEnd=645 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=poseen CharacterOffsetBegin=646 CharacterOffsetEnd=652 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=653 CharacterOffsetEnd=656 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=terratenientes CharacterOffsetBegin=657 CharacterOffsetEnd=671 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=672 CharacterOffsetEnd=673 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=673 CharacterOffsetEnd=676 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=guiados CharacterOffsetBegin=677 CharacterOffsetEnd=684 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=685 CharacterOffsetEnd=688 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=689 CharacterOffsetEnd=692 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=mano CharacterOffsetBegin=693 CharacterOffsetEnd=697 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=invisible CharacterOffsetBegin=698 CharacterOffsetEnd=707 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=707 CharacterOffsetEnd=708 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=708 CharacterOffsetEnd=709 PartOfSpeech=fc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=710 CharacterOffsetEnd=712 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=modo CharacterOffsetBegin=713 CharacterOffsetEnd=717 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=tal CharacterOffsetBegin=718 CharacterOffsetEnd=721 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=722 CharacterOffsetEnd=725 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=726 CharacterOffsetEnd=728 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=orienten CharacterOffsetBegin=729 CharacterOffsetEnd=737 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=738 CharacterOffsetEnd=739 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=739 CharacterOffsetEnd=740 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=fin CharacterOffsetBegin=741 CharacterOffsetEnd=744 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=beneficioso CharacterOffsetBegin=745 CharacterOffsetEnd=756 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=757 CharacterOffsetEnd=759 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cuestión CharacterOffsetBegin=760 CharacterOffsetEnd=768 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=769 CharacterOffsetEnd=770 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=770 CharacterOffsetEnd=772 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=distribución CharacterOffsetBegin=773 CharacterOffsetEnd=785 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=786 CharacterOffsetEnd=788 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=789 CharacterOffsetEnd=792 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cosas CharacterOffsetBegin=793 CharacterOffsetEnd=798 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=necesarias CharacterOffsetBegin=799 CharacterOffsetEnd=809 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=810 CharacterOffsetEnd=814 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=815 CharacterOffsetEnd=817 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=vida CharacterOffsetBegin=818 CharacterOffsetEnd=822 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=822 CharacterOffsetEnd=823 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=823 CharacterOffsetEnd=824 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sadv
+      (grup.adv (rg Así))
+      (fc ,))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 interpretación)
+        (S
+          (participi (aq0000 providencialista)))))
+    (S
+      (neg (rn no))
+      (grup.verb (vmip000 puede)
+        (infinitiu (vmn0000 explicar)))
+      (S
+        (sn
+          (sadv
+            (grup.adv (pt000000 qué)))
+          (sn
+            (grup.nom (nc0p000 cualidades))))
+        (grup.verb (vmip000 poseen))
+        (sn
+          (spec (da0000 los))
+          (grup.nom (nc0p000 terratenientes)
+            (sn (fpa =LRB=)
+              (spec (da0000 los))
+              (grup.nom (nc0p000 guiados)
+                (sp
+                  (prep (sp000 por))
+                  (sn
+                    (spec (di0000 una))
+                    (grup.nom (nc0s000 mano)
+                      (s.a
+                        (grup.a (aq0000 invisible)))))))
+              (fpt =RRB=))))
+        (sp (fc ,)
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 modo))))
+        (sn
+          (spec (dd0000 tal))
+          (grup.nom
+            (S
+              (relatiu (pr000000 que))
+              (morfema.verbal (p0000000 se))
+              (grup.verb (vmip000 orienten))
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 fin)
+                    (s.a
+                      (grup.a (aq0000 beneficioso)))
+                    (sp
+                      (prep (sp000 en))
+                      (sn
+                        (grup.nom (nc0s000 cuestión))))
+                    (sn (fpa =LRB=)
+                      (spec (da0000 la))
+                      (grup.nom (nc0s000 distribución)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (spec (da0000 las))
+                            (grup.nom (nc0p000 cosas)
+                              (s.a
+                                (grup.a (aq0000 necesarias)))
+                              (sp
+                                (prep (sp000 para))
+                                (sn
+                                  (spec (da0000 la))
+                                  (grup.nom (nc0s000 vida))))))))
+                      (fpt =RRB=))))))))))
+    (fp .)))
+

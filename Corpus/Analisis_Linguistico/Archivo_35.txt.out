@@ -1,0 +1,208 @@
+Sentence #1 (80 tokens):
+Partiendo del excelente trabajo publicado por Isabel Fernández, Daniel Gil, Jaime Carrascosa, Antonio Cachapuz y Joao Praia (2002) y enrolados en la corriente didáctica que considera  imprescindible la incorporación de la Historia de la Física en su Enseñanza, este trabajo demuestra cómo la Historia de la Física puede ser utilizada para corregir las visiones deformadas, tergiversadas, sesgadas y erróneas que de la Ciencia Física se transmiten a través de su enseñanza
+[Text=Partiendo CharacterOffsetBegin=0 CharacterOffsetEnd=9 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=10 CharacterOffsetEnd=11 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=11 CharacterOffsetEnd=13 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=excelente CharacterOffsetBegin=14 CharacterOffsetEnd=23 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=24 CharacterOffsetEnd=31 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=publicado CharacterOffsetBegin=32 CharacterOffsetEnd=41 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=42 CharacterOffsetEnd=45 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Isabel CharacterOffsetBegin=46 CharacterOffsetEnd=52 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Fernández CharacterOffsetBegin=53 CharacterOffsetEnd=62 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=62 CharacterOffsetEnd=63 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Daniel CharacterOffsetBegin=64 CharacterOffsetEnd=70 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Gil CharacterOffsetBegin=71 CharacterOffsetEnd=74 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=74 CharacterOffsetEnd=75 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Jaime CharacterOffsetBegin=76 CharacterOffsetEnd=81 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Carrascosa CharacterOffsetBegin=82 CharacterOffsetEnd=92 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=92 CharacterOffsetEnd=93 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Antonio CharacterOffsetBegin=94 CharacterOffsetEnd=101 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Cachapuz CharacterOffsetBegin=102 CharacterOffsetEnd=110 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=y CharacterOffsetBegin=111 CharacterOffsetEnd=112 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Joao CharacterOffsetBegin=113 CharacterOffsetEnd=117 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Praia CharacterOffsetBegin=118 CharacterOffsetEnd=123 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text==LRB= CharacterOffsetBegin=124 CharacterOffsetEnd=125 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=2002 CharacterOffsetBegin=125 CharacterOffsetEnd=129 PartOfSpeech=w NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=129 CharacterOffsetEnd=130 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=131 CharacterOffsetEnd=132 PartOfSpeech=cc NamedEntityTag=O]
+[Text=enrolados CharacterOffsetBegin=133 CharacterOffsetEnd=142 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=143 CharacterOffsetEnd=145 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=146 CharacterOffsetEnd=148 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=corriente CharacterOffsetBegin=149 CharacterOffsetEnd=158 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=didáctica CharacterOffsetBegin=159 CharacterOffsetEnd=168 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=169 CharacterOffsetEnd=172 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=considera CharacterOffsetBegin=173 CharacterOffsetEnd=182 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=imprescindible CharacterOffsetBegin=184 CharacterOffsetEnd=198 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=199 CharacterOffsetEnd=201 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=incorporación CharacterOffsetBegin=202 CharacterOffsetEnd=215 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=216 CharacterOffsetEnd=218 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=219 CharacterOffsetEnd=221 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Historia CharacterOffsetBegin=222 CharacterOffsetEnd=230 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=de CharacterOffsetBegin=231 CharacterOffsetEnd=233 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=234 CharacterOffsetEnd=236 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Física CharacterOffsetBegin=237 CharacterOffsetEnd=243 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=en CharacterOffsetBegin=244 CharacterOffsetEnd=246 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=247 CharacterOffsetEnd=249 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=Enseñanza CharacterOffsetBegin=250 CharacterOffsetEnd=259 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=259 CharacterOffsetEnd=260 PartOfSpeech=fc NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=261 CharacterOffsetEnd=265 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=266 CharacterOffsetEnd=273 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=demuestra CharacterOffsetBegin=274 CharacterOffsetEnd=283 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=cómo CharacterOffsetBegin=284 CharacterOffsetEnd=288 PartOfSpeech=pt000000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=289 CharacterOffsetEnd=291 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Historia CharacterOffsetBegin=292 CharacterOffsetEnd=300 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=de CharacterOffsetBegin=301 CharacterOffsetEnd=303 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=304 CharacterOffsetEnd=306 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Física CharacterOffsetBegin=307 CharacterOffsetEnd=313 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=puede CharacterOffsetBegin=314 CharacterOffsetEnd=319 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=ser CharacterOffsetBegin=320 CharacterOffsetEnd=323 PartOfSpeech=vsn0000 NamedEntityTag=O]
+[Text=utilizada CharacterOffsetBegin=324 CharacterOffsetEnd=333 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=334 CharacterOffsetEnd=338 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=corregir CharacterOffsetBegin=339 CharacterOffsetEnd=347 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=348 CharacterOffsetEnd=351 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=visiones CharacterOffsetBegin=352 CharacterOffsetEnd=360 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=deformadas CharacterOffsetBegin=361 CharacterOffsetEnd=371 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=371 CharacterOffsetEnd=372 PartOfSpeech=fc NamedEntityTag=O]
+[Text=tergiversadas CharacterOffsetBegin=373 CharacterOffsetEnd=386 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=386 CharacterOffsetEnd=387 PartOfSpeech=fc NamedEntityTag=O]
+[Text=sesgadas CharacterOffsetBegin=388 CharacterOffsetEnd=396 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=397 CharacterOffsetEnd=398 PartOfSpeech=cc NamedEntityTag=O]
+[Text=erróneas CharacterOffsetBegin=399 CharacterOffsetEnd=407 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=408 CharacterOffsetEnd=411 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=412 CharacterOffsetEnd=414 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=415 CharacterOffsetEnd=417 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Ciencia CharacterOffsetBegin=418 CharacterOffsetEnd=425 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Física CharacterOffsetBegin=426 CharacterOffsetEnd=432 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=se CharacterOffsetBegin=433 CharacterOffsetEnd=435 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=transmiten CharacterOffsetBegin=436 CharacterOffsetEnd=446 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=447 CharacterOffsetEnd=448 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=través CharacterOffsetBegin=449 CharacterOffsetEnd=455 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=456 CharacterOffsetEnd=458 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=459 CharacterOffsetEnd=461 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=enseñanza CharacterOffsetBegin=462 CharacterOffsetEnd=471 PartOfSpeech=nc0s000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (S
+        (S
+          (grup.verb
+            (gerundi (vmg0000 Partiendo)))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 el))
+              (grup.nom
+                (s.a
+                  (grup.a (aq0000 excelente)))
+                (nc0s000 trabajo)
+                (S
+                  (participi (aq0000 publicado))
+                  (sp
+                    (prep (sp000 por))
+                    (sn
+                      (grup.nom
+                        (grup.nom (np00000 Isabel) (np00000 Fernández))
+                        (fc ,)
+                        (grup.nom (np00000 Daniel) (np00000 Gil))
+                        (fc ,)
+                        (grup.nom (np00000 Jaime) (np00000 Carrascosa))
+                        (fc ,)
+                        (grup.nom (np00000 Antonio) (np00000 Cachapuz))
+                        (conj (cc y))
+                        (grup.nom (np00000 Joao) (np00000 Praia))))))))))
+        (inc
+          (sn
+            (grup.nom (fpa =LRB=) (w 2002) (fpt =RRB=)))))
+      (conj (cc y))
+      (S
+        (participi (aq0000 enrolados))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 corriente)
+              (s.a
+                (grup.a (aq0000 didáctica)))
+              (S
+                (relatiu (pr000000 que))
+                (grup.verb (vmip000 considera))
+                (s.a
+                  (grup.a (aq0000 imprescindible)))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 incorporación)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (spec (da0000 la))
+                        (grup.nom (np00000 Historia)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (spec (da0000 la))
+                              (grup.nom (np00000 Física)
+                                (sp
+                                  (prep (sp000 en))
+                                  (sn
+                                    (spec (dp0000 su))
+                                    (grup.nom (np00000 Enseñanza))))))))))))))))))
+    (fc ,)
+    (S
+      (sn
+        (spec (dd0000 este))
+        (grup.nom (nc0s000 trabajo)))
+      (grup.verb (vmip000 demuestra))
+      (sadv
+        (grup.adv (pt000000 cómo)))
+      (sn
+        (spec (da0000 la))
+        (grup.nom
+          (grup.nom (np00000 Historia)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (np00000 Física)))))
+          (S
+            (S
+              (grup.verb (vmip000 puede)
+                (infinitiu (vsn0000 ser) (vmp0000 utilizada)))
+              (sp
+                (prep (sp000 para))
+                (S
+                  (infinitiu (vmn0000 corregir))
+                  (sn
+                    (grup.nom (pp000000 las))))))
+            (sn
+              (grup.nom (nc0p000 visiones)
+                (s.a
+                  (s.a
+                    (grup.a (aq0000 deformadas)))
+                  (fc ,)
+                  (s.a
+                    (grup.a (aq0000 tergiversadas)))
+                  (fc ,)
+                  (s.a
+                    (grup.a (aq0000 sesgadas)))
+                  (conj (cc y))
+                  (s.a
+                    (grup.a (aq0000 erróneas))))
+                (S
+                  (relatiu (pr000000 que))
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (np00000 Ciencia) (np00000 Física))))
+                  (morfema.pronominal (p0000000 se))
+                  (grup.verb (vmip000 transmiten))
+                  (sp
+                    (prep (sp000 a))
+                    (sn
+                      (grup.nom (nc0s000 través))))
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (dp0000 su))
+                      (grup.nom (nc0s000 enseñanza)))))))))))))
+

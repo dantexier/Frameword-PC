@@ -1,0 +1,617 @@
+Sentence #1 (59 tokens):
+Una de las consecuencias de entender que los estudios superiores son un bien público y social, un derecho humano universal y una responsabilidad de los estados, tal como lo sostiene la Conferencia Regional de Educación Superior reunida en Cartagena de Indias (2008), es apostar fuertemente a la revisión de las prácticas docentes universitarias.
+[Text=Una CharacterOffsetBegin=0 CharacterOffsetEnd=3 PartOfSpeech=pi000000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=4 CharacterOffsetEnd=6 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=7 CharacterOffsetEnd=10 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=consecuencias CharacterOffsetBegin=11 CharacterOffsetEnd=24 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=25 CharacterOffsetEnd=27 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=entender CharacterOffsetBegin=28 CharacterOffsetEnd=36 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=37 CharacterOffsetEnd=40 PartOfSpeech=cs NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=41 CharacterOffsetEnd=44 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=estudios CharacterOffsetBegin=45 CharacterOffsetEnd=53 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=superiores CharacterOffsetBegin=54 CharacterOffsetEnd=64 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=son CharacterOffsetBegin=65 CharacterOffsetEnd=68 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=69 CharacterOffsetEnd=71 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=bien CharacterOffsetBegin=72 CharacterOffsetEnd=76 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=público CharacterOffsetBegin=77 CharacterOffsetEnd=84 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=85 CharacterOffsetEnd=86 PartOfSpeech=cc NamedEntityTag=O]
+[Text=social CharacterOffsetBegin=87 CharacterOffsetEnd=93 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=93 CharacterOffsetEnd=94 PartOfSpeech=fc NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=95 CharacterOffsetEnd=97 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=derecho CharacterOffsetBegin=98 CharacterOffsetEnd=105 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=humano CharacterOffsetBegin=106 CharacterOffsetEnd=112 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=universal CharacterOffsetBegin=113 CharacterOffsetEnd=122 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=123 CharacterOffsetEnd=124 PartOfSpeech=cc NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=125 CharacterOffsetEnd=128 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=responsabilidad CharacterOffsetBegin=129 CharacterOffsetEnd=144 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=145 CharacterOffsetEnd=147 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=148 CharacterOffsetEnd=151 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=estados CharacterOffsetBegin=152 CharacterOffsetEnd=159 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=159 CharacterOffsetEnd=160 PartOfSpeech=fc NamedEntityTag=O]
+[Text=tal CharacterOffsetBegin=161 CharacterOffsetEnd=164 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=165 CharacterOffsetEnd=169 PartOfSpeech=cs NamedEntityTag=O]
+[Text=lo CharacterOffsetBegin=170 CharacterOffsetEnd=172 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sostiene CharacterOffsetBegin=173 CharacterOffsetEnd=181 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=182 CharacterOffsetEnd=184 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Conferencia CharacterOffsetBegin=185 CharacterOffsetEnd=196 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Regional CharacterOffsetBegin=197 CharacterOffsetEnd=205 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=de CharacterOffsetBegin=206 CharacterOffsetEnd=208 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Educación CharacterOffsetBegin=209 CharacterOffsetEnd=218 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Superior CharacterOffsetBegin=219 CharacterOffsetEnd=227 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=reunida CharacterOffsetBegin=228 CharacterOffsetEnd=235 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=236 CharacterOffsetEnd=238 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Cartagena CharacterOffsetBegin=239 CharacterOffsetEnd=248 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=de CharacterOffsetBegin=249 CharacterOffsetEnd=251 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Indias CharacterOffsetBegin=252 CharacterOffsetEnd=258 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text==LRB= CharacterOffsetBegin=259 CharacterOffsetEnd=260 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=2008 CharacterOffsetBegin=260 CharacterOffsetEnd=264 PartOfSpeech=w NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=264 CharacterOffsetEnd=265 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=265 CharacterOffsetEnd=266 PartOfSpeech=fc NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=267 CharacterOffsetEnd=269 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=apostar CharacterOffsetBegin=270 CharacterOffsetEnd=277 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=fuertemente CharacterOffsetBegin=278 CharacterOffsetEnd=289 PartOfSpeech=rg NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=290 CharacterOffsetEnd=291 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=292 CharacterOffsetEnd=294 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=revisión CharacterOffsetBegin=295 CharacterOffsetEnd=303 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=304 CharacterOffsetEnd=306 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=307 CharacterOffsetEnd=310 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=prácticas CharacterOffsetBegin=311 CharacterOffsetEnd=320 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=docentes CharacterOffsetBegin=321 CharacterOffsetEnd=329 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=universitarias CharacterOffsetBegin=330 CharacterOffsetEnd=344 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=344 CharacterOffsetEnd=345 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (pi000000 Una)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 las))
+            (grup.nom (nc0p000 consecuencias))))))
+    (sp
+      (prep (sp000 de))
+      (S
+        (infinitiu (vmn0000 entender))
+        (S
+          (conj (cs que))
+          (sn
+            (spec (da0000 los))
+            (grup.nom (nc0p000 estudios)
+              (s.a
+                (grup.a (aq0000 superiores)))))
+          (grup.verb (vsip000 son))
+          (sn
+            (sn
+              (spec (di0000 un))
+              (grup.nom (nc0s000 bien)
+                (s.a
+                  (grup.a
+                    (grup.a (aq0000 público))
+                    (conj (cc y))
+                    (grup.a (aq0000 social))))))
+            (fc ,)
+            (sn
+              (spec (di0000 un))
+              (grup.nom (nc0s000 derecho)
+                (s.a
+                  (grup.a (aq0000 humano)))
+                (s.a
+                  (grup.a (aq0000 universal)))))
+            (conj (cc y))
+            (sn
+              (spec (di0000 una))
+              (grup.nom (nc0s000 responsabilidad)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 los))
+                    (grup.nom (nc0p000 estados)))))))
+          (sn (fc ,)
+            (spec (dd0000 tal))
+            (grup.nom
+              (sp
+                (prep (cs como))
+                (sn
+                  (spec (da0000 lo))
+                  (grup.nom
+                    (S
+                      (grup.verb (vmip000 sostiene))
+                      (sn
+                        (spec (da0000 la))
+                        (grup.nom (np00000 Conferencia) (np00000 Regional)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (np00000 Educación)))))))
+                    (s.a
+                      (grup.a (aq0000 Superior)))))))))
+        (S (vmp0000 reunida)
+          (sp
+            (prep (sp000 en))
+            (sn
+              (grup.nom
+                (grup.nom (np00000 Cartagena)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (np00000 Indias)))))
+                (sn
+                  (grup.nom (fpa =LRB=) (w 2008) (fpt =RRB=))))))))
+      (fc ,))
+    (grup.verb (vsip000 es))
+    (S
+      (infinitiu (vmn0000 apostar))
+      (sadv
+        (grup.adv (rg fuertemente)))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 revisión)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 las))
+                (grup.nom (nc0p000 prácticas)
+                  (s.a
+                    (grup.a (aq0000 docentes)))
+                  (s.a
+                    (grup.a (aq0000 universitarias))))))))))
+    (fp .)))
+
+Sentence #2 (52 tokens):
+En este artículo se presentan los resultados del proyecto “Construcción cooperativa de políticas y estrategias de formación de docentes universitarios en la región”, coordinado desde la Secretaría de Asuntos Académicos de la Universidad Nacional de Córdoba y con la participación de nueve universidades del Mercosur Educativo.
+[Text=En CharacterOffsetBegin=346 CharacterOffsetEnd=348 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=349 CharacterOffsetEnd=353 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=artículo CharacterOffsetBegin=354 CharacterOffsetEnd=362 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=363 CharacterOffsetEnd=365 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=presentan CharacterOffsetBegin=366 CharacterOffsetEnd=375 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=376 CharacterOffsetEnd=379 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=resultados CharacterOffsetBegin=380 CharacterOffsetEnd=390 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=391 CharacterOffsetEnd=392 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=392 CharacterOffsetEnd=394 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=proyecto CharacterOffsetBegin=395 CharacterOffsetEnd=403 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=404 CharacterOffsetEnd=405 PartOfSpeech=fe NamedEntityTag=O]
+[Text=Construcción CharacterOffsetBegin=405 CharacterOffsetEnd=417 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=cooperativa CharacterOffsetBegin=418 CharacterOffsetEnd=429 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=430 CharacterOffsetEnd=432 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=políticas CharacterOffsetBegin=433 CharacterOffsetEnd=442 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=443 CharacterOffsetEnd=444 PartOfSpeech=cc NamedEntityTag=O]
+[Text=estrategias CharacterOffsetBegin=445 CharacterOffsetEnd=456 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=457 CharacterOffsetEnd=459 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=formación CharacterOffsetBegin=460 CharacterOffsetEnd=469 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=470 CharacterOffsetEnd=472 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=docentes CharacterOffsetBegin=473 CharacterOffsetEnd=481 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=universitarios CharacterOffsetBegin=482 CharacterOffsetEnd=496 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=497 CharacterOffsetEnd=499 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=500 CharacterOffsetEnd=502 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=región CharacterOffsetBegin=503 CharacterOffsetEnd=509 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=509 CharacterOffsetEnd=510 PartOfSpeech=fe NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=510 CharacterOffsetEnd=511 PartOfSpeech=fc NamedEntityTag=O]
+[Text=coordinado CharacterOffsetBegin=512 CharacterOffsetEnd=522 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=desde CharacterOffsetBegin=523 CharacterOffsetEnd=528 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=529 CharacterOffsetEnd=531 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Secretaría CharacterOffsetBegin=532 CharacterOffsetEnd=542 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=543 CharacterOffsetEnd=545 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Asuntos CharacterOffsetBegin=546 CharacterOffsetEnd=553 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Académicos CharacterOffsetBegin=554 CharacterOffsetEnd=564 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=de CharacterOffsetBegin=565 CharacterOffsetEnd=567 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=568 CharacterOffsetEnd=570 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Universidad CharacterOffsetBegin=571 CharacterOffsetEnd=582 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Nacional CharacterOffsetBegin=583 CharacterOffsetEnd=591 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=592 CharacterOffsetEnd=594 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Córdoba CharacterOffsetBegin=595 CharacterOffsetEnd=602 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=y CharacterOffsetBegin=603 CharacterOffsetEnd=604 PartOfSpeech=cc NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=605 CharacterOffsetEnd=608 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=609 CharacterOffsetEnd=611 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=participación CharacterOffsetBegin=612 CharacterOffsetEnd=625 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=626 CharacterOffsetEnd=628 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nueve CharacterOffsetBegin=629 CharacterOffsetEnd=634 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=universidades CharacterOffsetBegin=635 CharacterOffsetEnd=648 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=649 CharacterOffsetEnd=650 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=650 CharacterOffsetEnd=652 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Mercosur CharacterOffsetBegin=653 CharacterOffsetEnd=661 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Educativo CharacterOffsetBegin=662 CharacterOffsetEnd=671 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=671 CharacterOffsetEnd=672 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (spec (dd0000 este))
+        (grup.nom (nc0s000 artículo))))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmip000 presentan))
+    (sn
+      (spec (da0000 los))
+      (grup.nom (nc0p000 resultados)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 proyecto)
+              (sn
+                (grup.nom (fe ")
+                  (grup.nom
+                    (grup.nom (nc0s000 Construcción)
+                      (s.a
+                        (grup.a (aq0000 cooperativa)))
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (grup.nom (nc0p000 políticas)))))
+                    (conj (cc y))
+                    (grup.nom (nc0p000 estrategias)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (grup.nom (nc0s000 formación)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (grup.nom (nc0p000 docentes)
+                                  (s.a
+                                    (grup.a (aq0000 universitarios)))
+                                  (sp
+                                    (prep (sp000 en))
+                                    (sn
+                                      (spec (da0000 la))
+                                      (grup.nom (nc0s000 región))))))))))))
+                  (fe ")))
+              (S (fc ,)
+                (participi (aq0000 coordinado))
+                (sp
+                  (prep (sp000 desde))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (np00000 Secretaría)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (grup.nom (np00000 Asuntos) (np00000 Académicos)))))))
+                (sp
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (np00000 Universidad) (np00000 Nacional)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (np00000 Córdoba)))))))
+                  (conj (cc y))
+                  (sp
+                    (prep (sp000 con))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (nc0s000 participación)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (spec (dn0000 nueve))
+                            (grup.nom (nc0p000 universidades)
+                              (sp
+                                (prep (sp000 de))
+                                (sn
+                                  (spec (da0000 el))
+                                  (grup.nom (np00000 Mercosur) (np00000 Educativo)))))))))))))))))
+    (fp .)))
+
+Sentence #3 (28 tokens):
+El propósito central del proyecto fue “desarrollar redes de cooperación para el fortalecimiento de la formación docente universitaria (FDU) a nivel regional”.
+[Text=El CharacterOffsetBegin=673 CharacterOffsetEnd=675 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=propósito CharacterOffsetBegin=676 CharacterOffsetEnd=685 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=central CharacterOffsetBegin=686 CharacterOffsetEnd=693 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=694 CharacterOffsetEnd=695 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=695 CharacterOffsetEnd=697 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=proyecto CharacterOffsetBegin=698 CharacterOffsetEnd=706 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=fue CharacterOffsetBegin=707 CharacterOffsetEnd=710 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=711 CharacterOffsetEnd=712 PartOfSpeech=fe NamedEntityTag=O]
+[Text=desarrollar CharacterOffsetBegin=712 CharacterOffsetEnd=723 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=redes CharacterOffsetBegin=724 CharacterOffsetEnd=729 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=730 CharacterOffsetEnd=732 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cooperación CharacterOffsetBegin=733 CharacterOffsetEnd=744 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=745 CharacterOffsetEnd=749 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=750 CharacterOffsetEnd=752 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=fortalecimiento CharacterOffsetBegin=753 CharacterOffsetEnd=768 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=769 CharacterOffsetEnd=771 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=772 CharacterOffsetEnd=774 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=formación CharacterOffsetBegin=775 CharacterOffsetEnd=784 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=docente CharacterOffsetBegin=785 CharacterOffsetEnd=792 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=universitaria CharacterOffsetBegin=793 CharacterOffsetEnd=806 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=807 CharacterOffsetEnd=808 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=FDU CharacterOffsetBegin=808 CharacterOffsetEnd=811 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=811 CharacterOffsetEnd=812 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=813 CharacterOffsetEnd=814 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nivel CharacterOffsetBegin=815 CharacterOffsetEnd=820 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=regional CharacterOffsetBegin=821 CharacterOffsetEnd=829 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=829 CharacterOffsetEnd=830 PartOfSpeech=fe NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=830 CharacterOffsetEnd=831 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (da0000 El))
+        (grup.nom (nc0s000 propósito)
+          (s.a
+            (grup.a (aq0000 central)))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 proyecto))))))
+      (grup.verb (vsis000 fue))
+      (S (fe ")
+        (infinitiu (vmn0000 desarrollar))
+        (sn
+          (sn
+            (grup.nom (nc0p000 redes)))
+          (conj
+            (grup.prep
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 cooperación)))
+              (prep (sp000 para))))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 fortalecimiento)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 formación)
+                    (s.a
+                      (grup.a (aq0000 docente)))
+                    (s.a
+                      (grup.a (aq0000 universitaria)))
+                    (sn
+                      (grup.nom (fpa =LRB=) (np00000 FDU) (fpt =RRB=))))))
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (grup.nom (nc0s000 nivel)
+                    (s.a
+                      (grup.a (aq0000 regional)))))))))
+        (fe ")))
+    (fp .)))
+
+Sentence #4 (37 tokens):
+El grupo de universidades participantes se propusieron producir conocimientos sobre el estado de las políticas de formación docente en cada universidad y su relación con los sistemas de acceso, permanencia y promoción de los profesores.
+[Text=El CharacterOffsetBegin=832 CharacterOffsetEnd=834 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=grupo CharacterOffsetBegin=835 CharacterOffsetEnd=840 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=841 CharacterOffsetEnd=843 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=universidades CharacterOffsetBegin=844 CharacterOffsetEnd=857 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=participantes CharacterOffsetBegin=858 CharacterOffsetEnd=871 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=872 CharacterOffsetEnd=874 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=propusieron CharacterOffsetBegin=875 CharacterOffsetEnd=886 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=producir CharacterOffsetBegin=887 CharacterOffsetEnd=895 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=conocimientos CharacterOffsetBegin=896 CharacterOffsetEnd=909 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=910 CharacterOffsetEnd=915 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=916 CharacterOffsetEnd=918 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=estado CharacterOffsetBegin=919 CharacterOffsetEnd=925 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=926 CharacterOffsetEnd=928 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=929 CharacterOffsetEnd=932 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=políticas CharacterOffsetBegin=933 CharacterOffsetEnd=942 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=943 CharacterOffsetEnd=945 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=formación CharacterOffsetBegin=946 CharacterOffsetEnd=955 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=docente CharacterOffsetBegin=956 CharacterOffsetEnd=963 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=964 CharacterOffsetEnd=966 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cada CharacterOffsetBegin=967 CharacterOffsetEnd=971 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=universidad CharacterOffsetBegin=972 CharacterOffsetEnd=983 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=984 CharacterOffsetEnd=985 PartOfSpeech=cc NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=986 CharacterOffsetEnd=988 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=relación CharacterOffsetBegin=989 CharacterOffsetEnd=997 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=998 CharacterOffsetEnd=1001 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1002 CharacterOffsetEnd=1005 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sistemas CharacterOffsetBegin=1006 CharacterOffsetEnd=1014 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1015 CharacterOffsetEnd=1017 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=acceso CharacterOffsetBegin=1018 CharacterOffsetEnd=1024 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1024 CharacterOffsetEnd=1025 PartOfSpeech=fc NamedEntityTag=O]
+[Text=permanencia CharacterOffsetBegin=1026 CharacterOffsetEnd=1037 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1038 CharacterOffsetEnd=1039 PartOfSpeech=cc NamedEntityTag=O]
+[Text=promoción CharacterOffsetBegin=1040 CharacterOffsetEnd=1049 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1050 CharacterOffsetEnd=1052 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1053 CharacterOffsetEnd=1056 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=profesores CharacterOffsetBegin=1057 CharacterOffsetEnd=1067 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1067 CharacterOffsetEnd=1068 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 grupo)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0p000 universidades)
+              (s.a
+                (grup.a (aq0000 participantes))))))))
+    (morfema.pronominal (p0000000 se))
+    (grup.verb (vmis000 propusieron))
+    (S
+      (S
+        (infinitiu (vmn0000 producir))
+        (sn
+          (grup.nom (nc0p000 conocimientos)))
+        (sp
+          (prep (sp000 sobre))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 estado)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 las))
+                  (grup.nom (nc0p000 políticas)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 formación)
+                          (s.a
+                            (grup.a (aq0000 docente)))
+                          (sp
+                            (prep (sp000 en))
+                            (sn
+                              (spec (di0000 cada))
+                              (grup.nom (nc0s000 universidad))))))))))))))
+      (conj (cc y))
+      (S
+        (sn
+          (spec (dp0000 su))
+          (grup.nom (nc0s000 relación)
+            (sp
+              (prep (sp000 con))
+              (sn
+                (spec (da0000 los))
+                (grup.nom (nc0p000 sistemas)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom
+                        (grup.nom (nc0s000 acceso))
+                        (fc ,)
+                        (grup.nom (nc0s000 permanencia))
+                        (conj (cc y))
+                        (grup.nom (nc0s000 promoción))))))))))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 los))
+            (grup.nom (nc0p000 profesores))))))
+    (fp .)))
+
+Sentence #5 (49 tokens):
+En este artículo se presentan, de manera sintética, las características del proyecto, la metodología desarrollada, algunos nudos de discusión sobre la docencia universitaria que tuvieron lugar en los encuentros con el grupo de universidades y, finalmente, desafíos o líneas de trabajo conjunto
+[Text=En CharacterOffsetBegin=1069 CharacterOffsetEnd=1071 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=1072 CharacterOffsetEnd=1076 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=artículo CharacterOffsetBegin=1077 CharacterOffsetEnd=1085 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=1086 CharacterOffsetEnd=1088 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=presentan CharacterOffsetBegin=1089 CharacterOffsetEnd=1098 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1098 CharacterOffsetEnd=1099 PartOfSpeech=fc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1100 CharacterOffsetEnd=1102 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=manera CharacterOffsetBegin=1103 CharacterOffsetEnd=1109 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=sintética CharacterOffsetBegin=1110 CharacterOffsetEnd=1119 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1119 CharacterOffsetEnd=1120 PartOfSpeech=fc NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1121 CharacterOffsetEnd=1124 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=características CharacterOffsetBegin=1125 CharacterOffsetEnd=1140 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1141 CharacterOffsetEnd=1142 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1142 CharacterOffsetEnd=1144 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=proyecto CharacterOffsetBegin=1145 CharacterOffsetEnd=1153 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1153 CharacterOffsetEnd=1154 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1155 CharacterOffsetEnd=1157 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=metodología CharacterOffsetBegin=1158 CharacterOffsetEnd=1169 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=desarrollada CharacterOffsetBegin=1170 CharacterOffsetEnd=1182 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1182 CharacterOffsetEnd=1183 PartOfSpeech=fc NamedEntityTag=O]
+[Text=algunos CharacterOffsetBegin=1184 CharacterOffsetEnd=1191 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=nudos CharacterOffsetBegin=1192 CharacterOffsetEnd=1197 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1198 CharacterOffsetEnd=1200 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=discusión CharacterOffsetBegin=1201 CharacterOffsetEnd=1210 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=1211 CharacterOffsetEnd=1216 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1217 CharacterOffsetEnd=1219 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=docencia CharacterOffsetBegin=1220 CharacterOffsetEnd=1228 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=universitaria CharacterOffsetBegin=1229 CharacterOffsetEnd=1242 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=1243 CharacterOffsetEnd=1246 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=tuvieron CharacterOffsetBegin=1247 CharacterOffsetEnd=1255 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=lugar CharacterOffsetBegin=1256 CharacterOffsetEnd=1261 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1262 CharacterOffsetEnd=1264 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1265 CharacterOffsetEnd=1268 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=encuentros CharacterOffsetBegin=1269 CharacterOffsetEnd=1279 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=1280 CharacterOffsetEnd=1283 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1284 CharacterOffsetEnd=1286 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=grupo CharacterOffsetBegin=1287 CharacterOffsetEnd=1292 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1293 CharacterOffsetEnd=1295 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=universidades CharacterOffsetBegin=1296 CharacterOffsetEnd=1309 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1310 CharacterOffsetEnd=1311 PartOfSpeech=cc NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1311 CharacterOffsetEnd=1312 PartOfSpeech=fc NamedEntityTag=O]
+[Text=finalmente CharacterOffsetBegin=1313 CharacterOffsetEnd=1323 PartOfSpeech=rg NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1323 CharacterOffsetEnd=1324 PartOfSpeech=fc NamedEntityTag=O]
+[Text=desafíos CharacterOffsetBegin=1325 CharacterOffsetEnd=1333 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=1334 CharacterOffsetEnd=1335 PartOfSpeech=cc NamedEntityTag=O]
+[Text=líneas CharacterOffsetBegin=1336 CharacterOffsetEnd=1342 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1343 CharacterOffsetEnd=1345 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=1346 CharacterOffsetEnd=1353 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=conjunto CharacterOffsetBegin=1354 CharacterOffsetEnd=1362 PartOfSpeech=aq0000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep (sp000 En))
+        (sn
+          (spec (dd0000 este))
+          (grup.nom (nc0s000 artículo))))
+      (morfema.pronominal (p0000000 se))
+      (grup.verb (vmip000 presentan))
+      (sp (fc ,)
+        (prep (sp000 de))
+        (sn
+          (grup.nom (nc0s000 manera)
+            (s.a
+              (grup.a (aq0000 sintética)))))
+        (fc ,))
+      (sn
+        (spec (da0000 las))
+        (grup.nom (nc0p000 características)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 proyecto))))))
+      (fc ,))
+    (S
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 metodología)))
+      (participi (aq0000 desarrollada))
+      (sn (fc ,)
+        (spec (di0000 algunos))
+        (grup.nom
+          (S
+            (participi (aq0000 nudos))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 discusión))))
+            (sp
+              (prep (sp000 sobre))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 docencia)
+                  (s.a
+                    (grup.a (aq0000 universitaria)))
+                  (S
+                    (relatiu (pr000000 que))
+                    (grup.verb (vmis000 tuvieron))
+                    (sn
+                      (grup.nom (nc0s000 lugar)
+                        (sp
+                          (prep (sp000 en))
+                          (sn
+                            (spec (da0000 los))
+                            (grup.nom (nc0p000 encuentros))))))
+                    (sp
+                      (prep (sp000 con))
+                      (sn
+                        (spec (da0000 el))
+                        (grup.nom (nc0s000 grupo)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (nc0p000 universidades)))))))))))))))
+    (conj (cc y))
+    (S
+      (S
+        (sadv (fc ,)
+          (grup.adv (rg finalmente))
+          (fc ,))
+        (sn
+          (grup.nom (nc0p000 desafíos))))
+      (conj (cc o))
+      (S
+        (sn
+          (grup.nom (nc0p000 líneas)))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 trabajo)
+              (s.a
+                (grup.a (aq0000 conjunto))))))))))
+

@@ -1,0 +1,501 @@
+Sentence #1 (71 tokens):
+El método de puntos y áreas flexibles de inventario rápido (PAF) combina los clásicos métodos de intercepción de puntos con áreas de muestreo o cuadrantes; registrando puntos a lo largo de una línea (el método de intercepción de puntos) pero incorporando además un área de uno a varios metros (cuadrante flexible) a cada lado para incluir las especies más raras en forma cuantitativa.
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=método CharacterOffsetBegin=3 CharacterOffsetEnd=9 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=10 CharacterOffsetEnd=12 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=puntos CharacterOffsetBegin=13 CharacterOffsetEnd=19 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=20 CharacterOffsetEnd=21 PartOfSpeech=cc NamedEntityTag=O]
+[Text=áreas CharacterOffsetBegin=22 CharacterOffsetEnd=27 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=flexibles CharacterOffsetBegin=28 CharacterOffsetEnd=37 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=38 CharacterOffsetEnd=40 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=inventario CharacterOffsetBegin=41 CharacterOffsetEnd=51 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=rápido CharacterOffsetBegin=52 CharacterOffsetEnd=58 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=59 CharacterOffsetEnd=60 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=PAF CharacterOffsetBegin=60 CharacterOffsetEnd=63 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=63 CharacterOffsetEnd=64 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=combina CharacterOffsetBegin=65 CharacterOffsetEnd=72 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=73 CharacterOffsetEnd=76 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=clásicos CharacterOffsetBegin=77 CharacterOffsetEnd=85 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=métodos CharacterOffsetBegin=86 CharacterOffsetEnd=93 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=94 CharacterOffsetEnd=96 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=intercepción CharacterOffsetBegin=97 CharacterOffsetEnd=109 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=110 CharacterOffsetEnd=112 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=puntos CharacterOffsetBegin=113 CharacterOffsetEnd=119 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=120 CharacterOffsetEnd=123 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=áreas CharacterOffsetBegin=124 CharacterOffsetEnd=129 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=130 CharacterOffsetEnd=132 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=muestreo CharacterOffsetBegin=133 CharacterOffsetEnd=141 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=142 CharacterOffsetEnd=143 PartOfSpeech=cc NamedEntityTag=O]
+[Text=cuadrantes CharacterOffsetBegin=144 CharacterOffsetEnd=154 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=154 CharacterOffsetEnd=155 PartOfSpeech=fx NamedEntityTag=O]
+[Text=registrando CharacterOffsetBegin=156 CharacterOffsetEnd=167 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=puntos CharacterOffsetBegin=168 CharacterOffsetEnd=174 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=175 CharacterOffsetEnd=176 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=lo CharacterOffsetBegin=177 CharacterOffsetEnd=179 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=largo CharacterOffsetBegin=180 CharacterOffsetEnd=185 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=186 CharacterOffsetEnd=188 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=189 CharacterOffsetEnd=192 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=línea CharacterOffsetBegin=193 CharacterOffsetEnd=198 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=199 CharacterOffsetEnd=200 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=200 CharacterOffsetEnd=202 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=método CharacterOffsetBegin=203 CharacterOffsetEnd=209 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=210 CharacterOffsetEnd=212 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=intercepción CharacterOffsetBegin=213 CharacterOffsetEnd=225 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=226 CharacterOffsetEnd=228 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=puntos CharacterOffsetBegin=229 CharacterOffsetEnd=235 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=235 CharacterOffsetEnd=236 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=pero CharacterOffsetBegin=237 CharacterOffsetEnd=241 PartOfSpeech=cc NamedEntityTag=O]
+[Text=incorporando CharacterOffsetBegin=242 CharacterOffsetEnd=254 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=además CharacterOffsetBegin=255 CharacterOffsetEnd=261 PartOfSpeech=rg NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=262 CharacterOffsetEnd=264 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=área CharacterOffsetBegin=265 CharacterOffsetEnd=269 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=270 CharacterOffsetEnd=272 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=uno CharacterOffsetBegin=273 CharacterOffsetEnd=276 PartOfSpeech=pi000000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=277 CharacterOffsetEnd=278 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=varios CharacterOffsetBegin=279 CharacterOffsetEnd=285 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=metros CharacterOffsetBegin=286 CharacterOffsetEnd=292 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=293 CharacterOffsetEnd=294 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=cuadrante CharacterOffsetBegin=294 CharacterOffsetEnd=303 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=flexible CharacterOffsetBegin=304 CharacterOffsetEnd=312 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=312 CharacterOffsetEnd=313 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=314 CharacterOffsetEnd=315 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cada CharacterOffsetBegin=316 CharacterOffsetEnd=320 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=lado CharacterOffsetBegin=321 CharacterOffsetEnd=325 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=326 CharacterOffsetEnd=330 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=incluir CharacterOffsetBegin=331 CharacterOffsetEnd=338 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=339 CharacterOffsetEnd=342 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=343 CharacterOffsetEnd=351 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=352 CharacterOffsetEnd=355 PartOfSpeech=rg NamedEntityTag=O]
+[Text=raras CharacterOffsetBegin=356 CharacterOffsetEnd=361 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=362 CharacterOffsetEnd=364 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=forma CharacterOffsetBegin=365 CharacterOffsetEnd=370 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=cuantitativa CharacterOffsetBegin=371 CharacterOffsetEnd=383 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=383 CharacterOffsetEnd=384 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (da0000 El))
+        (grup.nom (nc0s000 método)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom
+                (grup.nom
+                  (grup.nom (nc0p000 puntos))
+                  (conj (cc y))
+                  (grup.nom (nc0p000 áreas)))
+                (S
+                  (participi (aq0000 flexibles))
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0s000 inventario)
+                        (s.a
+                          (grup.a (aq0000 rápido)))
+                        (sn
+                          (grup.nom (fpa =LRB=) (np00000 PAF) (fpt =RRB=))))))))))))
+      (grup.verb (vmip000 combina))
+      (sn
+        (spec (da0000 los))
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 clásicos)))
+          (nc0p000 métodos)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 intercepción)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0p000 puntos)
+                      (sp
+                        (prep (sp000 con))
+                        (sn
+                          (grup.nom (nc0p000 áreas)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (grup.nom (nc0s000 muestreo))))))))))))))))
+    (conj (cc o))
+    (S
+      (S
+        (participi (aq0000 cuadrantes)))
+      (fx ;)
+      (S
+        (S
+          (gerundi (vmg0000 registrando))
+          (sn
+            (grup.nom (nc0p000 puntos)))
+          (sp
+            (prep (sp000 a))
+            (sn
+              (spec (da0000 lo))
+              (grup.nom
+                (s.a
+                  (grup.a (aq0000 largo)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (spec (di0000 una))
+                        (grup.nom (nc0s000 línea)
+                          (sn (fpa =LRB=)
+                            (spec (da0000 el))
+                            (grup.nom (nc0s000 método)
+                              (sp
+                                (prep (sp000 de))
+                                (sn
+                                  (grup.nom (nc0s000 intercepción)
+                                    (sp
+                                      (prep (sp000 de))
+                                      (sn
+                                        (grup.nom (nc0p000 puntos))))))))
+                            (fpt =RRB=)))))))))))
+        (conj (cc pero))
+        (S
+          (gerundi (vmg0000 incorporando))
+          (sn
+            (sadv
+              (grup.adv (rg además)))
+            (sn
+              (spec (di0000 un))
+              (grup.nom (nc0s000 área)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (pi000000 uno)
+                      (sp
+                        (prep (sp000 a))
+                        (sn
+                          (spec (di0000 varios))
+                          (grup.nom (nc0p000 metros))))
+                      (sn (fpa =LRB=)
+                        (grup.nom
+                          (s.a
+                            (grup.a (aq0000 cuadrante)))
+                          (s.a
+                            (grup.a (aq0000 flexible))))
+                        (fpt =RRB=)))))
+                (sp
+                  (prep (sp000 a))
+                  (sn
+                    (spec (di0000 cada))
+                    (grup.nom (nc0s000 lado)
+                      (sp
+                        (prep (sp000 para))
+                        (S
+                          (infinitiu (vmn0000 incluir))
+                          (sn
+                            (spec (da0000 las))
+                            (grup.nom (nc0p000 especies)
+                              (s.a
+                                (spec (rg más))
+                                (grup.a (aq0000 raras)))))
+                          (sp
+                            (prep (sp000 en))
+                            (sn
+                              (grup.nom (nc0s000 forma)
+                                (s.a
+                                  (grup.a (aq0000 cuantitativa)))))))))))))))))
+    (fp .)))
+
+Sentence #2 (23 tokens):
+Esta combinación resuelve la tensión que existe entre la objetividad de la evaluación de cobertura vs. inclusión de las especies más raras.
+[Text=Esta CharacterOffsetBegin=385 CharacterOffsetEnd=389 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=combinación CharacterOffsetBegin=390 CharacterOffsetEnd=401 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=resuelve CharacterOffsetBegin=402 CharacterOffsetEnd=410 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=411 CharacterOffsetEnd=413 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tensión CharacterOffsetBegin=414 CharacterOffsetEnd=421 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=422 CharacterOffsetEnd=425 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=existe CharacterOffsetBegin=426 CharacterOffsetEnd=432 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=433 CharacterOffsetEnd=438 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=439 CharacterOffsetEnd=441 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=objetividad CharacterOffsetBegin=442 CharacterOffsetEnd=453 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=454 CharacterOffsetEnd=456 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=457 CharacterOffsetEnd=459 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=evaluación CharacterOffsetBegin=460 CharacterOffsetEnd=470 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=471 CharacterOffsetEnd=473 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cobertura CharacterOffsetBegin=474 CharacterOffsetEnd=483 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=vs. CharacterOffsetBegin=484 CharacterOffsetEnd=487 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=inclusión CharacterOffsetBegin=488 CharacterOffsetEnd=497 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=498 CharacterOffsetEnd=500 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=501 CharacterOffsetEnd=504 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=505 CharacterOffsetEnd=513 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=514 CharacterOffsetEnd=517 PartOfSpeech=rg NamedEntityTag=O]
+[Text=raras CharacterOffsetBegin=518 CharacterOffsetEnd=523 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=523 CharacterOffsetEnd=524 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (dd0000 Esta))
+      (grup.nom (nc0s000 combinación)))
+    (grup.verb (vmip000 resuelve))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 tensión)
+        (S
+          (relatiu (pr000000 que))
+          (grup.verb (vmip000 existe))
+          (sp
+            (prep (sp000 entre))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 objetividad))))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 evaluación)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0s000 cobertura) (np00000 vs.)))))))
+          (sn
+            (grup.nom (nc0s000 inclusión)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 las))
+                  (grup.nom (nc0p000 especies)
+                    (s.a
+                      (spec (rg más))
+                      (grup.a (aq0000 raras)))))))))))
+    (fp .)))
+
+Sentence #3 (38 tokens):
+En el PAF las áreas incluyen a las especies más raras de manera cuantitativa y relacionable con el área muestreada, pero con un mínimo de pisoteo a la vegetación y un mínimo de esfuerzo de muestreo.
+[Text=En CharacterOffsetBegin=525 CharacterOffsetEnd=527 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=528 CharacterOffsetEnd=530 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=PAF CharacterOffsetBegin=531 CharacterOffsetEnd=534 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=las CharacterOffsetBegin=535 CharacterOffsetEnd=538 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=áreas CharacterOffsetBegin=539 CharacterOffsetEnd=544 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=incluyen CharacterOffsetBegin=545 CharacterOffsetEnd=553 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=554 CharacterOffsetEnd=555 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=556 CharacterOffsetEnd=559 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=560 CharacterOffsetEnd=568 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=569 CharacterOffsetEnd=572 PartOfSpeech=rg NamedEntityTag=O]
+[Text=raras CharacterOffsetBegin=573 CharacterOffsetEnd=578 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=579 CharacterOffsetEnd=581 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=manera CharacterOffsetBegin=582 CharacterOffsetEnd=588 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=cuantitativa CharacterOffsetBegin=589 CharacterOffsetEnd=601 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=602 CharacterOffsetEnd=603 PartOfSpeech=cc NamedEntityTag=O]
+[Text=relacionable CharacterOffsetBegin=604 CharacterOffsetEnd=616 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=617 CharacterOffsetEnd=620 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=621 CharacterOffsetEnd=623 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=área CharacterOffsetBegin=624 CharacterOffsetEnd=628 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=muestreada CharacterOffsetBegin=629 CharacterOffsetEnd=639 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=639 CharacterOffsetEnd=640 PartOfSpeech=fc NamedEntityTag=O]
+[Text=pero CharacterOffsetBegin=641 CharacterOffsetEnd=645 PartOfSpeech=cc NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=646 CharacterOffsetEnd=649 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=650 CharacterOffsetEnd=652 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=mínimo CharacterOffsetBegin=653 CharacterOffsetEnd=659 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=660 CharacterOffsetEnd=662 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=pisoteo CharacterOffsetBegin=663 CharacterOffsetEnd=670 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=671 CharacterOffsetEnd=672 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=673 CharacterOffsetEnd=675 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=vegetación CharacterOffsetBegin=676 CharacterOffsetEnd=686 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=687 CharacterOffsetEnd=688 PartOfSpeech=cc NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=689 CharacterOffsetEnd=691 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=mínimo CharacterOffsetBegin=692 CharacterOffsetEnd=698 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=699 CharacterOffsetEnd=701 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=esfuerzo CharacterOffsetBegin=702 CharacterOffsetEnd=710 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=711 CharacterOffsetEnd=713 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=muestreo CharacterOffsetBegin=714 CharacterOffsetEnd=722 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=722 CharacterOffsetEnd=723 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (np00000 PAF))))
+    (sn
+      (spec (da0000 las))
+      (grup.nom (nc0p000 áreas)))
+    (grup.verb (vmip000 incluyen))
+    (sp
+      (prep (sp000 a))
+      (sn
+        (spec (da0000 las))
+        (grup.nom (nc0p000 especies)
+          (s.a
+            (spec (rg más))
+            (grup.a (aq0000 raras)))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 manera)
+                (s.a
+                  (grup.a
+                    (grup.a (aq0000 cuantitativa))
+                    (conj (cc y))
+                    (grup.a (aq0000 relacionable))))))))))
+    (sp
+      (sp
+        (prep (sp000 con))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 área)
+            (S
+              (participi (aq0000 muestreada)))))
+        (fc ,))
+      (conj (cc pero))
+      (sp
+        (prep (sp000 con))
+        (sn
+          (spec (di0000 un))
+          (grup.nom
+            (S
+              (participi (aq0000 mínimo))
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 pisoteo)))))))))
+    (sp
+      (prep (sp000 a))
+      (sn
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 vegetación)))
+        (conj (cc y))
+        (sn
+          (spec (di0000 un))
+          (grup.nom
+            (S
+              (participi (aq0000 mínimo))
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 esfuerzo)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 muestreo))))))))))))
+    (fp .)))
+
+Sentence #4 (48 tokens):
+Esto permite análisis estadísticos más avanzados como obtención de curvas especie-área, derivación de curvas de rango-abundancia y los análisis respectivos, cálculo de índices como los de diversidad de Shannon-Weaver, equitatividad y ajuste lognormal (ΔL), entre otros
+[Text=Esto CharacterOffsetBegin=724 CharacterOffsetEnd=728 PartOfSpeech=pd000000 NamedEntityTag=O]
+[Text=permite CharacterOffsetBegin=729 CharacterOffsetEnd=736 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=737 CharacterOffsetEnd=745 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=estadísticos CharacterOffsetBegin=746 CharacterOffsetEnd=758 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=759 CharacterOffsetEnd=762 PartOfSpeech=rg NamedEntityTag=O]
+[Text=avanzados CharacterOffsetBegin=763 CharacterOffsetEnd=772 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=773 CharacterOffsetEnd=777 PartOfSpeech=cs NamedEntityTag=O]
+[Text=obtención CharacterOffsetBegin=778 CharacterOffsetEnd=787 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=788 CharacterOffsetEnd=790 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=curvas CharacterOffsetBegin=791 CharacterOffsetEnd=797 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=especie CharacterOffsetBegin=798 CharacterOffsetEnd=805 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=805 CharacterOffsetEnd=806 PartOfSpeech=fg NamedEntityTag=O]
+[Text=área CharacterOffsetBegin=806 CharacterOffsetEnd=810 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=810 CharacterOffsetEnd=811 PartOfSpeech=fc NamedEntityTag=O]
+[Text=derivación CharacterOffsetBegin=812 CharacterOffsetEnd=822 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=823 CharacterOffsetEnd=825 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=curvas CharacterOffsetBegin=826 CharacterOffsetEnd=832 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=833 CharacterOffsetEnd=835 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=rango CharacterOffsetBegin=836 CharacterOffsetEnd=841 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=841 CharacterOffsetEnd=842 PartOfSpeech=fg NamedEntityTag=O]
+[Text=abundancia CharacterOffsetBegin=842 CharacterOffsetEnd=852 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=853 CharacterOffsetEnd=854 PartOfSpeech=cc NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=855 CharacterOffsetEnd=858 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=859 CharacterOffsetEnd=867 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=respectivos CharacterOffsetBegin=868 CharacterOffsetEnd=879 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=879 CharacterOffsetEnd=880 PartOfSpeech=fc NamedEntityTag=O]
+[Text=cálculo CharacterOffsetBegin=881 CharacterOffsetEnd=888 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=889 CharacterOffsetEnd=891 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=índices CharacterOffsetBegin=892 CharacterOffsetEnd=899 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=900 CharacterOffsetEnd=904 PartOfSpeech=cs NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=905 CharacterOffsetEnd=908 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=909 CharacterOffsetEnd=911 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=diversidad CharacterOffsetBegin=912 CharacterOffsetEnd=922 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=923 CharacterOffsetEnd=925 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Shannon CharacterOffsetBegin=926 CharacterOffsetEnd=933 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=- CharacterOffsetBegin=933 CharacterOffsetEnd=934 PartOfSpeech=fg NamedEntityTag=PERS]
+[Text=Weaver CharacterOffsetBegin=934 CharacterOffsetEnd=940 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=940 CharacterOffsetEnd=941 PartOfSpeech=fc NamedEntityTag=O]
+[Text=equitatividad CharacterOffsetBegin=942 CharacterOffsetEnd=955 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=956 CharacterOffsetEnd=957 PartOfSpeech=cc NamedEntityTag=O]
+[Text=ajuste CharacterOffsetBegin=958 CharacterOffsetEnd=964 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=lognormal CharacterOffsetBegin=965 CharacterOffsetEnd=974 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=975 CharacterOffsetEnd=976 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=ΔL CharacterOffsetBegin=976 CharacterOffsetEnd=978 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=978 CharacterOffsetEnd=979 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=979 CharacterOffsetEnd=980 PartOfSpeech=fc NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=981 CharacterOffsetEnd=986 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=otros CharacterOffsetBegin=987 CharacterOffsetEnd=992 PartOfSpeech=di0000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (pd000000 Esto)))
+    (grup.verb (vmip000 permite))
+    (sn
+      (sn
+        (grup.nom (nc0n000 análisis)
+          (s.a
+            (grup.a (aq0000 estadísticos)))
+          (s.a
+            (s.a
+              (spec (rg más))
+              (grup.a (aq0000 avanzados)))
+            (S
+              (conj (cs como))
+              (sn
+                (grup.nom (nc0s000 obtención)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0p000 curvas)
+                        (s.a
+                          (grup.a (nc0s000 especie) (fg -) (nc0s000 área))))))))))))
+      (fc ,)
+      (sn
+        (grup.nom (nc0s000 derivación)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 curvas)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0s000 rango) (fg -) (nc0s000 abundancia)))))))))
+      (conj (cc y))
+      (sn
+        (spec (da0000 los))
+        (grup.nom (nc0n000 análisis)
+          (s.a
+            (grup.a (aq0000 respectivos)))))
+      (fc ,))
+    (sn
+      (grup.nom (nc0s000 cálculo)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0p000 índices))))))
+    (sp
+      (prep (cs como))
+      (sn
+        (spec (da0000 los))
+        (grup.nom
+          (grup.nom
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 diversidad)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (np00000 Shannon) (fg -) (np00000 Weaver))))))))
+          (fc ,)
+          (grup.nom (nc0s000 equitatividad))
+          (conj (cc y))
+          (grup.nom (nc0s000 ajuste)
+            (s.a
+              (grup.a (aq0000 lognormal)))
+            (sn
+              (grup.nom (fpa =LRB=) (np00000 ΔL) (fpt =RRB=)))
+            (sp (fc ,)
+              (prep (sp000 entre))
+              (sn
+                (spec (di0000 otros))))))))))
+

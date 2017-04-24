@@ -1,0 +1,1230 @@
+Sentence #1 (35 tokens):
+El presente trabajo pretende mostrar la labor de redes  sociales que la Universidad Nacional de Chilecito implementa con organismos privados, consolidando una oferta de educación técnica de nivel medio en una zona rural.
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presente CharacterOffsetBegin=3 CharacterOffsetEnd=11 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=12 CharacterOffsetEnd=19 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=pretende CharacterOffsetBegin=20 CharacterOffsetEnd=28 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=mostrar CharacterOffsetBegin=29 CharacterOffsetEnd=36 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=37 CharacterOffsetEnd=39 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=labor CharacterOffsetBegin=40 CharacterOffsetEnd=45 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=46 CharacterOffsetEnd=48 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=redes CharacterOffsetBegin=49 CharacterOffsetEnd=54 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=sociales CharacterOffsetBegin=56 CharacterOffsetEnd=64 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=65 CharacterOffsetEnd=68 PartOfSpeech=cs NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=69 CharacterOffsetEnd=71 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Universidad CharacterOffsetBegin=72 CharacterOffsetEnd=83 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Nacional CharacterOffsetBegin=84 CharacterOffsetEnd=92 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=93 CharacterOffsetEnd=95 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Chilecito CharacterOffsetBegin=96 CharacterOffsetEnd=105 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=implementa CharacterOffsetBegin=106 CharacterOffsetEnd=116 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=117 CharacterOffsetEnd=120 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=organismos CharacterOffsetBegin=121 CharacterOffsetEnd=131 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=privados CharacterOffsetBegin=132 CharacterOffsetEnd=140 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=140 CharacterOffsetEnd=141 PartOfSpeech=fc NamedEntityTag=O]
+[Text=consolidando CharacterOffsetBegin=142 CharacterOffsetEnd=154 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=155 CharacterOffsetEnd=158 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=oferta CharacterOffsetBegin=159 CharacterOffsetEnd=165 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=166 CharacterOffsetEnd=168 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=educación CharacterOffsetBegin=169 CharacterOffsetEnd=178 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=técnica CharacterOffsetBegin=179 CharacterOffsetEnd=186 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=187 CharacterOffsetEnd=189 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nivel CharacterOffsetBegin=190 CharacterOffsetEnd=195 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=medio CharacterOffsetBegin=196 CharacterOffsetEnd=201 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=202 CharacterOffsetEnd=204 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=205 CharacterOffsetEnd=208 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=zona CharacterOffsetBegin=209 CharacterOffsetEnd=213 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=rural CharacterOffsetBegin=214 CharacterOffsetEnd=219 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=219 CharacterOffsetEnd=220 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom
+        (s.a
+          (grup.a (aq0000 presente)))
+        (nc0s000 trabajo)))
+    (grup.verb (vmip000 pretende))
+    (S
+      (infinitiu (vmn0000 mostrar))
+      (sn
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 labor)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0p000 redes)
+                  (s.a
+                    (grup.a (aq0000 sociales))))))))
+        (S
+          (conj (cs que))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (np00000 Universidad) (np00000 Nacional)))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom (np00000 Chilecito)))))
+    (S
+      (participi (aq0000 implementa))
+      (sp
+        (prep (sp000 con))
+        (sn
+          (grup.nom (nc0p000 organismos)
+            (s.a
+              (grup.a (aq0000 privados))))))
+      (S (fc ,)
+        (gerundi (vmg0000 consolidando))
+        (sn
+          (spec (di0000 una))
+          (grup.nom (nc0s000 oferta)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0s000 educación)
+                  (s.a
+                    (grup.a (aq0000 técnica)))
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0s000 nivel)
+                        (s.a
+                          (grup.a (aq0000 medio)))))))))))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (di0000 una))
+            (grup.nom (nc0s000 zona)
+              (s.a
+                (grup.a (aq0000 rural))))))))
+    (fp .)))
+
+Sentence #2 (45 tokens):
+El desarrollo de actividades extensionistas se nutre del vínculo con la sociedad en pos de lograr la inserción y articulación de saberes y acciones que permitan potenciar y  orientar esfuerzos conjuntos para contribuir a la conformación de una sociedad más justa y equitativa.
+[Text=El CharacterOffsetBegin=221 CharacterOffsetEnd=223 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=224 CharacterOffsetEnd=234 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=235 CharacterOffsetEnd=237 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=actividades CharacterOffsetBegin=238 CharacterOffsetEnd=249 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=extensionistas CharacterOffsetBegin=250 CharacterOffsetEnd=264 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=265 CharacterOffsetEnd=267 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=nutre CharacterOffsetBegin=268 CharacterOffsetEnd=273 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=274 CharacterOffsetEnd=275 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=275 CharacterOffsetEnd=277 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=vínculo CharacterOffsetBegin=278 CharacterOffsetEnd=285 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=286 CharacterOffsetEnd=289 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=290 CharacterOffsetEnd=292 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sociedad CharacterOffsetBegin=293 CharacterOffsetEnd=301 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=302 CharacterOffsetEnd=304 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=pos CharacterOffsetBegin=305 CharacterOffsetEnd=308 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=309 CharacterOffsetEnd=311 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=lograr CharacterOffsetBegin=312 CharacterOffsetEnd=318 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=319 CharacterOffsetEnd=321 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=inserción CharacterOffsetBegin=322 CharacterOffsetEnd=331 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=332 CharacterOffsetEnd=333 PartOfSpeech=cc NamedEntityTag=O]
+[Text=articulación CharacterOffsetBegin=334 CharacterOffsetEnd=346 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=347 CharacterOffsetEnd=349 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=saberes CharacterOffsetBegin=350 CharacterOffsetEnd=357 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=358 CharacterOffsetEnd=359 PartOfSpeech=cc NamedEntityTag=O]
+[Text=acciones CharacterOffsetBegin=360 CharacterOffsetEnd=368 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=369 CharacterOffsetEnd=372 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=permitan CharacterOffsetBegin=373 CharacterOffsetEnd=381 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=potenciar CharacterOffsetBegin=382 CharacterOffsetEnd=391 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=392 CharacterOffsetEnd=393 PartOfSpeech=cc NamedEntityTag=O]
+[Text=orientar CharacterOffsetBegin=395 CharacterOffsetEnd=403 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=esfuerzos CharacterOffsetBegin=404 CharacterOffsetEnd=413 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=conjuntos CharacterOffsetBegin=414 CharacterOffsetEnd=423 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=424 CharacterOffsetEnd=428 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=contribuir CharacterOffsetBegin=429 CharacterOffsetEnd=439 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=440 CharacterOffsetEnd=441 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=442 CharacterOffsetEnd=444 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=conformación CharacterOffsetBegin=445 CharacterOffsetEnd=457 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=458 CharacterOffsetEnd=460 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=461 CharacterOffsetEnd=464 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=sociedad CharacterOffsetBegin=465 CharacterOffsetEnd=473 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=474 CharacterOffsetEnd=477 PartOfSpeech=rg NamedEntityTag=O]
+[Text=justa CharacterOffsetBegin=478 CharacterOffsetEnd=483 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=484 CharacterOffsetEnd=485 PartOfSpeech=cc NamedEntityTag=O]
+[Text=equitativa CharacterOffsetBegin=486 CharacterOffsetEnd=496 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=496 CharacterOffsetEnd=497 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (da0000 El))
+        (grup.nom (nc0s000 desarrollo)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 actividades)
+                (S
+                  (participi (aq0000 extensionistas))))))))
+      (morfema.verbal (p0000000 se))
+      (grup.verb (vmsp000 nutre))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 vínculo)
+            (sp
+              (prep (sp000 con))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 sociedad)
+                  (sp
+                    (prep (sp000 en))
+                    (sn
+                      (grup.nom (nc0s000 pos))))))))))
+      (sp
+        (prep (sp000 de))
+        (grup.verb
+          (infinitiu (vmn0000 lograr))
+          (morfema.pronominal (pp000000 la))
+          (nc0s000 inserción))))
+    (conj (cc y))
+    (S
+      (sn
+        (grup.nom (nc0s000 articulación)))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom
+            (grup.nom
+              (grup.nom (nc0p000 saberes))
+              (conj (cc y))
+              (grup.nom (nc0p000 acciones)))
+            (S
+              (relatiu (pr000000 que))
+              (grup.verb (vmsp000 permitan))
+              (S
+                (S
+                  (infinitiu (vmn0000 potenciar)))
+                (conj (cc y))
+                (S
+                  (infinitiu (vmn0000 orientar))
+                  (sn
+                    (grup.nom (nc0p000 esfuerzos)
+                      (s.a
+                        (grup.a (aq0000 conjuntos)))
+                      (sp
+                        (prep (sp000 para))
+                        (S
+                          (infinitiu (vmn0000 contribuir))
+                          (sp
+                            (prep (sp000 a))
+                            (sn
+                              (spec (da0000 la))
+                              (grup.nom (nc0s000 conformación)
+                                (sp
+                                  (prep (sp000 de))
+                                  (sn
+                                    (spec (di0000 una))
+                                    (grup.nom (nc0s000 sociedad)
+                                      (s.a
+                                        (spec (rg más))
+                                        (grup.a
+                                          (grup.a (aq0000 justa))
+                                          (conj (cc y))
+                                          (grup.a (aq0000 equitativa)))))))))))))))))))))
+    (fp .)))
+
+Sentence #3 (52 tokens):
+En ese marco, pensar el aporte de la Universidad Pública al desarrollo sostenible, implica  asumir la importancia de la interdependencia de recursos, la conformación de redes inter organizacionales de vinculación y cooperación  y la definición de políticas institucionales participativas que fortalezcan el entramado del tejido social.
+[Text=En CharacterOffsetBegin=498 CharacterOffsetEnd=500 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ese CharacterOffsetBegin=501 CharacterOffsetEnd=504 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=marco CharacterOffsetBegin=505 CharacterOffsetEnd=510 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=510 CharacterOffsetEnd=511 PartOfSpeech=fc NamedEntityTag=O]
+[Text=pensar CharacterOffsetBegin=512 CharacterOffsetEnd=518 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=519 CharacterOffsetEnd=521 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=aporte CharacterOffsetBegin=522 CharacterOffsetEnd=528 PartOfSpeech=vmm0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=529 CharacterOffsetEnd=531 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=532 CharacterOffsetEnd=534 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Universidad CharacterOffsetBegin=535 CharacterOffsetEnd=546 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Pública CharacterOffsetBegin=547 CharacterOffsetEnd=554 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=a CharacterOffsetBegin=555 CharacterOffsetEnd=556 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=556 CharacterOffsetEnd=557 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=558 CharacterOffsetEnd=568 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=sostenible CharacterOffsetBegin=569 CharacterOffsetEnd=579 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=579 CharacterOffsetEnd=580 PartOfSpeech=fc NamedEntityTag=O]
+[Text=implica CharacterOffsetBegin=581 CharacterOffsetEnd=588 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=asumir CharacterOffsetBegin=590 CharacterOffsetEnd=596 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=597 CharacterOffsetEnd=599 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=importancia CharacterOffsetBegin=600 CharacterOffsetEnd=611 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=612 CharacterOffsetEnd=614 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=615 CharacterOffsetEnd=617 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=interdependencia CharacterOffsetBegin=618 CharacterOffsetEnd=634 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=635 CharacterOffsetEnd=637 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=recursos CharacterOffsetBegin=638 CharacterOffsetEnd=646 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=646 CharacterOffsetEnd=647 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=648 CharacterOffsetEnd=650 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=conformación CharacterOffsetBegin=651 CharacterOffsetEnd=663 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=664 CharacterOffsetEnd=666 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=redes CharacterOffsetBegin=667 CharacterOffsetEnd=672 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=inter CharacterOffsetBegin=673 CharacterOffsetEnd=678 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=organizacionales CharacterOffsetBegin=679 CharacterOffsetEnd=695 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=696 CharacterOffsetEnd=698 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=vinculación CharacterOffsetBegin=699 CharacterOffsetEnd=710 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=711 CharacterOffsetEnd=712 PartOfSpeech=cc NamedEntityTag=O]
+[Text=cooperación CharacterOffsetBegin=713 CharacterOffsetEnd=724 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=726 CharacterOffsetEnd=727 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=728 CharacterOffsetEnd=730 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=definición CharacterOffsetBegin=731 CharacterOffsetEnd=741 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=742 CharacterOffsetEnd=744 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=políticas CharacterOffsetBegin=745 CharacterOffsetEnd=754 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=institucionales CharacterOffsetBegin=755 CharacterOffsetEnd=770 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=participativas CharacterOffsetBegin=771 CharacterOffsetEnd=785 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=786 CharacterOffsetEnd=789 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=fortalezcan CharacterOffsetBegin=790 CharacterOffsetEnd=801 PartOfSpeech=vmm0000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=802 CharacterOffsetEnd=804 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=entramado CharacterOffsetBegin=805 CharacterOffsetEnd=814 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=815 CharacterOffsetEnd=816 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=816 CharacterOffsetEnd=818 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tejido CharacterOffsetBegin=819 CharacterOffsetEnd=825 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=social CharacterOffsetBegin=826 CharacterOffsetEnd=832 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=832 CharacterOffsetEnd=833 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sadv
+      (grup.adv
+        (sp
+          (prep (sp000 En))
+          (sn
+            (spec (dd0000 ese))
+            (grup.nom (nc0s000 marco)))))
+      (fc ,))
+    (S
+      (infinitiu (vmn0000 pensar))
+      (sn
+        (spec (da0000 el))
+        (grup.nom
+          (S
+            (grup.verb (vmm0000 aporte))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (np00000 Universidad) (np00000 Pública)
+                  (sp
+                    (prep (sp000 a))
+                    (sn
+                      (spec (da0000 el))
+                      (grup.nom (nc0s000 desarrollo)
+                        (s.a
+                          (grup.a (aq0000 sostenible)))))))))
+            (fc ,)))))
+    (grup.verb (vmip000 implica))
+    (S
+      (infinitiu (vmn0000 asumir))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 importancia)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 interdependencia)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0p000 recursos))))))
+              (fc ,)
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 conformación)
+                  (sp
+                    (prep (sp000 de))
+                    (S
+                      (S
+                        (sn
+                          (grup.nom (nc0p000 redes)))
+                        (S
+                          (infinitiu (vmn0000 inter))))
+                      (sn
+                        (grup.nom (nc0p000 organizacionales)))
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (grup.nom
+                            (grup.nom (nc0s000 vinculación))
+                            (conj (cc y))
+                            (grup.nom (nc0s000 cooperación)))))))))
+              (conj (cc y))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 definición)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0p000 políticas)
+                        (s.a
+                          (grup.a (aq0000 institucionales)))
+                        (s.a
+                          (grup.a (aq0000 participativas)))
+                        (S
+                          (relatiu (pr000000 que))
+                          (grup.verb (vmm0000 fortalezcan))
+                          (sn
+                            (spec (da0000 el))
+                            (grup.nom (nc0s000 entramado)
+                              (sp
+                                (prep (sp000 de))
+                                (sn
+                                  (spec (da0000 el))
+                                  (grup.nom
+                                    (participi (aq0000 tejido))
+                                    (s.a
+                                      (grup.a (aq0000 social)))))))))))))))))))
+    (fp .)))
+
+Sentence #4 (47 tokens):
+La relación e  interdependencia organizacional y el trabajo en redes con instituciones públicas y privadas  permiten establecer  vínculos, definir y concretar acciones conjuntas que contribuyan a la cohesión social, la igualdad de oportunidades y faciliten el desarrollo del sujeto y de su entorno.
+[Text=La CharacterOffsetBegin=834 CharacterOffsetEnd=836 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=relación CharacterOffsetBegin=837 CharacterOffsetEnd=845 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=e CharacterOffsetBegin=846 CharacterOffsetEnd=847 PartOfSpeech=cc NamedEntityTag=O]
+[Text=interdependencia CharacterOffsetBegin=849 CharacterOffsetEnd=865 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=organizacional CharacterOffsetBegin=866 CharacterOffsetEnd=880 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=881 CharacterOffsetEnd=882 PartOfSpeech=cc NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=883 CharacterOffsetEnd=885 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=886 CharacterOffsetEnd=893 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=894 CharacterOffsetEnd=896 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=redes CharacterOffsetBegin=897 CharacterOffsetEnd=902 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=903 CharacterOffsetEnd=906 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=instituciones CharacterOffsetBegin=907 CharacterOffsetEnd=920 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=públicas CharacterOffsetBegin=921 CharacterOffsetEnd=929 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=930 CharacterOffsetEnd=931 PartOfSpeech=cc NamedEntityTag=O]
+[Text=privadas CharacterOffsetBegin=932 CharacterOffsetEnd=940 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=permiten CharacterOffsetBegin=942 CharacterOffsetEnd=950 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=establecer CharacterOffsetBegin=951 CharacterOffsetEnd=961 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=vínculos CharacterOffsetBegin=963 CharacterOffsetEnd=971 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=971 CharacterOffsetEnd=972 PartOfSpeech=fc NamedEntityTag=O]
+[Text=definir CharacterOffsetBegin=973 CharacterOffsetEnd=980 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=981 CharacterOffsetEnd=982 PartOfSpeech=cc NamedEntityTag=O]
+[Text=concretar CharacterOffsetBegin=983 CharacterOffsetEnd=992 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=acciones CharacterOffsetBegin=993 CharacterOffsetEnd=1001 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=conjuntas CharacterOffsetBegin=1002 CharacterOffsetEnd=1011 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=1012 CharacterOffsetEnd=1015 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=contribuyan CharacterOffsetBegin=1016 CharacterOffsetEnd=1027 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1028 CharacterOffsetEnd=1029 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1030 CharacterOffsetEnd=1032 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cohesión CharacterOffsetBegin=1033 CharacterOffsetEnd=1041 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=social CharacterOffsetBegin=1042 CharacterOffsetEnd=1048 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1048 CharacterOffsetEnd=1049 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1050 CharacterOffsetEnd=1052 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=igualdad CharacterOffsetBegin=1053 CharacterOffsetEnd=1061 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1062 CharacterOffsetEnd=1064 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=oportunidades CharacterOffsetBegin=1065 CharacterOffsetEnd=1078 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1079 CharacterOffsetEnd=1080 PartOfSpeech=cc NamedEntityTag=O]
+[Text=faciliten CharacterOffsetBegin=1081 CharacterOffsetEnd=1090 PartOfSpeech=vmm0000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1091 CharacterOffsetEnd=1093 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=1094 CharacterOffsetEnd=1104 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1105 CharacterOffsetEnd=1106 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1106 CharacterOffsetEnd=1108 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sujeto CharacterOffsetBegin=1109 CharacterOffsetEnd=1115 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1116 CharacterOffsetEnd=1117 PartOfSpeech=cc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1118 CharacterOffsetEnd=1120 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=1121 CharacterOffsetEnd=1123 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=entorno CharacterOffsetBegin=1124 CharacterOffsetEnd=1131 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1131 CharacterOffsetEnd=1132 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (sn
+        (sn
+          (spec (da0000 La))
+          (grup.nom (nc0s000 relación)))
+        (conj (cc e))
+        (sn
+          (grup.nom (nc0s000 interdependencia)
+            (s.a
+              (grup.a (aq0000 organizacional))))))
+      (conj (cc y))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 trabajo)
+          (sp
+            (prep (sp000 en))
+            (sn
+              (grup.nom (nc0p000 redes)
+                (sp
+                  (prep (sp000 con))
+                  (sn
+                    (grup.nom (nc0p000 instituciones)))))))
+          (s.a
+            (s.a
+              (grup.a (aq0000 públicas)))
+            (conj (cc y))
+            (S
+              (participi (aq0000 privadas)))))))
+    (grup.verb (vmip000 permiten))
+    (S
+      (S
+        (S
+          (infinitiu (vmn0000 establecer))
+          (sn
+            (grup.nom (nc0p000 vínculos))))
+        (fc ,)
+        (S
+          (infinitiu (vmn0000 definir)))
+        (conj (cc y))
+        (S
+          (infinitiu (vmn0000 concretar))
+          (sn
+            (grup.nom (nc0p000 acciones)
+              (s.a
+                (grup.a (aq0000 conjuntas)))
+              (S
+                (relatiu (pr000000 que))
+                (grup.verb (vmsp000 contribuyan))
+                (sp
+                  (prep (sp000 a))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 cohesión)
+                      (s.a
+                        (grup.a (aq0000 social)))
+                      (sn (fc ,)
+                        (spec (da0000 la))
+                        (grup.nom (nc0s000 igualdad)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (nc0p000 oportunidades))))))))))))))
+      (conj (cc y))
+      (S
+        (grup.verb (vmm0000 faciliten))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 desarrollo)))
+        (sp
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 sujeto))))
+          (conj (cc y))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (dp0000 su))
+              (grup.nom (nc0s000 entorno)))))))
+    (fp .)))
+
+Sentence #5 (40 tokens):
+Dicha interdependencia no sólo implica la persecución de objetivos comunes que expandan los alcances del capital social de los destinatarios directos de esos vínculos, sino también la expansión de sus beneficios a la sociedad en su conjunto.
+[Text=Dicha CharacterOffsetBegin=1133 CharacterOffsetEnd=1138 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=interdependencia CharacterOffsetBegin=1139 CharacterOffsetEnd=1155 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=1156 CharacterOffsetEnd=1158 PartOfSpeech=rn NamedEntityTag=O]
+[Text=sólo CharacterOffsetBegin=1159 CharacterOffsetEnd=1163 PartOfSpeech=rg NamedEntityTag=O]
+[Text=implica CharacterOffsetBegin=1164 CharacterOffsetEnd=1171 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1172 CharacterOffsetEnd=1174 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=persecución CharacterOffsetBegin=1175 CharacterOffsetEnd=1186 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1187 CharacterOffsetEnd=1189 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=objetivos CharacterOffsetBegin=1190 CharacterOffsetEnd=1199 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=comunes CharacterOffsetBegin=1200 CharacterOffsetEnd=1207 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=1208 CharacterOffsetEnd=1211 PartOfSpeech=cs NamedEntityTag=O]
+[Text=expandan CharacterOffsetBegin=1212 CharacterOffsetEnd=1220 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1221 CharacterOffsetEnd=1224 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=alcances CharacterOffsetBegin=1225 CharacterOffsetEnd=1233 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1234 CharacterOffsetEnd=1235 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1235 CharacterOffsetEnd=1237 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=capital CharacterOffsetBegin=1238 CharacterOffsetEnd=1245 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=social CharacterOffsetBegin=1246 CharacterOffsetEnd=1252 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1253 CharacterOffsetEnd=1255 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1256 CharacterOffsetEnd=1259 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=destinatarios CharacterOffsetBegin=1260 CharacterOffsetEnd=1273 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=directos CharacterOffsetBegin=1274 CharacterOffsetEnd=1282 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1283 CharacterOffsetEnd=1285 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=esos CharacterOffsetBegin=1286 CharacterOffsetEnd=1290 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=vínculos CharacterOffsetBegin=1291 CharacterOffsetEnd=1299 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1299 CharacterOffsetEnd=1300 PartOfSpeech=fc NamedEntityTag=O]
+[Text=sino CharacterOffsetBegin=1301 CharacterOffsetEnd=1305 PartOfSpeech=cc NamedEntityTag=O]
+[Text=también CharacterOffsetBegin=1306 CharacterOffsetEnd=1313 PartOfSpeech=rg NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1314 CharacterOffsetEnd=1316 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=expansión CharacterOffsetBegin=1317 CharacterOffsetEnd=1326 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1327 CharacterOffsetEnd=1329 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=sus CharacterOffsetBegin=1330 CharacterOffsetEnd=1333 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=beneficios CharacterOffsetBegin=1334 CharacterOffsetEnd=1344 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1345 CharacterOffsetEnd=1346 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1347 CharacterOffsetEnd=1349 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sociedad CharacterOffsetBegin=1350 CharacterOffsetEnd=1358 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1359 CharacterOffsetEnd=1361 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=1362 CharacterOffsetEnd=1364 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=conjunto CharacterOffsetBegin=1365 CharacterOffsetEnd=1373 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1373 CharacterOffsetEnd=1374 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 Dicha)))
+          (nc0s000 interdependencia)
+          (sadv
+            (grup.adv (rn no) (rg sólo)))))
+      (grup.verb (vmip000 implica))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 persecución)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 objetivos)
+                (s.a
+                  (grup.a (aq0000 comunes))))))))
+      (S
+        (conj (cs que))
+        (grup.verb (vmsp000 expandan))
+        (sn
+          (spec (da0000 los))
+          (grup.nom (nc0p000 alcances)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 capital)
+                  (s.a
+                    (grup.a (aq0000 social))))))))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 los))
+            (grup.nom (nc0p000 destinatarios)
+              (S
+                (participi (aq0000 directos))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (dd0000 esos))
+                    (grup.nom (nc0p000 vínculos)))))))))
+      (fc ,))
+    (conj (cc sino))
+    (S
+      (sadv
+        (grup.adv (rg también)))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 expansión)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (dp0000 sus))
+              (grup.nom (nc0p000 beneficios)
+                (sp
+                  (prep (sp000 a))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 sociedad)
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (spec (dp0000 su))
+                          (grup.nom (nc0s000 conjunto)))))))))))))
+    (fp .)))
+
+Sentence #6 (41 tokens):
+Se rescatan los aportes conceptuales de redes de políticas públicas como patrones de  relaciones complejas y dinámicas entre instituciones estatales y actores sociales que interactúan, para generar procesos de toma de decisiones basados en el consenso y la coordinación.
+[Text=Se CharacterOffsetBegin=1375 CharacterOffsetEnd=1377 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=rescatan CharacterOffsetBegin=1378 CharacterOffsetEnd=1386 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1387 CharacterOffsetEnd=1390 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=aportes CharacterOffsetBegin=1391 CharacterOffsetEnd=1398 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=conceptuales CharacterOffsetBegin=1399 CharacterOffsetEnd=1411 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1412 CharacterOffsetEnd=1414 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=redes CharacterOffsetBegin=1415 CharacterOffsetEnd=1420 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1421 CharacterOffsetEnd=1423 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=políticas CharacterOffsetBegin=1424 CharacterOffsetEnd=1433 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=públicas CharacterOffsetBegin=1434 CharacterOffsetEnd=1442 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=1443 CharacterOffsetEnd=1447 PartOfSpeech=cs NamedEntityTag=O]
+[Text=patrones CharacterOffsetBegin=1448 CharacterOffsetEnd=1456 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1457 CharacterOffsetEnd=1459 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=relaciones CharacterOffsetBegin=1461 CharacterOffsetEnd=1471 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=complejas CharacterOffsetBegin=1472 CharacterOffsetEnd=1481 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1482 CharacterOffsetEnd=1483 PartOfSpeech=cc NamedEntityTag=O]
+[Text=dinámicas CharacterOffsetBegin=1484 CharacterOffsetEnd=1493 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=1494 CharacterOffsetEnd=1499 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=instituciones CharacterOffsetBegin=1500 CharacterOffsetEnd=1513 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=estatales CharacterOffsetBegin=1514 CharacterOffsetEnd=1523 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1524 CharacterOffsetEnd=1525 PartOfSpeech=cc NamedEntityTag=O]
+[Text=actores CharacterOffsetBegin=1526 CharacterOffsetEnd=1533 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=sociales CharacterOffsetBegin=1534 CharacterOffsetEnd=1542 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=1543 CharacterOffsetEnd=1546 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=interactúan CharacterOffsetBegin=1547 CharacterOffsetEnd=1558 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1558 CharacterOffsetEnd=1559 PartOfSpeech=fc NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=1560 CharacterOffsetEnd=1564 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=generar CharacterOffsetBegin=1565 CharacterOffsetEnd=1572 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=procesos CharacterOffsetBegin=1573 CharacterOffsetEnd=1581 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1582 CharacterOffsetEnd=1584 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=toma CharacterOffsetBegin=1585 CharacterOffsetEnd=1589 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1590 CharacterOffsetEnd=1592 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=decisiones CharacterOffsetBegin=1593 CharacterOffsetEnd=1603 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=basados CharacterOffsetBegin=1604 CharacterOffsetEnd=1611 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1612 CharacterOffsetEnd=1614 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1615 CharacterOffsetEnd=1617 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=consenso CharacterOffsetBegin=1618 CharacterOffsetEnd=1626 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1627 CharacterOffsetEnd=1628 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1629 CharacterOffsetEnd=1631 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=coordinación CharacterOffsetBegin=1632 CharacterOffsetEnd=1644 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1644 CharacterOffsetEnd=1645 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmip000 rescatan))
+    (sn
+      (sn
+        (spec (da0000 los))
+        (grup.nom (nc0p000 aportes)
+          (s.a
+            (grup.a (aq0000 conceptuales)))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 redes))))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 políticas)
+                (s.a
+                  (grup.a (aq0000 públicas)))
+                (sp
+                  (prep (cs como))
+                  (sn
+                    (grup.nom (nc0p000 patrones))))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0p000 relaciones))))
+                (s.a
+                  (s.a
+                    (grup.a (aq0000 complejas)))
+                  (conj (cc y))
+                  (S
+                    (participi (aq0000 dinámicas))
+                    (sp
+                      (prep (sp000 entre))
+                      (sn
+                        (grup.nom (nc0p000 instituciones)
+                          (s.a
+                            (grup.a (aq0000 estatales)))))))))))))
+      (conj (cc y))
+      (sn
+        (sn
+          (grup.nom (nc0p000 actores)
+            (s.a
+              (grup.a (aq0000 sociales)))
+            (S
+              (relatiu (pr000000 que))
+              (grup.verb (vmsp000 interactúan))
+              (sp (fc ,)
+                (prep (sp000 para))
+                (S
+                  (infinitiu (vmn0000 generar))
+                  (sn
+                    (grup.nom (nc0p000 procesos)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (grup.nom (nc0s000 toma)))))))))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0p000 decisiones)
+                  (S
+                    (participi (aq0000 basados))
+                    (sp
+                      (prep (sp000 en))
+                      (sn
+                        (spec (da0000 el))
+                        (grup.nom (nc0s000 consenso))))))))))
+        (conj (cc y))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 coordinación)))))
+    (fp .)))
+
+Sentence #7 (41 tokens):
+Esta perspectiva se articula con la idea de desarrollo local, en tanto  este proyecto involucra a la comunidad pretendiendo ampliar las oportunidades de participar  y gestar las condiciones de progreso a partir de la transformación de su realidad socioeconómica.
+[Text=Esta CharacterOffsetBegin=1646 CharacterOffsetEnd=1650 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=perspectiva CharacterOffsetBegin=1651 CharacterOffsetEnd=1662 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=1663 CharacterOffsetEnd=1665 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=articula CharacterOffsetBegin=1666 CharacterOffsetEnd=1674 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=1675 CharacterOffsetEnd=1678 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1679 CharacterOffsetEnd=1681 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=idea CharacterOffsetBegin=1682 CharacterOffsetEnd=1686 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1687 CharacterOffsetEnd=1689 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=1690 CharacterOffsetEnd=1700 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=local CharacterOffsetBegin=1701 CharacterOffsetEnd=1706 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1706 CharacterOffsetEnd=1707 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1708 CharacterOffsetEnd=1710 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=tanto CharacterOffsetBegin=1711 CharacterOffsetEnd=1716 PartOfSpeech=rg NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=1718 CharacterOffsetEnd=1722 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=proyecto CharacterOffsetBegin=1723 CharacterOffsetEnd=1731 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=involucra CharacterOffsetBegin=1732 CharacterOffsetEnd=1741 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1742 CharacterOffsetEnd=1743 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1744 CharacterOffsetEnd=1746 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=comunidad CharacterOffsetBegin=1747 CharacterOffsetEnd=1756 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=pretendiendo CharacterOffsetBegin=1757 CharacterOffsetEnd=1769 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=ampliar CharacterOffsetBegin=1770 CharacterOffsetEnd=1777 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1778 CharacterOffsetEnd=1781 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=oportunidades CharacterOffsetBegin=1782 CharacterOffsetEnd=1795 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1796 CharacterOffsetEnd=1798 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=participar CharacterOffsetBegin=1799 CharacterOffsetEnd=1809 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1811 CharacterOffsetEnd=1812 PartOfSpeech=cc NamedEntityTag=O]
+[Text=gestar CharacterOffsetBegin=1813 CharacterOffsetEnd=1819 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1820 CharacterOffsetEnd=1823 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=condiciones CharacterOffsetBegin=1824 CharacterOffsetEnd=1835 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1836 CharacterOffsetEnd=1838 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=progreso CharacterOffsetBegin=1839 CharacterOffsetEnd=1847 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1848 CharacterOffsetEnd=1849 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=partir CharacterOffsetBegin=1850 CharacterOffsetEnd=1856 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1857 CharacterOffsetEnd=1859 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1860 CharacterOffsetEnd=1862 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=transformación CharacterOffsetBegin=1863 CharacterOffsetEnd=1877 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1878 CharacterOffsetEnd=1880 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=1881 CharacterOffsetEnd=1883 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=realidad CharacterOffsetBegin=1884 CharacterOffsetEnd=1892 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=socioeconómica CharacterOffsetBegin=1893 CharacterOffsetEnd=1907 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1907 CharacterOffsetEnd=1908 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (dd0000 Esta))
+      (grup.nom (nc0s000 perspectiva)))
+    (morfema.pronominal (p0000000 se))
+    (grup.verb (vmip000 articula))
+    (sp
+      (prep (sp000 con))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 idea)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 desarrollo)
+                (s.a
+                  (grup.a (aq0000 local))))))))
+      (fc ,))
+    (S
+      (sadv
+        (grup.adv (sp000 en) (rg tanto)))
+      (sn
+        (spec (dd0000 este))
+        (grup.nom (nc0s000 proyecto)))
+      (grup.verb (vmip000 involucra))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 comunidad))))
+      (S
+        (gerundi (vmg0000 pretendiendo))
+        (S
+          (S
+            (infinitiu (vmn0000 ampliar))
+            (sn
+              (spec (da0000 las))
+              (grup.nom (nc0p000 oportunidades)
+                (sp
+                  (prep (sp000 de))
+                  (S
+                    (infinitiu (vmn0000 participar)))))))
+          (conj (cc y))
+          (S
+            (infinitiu (vmn0000 gestar))
+            (sn
+              (spec (da0000 las))
+              (grup.nom (nc0p000 condiciones)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0s000 progreso))))))
+            (sp
+              (prep (sp000 a))
+              (S
+                (infinitiu (vmn0000 partir))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 transformación)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (dp0000 su))
+                          (grup.nom (nc0s000 realidad)
+                            (s.a
+                              (grup.a (aq0000 socioeconómica)))))))))))))))
+    (fp .)))
+
+Sentence #8 (29 tokens):
+Una visión estratégica y el planeamiento participativo que contemple las características y particularidades del territorio intentan promover el adecuado aprovechamiento de los recursos locales y sus potencialidades.
+[Text=Una CharacterOffsetBegin=1909 CharacterOffsetEnd=1912 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=visión CharacterOffsetBegin=1913 CharacterOffsetEnd=1919 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=estratégica CharacterOffsetBegin=1920 CharacterOffsetEnd=1931 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1932 CharacterOffsetEnd=1933 PartOfSpeech=cc NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1934 CharacterOffsetEnd=1936 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=planeamiento CharacterOffsetBegin=1937 CharacterOffsetEnd=1949 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=participativo CharacterOffsetBegin=1950 CharacterOffsetEnd=1963 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=1964 CharacterOffsetEnd=1967 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=contemple CharacterOffsetBegin=1968 CharacterOffsetEnd=1977 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1978 CharacterOffsetEnd=1981 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=características CharacterOffsetBegin=1982 CharacterOffsetEnd=1997 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1998 CharacterOffsetEnd=1999 PartOfSpeech=cc NamedEntityTag=O]
+[Text=particularidades CharacterOffsetBegin=2000 CharacterOffsetEnd=2016 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2017 CharacterOffsetEnd=2018 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2018 CharacterOffsetEnd=2020 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=territorio CharacterOffsetBegin=2021 CharacterOffsetEnd=2031 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=intentan CharacterOffsetBegin=2032 CharacterOffsetEnd=2040 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=promover CharacterOffsetBegin=2041 CharacterOffsetEnd=2049 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2050 CharacterOffsetEnd=2052 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=adecuado CharacterOffsetBegin=2053 CharacterOffsetEnd=2061 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=aprovechamiento CharacterOffsetBegin=2062 CharacterOffsetEnd=2077 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2078 CharacterOffsetEnd=2080 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=2081 CharacterOffsetEnd=2084 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=recursos CharacterOffsetBegin=2085 CharacterOffsetEnd=2093 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=locales CharacterOffsetBegin=2094 CharacterOffsetEnd=2101 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2102 CharacterOffsetEnd=2103 PartOfSpeech=cc NamedEntityTag=O]
+[Text=sus CharacterOffsetBegin=2104 CharacterOffsetEnd=2107 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=potencialidades CharacterOffsetBegin=2108 CharacterOffsetEnd=2123 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2123 CharacterOffsetEnd=2124 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (sn
+        (spec (di0000 Una))
+        (grup.nom (nc0s000 visión)
+          (s.a
+            (grup.a (aq0000 estratégica)))))
+      (conj (cc y))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 planeamiento)
+          (s.a
+            (grup.a (aq0000 participativo)))
+          (S
+            (relatiu (pr000000 que))
+            (grup.verb (vmsp000 contemple))
+            (sn
+              (spec (da0000 las))
+              (grup.nom
+                (grup.nom (nc0p000 características))
+                (conj (cc y))
+                (grup.nom (nc0p000 particularidades))))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 territorio))))))))
+    (grup.verb (vmip000 intentan))
+    (S
+      (infinitiu (vmn0000 promover))
+      (sn
+        (spec (da0000 el))
+        (grup.nom
+          (S
+            (participi (aq0000 adecuado)))
+          (nc0s000 aprovechamiento)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (sn
+                (spec (da0000 los))
+                (grup.nom (nc0p000 recursos)
+                  (s.a
+                    (grup.a (aq0000 locales)))))
+              (conj (cc y))
+              (sn
+                (spec (dp0000 sus))
+                (grup.nom (nc0p000 potencialidades))))))))
+    (fp .)))
+
+Sentence #9 (43 tokens):
+Ello contribuye a igualar en oportunidades a un sector vulnerable y contrarrestar la desigual distribución del capital educativo con impacto en la distribución del ingreso y  generador de condiciones desfavorables para acceder al mercado laboral con igualdad de oportunidades.
+[Text=Ello CharacterOffsetBegin=2125 CharacterOffsetEnd=2129 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=contribuye CharacterOffsetBegin=2130 CharacterOffsetEnd=2140 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2141 CharacterOffsetEnd=2142 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=igualar CharacterOffsetBegin=2143 CharacterOffsetEnd=2150 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=2151 CharacterOffsetEnd=2153 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=oportunidades CharacterOffsetBegin=2154 CharacterOffsetEnd=2167 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2168 CharacterOffsetEnd=2169 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=2170 CharacterOffsetEnd=2172 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=sector CharacterOffsetBegin=2173 CharacterOffsetEnd=2179 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=vulnerable CharacterOffsetBegin=2180 CharacterOffsetEnd=2190 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2191 CharacterOffsetEnd=2192 PartOfSpeech=cc NamedEntityTag=O]
+[Text=contrarrestar CharacterOffsetBegin=2193 CharacterOffsetEnd=2206 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=2207 CharacterOffsetEnd=2209 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=desigual CharacterOffsetBegin=2210 CharacterOffsetEnd=2218 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=distribución CharacterOffsetBegin=2219 CharacterOffsetEnd=2231 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2232 CharacterOffsetEnd=2233 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2233 CharacterOffsetEnd=2235 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=capital CharacterOffsetBegin=2236 CharacterOffsetEnd=2243 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=educativo CharacterOffsetBegin=2244 CharacterOffsetEnd=2253 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=2254 CharacterOffsetEnd=2257 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=impacto CharacterOffsetBegin=2258 CharacterOffsetEnd=2265 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=2266 CharacterOffsetEnd=2268 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=2269 CharacterOffsetEnd=2271 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=distribución CharacterOffsetBegin=2272 CharacterOffsetEnd=2284 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2285 CharacterOffsetEnd=2286 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2286 CharacterOffsetEnd=2288 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ingreso CharacterOffsetBegin=2289 CharacterOffsetEnd=2296 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2297 CharacterOffsetEnd=2298 PartOfSpeech=cc NamedEntityTag=O]
+[Text=generador CharacterOffsetBegin=2300 CharacterOffsetEnd=2309 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2310 CharacterOffsetEnd=2312 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=condiciones CharacterOffsetBegin=2313 CharacterOffsetEnd=2324 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=desfavorables CharacterOffsetBegin=2325 CharacterOffsetEnd=2338 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=2339 CharacterOffsetEnd=2343 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=acceder CharacterOffsetBegin=2344 CharacterOffsetEnd=2351 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2352 CharacterOffsetEnd=2353 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=2353 CharacterOffsetEnd=2354 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=mercado CharacterOffsetBegin=2355 CharacterOffsetEnd=2362 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=laboral CharacterOffsetBegin=2363 CharacterOffsetEnd=2370 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=2371 CharacterOffsetEnd=2374 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=igualdad CharacterOffsetBegin=2375 CharacterOffsetEnd=2383 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2384 CharacterOffsetEnd=2386 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=oportunidades CharacterOffsetBegin=2387 CharacterOffsetEnd=2400 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2400 CharacterOffsetEnd=2401 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (pp000000 Ello)))
+    (grup.verb (vmip000 contribuye))
+    (sp
+      (prep (sp000 a))
+      (S
+        (S
+          (infinitiu (vmn0000 igualar))
+          (sp
+            (prep (sp000 en))
+            (sn
+              (grup.nom (nc0p000 oportunidades)
+                (sp
+                  (prep (sp000 a))
+                  (sn
+                    (spec (di0000 un))
+                    (grup.nom (nc0s000 sector)
+                      (s.a
+                        (grup.a (aq0000 vulnerable))))))))))
+        (conj (cc y))
+        (S
+          (infinitiu (vmn0000 contrarrestar))
+          (sn
+            (spec (da0000 la))
+            (grup.nom
+              (s.a
+                (grup.a (aq0000 desigual)))
+              (nc0s000 distribución)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 capital)
+                    (s.a
+                      (grup.a
+                        (grup.a (aq0000 educativo)
+                          (sp
+                            (prep
+                              (grup.prep
+                                (prep (sp000 con))
+                                (sn
+                                  (grup.nom (nc0s000 impacto)))
+                                (prep (sp000 en))))
+                            (sn
+                              (spec (da0000 la))
+                              (grup.nom (nc0s000 distribución)
+                                (sp
+                                  (prep (sp000 de))
+                                  (sn
+                                    (spec (da0000 el))
+                                    (grup.nom (nc0s000 ingreso))))))))
+                        (conj (cc y))
+                        (grup.a (aq0000 generador)))))))))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 condiciones)
+                (s.a
+                  (grup.a (aq0000 desfavorables))))))
+          (sp
+            (prep (sp000 para))
+            (S
+              (infinitiu (vmn0000 acceder))
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 mercado)
+                    (s.a
+                      (grup.a (aq0000 laboral))))))
+              (sp
+                (prep (sp000 con))
+                (sn
+                  (grup.nom (nc0s000 igualdad)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0p000 oportunidades))))))))))))
+    (fp .)))
+
+Sentence #10 (16 tokens):
+El Colegio Nacional Agrotécnico es una experiencia innovadora en la política universitaria de la UNDEC.
+[Text=El CharacterOffsetBegin=2402 CharacterOffsetEnd=2404 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Colegio CharacterOffsetBegin=2405 CharacterOffsetEnd=2412 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Nacional CharacterOffsetBegin=2413 CharacterOffsetEnd=2421 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Agrotécnico CharacterOffsetBegin=2422 CharacterOffsetEnd=2433 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=es CharacterOffsetBegin=2434 CharacterOffsetEnd=2436 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=2437 CharacterOffsetEnd=2440 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=experiencia CharacterOffsetBegin=2441 CharacterOffsetEnd=2452 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=innovadora CharacterOffsetBegin=2453 CharacterOffsetEnd=2463 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=2464 CharacterOffsetEnd=2466 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=2467 CharacterOffsetEnd=2469 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=política CharacterOffsetBegin=2470 CharacterOffsetEnd=2478 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=universitaria CharacterOffsetBegin=2479 CharacterOffsetEnd=2492 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2493 CharacterOffsetEnd=2495 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=2496 CharacterOffsetEnd=2498 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=UNDEC CharacterOffsetBegin=2499 CharacterOffsetEnd=2504 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=2504 CharacterOffsetEnd=2505 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (np00000 Colegio) (np00000 Nacional) (np00000 Agrotécnico)))
+    (grup.verb (vsip000 es))
+    (sn
+      (spec (di0000 una))
+      (grup.nom (nc0s000 experiencia)
+        (s.a
+          (grup.a (aq0000 innovadora)))))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 política)
+          (s.a
+            (grup.a (aq0000 universitaria)))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (np00000 UNDEC)))))))
+    (fp .)))
+
+Sentence #11 (43 tokens):
+Han interactuado en distintos niveles y etapas actores públicos y privados para configurar una matriz  interorganizacional que rescata cuotas de participación ciudadana, responsabilidad social empresaria y universitaria, desarrollo social sustentable, inclusión, empoderamiento y compromiso con la educación pública.
+[Text=Han CharacterOffsetBegin=2506 CharacterOffsetEnd=2509 PartOfSpeech=vaip000 NamedEntityTag=O]
+[Text=interactuado CharacterOffsetBegin=2510 CharacterOffsetEnd=2522 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=2523 CharacterOffsetEnd=2525 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=distintos CharacterOffsetBegin=2526 CharacterOffsetEnd=2535 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=niveles CharacterOffsetBegin=2536 CharacterOffsetEnd=2543 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2544 CharacterOffsetEnd=2545 PartOfSpeech=cc NamedEntityTag=O]
+[Text=etapas CharacterOffsetBegin=2546 CharacterOffsetEnd=2552 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=actores CharacterOffsetBegin=2553 CharacterOffsetEnd=2560 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=públicos CharacterOffsetBegin=2561 CharacterOffsetEnd=2569 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2570 CharacterOffsetEnd=2571 PartOfSpeech=cc NamedEntityTag=O]
+[Text=privados CharacterOffsetBegin=2572 CharacterOffsetEnd=2580 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=2581 CharacterOffsetEnd=2585 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=configurar CharacterOffsetBegin=2586 CharacterOffsetEnd=2596 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=2597 CharacterOffsetEnd=2600 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=matriz CharacterOffsetBegin=2601 CharacterOffsetEnd=2607 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=interorganizacional CharacterOffsetBegin=2609 CharacterOffsetEnd=2628 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=2629 CharacterOffsetEnd=2632 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=rescata CharacterOffsetBegin=2633 CharacterOffsetEnd=2640 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=cuotas CharacterOffsetBegin=2641 CharacterOffsetEnd=2647 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=2648 CharacterOffsetEnd=2650 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=participación CharacterOffsetBegin=2651 CharacterOffsetEnd=2664 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=ciudadana CharacterOffsetBegin=2665 CharacterOffsetEnd=2674 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2674 CharacterOffsetEnd=2675 PartOfSpeech=fc NamedEntityTag=O]
+[Text=responsabilidad CharacterOffsetBegin=2676 CharacterOffsetEnd=2691 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=social CharacterOffsetBegin=2692 CharacterOffsetEnd=2698 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=empresaria CharacterOffsetBegin=2699 CharacterOffsetEnd=2709 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2710 CharacterOffsetEnd=2711 PartOfSpeech=cc NamedEntityTag=O]
+[Text=universitaria CharacterOffsetBegin=2712 CharacterOffsetEnd=2725 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2725 CharacterOffsetEnd=2726 PartOfSpeech=fc NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=2727 CharacterOffsetEnd=2737 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=social CharacterOffsetBegin=2738 CharacterOffsetEnd=2744 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=sustentable CharacterOffsetBegin=2745 CharacterOffsetEnd=2756 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2756 CharacterOffsetEnd=2757 PartOfSpeech=fc NamedEntityTag=O]
+[Text=inclusión CharacterOffsetBegin=2758 CharacterOffsetEnd=2767 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2767 CharacterOffsetEnd=2768 PartOfSpeech=fc NamedEntityTag=O]
+[Text=empoderamiento CharacterOffsetBegin=2769 CharacterOffsetEnd=2783 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=2784 CharacterOffsetEnd=2785 PartOfSpeech=cc NamedEntityTag=O]
+[Text=compromiso CharacterOffsetBegin=2786 CharacterOffsetEnd=2796 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=2797 CharacterOffsetEnd=2800 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=2801 CharacterOffsetEnd=2803 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=educación CharacterOffsetBegin=2804 CharacterOffsetEnd=2813 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=pública CharacterOffsetBegin=2814 CharacterOffsetEnd=2821 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2821 CharacterOffsetEnd=2822 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (grup.verb (vaip000 Han) (vmp0000 interactuado))
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (di0000 distintos))
+          (grup.nom
+            (grup.nom
+              (grup.nom (nc0p000 niveles))
+              (conj (cc y))
+              (grup.nom (nc0p000 etapas)))
+            (sn
+              (grup.nom (nc0p000 actores)))
+            (S
+              (participi (aq0000 públicos)))))))
+    (conj (cc y))
+    (S
+      (participi (aq0000 privados))
+      (sp
+        (prep (sp000 para))
+        (S
+          (infinitiu (vmn0000 configurar))
+          (sn
+            (spec (di0000 una))
+            (grup.nom (nc0s000 matriz)
+              (s.a
+                (grup.a (aq0000 interorganizacional)))
+              (S
+                (relatiu (pr000000 que))
+                (grup.verb (vmip000 rescata))
+                (sn
+                  (sn
+                    (grup.nom (nc0p000 cuotas)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (grup.nom (nc0s000 participación)
+                            (s.a
+                              (grup.a (aq0000 ciudadana))))))))
+                  (fc ,)
+                  (sn
+                    (grup.nom (nc0s000 responsabilidad)
+                      (s.a
+                        (grup.a (aq0000 social)))
+                      (s.a
+                        (grup.a
+                          (grup.a (nc0s000 empresaria))
+                          (conj (cc y))
+                          (grup.a (aq0000 universitaria))))))
+                  (fc ,)
+                  (sn
+                    (grup.nom (nc0s000 desarrollo)
+                      (s.a
+                        (grup.a (aq0000 social)))
+                      (s.a
+                        (grup.a (aq0000 sustentable)))))
+                  (fc ,)
+                  (sn
+                    (grup.nom (nc0s000 inclusión)))
+                  (fc ,)
+                  (sn
+                    (grup.nom (nc0s000 empoderamiento)))
+                  (conj (cc y))
+                  (sn
+                    (sn
+                      (grup.nom (nc0s000 compromiso)))
+                    (sp
+                      (prep (sp000 con))
+                      (sn
+                        (spec (da0000 la))
+                        (grup.nom (nc0s000 educación)
+                          (s.a
+                            (grup.a (aq0000 pública))))))))))))))
+    (fp .)))
+

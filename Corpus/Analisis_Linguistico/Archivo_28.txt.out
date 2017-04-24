@@ -1,0 +1,425 @@
+Sentence #1 (62 tokens):
+El presente ensayo se propone revisar y discutir las transformaciones por las que está atravesando la Educación Media/Secundaria en Argentina, en el contexto de un período de transición y resignificación, donde conviven factores vinculados a los dos últimos marcos normativos: la Ley Federal de Educación Nº 24.195 y la Ley de Educación Nacional N.º 26.206.
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presente CharacterOffsetBegin=3 CharacterOffsetEnd=11 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=ensayo CharacterOffsetBegin=12 CharacterOffsetEnd=18 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=19 CharacterOffsetEnd=21 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=propone CharacterOffsetBegin=22 CharacterOffsetEnd=29 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=revisar CharacterOffsetBegin=30 CharacterOffsetEnd=37 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=38 CharacterOffsetEnd=39 PartOfSpeech=cc NamedEntityTag=O]
+[Text=discutir CharacterOffsetBegin=40 CharacterOffsetEnd=48 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=49 CharacterOffsetEnd=52 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=transformaciones CharacterOffsetBegin=53 CharacterOffsetEnd=69 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=70 CharacterOffsetEnd=73 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=74 CharacterOffsetEnd=77 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=78 CharacterOffsetEnd=81 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=está CharacterOffsetBegin=82 CharacterOffsetEnd=86 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=atravesando CharacterOffsetBegin=87 CharacterOffsetEnd=98 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=99 CharacterOffsetEnd=101 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Educación CharacterOffsetBegin=102 CharacterOffsetEnd=111 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Media CharacterOffsetBegin=112 CharacterOffsetEnd=117 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=/ CharacterOffsetBegin=117 CharacterOffsetEnd=118 PartOfSpeech=fh NamedEntityTag=ORG]
+[Text=Secundaria CharacterOffsetBegin=118 CharacterOffsetEnd=128 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=en CharacterOffsetBegin=129 CharacterOffsetEnd=131 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=132 CharacterOffsetEnd=141 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=141 CharacterOffsetEnd=142 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=143 CharacterOffsetEnd=145 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=146 CharacterOffsetEnd=148 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=contexto CharacterOffsetBegin=149 CharacterOffsetEnd=157 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=158 CharacterOffsetEnd=160 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=161 CharacterOffsetEnd=163 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=período CharacterOffsetBegin=164 CharacterOffsetEnd=171 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=172 CharacterOffsetEnd=174 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=transición CharacterOffsetBegin=175 CharacterOffsetEnd=185 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=186 CharacterOffsetEnd=187 PartOfSpeech=cc NamedEntityTag=O]
+[Text=resignificación CharacterOffsetBegin=188 CharacterOffsetEnd=203 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=203 CharacterOffsetEnd=204 PartOfSpeech=fc NamedEntityTag=O]
+[Text=donde CharacterOffsetBegin=205 CharacterOffsetEnd=210 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=conviven CharacterOffsetBegin=211 CharacterOffsetEnd=219 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=factores CharacterOffsetBegin=220 CharacterOffsetEnd=228 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=vinculados CharacterOffsetBegin=229 CharacterOffsetEnd=239 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=240 CharacterOffsetEnd=241 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=242 CharacterOffsetEnd=245 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=dos CharacterOffsetBegin=246 CharacterOffsetEnd=249 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=últimos CharacterOffsetBegin=250 CharacterOffsetEnd=257 PartOfSpeech=ao0000 NamedEntityTag=O]
+[Text=marcos CharacterOffsetBegin=258 CharacterOffsetEnd=264 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=normativos CharacterOffsetBegin=265 CharacterOffsetEnd=275 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=275 CharacterOffsetEnd=276 PartOfSpeech=fd NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=277 CharacterOffsetEnd=279 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Ley CharacterOffsetBegin=280 CharacterOffsetEnd=283 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Federal CharacterOffsetBegin=284 CharacterOffsetEnd=291 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=292 CharacterOffsetEnd=294 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Educación CharacterOffsetBegin=295 CharacterOffsetEnd=304 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Nº CharacterOffsetBegin=305 CharacterOffsetEnd=307 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=24.195 CharacterOffsetBegin=308 CharacterOffsetEnd=314 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=315 CharacterOffsetEnd=316 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=317 CharacterOffsetEnd=319 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Ley CharacterOffsetBegin=320 CharacterOffsetEnd=323 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=324 CharacterOffsetEnd=326 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Educación CharacterOffsetBegin=327 CharacterOffsetEnd=336 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Nacional CharacterOffsetBegin=337 CharacterOffsetEnd=345 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=N. CharacterOffsetBegin=346 CharacterOffsetEnd=348 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=º CharacterOffsetBegin=348 CharacterOffsetEnd=349 PartOfSpeech=f0 NamedEntityTag=O]
+[Text=26.206 CharacterOffsetBegin=350 CharacterOffsetEnd=356 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=356 CharacterOffsetEnd=357 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom
+        (s.a
+          (grup.a (aq0000 presente)))
+        (nc0s000 ensayo)))
+    (morfema.pronominal (p0000000 se))
+    (grup.verb (vmip000 propone))
+    (S
+      (S
+        (infinitiu (vmn0000 revisar)))
+      (conj (cc y))
+      (S
+        (infinitiu (vmn0000 discutir))
+        (sn
+          (spec (da0000 las))
+          (grup.nom (nc0p000 transformaciones)))
+        (sp
+          (prep (sp000 por))
+          (sn
+            (spec (da0000 las))
+            (grup.nom
+              (S
+                (relatiu (pr000000 que))
+                (grup.verb (vmip000 está))
+                (S
+                  (gerundi (vmg0000 atravesando))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom
+                      (sn
+                        (grup.nom (np00000 Educación)))
+                      (grup.nom (np00000 Media) (fh /) (np00000 Secundaria))))
+                  (sp
+                    (prep (sp000 en))
+                    (sn
+                      (grup.nom (np00000 Argentina))))
+                  (sp (fc ,)
+                    (prep (sp000 en))
+                    (sn
+                      (sn
+                        (sn
+                          (spec (da0000 el))
+                          (grup.nom (nc0s000 contexto)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (spec (di0000 un))
+                                (grup.nom (nc0s000 período)
+                                  (sp
+                                    (prep (sp000 de))
+                                    (sn
+                                      (grup.nom (nc0s000 transición)))))))))
+                        (conj (cc y))
+                        (sn
+                          (grup.nom (nc0s000 resignificación))))
+                      (S (fc ,)
+                        (relatiu (pr000000 donde))
+                        (grup.verb (vmip000 conviven))
+                        (sn
+                          (grup.nom (nc0p000 factores)))
+                        (S
+                          (participi (aq0000 vinculados)))))))
+                (sp
+                  (prep (sp000 a))
+                  (sn
+                    (spec (da0000 los) (dn0000 dos))
+                    (grup.nom
+                      (s.a
+                        (grup.a (ao0000 últimos)))
+                      (nc0p000 marcos)
+                      (s.a
+                        (grup.a (aq0000 normativos)))
+                      (sn (fd :)
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom
+                            (grup.nom (np00000 Ley) (np00000 Federal)
+                              (sp
+                                (prep (sp000 de))
+                                (sn
+                                  (grup.nom (np00000 Educación) (np00000 Nº)))))
+                            (sn
+                              (grup.nom (z0 24.195)))))
+                        (conj (cc y))
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom
+                            (grup.nom (np00000 Ley)
+                              (sp
+                                (prep (sp000 de))
+                                (sn
+                                  (grup.nom (np00000 Educación) (np00000 Nacional)))))
+                            (sn
+                              (grup.nom (np00000 N.) (f0 º) (z0 26.206)))))))))))))))
+    (fp .)))
+
+Sentence #2 (34 tokens):
+Para ello, se identifican los cambios institucionales y pedagógicos más relevantes que se han suscitado en el lapso que abarca desde el año 2001 hasta la fecha y se reflexiona sobre ellos.
+[Text=Para CharacterOffsetBegin=358 CharacterOffsetEnd=362 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ello CharacterOffsetBegin=363 CharacterOffsetEnd=367 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=367 CharacterOffsetEnd=368 PartOfSpeech=fc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=369 CharacterOffsetEnd=371 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=identifican CharacterOffsetBegin=372 CharacterOffsetEnd=383 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=384 CharacterOffsetEnd=387 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cambios CharacterOffsetBegin=388 CharacterOffsetEnd=395 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=institucionales CharacterOffsetBegin=396 CharacterOffsetEnd=411 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=412 CharacterOffsetEnd=413 PartOfSpeech=cc NamedEntityTag=O]
+[Text=pedagógicos CharacterOffsetBegin=414 CharacterOffsetEnd=425 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=más CharacterOffsetBegin=426 CharacterOffsetEnd=429 PartOfSpeech=rg NamedEntityTag=O]
+[Text=relevantes CharacterOffsetBegin=430 CharacterOffsetEnd=440 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=441 CharacterOffsetEnd=444 PartOfSpeech=cs NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=445 CharacterOffsetEnd=447 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=han CharacterOffsetBegin=448 CharacterOffsetEnd=451 PartOfSpeech=vaip000 NamedEntityTag=O]
+[Text=suscitado CharacterOffsetBegin=452 CharacterOffsetEnd=461 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=462 CharacterOffsetEnd=464 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=465 CharacterOffsetEnd=467 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=lapso CharacterOffsetBegin=468 CharacterOffsetEnd=473 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=474 CharacterOffsetEnd=477 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=abarca CharacterOffsetBegin=478 CharacterOffsetEnd=484 PartOfSpeech=vmii000 NamedEntityTag=O]
+[Text=desde CharacterOffsetBegin=485 CharacterOffsetEnd=490 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=491 CharacterOffsetEnd=493 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=año CharacterOffsetBegin=494 CharacterOffsetEnd=497 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=2001 CharacterOffsetBegin=498 CharacterOffsetEnd=502 PartOfSpeech=w NamedEntityTag=O]
+[Text=hasta CharacterOffsetBegin=503 CharacterOffsetEnd=508 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=509 CharacterOffsetEnd=511 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=fecha CharacterOffsetBegin=512 CharacterOffsetEnd=517 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=518 CharacterOffsetEnd=519 PartOfSpeech=cc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=520 CharacterOffsetEnd=522 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=reflexiona CharacterOffsetBegin=523 CharacterOffsetEnd=533 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=534 CharacterOffsetEnd=539 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ellos CharacterOffsetBegin=540 CharacterOffsetEnd=545 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=545 CharacterOffsetEnd=546 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 Para))
+      (sn
+        (grup.nom (pp000000 ello)))
+      (fc ,))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmip000 identifican))
+    (sn
+      (spec (da0000 los))
+      (grup.nom (nc0p000 cambios)
+        (s.a
+          (grup.a
+            (grup.a (aq0000 institucionales))
+            (conj (cc y))
+            (grup.a (aq0000 pedagógicos))))
+        (s.a
+          (spec (rg más))
+          (grup.a (aq0000 relevantes)))))
+    (S
+      (S
+        (conj (cs que))
+        (morfema.verbal (p0000000 se))
+        (grup.verb (vaip000 han) (vmp0000 suscitado))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 lapso)
+              (S
+                (relatiu (pr000000 que))
+                (grup.verb (vmii000 abarca))
+                (sp
+                  (prep (sp000 desde))
+                  (sn
+                    (spec (da0000 el))
+                    (grup.w (nc0s000 año) (w 2001))))
+                (sp
+                  (prep (sp000 hasta))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 fecha)))))))))
+      (conj (cc y))
+      (S
+        (morfema.pronominal (p0000000 se))
+        (grup.verb (vmip000 reflexiona))
+        (sp
+          (prep (sp000 sobre))
+          (sn
+            (grup.nom (pp000000 ellos))))))
+    (fp .)))
+
+Sentence #3 (17 tokens):
+Posteriormente, se focaliza el análisis en torno a los logros alcanzados y los desafíos pendientes.
+[Text=Posteriormente CharacterOffsetBegin=547 CharacterOffsetEnd=561 PartOfSpeech=rg NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=561 CharacterOffsetEnd=562 PartOfSpeech=fc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=563 CharacterOffsetEnd=565 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=focaliza CharacterOffsetBegin=566 CharacterOffsetEnd=574 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=575 CharacterOffsetEnd=577 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=578 CharacterOffsetEnd=586 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=587 CharacterOffsetEnd=589 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=torno CharacterOffsetBegin=590 CharacterOffsetEnd=595 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=596 CharacterOffsetEnd=597 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=598 CharacterOffsetEnd=601 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=logros CharacterOffsetBegin=602 CharacterOffsetEnd=608 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=alcanzados CharacterOffsetBegin=609 CharacterOffsetEnd=619 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=620 CharacterOffsetEnd=621 PartOfSpeech=cc NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=622 CharacterOffsetEnd=625 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=desafíos CharacterOffsetBegin=626 CharacterOffsetEnd=634 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=pendientes CharacterOffsetBegin=635 CharacterOffsetEnd=645 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=645 CharacterOffsetEnd=646 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sadv
+      (grup.adv (rg Posteriormente))
+      (fc ,))
+    (morfema.pronominal (p0000000 se))
+    (grup.verb (vmip000 focaliza))
+    (sn
+      (spec (da0000 el))
+      (grup.nom (nc0n000 análisis)
+        (sp
+          (prep (sp000 en))
+          (sn
+            (grup.nom (nc0s000 torno)
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (sn
+                    (spec (da0000 los))
+                    (grup.nom (nc0p000 logros)
+                      (s.a
+                        (grup.a (aq0000 alcanzados)))))
+                  (conj (cc y))
+                  (sn
+                    (spec (da0000 los))
+                    (grup.nom (nc0p000 desafíos)
+                      (s.a
+                        (grup.a (aq0000 pendientes))))))))))))
+    (fp .)))
+
+Sentence #4 (44 tokens):
+Se concluye que -bajo el denominador común de un modelo de trabajo participativo- existe continuidad en las líneas de trabajo, aunque cabe reconocer que la situación en el país es diversa y que restan acciones a concretar y aspectos a fortalecer
+[Text=Se CharacterOffsetBegin=647 CharacterOffsetEnd=649 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=concluye CharacterOffsetBegin=650 CharacterOffsetEnd=658 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=659 CharacterOffsetEnd=662 PartOfSpeech=cs NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=663 CharacterOffsetEnd=664 PartOfSpeech=fg NamedEntityTag=O]
+[Text=bajo CharacterOffsetBegin=664 CharacterOffsetEnd=668 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=669 CharacterOffsetEnd=671 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=denominador CharacterOffsetBegin=672 CharacterOffsetEnd=683 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=común CharacterOffsetBegin=684 CharacterOffsetEnd=689 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=690 CharacterOffsetEnd=692 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=693 CharacterOffsetEnd=695 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=modelo CharacterOffsetBegin=696 CharacterOffsetEnd=702 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=703 CharacterOffsetEnd=705 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=706 CharacterOffsetEnd=713 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=participativo CharacterOffsetBegin=714 CharacterOffsetEnd=727 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=727 CharacterOffsetEnd=728 PartOfSpeech=fg NamedEntityTag=O]
+[Text=existe CharacterOffsetBegin=729 CharacterOffsetEnd=735 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=continuidad CharacterOffsetBegin=736 CharacterOffsetEnd=747 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=748 CharacterOffsetEnd=750 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=751 CharacterOffsetEnd=754 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=líneas CharacterOffsetBegin=755 CharacterOffsetEnd=761 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=762 CharacterOffsetEnd=764 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=765 CharacterOffsetEnd=772 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=772 CharacterOffsetEnd=773 PartOfSpeech=fc NamedEntityTag=O]
+[Text=aunque CharacterOffsetBegin=774 CharacterOffsetEnd=780 PartOfSpeech=cs NamedEntityTag=O]
+[Text=cabe CharacterOffsetBegin=781 CharacterOffsetEnd=785 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=reconocer CharacterOffsetBegin=786 CharacterOffsetEnd=795 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=796 CharacterOffsetEnd=799 PartOfSpeech=cs NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=800 CharacterOffsetEnd=802 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=situación CharacterOffsetBegin=803 CharacterOffsetEnd=812 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=813 CharacterOffsetEnd=815 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=816 CharacterOffsetEnd=818 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=país CharacterOffsetBegin=819 CharacterOffsetEnd=823 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=824 CharacterOffsetEnd=826 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=diversa CharacterOffsetBegin=827 CharacterOffsetEnd=834 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=835 CharacterOffsetEnd=836 PartOfSpeech=cc NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=837 CharacterOffsetEnd=840 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=restan CharacterOffsetBegin=841 CharacterOffsetEnd=847 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=acciones CharacterOffsetBegin=848 CharacterOffsetEnd=856 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=857 CharacterOffsetEnd=858 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=concretar CharacterOffsetBegin=859 CharacterOffsetEnd=868 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=869 CharacterOffsetEnd=870 PartOfSpeech=cc NamedEntityTag=O]
+[Text=aspectos CharacterOffsetBegin=871 CharacterOffsetEnd=879 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=880 CharacterOffsetEnd=881 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=fortalecer CharacterOffsetBegin=882 CharacterOffsetEnd=892 PartOfSpeech=vmn0000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (morfema.pronominal (p0000000 Se))
+      (grup.verb (vmip000 concluye))
+      (S
+        (conj (cs que))
+        (sadv (fg -)
+          (grup.adv
+            (sp
+              (prep (sp000 bajo))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 denominador)
+                  (s.a
+                    (grup.a (aq0000 común)))
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (di0000 un))
+                      (grup.nom (nc0s000 modelo)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (nc0s000 trabajo)
+                              (s.a
+                                (grup.a (aq0000 participativo)))))))))))))
+          (fg -))
+        (grup.verb (vmip000 existe))
+        (sn
+          (grup.nom (nc0s000 continuidad)))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 las))
+            (grup.nom
+              (grup.nom (nc0p000 líneas)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0s000 trabajo) (fc ,))))
+                (S
+                  (conj (cs aunque))
+                  (grup.verb (vmip000 cabe)
+                    (infinitiu (vmn0000 reconocer)))))
+              (S
+                (S
+                  (conj (cs que))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 situación)
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (spec (da0000 el))
+                          (grup.nom (nc0s000 país))))))
+                  (grup.verb (vsip000 es))
+                  (s.a
+                    (grup.a (aq0000 diversa))))
+                (conj (cc y))
+                (S
+                  (relatiu (pr000000 que))
+                  (grup.verb (vmip000 restan))
+                  (sn
+                    (grup.nom (nc0p000 acciones)))
+                  (sp
+                    (prep (sp000 a))
+                    (S
+                      (infinitiu (vmn0000 concretar)))))))))))
+    (conj (cc y))
+    (S
+      (sn
+        (grup.nom (nc0p000 aspectos)))
+      (sp
+        (prep (sp000 a))
+        (S
+          (infinitiu (vmn0000 fortalecer)))))))
+

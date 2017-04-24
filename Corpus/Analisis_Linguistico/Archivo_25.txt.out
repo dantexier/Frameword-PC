@@ -1,0 +1,268 @@
+Sentence #1 (21 tokens):
+El objetivo del presente trabajo es analizar la eficiencia de las firmas olivícolas en la provincia de La Rioja.
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=objetivo CharacterOffsetBegin=3 CharacterOffsetEnd=11 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=12 CharacterOffsetEnd=13 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=13 CharacterOffsetEnd=15 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presente CharacterOffsetBegin=16 CharacterOffsetEnd=24 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=25 CharacterOffsetEnd=32 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=33 CharacterOffsetEnd=35 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=analizar CharacterOffsetBegin=36 CharacterOffsetEnd=44 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=45 CharacterOffsetEnd=47 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=eficiencia CharacterOffsetBegin=48 CharacterOffsetEnd=58 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=59 CharacterOffsetEnd=61 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=62 CharacterOffsetEnd=65 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=firmas CharacterOffsetBegin=66 CharacterOffsetEnd=72 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=olivícolas CharacterOffsetBegin=73 CharacterOffsetEnd=83 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=84 CharacterOffsetEnd=86 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=87 CharacterOffsetEnd=89 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=provincia CharacterOffsetBegin=90 CharacterOffsetEnd=99 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=100 CharacterOffsetEnd=102 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=103 CharacterOffsetEnd=105 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=106 CharacterOffsetEnd=111 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=111 CharacterOffsetEnd=112 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 objetivo)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 el))
+            (grup.nom
+              (s.a
+                (grup.a (aq0000 presente)))
+              (nc0s000 trabajo))))))
+    (grup.verb (vsip000 es))
+    (S
+      (infinitiu (vmn0000 analizar))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 eficiencia)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 las))
+              (grup.nom (nc0p000 firmas)
+                (S
+                  (participi (aq0000 olivícolas))
+                  (sp
+                    (prep (sp000 en))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (nc0s000 provincia)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (spec (da0000 La))
+                            (grup.nom (np00000 Rioja))))))))))))))
+    (fp .)))
+
+Sentence #2 (36 tokens):
+Para ello, se emplea la técnica de Análisis de Envolvente de Datos (DEA), la cual nos permite calcular los scores de eficiencia de las firmas analizadas y comparar su eficiencia relativa.
+[Text=Para CharacterOffsetBegin=113 CharacterOffsetEnd=117 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ello CharacterOffsetBegin=118 CharacterOffsetEnd=122 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=122 CharacterOffsetEnd=123 PartOfSpeech=fc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=124 CharacterOffsetEnd=126 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=emplea CharacterOffsetBegin=127 CharacterOffsetEnd=133 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=134 CharacterOffsetEnd=136 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=técnica CharacterOffsetBegin=137 CharacterOffsetEnd=144 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=145 CharacterOffsetEnd=147 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Análisis CharacterOffsetBegin=148 CharacterOffsetEnd=156 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=de CharacterOffsetBegin=157 CharacterOffsetEnd=159 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Envolvente CharacterOffsetBegin=160 CharacterOffsetEnd=170 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=de CharacterOffsetBegin=171 CharacterOffsetEnd=173 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Datos CharacterOffsetBegin=174 CharacterOffsetEnd=179 PartOfSpeech=nc0p000 NamedEntityTag=OTROS]
+[Text==LRB= CharacterOffsetBegin=180 CharacterOffsetEnd=181 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=DEA CharacterOffsetBegin=181 CharacterOffsetEnd=184 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=184 CharacterOffsetEnd=185 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=185 CharacterOffsetEnd=186 PartOfSpeech=fc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=187 CharacterOffsetEnd=189 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cual CharacterOffsetBegin=190 CharacterOffsetEnd=194 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=nos CharacterOffsetBegin=195 CharacterOffsetEnd=198 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=permite CharacterOffsetBegin=199 CharacterOffsetEnd=206 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=calcular CharacterOffsetBegin=207 CharacterOffsetEnd=215 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=216 CharacterOffsetEnd=219 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=scores CharacterOffsetBegin=220 CharacterOffsetEnd=226 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=227 CharacterOffsetEnd=229 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=eficiencia CharacterOffsetBegin=230 CharacterOffsetEnd=240 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=241 CharacterOffsetEnd=243 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=244 CharacterOffsetEnd=247 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=firmas CharacterOffsetBegin=248 CharacterOffsetEnd=254 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=analizadas CharacterOffsetBegin=255 CharacterOffsetEnd=265 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=266 CharacterOffsetEnd=267 PartOfSpeech=cc NamedEntityTag=O]
+[Text=comparar CharacterOffsetBegin=268 CharacterOffsetEnd=276 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=277 CharacterOffsetEnd=279 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=eficiencia CharacterOffsetBegin=280 CharacterOffsetEnd=290 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=relativa CharacterOffsetBegin=291 CharacterOffsetEnd=299 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=299 CharacterOffsetEnd=300 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 Para))
+      (sn
+        (grup.nom (pp000000 ello)))
+      (fc ,))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmip000 emplea))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 técnica)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (np00000 Análisis))))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom
+              (grup.nom (np00000 Envolvente)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0p000 Datos)))))
+              (sn
+                (grup.nom (fpa =LRB=) (np00000 DEA) (fpt =RRB=)))
+              (sn (fc ,)
+                (spec (da0000 la))
+                (grup.nom
+                  (S
+                    (relatiu (pr000000 cual))
+                    (sn
+                      (grup.nom (pp000000 nos)))
+                    (grup.verb (vmip000 permite))
+                    (S
+                      (S
+                        (infinitiu (vmn0000 calcular))
+                        (sn
+                          (spec (da0000 los))
+                          (grup.nom (nc0p000 scores)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (grup.nom (nc0s000 eficiencia))))))
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (spec (da0000 las))
+                            (grup.nom (nc0p000 firmas)
+                              (s.a
+                                (grup.a (aq0000 analizadas)))))))
+                      (conj (cc y))
+                      (S
+                        (infinitiu (vmn0000 comparar))
+                        (sn
+                          (spec (dp0000 su))
+                          (grup.nom (nc0s000 eficiencia)
+                            (s.a
+                              (grup.a (aq0000 relativa)))))))))))))))
+    (fp .)))
+
+Sentence #3 (38 tokens):
+Los resultados sugieren que existen marcadas diferencias entre las empresas pertenecientes al sector, identificándose la escala de producción y la cantidad de trabajadores empleados como los principales factores que influyen en la eficiencia relativa.
+[Text=Los CharacterOffsetBegin=301 CharacterOffsetEnd=304 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=resultados CharacterOffsetBegin=305 CharacterOffsetEnd=315 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=sugieren CharacterOffsetBegin=316 CharacterOffsetEnd=324 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=325 CharacterOffsetEnd=328 PartOfSpeech=cs NamedEntityTag=O]
+[Text=existen CharacterOffsetBegin=329 CharacterOffsetEnd=336 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=marcadas CharacterOffsetBegin=337 CharacterOffsetEnd=345 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=diferencias CharacterOffsetBegin=346 CharacterOffsetEnd=357 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=358 CharacterOffsetEnd=363 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=364 CharacterOffsetEnd=367 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=empresas CharacterOffsetBegin=368 CharacterOffsetEnd=376 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=pertenecientes CharacterOffsetBegin=377 CharacterOffsetEnd=391 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=392 CharacterOffsetEnd=393 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=393 CharacterOffsetEnd=394 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sector CharacterOffsetBegin=395 CharacterOffsetEnd=401 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=401 CharacterOffsetEnd=402 PartOfSpeech=fc NamedEntityTag=O]
+[Text=identificando CharacterOffsetBegin=403 CharacterOffsetEnd=416 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=416 CharacterOffsetEnd=418 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=419 CharacterOffsetEnd=421 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=escala CharacterOffsetBegin=422 CharacterOffsetEnd=428 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=429 CharacterOffsetEnd=431 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=producción CharacterOffsetBegin=432 CharacterOffsetEnd=442 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=443 CharacterOffsetEnd=444 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=445 CharacterOffsetEnd=447 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cantidad CharacterOffsetBegin=448 CharacterOffsetEnd=456 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=457 CharacterOffsetEnd=459 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=trabajadores CharacterOffsetBegin=460 CharacterOffsetEnd=472 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=empleados CharacterOffsetBegin=473 CharacterOffsetEnd=482 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=483 CharacterOffsetEnd=487 PartOfSpeech=cs NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=488 CharacterOffsetEnd=491 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=principales CharacterOffsetBegin=492 CharacterOffsetEnd=503 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=factores CharacterOffsetBegin=504 CharacterOffsetEnd=512 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=513 CharacterOffsetEnd=516 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=influyen CharacterOffsetBegin=517 CharacterOffsetEnd=525 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=526 CharacterOffsetEnd=528 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=529 CharacterOffsetEnd=531 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=eficiencia CharacterOffsetBegin=532 CharacterOffsetEnd=542 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=relativa CharacterOffsetBegin=543 CharacterOffsetEnd=551 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=551 CharacterOffsetEnd=552 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Los))
+      (grup.nom (nc0p000 resultados)))
+    (grup.verb (vmip000 sugieren))
+    (S
+      (conj (cs que))
+      (grup.verb (vmip000 existen))
+      (sn
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 marcadas)))
+          (nc0p000 diferencias)
+          (sp
+            (prep (sp000 entre))
+            (sn
+              (spec (da0000 las))
+              (grup.nom (nc0p000 empresas)
+                (s.a
+                  (grup.a (aq0000 pertenecientes))))))))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 sector)
+            (S (fc ,)
+              (gerundi (vmg0000 identificando))
+              (morfema.pronominal (pp000000 se))
+              (sn
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 escala)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 producción))))))
+                (conj (cc y))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 cantidad))))
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0p000 trabajadores)))))
+            (S
+              (participi (aq0000 empleados))
+              (sp
+                (prep (cs como))
+                (sn
+                  (spec (da0000 los))
+                  (grup.nom
+                    (s.a
+                      (grup.a (aq0000 principales)))
+                    (nc0p000 factores)
+                    (S
+                      (relatiu (pr000000 que))
+                      (grup.verb (vmip000 influyen))
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom (nc0s000 eficiencia)
+                            (s.a
+                              (grup.a (aq0000 relativa)))))))))))))))
+    (fp .)))
+

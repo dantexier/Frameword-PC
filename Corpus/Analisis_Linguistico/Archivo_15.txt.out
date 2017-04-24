@@ -1,0 +1,303 @@
+Sentence #1 (13 tokens):
+Gimenez, G. A.; N. V. Canton; A. I. Hladki.
+[Text=Gimenez CharacterOffsetBegin=0 CharacterOffsetEnd=7 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=7 CharacterOffsetEnd=8 PartOfSpeech=fc NamedEntityTag=O]
+[Text=G. CharacterOffsetBegin=9 CharacterOffsetEnd=11 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=A. CharacterOffsetBegin=12 CharacterOffsetEnd=14 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=; CharacterOffsetBegin=14 CharacterOffsetEnd=15 PartOfSpeech=fx NamedEntityTag=O]
+[Text=N. CharacterOffsetBegin=16 CharacterOffsetEnd=18 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=V. CharacterOffsetBegin=19 CharacterOffsetEnd=21 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Canton CharacterOffsetBegin=22 CharacterOffsetEnd=28 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=; CharacterOffsetBegin=28 CharacterOffsetEnd=29 PartOfSpeech=fx NamedEntityTag=O]
+[Text=A. CharacterOffsetBegin=30 CharacterOffsetEnd=32 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=I. CharacterOffsetBegin=33 CharacterOffsetEnd=35 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Hladki CharacterOffsetBegin=36 CharacterOffsetEnd=42 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=. CharacterOffsetBegin=42 CharacterOffsetEnd=43 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (np00000 Gimenez)
+        (sn (fc ,)
+          (grup.nom
+            (grup.nom (np00000 G.) (np00000 A.))
+            (sn (fx ;)
+              (grup.nom
+                (grup.nom (np00000 N.) (np00000 V.) (np00000 Canton))
+                (sn (fx ;)
+                  (grup.nom
+                    (grup.nom (np00000 A.) (np00000 I.))
+                    (sn
+                      (grup.nom (np00000 Hladki)))))))))))
+    (fp .)))
+
+Sentence #2 (3 tokens):
+2012. “
+[Text=2012 CharacterOffsetBegin=44 CharacterOffsetEnd=48 PartOfSpeech=w NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=48 CharacterOffsetEnd=49 PartOfSpeech=fp NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=50 CharacterOffsetEnd=51 PartOfSpeech=fe NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (w 2012)))
+    (fp .) (fe ")))
+
+Sentence #3 (13 tokens):
+Mixobiota del Departamento Chilecito (La Rioja, Argentina)”.
+[Text=Mixobiota CharacterOffsetBegin=51 CharacterOffsetEnd=60 PartOfSpeech=vmm0000 NamedEntityTag=PERS]
+[Text=de CharacterOffsetBegin=61 CharacterOffsetEnd=62 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=62 CharacterOffsetEnd=64 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Departamento CharacterOffsetBegin=65 CharacterOffsetEnd=77 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Chilecito CharacterOffsetBegin=78 CharacterOffsetEnd=87 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==LRB= CharacterOffsetBegin=88 CharacterOffsetEnd=89 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=89 CharacterOffsetEnd=91 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=92 CharacterOffsetEnd=97 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=97 CharacterOffsetEnd=98 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=99 CharacterOffsetEnd=108 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==RRB= CharacterOffsetBegin=108 CharacterOffsetEnd=109 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=109 CharacterOffsetEnd=110 PartOfSpeech=fe NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=110 CharacterOffsetEnd=111 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (S
+        (grup.verb (vmm0000 Mixobiota))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 el))
+            (grup.nom
+              (grup.nom (np00000 Departamento) (np00000 Chilecito))
+              (sn (fpa =LRB=)
+                (spec (da0000 La))
+                (grup.nom (np00000 Rioja)
+                  (sn (fc ,)
+                    (grup.nom (np00000 Argentina))))
+                (fpt =RRB=))))))
+      (fe "))
+    (fp .)))
+
+Sentence #4 (6 tokens):
+Lilloa 49 (1).
+[Text=Lilloa CharacterOffsetBegin=112 CharacterOffsetEnd=118 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=49 CharacterOffsetBegin=119 CharacterOffsetEnd=121 PartOfSpeech=z0 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=122 CharacterOffsetEnd=123 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=1 CharacterOffsetBegin=123 CharacterOffsetEnd=124 PartOfSpeech=z0 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=124 CharacterOffsetEnd=125 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=125 CharacterOffsetEnd=126 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom
+        (grup.nom (np00000 Lilloa) (z0 49))
+        (sn (fpa =LRB=)
+          (grup.nom (z0 1))
+          (fpt =RRB=))))
+    (fp .)))
+
+Sentence #5 (23 tokens):
+Se citan por primera vez para la región de Cuyo los géneros Hemitrichia y Ceratiomyxa, así como también a Arcyria oerstedii.
+[Text=Se CharacterOffsetBegin=127 CharacterOffsetEnd=129 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=citan CharacterOffsetBegin=130 CharacterOffsetEnd=135 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=136 CharacterOffsetEnd=139 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=primera CharacterOffsetBegin=140 CharacterOffsetEnd=147 PartOfSpeech=ao0000 NamedEntityTag=O]
+[Text=vez CharacterOffsetBegin=148 CharacterOffsetEnd=151 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=152 CharacterOffsetEnd=156 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=157 CharacterOffsetEnd=159 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=región CharacterOffsetBegin=160 CharacterOffsetEnd=166 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=167 CharacterOffsetEnd=169 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Cuyo CharacterOffsetBegin=170 CharacterOffsetEnd=174 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=los CharacterOffsetBegin=175 CharacterOffsetEnd=178 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=géneros CharacterOffsetBegin=179 CharacterOffsetEnd=186 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=Hemitrichia CharacterOffsetBegin=187 CharacterOffsetEnd=198 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=y CharacterOffsetBegin=199 CharacterOffsetEnd=200 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Ceratiomyxa CharacterOffsetBegin=201 CharacterOffsetEnd=212 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=212 CharacterOffsetEnd=213 PartOfSpeech=fc NamedEntityTag=O]
+[Text=así CharacterOffsetBegin=214 CharacterOffsetEnd=217 PartOfSpeech=rg NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=218 CharacterOffsetEnd=222 PartOfSpeech=cs NamedEntityTag=O]
+[Text=también CharacterOffsetBegin=223 CharacterOffsetEnd=230 PartOfSpeech=rg NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=231 CharacterOffsetEnd=232 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Arcyria CharacterOffsetBegin=233 CharacterOffsetEnd=240 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=oerstedii CharacterOffsetBegin=241 CharacterOffsetEnd=250 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=250 CharacterOffsetEnd=251 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (S
+        (morfema.verbal (p0000000 Se))
+        (grup.verb (vmip000 citan))
+        (sp
+          (prep (sp000 por))
+          (sn
+            (grup.nom
+              (s.a
+                (grup.a (ao0000 primera)))
+              (nc0s000 vez)
+              (sp
+                (prep (sp000 para))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 región)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (np00000 Cuyo))))))))))
+        (sn
+          (spec (da0000 los))
+          (grup.nom (nc0p000 géneros))))
+      (sn
+        (grup.nom
+          (grup.nom (np00000 Hemitrichia))
+          (conj (cc y))
+          (grup.nom (np00000 Ceratiomyxa))))
+      (fc ,))
+    (conj
+      (grup.cc (rg así) (cs como)))
+    (S
+      (sadv
+        (grup.adv (rg también)))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (grup.nom (np00000 Arcyria) (np00000 oerstedii)))))
+    (fp .)))
+
+Sentence #6 (16 tokens):
+Se amplia el área de distribución de Physarum pusillum para la provincia de La Rioja.
+[Text=Se CharacterOffsetBegin=252 CharacterOffsetEnd=254 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=amplia CharacterOffsetBegin=255 CharacterOffsetEnd=261 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=262 CharacterOffsetEnd=264 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=área CharacterOffsetBegin=265 CharacterOffsetEnd=269 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=270 CharacterOffsetEnd=272 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=distribución CharacterOffsetBegin=273 CharacterOffsetEnd=285 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=286 CharacterOffsetEnd=288 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Physarum CharacterOffsetBegin=289 CharacterOffsetEnd=297 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=pusillum CharacterOffsetBegin=298 CharacterOffsetEnd=306 PartOfSpeech=vmis000 NamedEntityTag=ORG]
+[Text=para CharacterOffsetBegin=307 CharacterOffsetEnd=311 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=312 CharacterOffsetEnd=314 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=provincia CharacterOffsetBegin=315 CharacterOffsetEnd=324 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=325 CharacterOffsetEnd=327 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=328 CharacterOffsetEnd=330 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=331 CharacterOffsetEnd=336 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=336 CharacterOffsetEnd=337 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (pp000000 Se)
+        (s.a
+          (grup.a (aq0000 amplia)))))
+    (S
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 área)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 distribución)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (np00000 Physarum)))))))))
+      (grup.verb (vmis000 pusillum))
+      (sp
+        (prep (sp000 para))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 provincia)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 La))
+                (grup.nom (np00000 Rioja))))))))
+    (fp .)))
+
+Sentence #7 (10 tokens):
+Se describen los esporangios, incluyendo dibujos y fotografías.
+[Text=Se CharacterOffsetBegin=338 CharacterOffsetEnd=340 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=describen CharacterOffsetBegin=341 CharacterOffsetEnd=350 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=351 CharacterOffsetEnd=354 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=esporangios CharacterOffsetBegin=355 CharacterOffsetEnd=366 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=366 CharacterOffsetEnd=367 PartOfSpeech=fc NamedEntityTag=O]
+[Text=incluyendo CharacterOffsetBegin=368 CharacterOffsetEnd=378 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=dibujos CharacterOffsetBegin=379 CharacterOffsetEnd=386 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=387 CharacterOffsetEnd=388 PartOfSpeech=cc NamedEntityTag=O]
+[Text=fotografías CharacterOffsetBegin=389 CharacterOffsetEnd=400 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=400 CharacterOffsetEnd=401 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmip000 describen))
+    (sn
+      (spec (da0000 los))
+      (grup.nom (nc0p000 esporangios)
+        (S (fc ,)
+          (gerundi (vmg0000 incluyendo))
+          (sn
+            (grup.nom
+              (grup.nom (nc0p000 dibujos))
+              (conj (cc y))
+              (grup.nom (nc0p000 fotografías)))))))
+    (fp .)))
+
+Sentence #8 (21 tokens):
+Se incluyen claves dicotómicas de los géneros presentes en La Rioja y de las especies citadas para el departamento Chilecito.
+[Text=Se CharacterOffsetBegin=402 CharacterOffsetEnd=404 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=incluyen CharacterOffsetBegin=405 CharacterOffsetEnd=413 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=claves CharacterOffsetBegin=414 CharacterOffsetEnd=420 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=dicotómicas CharacterOffsetBegin=421 CharacterOffsetEnd=432 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=433 CharacterOffsetEnd=435 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=436 CharacterOffsetEnd=439 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=géneros CharacterOffsetBegin=440 CharacterOffsetEnd=447 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=presentes CharacterOffsetBegin=448 CharacterOffsetEnd=457 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=458 CharacterOffsetEnd=460 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=461 CharacterOffsetEnd=463 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=464 CharacterOffsetEnd=469 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=y CharacterOffsetBegin=470 CharacterOffsetEnd=471 PartOfSpeech=cc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=472 CharacterOffsetEnd=474 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=475 CharacterOffsetEnd=478 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=479 CharacterOffsetEnd=487 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=citadas CharacterOffsetBegin=488 CharacterOffsetEnd=495 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=496 CharacterOffsetEnd=500 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=501 CharacterOffsetEnd=503 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=departamento CharacterOffsetBegin=504 CharacterOffsetEnd=516 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=Chilecito CharacterOffsetBegin=517 CharacterOffsetEnd=526 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=526 CharacterOffsetEnd=527 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmip000 incluyen))
+    (sn
+      (grup.nom (nc0p000 claves)
+        (s.a
+          (grup.a (aq0000 dicotómicas)))))
+    (sadv
+      (grup.adv
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 los))
+            (grup.nom (nc0p000 géneros)
+              (s.a
+                (grup.a (aq0000 presentes))))))))
+    (sp
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (da0000 La))
+          (grup.nom (np00000 Rioja))))
+      (conj (cc y))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 las))
+          (grup.nom (nc0p000 especies)
+            (S
+              (participi (aq0000 citadas))
+              (sp
+                (prep (sp000 para))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 departamento)
+                    (sn
+                      (grup.nom (np00000 Chilecito)))))))))))
+    (fp .)))
+

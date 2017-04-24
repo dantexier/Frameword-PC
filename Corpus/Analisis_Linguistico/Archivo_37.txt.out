@@ -1,0 +1,469 @@
+Sentence #1 (27 tokens):
+Para orientar los procesos de decisiones en la esfera pública, resulta pertinente conocer la percepción de los ciudadanos respecto de la ciencia y la tecnología.
+[Text=Para CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=orientar CharacterOffsetBegin=5 CharacterOffsetEnd=13 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=14 CharacterOffsetEnd=17 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=procesos CharacterOffsetBegin=18 CharacterOffsetEnd=26 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=27 CharacterOffsetEnd=29 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=decisiones CharacterOffsetBegin=30 CharacterOffsetEnd=40 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=41 CharacterOffsetEnd=43 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=44 CharacterOffsetEnd=46 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=esfera CharacterOffsetBegin=47 CharacterOffsetEnd=53 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=pública CharacterOffsetBegin=54 CharacterOffsetEnd=61 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=61 CharacterOffsetEnd=62 PartOfSpeech=fc NamedEntityTag=O]
+[Text=resulta CharacterOffsetBegin=63 CharacterOffsetEnd=70 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=pertinente CharacterOffsetBegin=71 CharacterOffsetEnd=81 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=conocer CharacterOffsetBegin=82 CharacterOffsetEnd=89 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=90 CharacterOffsetEnd=92 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=percepción CharacterOffsetBegin=93 CharacterOffsetEnd=103 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=104 CharacterOffsetEnd=106 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=107 CharacterOffsetEnd=110 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ciudadanos CharacterOffsetBegin=111 CharacterOffsetEnd=121 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=respecto CharacterOffsetBegin=122 CharacterOffsetEnd=130 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=131 CharacterOffsetEnd=133 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=134 CharacterOffsetEnd=136 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ciencia CharacterOffsetBegin=137 CharacterOffsetEnd=144 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=145 CharacterOffsetEnd=146 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=147 CharacterOffsetEnd=149 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tecnología CharacterOffsetBegin=150 CharacterOffsetEnd=160 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=160 CharacterOffsetEnd=161 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 Para))
+      (S
+        (infinitiu (vmn0000 orientar))
+        (sn
+          (spec (da0000 los))
+          (grup.nom (nc0p000 procesos)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0p000 decisiones))))))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 esfera)
+              (s.a
+                (grup.a (aq0000 pública)))))))
+      (fc ,))
+    (grup.verb (vmip000 resulta))
+    (s.a
+      (grup.a (aq0000 pertinente)
+        (S
+          (infinitiu (vmn0000 conocer))
+          (sn
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 percepción)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 los))
+                    (grup.nom (nc0p000 ciudadanos)
+                      (sp
+                        (prep
+                          (grup.prep (nc0s000 respecto) (sp000 de)))
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom (nc0s000 ciencia)))))))))
+            (conj (cc y))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 tecnología)))))))
+    (fp .)))
+
+Sentence #2 (28 tokens):
+Partimos del reconocimiento de la importancia del desarrollo y apropiación del conocimiento científico y tecnológico, enmarcados en perspectivas bioéticas e influenciados por ellas.
+[Text=Partimos CharacterOffsetBegin=162 CharacterOffsetEnd=170 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=171 CharacterOffsetEnd=172 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=172 CharacterOffsetEnd=174 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=reconocimiento CharacterOffsetBegin=175 CharacterOffsetEnd=189 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=190 CharacterOffsetEnd=192 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=193 CharacterOffsetEnd=195 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=importancia CharacterOffsetBegin=196 CharacterOffsetEnd=207 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=208 CharacterOffsetEnd=209 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=209 CharacterOffsetEnd=211 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=212 CharacterOffsetEnd=222 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=223 CharacterOffsetEnd=224 PartOfSpeech=cc NamedEntityTag=O]
+[Text=apropiación CharacterOffsetBegin=225 CharacterOffsetEnd=236 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=237 CharacterOffsetEnd=238 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=238 CharacterOffsetEnd=240 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=conocimiento CharacterOffsetBegin=241 CharacterOffsetEnd=253 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=científico CharacterOffsetBegin=254 CharacterOffsetEnd=264 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=265 CharacterOffsetEnd=266 PartOfSpeech=cc NamedEntityTag=O]
+[Text=tecnológico CharacterOffsetBegin=267 CharacterOffsetEnd=278 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=278 CharacterOffsetEnd=279 PartOfSpeech=fc NamedEntityTag=O]
+[Text=enmarcados CharacterOffsetBegin=280 CharacterOffsetEnd=290 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=291 CharacterOffsetEnd=293 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=perspectivas CharacterOffsetBegin=294 CharacterOffsetEnd=306 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=bioéticas CharacterOffsetBegin=307 CharacterOffsetEnd=316 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=e CharacterOffsetBegin=317 CharacterOffsetEnd=318 PartOfSpeech=cc NamedEntityTag=O]
+[Text=influenciados CharacterOffsetBegin=319 CharacterOffsetEnd=332 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=333 CharacterOffsetEnd=336 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ellas CharacterOffsetBegin=337 CharacterOffsetEnd=342 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=342 CharacterOffsetEnd=343 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (grup.verb (vmip000 Partimos))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 reconocimiento)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 importancia)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 el))
+                      (grup.nom
+                        (grup.nom (nc0s000 desarrollo))
+                        (conj (cc y))
+                        (grup.nom (nc0s000 apropiación)))))))))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 conocimiento)
+            (s.a
+              (grup.a
+                (grup.a (aq0000 científico))
+                (conj (cc y))
+                (grup.a (aq0000 tecnológico))))
+            (S (fc ,)
+              (participi (aq0000 enmarcados))
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (grup.nom (nc0p000 perspectivas)
+                    (s.a
+                      (grup.a (aq0000 bioéticas)))))))))))
+    (conj (cc e))
+    (S
+      (participi (aq0000 influenciados))
+      (sp
+        (prep (sp000 por))
+        (sn
+          (grup.nom (pp000000 ellas)))))
+    (fp .)))
+
+Sentence #3 (62 tokens):
+La propuesta se contextualiza en acciones en desarrollo en Argentina para el fomento de la ciencia y la tecnología, a través del proyecto Percepción y participación ciudadana para una cultura científica-tecnológica en la provincia de Córdoba, Argentina, que incluye aspectos asociados a valoraciones, creencias y prejuicios sociales y culturales, entretejidas con lo ético.
+[Text=La CharacterOffsetBegin=344 CharacterOffsetEnd=346 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=propuesta CharacterOffsetBegin=347 CharacterOffsetEnd=356 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=357 CharacterOffsetEnd=359 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=contextualiza CharacterOffsetBegin=360 CharacterOffsetEnd=373 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=374 CharacterOffsetEnd=376 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=acciones CharacterOffsetBegin=377 CharacterOffsetEnd=385 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=386 CharacterOffsetEnd=388 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=desarrollo CharacterOffsetBegin=389 CharacterOffsetEnd=399 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=400 CharacterOffsetEnd=402 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=403 CharacterOffsetEnd=412 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=para CharacterOffsetBegin=413 CharacterOffsetEnd=417 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=418 CharacterOffsetEnd=420 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=fomento CharacterOffsetBegin=421 CharacterOffsetEnd=428 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=429 CharacterOffsetEnd=431 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=432 CharacterOffsetEnd=434 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ciencia CharacterOffsetBegin=435 CharacterOffsetEnd=442 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=443 CharacterOffsetEnd=444 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=445 CharacterOffsetEnd=447 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tecnología CharacterOffsetBegin=448 CharacterOffsetEnd=458 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=458 CharacterOffsetEnd=459 PartOfSpeech=fc NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=460 CharacterOffsetEnd=461 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=través CharacterOffsetBegin=462 CharacterOffsetEnd=468 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=469 CharacterOffsetEnd=470 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=470 CharacterOffsetEnd=472 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=proyecto CharacterOffsetBegin=473 CharacterOffsetEnd=481 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=Percepción CharacterOffsetBegin=482 CharacterOffsetEnd=492 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=493 CharacterOffsetEnd=494 PartOfSpeech=cc NamedEntityTag=O]
+[Text=participación CharacterOffsetBegin=495 CharacterOffsetEnd=508 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=ciudadana CharacterOffsetBegin=509 CharacterOffsetEnd=518 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=519 CharacterOffsetEnd=523 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=524 CharacterOffsetEnd=527 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=cultura CharacterOffsetBegin=528 CharacterOffsetEnd=535 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=científica CharacterOffsetBegin=536 CharacterOffsetEnd=546 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=546 CharacterOffsetEnd=547 PartOfSpeech=fg NamedEntityTag=O]
+[Text=tecnológica CharacterOffsetBegin=547 CharacterOffsetEnd=558 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=559 CharacterOffsetEnd=561 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=562 CharacterOffsetEnd=564 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=provincia CharacterOffsetBegin=565 CharacterOffsetEnd=574 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=575 CharacterOffsetEnd=577 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Córdoba CharacterOffsetBegin=578 CharacterOffsetEnd=585 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=585 CharacterOffsetEnd=586 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=587 CharacterOffsetEnd=596 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=596 CharacterOffsetEnd=597 PartOfSpeech=fc NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=598 CharacterOffsetEnd=601 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=incluye CharacterOffsetBegin=602 CharacterOffsetEnd=609 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=aspectos CharacterOffsetBegin=610 CharacterOffsetEnd=618 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=asociados CharacterOffsetBegin=619 CharacterOffsetEnd=628 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=629 CharacterOffsetEnd=630 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=valoraciones CharacterOffsetBegin=631 CharacterOffsetEnd=643 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=643 CharacterOffsetEnd=644 PartOfSpeech=fc NamedEntityTag=O]
+[Text=creencias CharacterOffsetBegin=645 CharacterOffsetEnd=654 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=655 CharacterOffsetEnd=656 PartOfSpeech=cc NamedEntityTag=O]
+[Text=prejuicios CharacterOffsetBegin=657 CharacterOffsetEnd=667 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=sociales CharacterOffsetBegin=668 CharacterOffsetEnd=676 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=677 CharacterOffsetEnd=678 PartOfSpeech=cc NamedEntityTag=O]
+[Text=culturales CharacterOffsetBegin=679 CharacterOffsetEnd=689 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=689 CharacterOffsetEnd=690 PartOfSpeech=fc NamedEntityTag=O]
+[Text=entretejidas CharacterOffsetBegin=691 CharacterOffsetEnd=703 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=704 CharacterOffsetEnd=707 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=lo CharacterOffsetBegin=708 CharacterOffsetEnd=710 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ético CharacterOffsetBegin=711 CharacterOffsetEnd=716 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=716 CharacterOffsetEnd=717 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 La))
+      (grup.nom (nc0s000 propuesta)))
+    (morfema.pronominal (p0000000 se))
+    (grup.verb (vmip000 contextualiza))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (grup.nom (nc0p000 acciones)
+          (sp
+            (prep (sp000 en))
+            (sn
+              (grup.nom (nc0s000 desarrollo)
+                (sp
+                  (prep (sp000 en))
+                  (sn
+                    (grup.nom (np00000 Argentina))))))))))
+    (sp
+      (prep (sp000 para))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 fomento)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 ciencia)))
+              (conj (cc y))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 tecnología)))))))
+      (fc ,))
+    (sp
+      (prep
+        (grup.prep
+          (prep (sp000 a))
+          (sn
+            (grup.nom (nc0s000 través)))
+          (prep (sp000 de))))
+      (sn
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 proyecto)
+            (sn
+              (grup.nom (np00000 Percepción)))))
+        (conj (cc y))
+        (sn
+          (grup.nom (nc0s000 participación)
+            (s.a
+              (grup.a (aq0000 ciudadana)))
+            (sp
+              (prep (sp000 para))
+              (sn
+                (spec (di0000 una))
+                (grup.nom (nc0s000 cultura)
+                  (s.a
+                    (grup.a (aq0000 científica) (fg -) (aq0000 tecnológica)))
+                  (sp
+                    (prep (sp000 en))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (nc0s000 provincia)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (np00000 Córdoba))))))))))
+            (sn (fc ,)
+              (grup.nom (np00000 Argentina))
+              (fc ,))
+            (S
+              (relatiu (pr000000 que))
+              (grup.verb (vmip000 incluye))
+              (sn
+                (grup.nom (nc0p000 aspectos)
+                  (s.a
+                    (grup.a (aq0000 asociados)))))
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (grup.nom
+                    (grup.nom (nc0p000 valoraciones))
+                    (fc ,)
+                    (grup.nom (nc0p000 creencias))
+                    (conj (cc y))
+                    (grup.nom (nc0p000 prejuicios)))))
+              (s.a
+                (s.a
+                  (grup.a (aq0000 sociales)))
+                (conj (cc y))
+                (s.a
+                  (grup.a (aq0000 culturales)))
+                (fc ,)
+                (S
+                  (participi (aq0000 entretejidas))
+                  (sp
+                    (prep (sp000 con))
+                    (sn
+                      (spec (da0000 lo))
+                      (grup.nom
+                        (s.a
+                          (grup.a (aq0000 ético)))))))))))))
+    (fp .)))
+
+Sentence #4 (52 tokens):
+Se aportan reflexiones en torno a los aspectos bioéticos y se espera que el producto de la investigación y sus derivados sean aportes a la comunidad e insumos para el diseño de un modelo de participación ciudadana que fomente el uso de los resultados de la investigación en beneficio de la humanidad
+[Text=Se CharacterOffsetBegin=718 CharacterOffsetEnd=720 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=aportan CharacterOffsetBegin=721 CharacterOffsetEnd=728 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=reflexiones CharacterOffsetBegin=729 CharacterOffsetEnd=740 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=741 CharacterOffsetEnd=743 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=torno CharacterOffsetBegin=744 CharacterOffsetEnd=749 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=750 CharacterOffsetEnd=751 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=752 CharacterOffsetEnd=755 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=aspectos CharacterOffsetBegin=756 CharacterOffsetEnd=764 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=bioéticos CharacterOffsetBegin=765 CharacterOffsetEnd=774 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=775 CharacterOffsetEnd=776 PartOfSpeech=cc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=777 CharacterOffsetEnd=779 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=espera CharacterOffsetBegin=780 CharacterOffsetEnd=786 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=787 CharacterOffsetEnd=790 PartOfSpeech=cs NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=791 CharacterOffsetEnd=793 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=producto CharacterOffsetBegin=794 CharacterOffsetEnd=802 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=803 CharacterOffsetEnd=805 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=806 CharacterOffsetEnd=808 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=investigación CharacterOffsetBegin=809 CharacterOffsetEnd=822 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=823 CharacterOffsetEnd=824 PartOfSpeech=cc NamedEntityTag=O]
+[Text=sus CharacterOffsetBegin=825 CharacterOffsetEnd=828 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=derivados CharacterOffsetBegin=829 CharacterOffsetEnd=838 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=sean CharacterOffsetBegin=839 CharacterOffsetEnd=843 PartOfSpeech=vssp000 NamedEntityTag=O]
+[Text=aportes CharacterOffsetBegin=844 CharacterOffsetEnd=851 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=852 CharacterOffsetEnd=853 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=854 CharacterOffsetEnd=856 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=comunidad CharacterOffsetBegin=857 CharacterOffsetEnd=866 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=e CharacterOffsetBegin=867 CharacterOffsetEnd=868 PartOfSpeech=cc NamedEntityTag=O]
+[Text=insumos CharacterOffsetBegin=869 CharacterOffsetEnd=876 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=877 CharacterOffsetEnd=881 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=882 CharacterOffsetEnd=884 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=diseño CharacterOffsetBegin=885 CharacterOffsetEnd=891 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=892 CharacterOffsetEnd=894 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=895 CharacterOffsetEnd=897 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=modelo CharacterOffsetBegin=898 CharacterOffsetEnd=904 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=905 CharacterOffsetEnd=907 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=participación CharacterOffsetBegin=908 CharacterOffsetEnd=921 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=ciudadana CharacterOffsetBegin=922 CharacterOffsetEnd=931 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=932 CharacterOffsetEnd=935 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=fomente CharacterOffsetBegin=936 CharacterOffsetEnd=943 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=944 CharacterOffsetEnd=946 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=uso CharacterOffsetBegin=947 CharacterOffsetEnd=950 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=951 CharacterOffsetEnd=953 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=954 CharacterOffsetEnd=957 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=resultados CharacterOffsetBegin=958 CharacterOffsetEnd=968 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=969 CharacterOffsetEnd=971 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=972 CharacterOffsetEnd=974 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=investigación CharacterOffsetBegin=975 CharacterOffsetEnd=988 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=989 CharacterOffsetEnd=991 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=beneficio CharacterOffsetBegin=992 CharacterOffsetEnd=1001 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1002 CharacterOffsetEnd=1004 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1005 CharacterOffsetEnd=1007 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=humanidad CharacterOffsetBegin=1008 CharacterOffsetEnd=1017 PartOfSpeech=nc0s000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (morfema.verbal (p0000000 Se))
+      (grup.verb (vmip000 aportan))
+      (sn
+        (grup.nom (nc0p000 reflexiones)
+          (sp
+            (prep (sp000 en))
+            (sn
+              (grup.nom (nc0s000 torno))))))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (spec (da0000 los))
+          (grup.nom (nc0p000 aspectos)
+            (s.a
+              (grup.a (aq0000 bioéticos)))))))
+    (conj (cc y))
+    (S
+      (morfema.pronominal (p0000000 se))
+      (grup.verb (vmip000 espera))
+      (S
+        (conj (cs que))
+        (sn
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0s000 producto)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 investigación))))))
+          (conj (cc y))
+          (sn
+            (spec (dp0000 sus))
+            (grup.nom (nc0p000 derivados))))
+        (grup.verb (vssp000 sean))
+        (sn
+          (grup.nom (nc0p000 aportes)))
+        (sp
+          (prep (sp000 a))
+          (sn
+            (spec (da0000 la))
+            (grup.nom
+              (grup.nom (nc0s000 comunidad))
+              (conj (cc e))
+              (grup.nom (nc0p000 insumos))))))
+      (sp
+        (prep (sp000 para))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 diseño)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (di0000 un))
+                (grup.nom (nc0s000 modelo)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0s000 participación)
+                        (s.a
+                          (grup.a (aq0000 ciudadana)))
+                        (S
+                          (relatiu (pr000000 que))
+                          (grup.verb (vmsp000 fomente))
+                          (sn
+                            (spec (da0000 el))
+                            (grup.nom (nc0s000 uso)
+                              (sp
+                                (prep (sp000 de))
+                                (sn
+                                  (spec (da0000 los))
+                                  (grup.nom (nc0p000 resultados)
+                                    (sp
+                                      (prep (sp000 de))
+                                      (sn
+                                        (spec (da0000 la))
+                                        (grup.nom (nc0s000 investigación)
+                                          (sp
+                                            (prep (sp000 en))
+                                            (sn
+                                              (grup.nom (nc0s000 beneficio))))))))))))
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (spec (da0000 la))
+                              (grup.nom (nc0s000 humanidad)))))))))))))))))
+

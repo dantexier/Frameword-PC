@@ -1,0 +1,195 @@
+Sentence #1 (71 tokens):
+Los actos de violencia en que algunos ciudadanos incurrieron durante los amotinamientos policiales de fines de 2013 son el marco de referencia donde poner a dialogar textos de Cornelius Castoriadis, a través de la interpretación de Javier Cristiano, con otros producidos por estas tierras, como los de Rodolfo Kusch y Octavio Paz, para ensayar “viejas formas nuevas” de revisar los actos de violencia sucedidos.
+[Text=Los CharacterOffsetBegin=0 CharacterOffsetEnd=3 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=actos CharacterOffsetBegin=4 CharacterOffsetEnd=9 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=10 CharacterOffsetEnd=12 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=violencia CharacterOffsetBegin=13 CharacterOffsetEnd=22 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=23 CharacterOffsetEnd=25 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=26 CharacterOffsetEnd=29 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=algunos CharacterOffsetBegin=30 CharacterOffsetEnd=37 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=ciudadanos CharacterOffsetBegin=38 CharacterOffsetEnd=48 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=incurrieron CharacterOffsetBegin=49 CharacterOffsetEnd=60 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=durante CharacterOffsetBegin=61 CharacterOffsetEnd=68 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=69 CharacterOffsetEnd=72 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=amotinamientos CharacterOffsetBegin=73 CharacterOffsetEnd=87 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=policiales CharacterOffsetBegin=88 CharacterOffsetEnd=98 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=99 CharacterOffsetEnd=101 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=fines CharacterOffsetBegin=102 CharacterOffsetEnd=107 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=108 CharacterOffsetEnd=110 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=2013 CharacterOffsetBegin=111 CharacterOffsetEnd=115 PartOfSpeech=w NamedEntityTag=O]
+[Text=son CharacterOffsetBegin=116 CharacterOffsetEnd=119 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=120 CharacterOffsetEnd=122 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=marco CharacterOffsetBegin=123 CharacterOffsetEnd=128 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=129 CharacterOffsetEnd=131 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=referencia CharacterOffsetBegin=132 CharacterOffsetEnd=142 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=donde CharacterOffsetBegin=143 CharacterOffsetEnd=148 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=poner CharacterOffsetBegin=149 CharacterOffsetEnd=154 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=155 CharacterOffsetEnd=156 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=dialogar CharacterOffsetBegin=157 CharacterOffsetEnd=165 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=textos CharacterOffsetBegin=166 CharacterOffsetEnd=172 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=173 CharacterOffsetEnd=175 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Cornelius CharacterOffsetBegin=176 CharacterOffsetEnd=185 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Castoriadis CharacterOffsetBegin=186 CharacterOffsetEnd=197 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=197 CharacterOffsetEnd=198 PartOfSpeech=fc NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=199 CharacterOffsetEnd=200 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=través CharacterOffsetBegin=201 CharacterOffsetEnd=207 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=208 CharacterOffsetEnd=210 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=211 CharacterOffsetEnd=213 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=interpretación CharacterOffsetBegin=214 CharacterOffsetEnd=228 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=229 CharacterOffsetEnd=231 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Javier CharacterOffsetBegin=232 CharacterOffsetEnd=238 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Cristiano CharacterOffsetBegin=239 CharacterOffsetEnd=248 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=248 CharacterOffsetEnd=249 PartOfSpeech=fc NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=250 CharacterOffsetEnd=253 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=otros CharacterOffsetBegin=254 CharacterOffsetEnd=259 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=producidos CharacterOffsetBegin=260 CharacterOffsetEnd=270 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=271 CharacterOffsetEnd=274 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=estas CharacterOffsetBegin=275 CharacterOffsetEnd=280 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=tierras CharacterOffsetBegin=281 CharacterOffsetEnd=288 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=288 CharacterOffsetEnd=289 PartOfSpeech=fc NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=290 CharacterOffsetEnd=294 PartOfSpeech=cs NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=295 CharacterOffsetEnd=298 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=299 CharacterOffsetEnd=301 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Rodolfo CharacterOffsetBegin=302 CharacterOffsetEnd=309 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Kusch CharacterOffsetBegin=310 CharacterOffsetEnd=315 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=y CharacterOffsetBegin=316 CharacterOffsetEnd=317 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Octavio CharacterOffsetBegin=318 CharacterOffsetEnd=325 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Paz CharacterOffsetBegin=326 CharacterOffsetEnd=329 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=329 CharacterOffsetEnd=330 PartOfSpeech=fc NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=331 CharacterOffsetEnd=335 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ensayar CharacterOffsetBegin=336 CharacterOffsetEnd=343 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=344 CharacterOffsetEnd=345 PartOfSpeech=fe NamedEntityTag=O]
+[Text=viejas CharacterOffsetBegin=345 CharacterOffsetEnd=351 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=formas CharacterOffsetBegin=352 CharacterOffsetEnd=358 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=nuevas CharacterOffsetBegin=359 CharacterOffsetEnd=365 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=365 CharacterOffsetEnd=366 PartOfSpeech=fe NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=367 CharacterOffsetEnd=369 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=revisar CharacterOffsetBegin=370 CharacterOffsetEnd=377 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=378 CharacterOffsetEnd=381 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=actos CharacterOffsetBegin=382 CharacterOffsetEnd=387 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=388 CharacterOffsetEnd=390 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=violencia CharacterOffsetBegin=391 CharacterOffsetEnd=400 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=sucedidos CharacterOffsetBegin=401 CharacterOffsetEnd=410 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=410 CharacterOffsetEnd=411 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Los))
+      (grup.nom (nc0p000 actos)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 violencia))))
+        (S
+          (sp
+            (prep (sp000 en))
+            (relatiu (pr000000 que)))
+          (sn
+            (spec (di0000 algunos))
+            (grup.nom (nc0p000 ciudadanos)))
+          (grup.verb (vmis000 incurrieron))
+          (sp
+            (prep (sp000 durante))
+            (sn
+              (spec (da0000 los))
+              (grup.nom (nc0p000 amotinamientos)
+                (s.a
+                  (grup.a (aq0000 policiales)))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (nc0p000 fines)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (grup.nom (w 2013)))))))))))))
+    (grup.verb (vsip000 son))
+    (sn
+      (spec (da0000 el))
+      (grup.nom (nc0s000 marco)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 referencia))))
+        (S
+          (relatiu (pr000000 donde))
+          (grup.verb
+            (infinitiu (vmn0000 poner)))
+          (sp
+            (prep (sp000 a))
+            (S
+              (infinitiu (vmn0000 dialogar))
+              (sn
+                (grup.nom (nc0p000 textos)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (np00000 Cornelius) (np00000 Castoriadis)))))))))))
+    (sp (fc ,)
+      (prep
+        (grup.prep
+          (prep (sp000 a))
+          (sn
+            (grup.nom (nc0s000 través)))
+          (prep (sp000 de))))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 interpretación)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (np00000 Javier) (np00000 Cristiano))))))
+      (fc ,))
+    (sp
+      (prep (sp000 con))
+      (sn
+        (spec (di0000 otros))
+        (grup.nom
+          (S
+            (participi (aq0000 producidos))
+            (sp
+              (prep (sp000 por))
+              (sn
+                (spec (dd0000 estas))
+                (grup.nom (nc0p000 tierras)
+                  (sp (fc ,)
+                    (prep (cs como))
+                    (sn
+                      (spec (da0000 los))
+                      (grup.nom
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom
+                              (grup.nom (np00000 Rodolfo) (np00000 Kusch))
+                              (conj (cc y))
+                              (grup.nom (np00000 Octavio) (np00000 Paz)))))))
+                    (fc ,)))))
+            (sp
+              (prep (sp000 para))
+              (S
+                (infinitiu (vmn0000 ensayar))
+                (sn
+                  (grup.nom
+                    (grup.nom (fe ")
+                      (s.a
+                        (grup.a (aq0000 viejas)))
+                      (grup.nom (nc0p000 formas)
+                        (s.a
+                          (grup.a (aq0000 nuevas))))
+                      (fe "))
+                    (sp
+                      (prep (sp000 de))
+                      (S
+                        (infinitiu (vmn0000 revisar))
+                        (sn
+                          (spec (da0000 los))
+                          (grup.nom (nc0p000 actos)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (grup.nom (nc0s000 violencia))))))))
+                    (S
+                      (participi (aq0000 sucedidos)))))))))))
+    (fp .)))
+

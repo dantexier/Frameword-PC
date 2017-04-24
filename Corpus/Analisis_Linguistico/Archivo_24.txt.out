@@ -1,0 +1,359 @@
+Sentence #1 (30 tokens):
+En la presente contribución se aportan datos sobre la presencia y abundancia de la Martineta Chaqueña (Eudromia formosa) en 41 localidades del norte de la Argentina.
+[Text=En CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=3 CharacterOffsetEnd=5 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presente CharacterOffsetBegin=6 CharacterOffsetEnd=14 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=contribución CharacterOffsetBegin=15 CharacterOffsetEnd=27 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=28 CharacterOffsetEnd=30 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=aportan CharacterOffsetBegin=31 CharacterOffsetEnd=38 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=datos CharacterOffsetBegin=39 CharacterOffsetEnd=44 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=45 CharacterOffsetEnd=50 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=51 CharacterOffsetEnd=53 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=presencia CharacterOffsetBegin=54 CharacterOffsetEnd=63 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=64 CharacterOffsetEnd=65 PartOfSpeech=cc NamedEntityTag=O]
+[Text=abundancia CharacterOffsetBegin=66 CharacterOffsetEnd=76 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=77 CharacterOffsetEnd=79 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=80 CharacterOffsetEnd=82 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Martineta CharacterOffsetBegin=83 CharacterOffsetEnd=92 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=Chaqueña CharacterOffsetBegin=93 CharacterOffsetEnd=101 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text==LRB= CharacterOffsetBegin=102 CharacterOffsetEnd=103 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Eudromia CharacterOffsetBegin=103 CharacterOffsetEnd=111 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=formosa CharacterOffsetBegin=112 CharacterOffsetEnd=119 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=119 CharacterOffsetEnd=120 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=121 CharacterOffsetEnd=123 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=41 CharacterOffsetBegin=124 CharacterOffsetEnd=126 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=localidades CharacterOffsetBegin=127 CharacterOffsetEnd=138 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=139 CharacterOffsetEnd=140 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=140 CharacterOffsetEnd=142 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=norte CharacterOffsetBegin=143 CharacterOffsetEnd=148 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=149 CharacterOffsetEnd=151 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=152 CharacterOffsetEnd=154 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=155 CharacterOffsetEnd=164 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=. CharacterOffsetBegin=164 CharacterOffsetEnd=165 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sp
+        (prep (sp000 En))
+        (sn
+          (spec (da0000 la))
+          (grup.nom
+            (s.a
+              (grup.a (aq0000 presente)))
+            (nc0s000 contribución))))
+      (morfema.verbal (p0000000 se))
+      (grup.verb (vmip000 aportan))
+      (sn
+        (grup.nom (nc0p000 datos)))
+      (sp
+        (prep (sp000 sobre))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 presencia)))))
+    (conj (cc y))
+    (S
+      (sn
+        (grup.nom (nc0s000 abundancia)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (np00000 Martineta) (np00000 Chaqueña))))
+          (sn (fpa =LRB=)
+            (grup.nom (np00000 Eudromia) (np00000 formosa))
+            (fpt =RRB=))))
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (z0 41))
+          (grup.nom (nc0p000 localidades)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 norte)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (np00000 Argentina)))))))))))
+    (fp .)))
+
+Sentence #2 (57 tokens):
+Se ha comprobado que en ciertas zonas a lo largo de la ruta que une la localidad de Suncho Corral en la provincia de Santiago del Estero y Roque Sáenz Peña, en la provincia del Chaco, ha desaparecido debido principalmente a la modificación del ambiente por los extensos sembradíos de soja.
+[Text=Se CharacterOffsetBegin=166 CharacterOffsetEnd=168 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=ha CharacterOffsetBegin=169 CharacterOffsetEnd=171 PartOfSpeech=vaip000 NamedEntityTag=O]
+[Text=comprobado CharacterOffsetBegin=172 CharacterOffsetEnd=182 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=183 CharacterOffsetEnd=186 PartOfSpeech=cs NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=187 CharacterOffsetEnd=189 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ciertas CharacterOffsetBegin=190 CharacterOffsetEnd=197 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=zonas CharacterOffsetBegin=198 CharacterOffsetEnd=203 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=204 CharacterOffsetEnd=205 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=lo CharacterOffsetBegin=206 CharacterOffsetEnd=208 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=largo CharacterOffsetBegin=209 CharacterOffsetEnd=214 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=215 CharacterOffsetEnd=217 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=218 CharacterOffsetEnd=220 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ruta CharacterOffsetBegin=221 CharacterOffsetEnd=225 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=226 CharacterOffsetEnd=229 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=une CharacterOffsetBegin=230 CharacterOffsetEnd=233 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=234 CharacterOffsetEnd=236 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=localidad CharacterOffsetBegin=237 CharacterOffsetEnd=246 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=247 CharacterOffsetEnd=249 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Suncho CharacterOffsetBegin=250 CharacterOffsetEnd=256 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=Corral CharacterOffsetBegin=257 CharacterOffsetEnd=263 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=en CharacterOffsetBegin=264 CharacterOffsetEnd=266 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=267 CharacterOffsetEnd=269 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=provincia CharacterOffsetBegin=270 CharacterOffsetEnd=279 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=280 CharacterOffsetEnd=282 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Santiago CharacterOffsetBegin=283 CharacterOffsetEnd=291 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=de CharacterOffsetBegin=292 CharacterOffsetEnd=293 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=293 CharacterOffsetEnd=295 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Estero CharacterOffsetBegin=296 CharacterOffsetEnd=302 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=y CharacterOffsetBegin=303 CharacterOffsetEnd=304 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Roque CharacterOffsetBegin=305 CharacterOffsetEnd=310 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Sáenz CharacterOffsetBegin=311 CharacterOffsetEnd=316 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=Peña CharacterOffsetBegin=317 CharacterOffsetEnd=321 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=321 CharacterOffsetEnd=322 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=323 CharacterOffsetEnd=325 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=326 CharacterOffsetEnd=328 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=provincia CharacterOffsetBegin=329 CharacterOffsetEnd=338 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=339 CharacterOffsetEnd=340 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=340 CharacterOffsetEnd=342 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Chaco CharacterOffsetBegin=343 CharacterOffsetEnd=348 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=, CharacterOffsetBegin=348 CharacterOffsetEnd=349 PartOfSpeech=fc NamedEntityTag=O]
+[Text=ha CharacterOffsetBegin=350 CharacterOffsetEnd=352 PartOfSpeech=vaip000 NamedEntityTag=O]
+[Text=desaparecido CharacterOffsetBegin=353 CharacterOffsetEnd=365 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=debido CharacterOffsetBegin=366 CharacterOffsetEnd=372 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=principalmente CharacterOffsetBegin=373 CharacterOffsetEnd=387 PartOfSpeech=rg NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=388 CharacterOffsetEnd=389 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=390 CharacterOffsetEnd=392 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=modificación CharacterOffsetBegin=393 CharacterOffsetEnd=405 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=406 CharacterOffsetEnd=407 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=407 CharacterOffsetEnd=409 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ambiente CharacterOffsetBegin=410 CharacterOffsetEnd=418 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=419 CharacterOffsetEnd=422 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=423 CharacterOffsetEnd=426 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=extensos CharacterOffsetBegin=427 CharacterOffsetEnd=435 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=sembradíos CharacterOffsetBegin=436 CharacterOffsetEnd=446 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=447 CharacterOffsetEnd=449 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=soja CharacterOffsetBegin=450 CharacterOffsetEnd=454 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=454 CharacterOffsetEnd=455 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vaip000 ha) (vmp0000 comprobado))
+    (S
+      (conj (cs que))
+      (sp
+        (prep (sp000 en))
+        (sn
+          (spec (di0000 ciertas))
+          (grup.nom (nc0p000 zonas)
+            (sp
+              (prep (sp000 a))
+              (sn
+                (spec (da0000 lo))
+                (grup.nom
+                  (s.a
+                    (grup.a (aq0000 largo)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom (nc0s000 ruta))))))
+                  (pr000000 que)))))))
+      (grup.verb (vmip000 une))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 localidad)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (np00000 Suncho) (np00000 Corral))))
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 provincia)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (np00000 Santiago))))
+                (S
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 el))
+                      (grup.nom
+                        (grup.nom (np00000 Estero))
+                        (conj (cc y))
+                        (grup.nom (np00000 Roque)))))
+                  (sn
+                    (grup.nom (np00000 Sáenz) (np00000 Peña)))
+                  (sp (fc ,)
+                    (prep (sp000 en))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (nc0s000 provincia)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (spec (da0000 el))
+                            (grup.nom (np00000 Chaco))))))
+                    (fc ,))
+                  (grup.verb (vaip000 ha) (vmp0000 desaparecido))
+                  (sp
+                    (prep (vmp0000 debido)
+                      (sadv
+                        (grup.adv (rg principalmente)))
+                      (sp000 a))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (nc0s000 modificación)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (spec (da0000 el))
+                            (grup.nom (nc0s000 ambiente)
+                              (sp
+                                (prep (sp000 por))
+                                (sn
+                                  (spec (da0000 los))
+                                  (grup.nom
+                                    (s.a
+                                      (grup.a (aq0000 extensos)))
+                                    (nc0p000 sembradíos)
+                                    (sp
+                                      (prep (sp000 de))
+                                      (sn
+                                        (grup.nom (nc0s000 soja))))))))))))))))))))
+    (fp .)))
+
+Sentence #3 (22 tokens):
+Se considera que Eudromia formosa formosa y Eudromia formosa mira pertenecerían a una misma raza geográfica y no a razas distintas.
+[Text=Se CharacterOffsetBegin=456 CharacterOffsetEnd=458 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=considera CharacterOffsetBegin=459 CharacterOffsetEnd=468 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=469 CharacterOffsetEnd=472 PartOfSpeech=cs NamedEntityTag=O]
+[Text=Eudromia CharacterOffsetBegin=473 CharacterOffsetEnd=481 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=formosa CharacterOffsetBegin=482 CharacterOffsetEnd=489 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=formosa CharacterOffsetBegin=490 CharacterOffsetEnd=497 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=498 CharacterOffsetEnd=499 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Eudromia CharacterOffsetBegin=500 CharacterOffsetEnd=508 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=formosa CharacterOffsetBegin=509 CharacterOffsetEnd=516 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=mira CharacterOffsetBegin=517 CharacterOffsetEnd=521 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=pertenecerían CharacterOffsetBegin=522 CharacterOffsetEnd=535 PartOfSpeech=vmic000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=536 CharacterOffsetEnd=537 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=538 CharacterOffsetEnd=541 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=misma CharacterOffsetBegin=542 CharacterOffsetEnd=547 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=raza CharacterOffsetBegin=548 CharacterOffsetEnd=552 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=geográfica CharacterOffsetBegin=553 CharacterOffsetEnd=563 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=564 CharacterOffsetEnd=565 PartOfSpeech=cc NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=566 CharacterOffsetEnd=568 PartOfSpeech=rn NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=569 CharacterOffsetEnd=570 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=razas CharacterOffsetBegin=571 CharacterOffsetEnd=576 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=distintas CharacterOffsetBegin=577 CharacterOffsetEnd=586 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=586 CharacterOffsetEnd=587 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmip000 considera))
+    (S
+      (S
+        (conj (cs que))
+        (sn
+          (grup.nom
+            (grup.nom (np00000 Eudromia) (np00000 formosa) (np00000 formosa))
+            (conj (cc y))
+            (grup.nom (np00000 Eudromia) (np00000 formosa))))
+        (grup.verb (vmip000 mira))
+        (S
+          (grup.verb (vmic000 pertenecerían))
+          (sp
+            (prep (sp000 a))
+            (sn
+              (spec (di0000 una) (di0000 misma))
+              (grup.nom (nc0s000 raza)
+                (s.a
+                  (grup.a (aq0000 geográfica))))))))
+      (conj (cc y))
+      (S
+        (neg (rn no))
+        (sp
+          (prep (sp000 a))
+          (sn
+            (grup.nom (nc0p000 razas)
+              (s.a
+                (grup.a (aq0000 distintas))))))))
+    (fp .)))
+
+Sentence #4 (24 tokens):
+Adicionalmente se propone aquí que la recuperación de esta especie es posible mediante el control de la caza ilegal y de los desmontes ilegales
+[Text=Adicionalmente CharacterOffsetBegin=588 CharacterOffsetEnd=602 PartOfSpeech=rg NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=603 CharacterOffsetEnd=605 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=propone CharacterOffsetBegin=606 CharacterOffsetEnd=613 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=aquí CharacterOffsetBegin=614 CharacterOffsetEnd=618 PartOfSpeech=rg NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=619 CharacterOffsetEnd=622 PartOfSpeech=cs NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=623 CharacterOffsetEnd=625 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=recuperación CharacterOffsetBegin=626 CharacterOffsetEnd=638 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=639 CharacterOffsetEnd=641 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=esta CharacterOffsetBegin=642 CharacterOffsetEnd=646 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=especie CharacterOffsetBegin=647 CharacterOffsetEnd=654 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=655 CharacterOffsetEnd=657 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=posible CharacterOffsetBegin=658 CharacterOffsetEnd=665 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=mediante CharacterOffsetBegin=666 CharacterOffsetEnd=674 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=675 CharacterOffsetEnd=677 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=control CharacterOffsetBegin=678 CharacterOffsetEnd=685 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=686 CharacterOffsetEnd=688 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=689 CharacterOffsetEnd=691 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=caza CharacterOffsetBegin=692 CharacterOffsetEnd=696 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=ilegal CharacterOffsetBegin=697 CharacterOffsetEnd=703 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=704 CharacterOffsetEnd=705 PartOfSpeech=cc NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=706 CharacterOffsetEnd=708 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=709 CharacterOffsetEnd=712 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=desmontes CharacterOffsetBegin=713 CharacterOffsetEnd=722 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=ilegales CharacterOffsetBegin=723 CharacterOffsetEnd=731 PartOfSpeech=aq0000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sadv
+        (grup.adv (rg Adicionalmente))))
+    (S
+      (morfema.verbal (p0000000 se))
+      (grup.verb (vmip000 propone))
+      (sadv
+        (grup.adv (rg aquí)))
+      (S
+        (conj (cs que))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 recuperación)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (dd0000 esta))
+                (grup.nom (nc0s000 especie))))))
+        (grup.verb (vsip000 es))
+        (s.a
+          (grup.a (aq0000 posible)))
+        (sp
+          (sp
+            (prep (sp000 mediante))
+            (sn
+              (spec (da0000 el))
+              (grup.nom (nc0s000 control)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 caza)
+                      (s.a
+                        (grup.a (aq0000 ilegal)))))))))
+          (conj (cc y))
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 los))
+              (grup.nom (nc0p000 desmontes)
+                (s.a
+                  (grup.a (aq0000 ilegales)))))))))))
+

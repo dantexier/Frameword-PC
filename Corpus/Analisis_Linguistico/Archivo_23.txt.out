@@ -1,0 +1,628 @@
+Sentence #1 (21 tokens):
+La fracción evaporativa (FE) permite cuantificar la porción de la energía disponible usada en el proceso de evapotranspiración.
+[Text=La CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=fracción CharacterOffsetBegin=3 CharacterOffsetEnd=11 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=evaporativa CharacterOffsetBegin=12 CharacterOffsetEnd=23 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=24 CharacterOffsetEnd=25 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=FE CharacterOffsetBegin=25 CharacterOffsetEnd=27 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=27 CharacterOffsetEnd=28 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=permite CharacterOffsetBegin=29 CharacterOffsetEnd=36 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=cuantificar CharacterOffsetBegin=37 CharacterOffsetEnd=48 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=49 CharacterOffsetEnd=51 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=porción CharacterOffsetBegin=52 CharacterOffsetEnd=59 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=60 CharacterOffsetEnd=62 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=63 CharacterOffsetEnd=65 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=energía CharacterOffsetBegin=66 CharacterOffsetEnd=73 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=disponible CharacterOffsetBegin=74 CharacterOffsetEnd=84 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=usada CharacterOffsetBegin=85 CharacterOffsetEnd=90 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=91 CharacterOffsetEnd=93 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=94 CharacterOffsetEnd=96 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=proceso CharacterOffsetBegin=97 CharacterOffsetEnd=104 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=105 CharacterOffsetEnd=107 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=evapotranspiración CharacterOffsetBegin=108 CharacterOffsetEnd=126 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=126 CharacterOffsetEnd=127 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 La))
+      (grup.nom (nc0s000 fracción)
+        (s.a
+          (grup.a (aq0000 evaporativa)))
+        (sn
+          (grup.nom (fpa =LRB=) (np00000 FE) (fpt =RRB=)))))
+    (grup.verb (vmip000 permite))
+    (S
+      (infinitiu (vmn0000 cuantificar))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 porción)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 energía)
+                (s.a
+                  (grup.a (aq0000 disponible)))
+                (S
+                  (participi (aq0000 usada))
+                  (sp
+                    (prep (sp000 en))
+                    (sn
+                      (spec (da0000 el))
+                      (grup.nom (nc0s000 proceso)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (nc0s000 evapotranspiración))))))))))))))
+    (fp .)))
+
+Sentence #2 (45 tokens):
+Se obtuvo la distribución espacial de la FE para cinco tipos de cobertura: árboles, cultivos, pastizales, arbustos y suelo desnudo de cinco ecorregiones del centro-noroeste de la Argentina, usando productos del sensor MODIS-TERRA.
+[Text=Se CharacterOffsetBegin=128 CharacterOffsetEnd=130 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=obtuvo CharacterOffsetBegin=131 CharacterOffsetEnd=137 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=138 CharacterOffsetEnd=140 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=distribución CharacterOffsetBegin=141 CharacterOffsetEnd=153 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=espacial CharacterOffsetBegin=154 CharacterOffsetEnd=162 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=163 CharacterOffsetEnd=165 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=166 CharacterOffsetEnd=168 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=FE CharacterOffsetBegin=169 CharacterOffsetEnd=171 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=172 CharacterOffsetEnd=176 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cinco CharacterOffsetBegin=177 CharacterOffsetEnd=182 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=tipos CharacterOffsetBegin=183 CharacterOffsetEnd=188 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=189 CharacterOffsetEnd=191 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cobertura CharacterOffsetBegin=192 CharacterOffsetEnd=201 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=201 CharacterOffsetEnd=202 PartOfSpeech=fd NamedEntityTag=O]
+[Text=árboles CharacterOffsetBegin=203 CharacterOffsetEnd=210 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=210 CharacterOffsetEnd=211 PartOfSpeech=fc NamedEntityTag=O]
+[Text=cultivos CharacterOffsetBegin=212 CharacterOffsetEnd=220 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=220 CharacterOffsetEnd=221 PartOfSpeech=fc NamedEntityTag=O]
+[Text=pastizales CharacterOffsetBegin=222 CharacterOffsetEnd=232 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=232 CharacterOffsetEnd=233 PartOfSpeech=fc NamedEntityTag=O]
+[Text=arbustos CharacterOffsetBegin=234 CharacterOffsetEnd=242 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=243 CharacterOffsetEnd=244 PartOfSpeech=cc NamedEntityTag=O]
+[Text=suelo CharacterOffsetBegin=245 CharacterOffsetEnd=250 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=desnudo CharacterOffsetBegin=251 CharacterOffsetEnd=258 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=259 CharacterOffsetEnd=261 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cinco CharacterOffsetBegin=262 CharacterOffsetEnd=267 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=ecorregiones CharacterOffsetBegin=268 CharacterOffsetEnd=280 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=281 CharacterOffsetEnd=282 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=282 CharacterOffsetEnd=284 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=centro CharacterOffsetBegin=285 CharacterOffsetEnd=291 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=291 CharacterOffsetEnd=292 PartOfSpeech=fg NamedEntityTag=O]
+[Text=noroeste CharacterOffsetBegin=292 CharacterOffsetEnd=300 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=301 CharacterOffsetEnd=303 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=304 CharacterOffsetEnd=306 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=307 CharacterOffsetEnd=316 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=316 CharacterOffsetEnd=317 PartOfSpeech=fc NamedEntityTag=O]
+[Text=usando CharacterOffsetBegin=318 CharacterOffsetEnd=324 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=productos CharacterOffsetBegin=325 CharacterOffsetEnd=334 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=335 CharacterOffsetEnd=336 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=336 CharacterOffsetEnd=338 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=sensor CharacterOffsetBegin=339 CharacterOffsetEnd=345 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=MODIS CharacterOffsetBegin=346 CharacterOffsetEnd=351 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=- CharacterOffsetBegin=351 CharacterOffsetEnd=352 PartOfSpeech=fg NamedEntityTag=ORG]
+[Text=TERRA CharacterOffsetBegin=352 CharacterOffsetEnd=357 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=357 CharacterOffsetEnd=358 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmis000 obtuvo))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 distribución)
+        (s.a
+          (grup.a (aq0000 espacial)))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (np00000 FE)
+              (sp
+                (prep (sp000 para))
+                (sn
+                  (spec (dn0000 cinco))
+                  (grup.nom (nc0p000 tipos)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 cobertura))))))))))
+        (sn (fd :)
+          (grup.nom
+            (grup.nom (nc0p000 árboles))
+            (fc ,)
+            (grup.nom (nc0p000 cultivos))
+            (fc ,)
+            (grup.nom (nc0p000 pastizales))
+            (fc ,)
+            (grup.nom
+              (grup.nom (nc0p000 arbustos))
+              (conj (cc y))
+              (grup.nom (nc0s000 suelo)
+                (s.a
+                  (grup.a (aq0000 desnudo)))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (dn0000 cinco))
+                    (grup.nom (nc0p000 ecorregiones)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (da0000 el))
+                          (grup.nom (nc0s000 centro) (fg -) (nc0s000 noroeste)))))))))))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (np00000 Argentina)
+          (S (fc ,)
+            (gerundi (vmg0000 usando))
+            (sn
+              (grup.nom (nc0p000 productos)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 el))
+                    (grup.nom (nc0s000 sensor)
+                      (sn
+                        (grup.nom (np00000 MODIS) (fg -) (np00000 TERRA))))))))))))
+    (fp .)))
+
+Sentence #3 (30 tokens):
+FE se calculó mediante el método triangular según la relación entre la fracción de la cobertura de suelo (Fr) y la temperatura de superficie (Ts).
+[Text=FE CharacterOffsetBegin=359 CharacterOffsetEnd=361 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=362 CharacterOffsetEnd=364 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=calculó CharacterOffsetBegin=365 CharacterOffsetEnd=372 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=mediante CharacterOffsetBegin=373 CharacterOffsetEnd=381 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=382 CharacterOffsetEnd=384 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=método CharacterOffsetBegin=385 CharacterOffsetEnd=391 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=triangular CharacterOffsetBegin=392 CharacterOffsetEnd=402 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=según CharacterOffsetBegin=403 CharacterOffsetEnd=408 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=409 CharacterOffsetEnd=411 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=relación CharacterOffsetBegin=412 CharacterOffsetEnd=420 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=421 CharacterOffsetEnd=426 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=427 CharacterOffsetEnd=429 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=fracción CharacterOffsetBegin=430 CharacterOffsetEnd=438 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=439 CharacterOffsetEnd=441 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=442 CharacterOffsetEnd=444 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=cobertura CharacterOffsetBegin=445 CharacterOffsetEnd=454 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=455 CharacterOffsetEnd=457 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=suelo CharacterOffsetBegin=458 CharacterOffsetEnd=463 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=464 CharacterOffsetEnd=465 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Fr CharacterOffsetBegin=465 CharacterOffsetEnd=467 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=467 CharacterOffsetEnd=468 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=469 CharacterOffsetEnd=470 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=471 CharacterOffsetEnd=473 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=temperatura CharacterOffsetBegin=474 CharacterOffsetEnd=485 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=486 CharacterOffsetEnd=488 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=superficie CharacterOffsetBegin=489 CharacterOffsetEnd=499 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=500 CharacterOffsetEnd=501 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=Ts CharacterOffsetBegin=501 CharacterOffsetEnd=503 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=503 CharacterOffsetEnd=504 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=504 CharacterOffsetEnd=505 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (nc0s000 FE)))
+    (morfema.pronominal (p0000000 se))
+    (grup.verb (vmis000 calculó))
+    (sp
+      (prep (sp000 mediante))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 método)
+          (s.a
+            (grup.a (aq0000 triangular))))))
+    (sp
+      (prep (sp000 según))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 relación)
+          (sp
+            (prep (sp000 entre))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 fracción)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (nc0s000 cobertura)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (nc0s000 suelo))))
+                        (sn (fpa =LRB=)
+                          (grup.nom (np00000 Fr))
+                          (fpt =RRB=))))
+                    (conj (cc y))
+                    (sn
+                      (spec (da0000 la))
+                      (grup.nom (nc0s000 temperatura)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (nc0s000 superficie))))
+                        (sn (fpa =LRB=)
+                          (grup.nom (np00000 Ts))
+                          (fpt =RRB=))))))))))))
+    (fp .)))
+
+Sentence #4 (12 tokens):
+Ambas variables fueron correlacionadas para cada tipo de cobertura por ecorregión.
+[Text=Ambas CharacterOffsetBegin=506 CharacterOffsetEnd=511 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=variables CharacterOffsetBegin=512 CharacterOffsetEnd=521 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=fueron CharacterOffsetBegin=522 CharacterOffsetEnd=528 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=correlacionadas CharacterOffsetBegin=529 CharacterOffsetEnd=544 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=545 CharacterOffsetEnd=549 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cada CharacterOffsetBegin=550 CharacterOffsetEnd=554 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=tipo CharacterOffsetBegin=555 CharacterOffsetEnd=559 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=560 CharacterOffsetEnd=562 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cobertura CharacterOffsetBegin=563 CharacterOffsetEnd=572 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=573 CharacterOffsetEnd=576 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ecorregión CharacterOffsetBegin=577 CharacterOffsetEnd=587 PartOfSpeech=nc00000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=587 CharacterOffsetEnd=588 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (dn0000 Ambas))
+      (grup.nom (nc0p000 variables)))
+    (grup.verb (vsis000 fueron) (vmp0000 correlacionadas))
+    (sp
+      (prep (sp000 para))
+      (sn
+        (spec (di0000 cada))
+        (grup.nom (nc0s000 tipo)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 cobertura)))))))
+    (sp
+      (prep (sp000 por))
+      (sn
+        (grup.nom (nc00000 ecorregión))))
+    (fp .)))
+
+Sentence #5 (47 tokens):
+Fr y Ts están inversamente asociadas, y diferentes coberturas por ecorregiones mostraron cambios en la pendiente de la recta entre ambas variables debido a cambios en el porcentaje y el tipo de cobertura, en los gradientes pluviométricos y en la estructura de la vegetación.
+[Text=Fr CharacterOffsetBegin=589 CharacterOffsetEnd=591 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=592 CharacterOffsetEnd=593 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Ts CharacterOffsetBegin=594 CharacterOffsetEnd=596 PartOfSpeech=pi000000 NamedEntityTag=O]
+[Text=están CharacterOffsetBegin=597 CharacterOffsetEnd=602 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=inversamente CharacterOffsetBegin=603 CharacterOffsetEnd=615 PartOfSpeech=rg NamedEntityTag=O]
+[Text=asociadas CharacterOffsetBegin=616 CharacterOffsetEnd=625 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=625 CharacterOffsetEnd=626 PartOfSpeech=fc NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=627 CharacterOffsetEnd=628 PartOfSpeech=cc NamedEntityTag=O]
+[Text=diferentes CharacterOffsetBegin=629 CharacterOffsetEnd=639 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=coberturas CharacterOffsetBegin=640 CharacterOffsetEnd=650 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=651 CharacterOffsetEnd=654 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ecorregiones CharacterOffsetBegin=655 CharacterOffsetEnd=667 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=mostraron CharacterOffsetBegin=668 CharacterOffsetEnd=677 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=cambios CharacterOffsetBegin=678 CharacterOffsetEnd=685 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=686 CharacterOffsetEnd=688 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=689 CharacterOffsetEnd=691 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pendiente CharacterOffsetBegin=692 CharacterOffsetEnd=701 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=702 CharacterOffsetEnd=704 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=705 CharacterOffsetEnd=707 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=recta CharacterOffsetBegin=708 CharacterOffsetEnd=713 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=714 CharacterOffsetEnd=719 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ambas CharacterOffsetBegin=720 CharacterOffsetEnd=725 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=variables CharacterOffsetBegin=726 CharacterOffsetEnd=735 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=debido CharacterOffsetBegin=736 CharacterOffsetEnd=742 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=743 CharacterOffsetEnd=744 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cambios CharacterOffsetBegin=745 CharacterOffsetEnd=752 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=753 CharacterOffsetEnd=755 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=756 CharacterOffsetEnd=758 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=porcentaje CharacterOffsetBegin=759 CharacterOffsetEnd=769 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=770 CharacterOffsetEnd=771 PartOfSpeech=cc NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=772 CharacterOffsetEnd=774 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tipo CharacterOffsetBegin=775 CharacterOffsetEnd=779 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=780 CharacterOffsetEnd=782 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cobertura CharacterOffsetBegin=783 CharacterOffsetEnd=792 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=792 CharacterOffsetEnd=793 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=794 CharacterOffsetEnd=796 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=797 CharacterOffsetEnd=800 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=gradientes CharacterOffsetBegin=801 CharacterOffsetEnd=811 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=pluviométricos CharacterOffsetBegin=812 CharacterOffsetEnd=826 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=827 CharacterOffsetEnd=828 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=829 CharacterOffsetEnd=831 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=832 CharacterOffsetEnd=834 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=estructura CharacterOffsetBegin=835 CharacterOffsetEnd=845 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=846 CharacterOffsetEnd=848 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=849 CharacterOffsetEnd=851 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=vegetación CharacterOffsetBegin=852 CharacterOffsetEnd=862 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=862 CharacterOffsetEnd=863 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (grup.nom
+          (grup.nom (pp000000 Fr))
+          (conj (cc y))
+          (grup.nom (pi000000 Ts))))
+      (grup.verb (vmip000 están))
+      (S
+        (sadv
+          (grup.adv (rg inversamente)))
+        (participi (aq0000 asociadas)))
+      (fc ,))
+    (conj (cc y))
+    (S
+      (sn
+        (spec (di0000 diferentes))
+        (grup.nom (nc0p000 coberturas)
+          (sp
+            (prep (sp000 por))
+            (sn
+              (grup.nom (nc0p000 ecorregiones))))))
+      (grup.verb (vmis000 mostraron))
+      (sn
+        (grup.nom (nc0p000 cambios)
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 pendiente)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 la))
+                    (grup.nom (nc0s000 recta)
+                      (sp
+                        (prep (sp000 entre))
+                        (sn
+                          (spec (dn0000 ambas))
+                          (grup.nom (nc0p000 variables))))))))))))
+      (sp
+        (prep
+          (grup.prep (vmp0000 debido) (sp000 a)))
+        (sn
+          (grup.nom (nc0p000 cambios)
+            (sp
+              (prep (sp000 en))
+              (sn
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 porcentaje)))
+                (conj (cc y))
+                (sn
+                  (spec (da0000 el))
+                  (grup.nom (nc0s000 tipo)
+                    (sp
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (grup.nom (nc0s000 cobertura))))
+                      (fc ,)
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (spec (da0000 los))
+                          (grup.nom (nc0p000 gradientes)
+                            (s.a
+                              (grup.a (aq0000 pluviométricos))))))
+                      (conj (cc y))
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom (nc0s000 estructura)
+                            (sp
+                              (prep (sp000 de))
+                              (sn
+                                (spec (da0000 la))
+                                (grup.nom (nc0s000 vegetación))))))))))))))))
+    (fp .)))
+
+Sentence #6 (29 tokens):
+Los valores medios de Fr y FE por ecorregiones y tipo de cobertura fueron procesados mediante el análisis de la varianza y por comparaciones múltiples de Fisher.
+[Text=Los CharacterOffsetBegin=864 CharacterOffsetEnd=867 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=valores CharacterOffsetBegin=868 CharacterOffsetEnd=875 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=medid CharacterOffsetBegin=876 CharacterOffsetEnd=880 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=os CharacterOffsetBegin=880 CharacterOffsetEnd=882 PartOfSpeech=pp000000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=883 CharacterOffsetEnd=885 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Fr CharacterOffsetBegin=886 CharacterOffsetEnd=888 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=889 CharacterOffsetEnd=890 PartOfSpeech=cc NamedEntityTag=O]
+[Text=FE CharacterOffsetBegin=891 CharacterOffsetEnd=893 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=894 CharacterOffsetEnd=897 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ecorregiones CharacterOffsetBegin=898 CharacterOffsetEnd=910 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=911 CharacterOffsetEnd=912 PartOfSpeech=cc NamedEntityTag=O]
+[Text=tipo CharacterOffsetBegin=913 CharacterOffsetEnd=917 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=918 CharacterOffsetEnd=920 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cobertura CharacterOffsetBegin=921 CharacterOffsetEnd=930 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=fueron CharacterOffsetBegin=931 CharacterOffsetEnd=937 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=procesados CharacterOffsetBegin=938 CharacterOffsetEnd=948 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=mediante CharacterOffsetBegin=949 CharacterOffsetEnd=957 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=958 CharacterOffsetEnd=960 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=análisis CharacterOffsetBegin=961 CharacterOffsetEnd=969 PartOfSpeech=nc0n000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=970 CharacterOffsetEnd=972 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=973 CharacterOffsetEnd=975 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=varianza CharacterOffsetBegin=976 CharacterOffsetEnd=984 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=985 CharacterOffsetEnd=986 PartOfSpeech=cc NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=987 CharacterOffsetEnd=990 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=comparaciones CharacterOffsetBegin=991 CharacterOffsetEnd=1004 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=múltiples CharacterOffsetBegin=1005 CharacterOffsetEnd=1014 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1015 CharacterOffsetEnd=1017 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Fisher CharacterOffsetBegin=1018 CharacterOffsetEnd=1024 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=. CharacterOffsetBegin=1024 CharacterOffsetEnd=1025 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Los))
+      (grup.nom (nc0p000 valores)
+        (sn
+          (grup.nom
+            (s.a
+              (grup.a (aq0000 medid)))
+            (pp000000 os)))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom
+              (grup.nom (np00000 Fr))
+              (conj (cc y))
+              (grup.nom
+                (grup.nom (np00000 FE)
+                  (sp
+                    (prep (sp000 por))
+                    (sn
+                      (grup.nom (nc0p000 ecorregiones)))))
+                (conj (cc y))
+                (grup.nom (nc0s000 tipo)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0s000 cobertura)))))))))))
+    (grup.verb (vmis000 fueron))
+    (S
+      (participi (aq0000 procesados))
+      (sp
+        (sp
+          (prep (sp000 mediante))
+          (sn
+            (spec (da0000 el))
+            (grup.nom (nc0n000 análisis)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 varianza)))))))
+        (conj (cc y))
+        (sp
+          (prep (sp000 por))
+          (sn
+            (grup.nom (nc0p000 comparaciones)
+              (S
+                (participi (aq0000 múltiples))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (np00000 Fisher))))))))))
+    (fp .)))
+
+Sentence #7 (30 tokens):
+Existen diferencias estadísticas significativas en las variables Fr y FE según el tipo de cobertura, y la ecorregión y la relación entre Fr y FE no es lineal.
+[Text=Existen CharacterOffsetBegin=1026 CharacterOffsetEnd=1033 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=diferencias CharacterOffsetBegin=1034 CharacterOffsetEnd=1045 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=estadísticas CharacterOffsetBegin=1046 CharacterOffsetEnd=1058 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=significativas CharacterOffsetBegin=1059 CharacterOffsetEnd=1073 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1074 CharacterOffsetEnd=1076 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=1077 CharacterOffsetEnd=1080 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=variables CharacterOffsetBegin=1081 CharacterOffsetEnd=1090 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=Fr CharacterOffsetBegin=1091 CharacterOffsetEnd=1093 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=1094 CharacterOffsetEnd=1095 PartOfSpeech=cc NamedEntityTag=O]
+[Text=FE CharacterOffsetBegin=1096 CharacterOffsetEnd=1098 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=según CharacterOffsetBegin=1099 CharacterOffsetEnd=1104 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=1105 CharacterOffsetEnd=1107 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tipo CharacterOffsetBegin=1108 CharacterOffsetEnd=1112 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1113 CharacterOffsetEnd=1115 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cobertura CharacterOffsetBegin=1116 CharacterOffsetEnd=1125 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1125 CharacterOffsetEnd=1126 PartOfSpeech=fc NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1127 CharacterOffsetEnd=1128 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1129 CharacterOffsetEnd=1131 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ecorregión CharacterOffsetBegin=1132 CharacterOffsetEnd=1142 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1143 CharacterOffsetEnd=1144 PartOfSpeech=cc NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1145 CharacterOffsetEnd=1147 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=relación CharacterOffsetBegin=1148 CharacterOffsetEnd=1156 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=1157 CharacterOffsetEnd=1162 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Fr CharacterOffsetBegin=1163 CharacterOffsetEnd=1165 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=1166 CharacterOffsetEnd=1167 PartOfSpeech=cc NamedEntityTag=O]
+[Text=FE CharacterOffsetBegin=1168 CharacterOffsetEnd=1170 PartOfSpeech=np00000 NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=1171 CharacterOffsetEnd=1173 PartOfSpeech=rn NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=1174 CharacterOffsetEnd=1176 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=lineal CharacterOffsetBegin=1177 CharacterOffsetEnd=1183 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1183 CharacterOffsetEnd=1184 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (grup.verb (vmip000 Existen))
+      (sn
+        (sn
+          (sn
+            (grup.nom (nc0p000 diferencias)))
+          (sn
+            (grup.nom (nc0p000 estadísticas)
+              (s.a
+                (grup.a (aq0000 significativas)))
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (spec (da0000 las))
+                  (grup.nom (nc0p000 variables) (np00000 Fr)))))))
+        (conj (cc y))
+        (sn
+          (grup.nom (nc0s000 FE)
+            (sp
+              (prep (sp000 según))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 tipo)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0s000 cobertura))))))))))
+      (fc ,))
+    (conj (cc y))
+    (S
+      (sn
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 ecorregión)))
+        (conj (cc y))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 relación)
+            (sp
+              (prep (sp000 entre))
+              (sn
+                (grup.nom
+                  (grup.nom (np00000 Fr))
+                  (conj (cc y))
+                  (grup.nom (np00000 FE))))))))
+      (neg (rn no))
+      (grup.verb (vsip000 es))
+      (s.a
+        (grup.a (aq0000 lineal))))
+    (fp .)))
+
+Sentence #8 (13 tokens):
+Finalmente, se generó un mapa con la distribución espacial de la FE
+[Text=Finalmente CharacterOffsetBegin=1185 CharacterOffsetEnd=1195 PartOfSpeech=rg NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1195 CharacterOffsetEnd=1196 PartOfSpeech=fc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=1197 CharacterOffsetEnd=1199 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=generó CharacterOffsetBegin=1200 CharacterOffsetEnd=1206 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=1207 CharacterOffsetEnd=1209 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=mapa CharacterOffsetBegin=1210 CharacterOffsetEnd=1214 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=1215 CharacterOffsetEnd=1218 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1219 CharacterOffsetEnd=1221 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=distribución CharacterOffsetBegin=1222 CharacterOffsetEnd=1234 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=espacial CharacterOffsetBegin=1235 CharacterOffsetEnd=1243 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1244 CharacterOffsetEnd=1246 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1247 CharacterOffsetEnd=1249 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=FE CharacterOffsetBegin=1250 CharacterOffsetEnd=1252 PartOfSpeech=np00000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sadv
+        (grup.adv (rg Finalmente)))
+      (fc ,))
+    (S
+      (morfema.pronominal (p0000000 se))
+      (grup.verb (vmis000 generó))
+      (sn
+        (spec (di0000 un))
+        (grup.nom (nc0s000 mapa)))
+      (sp
+        (prep (sp000 con))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 distribución)
+            (s.a
+              (grup.a (aq0000 espacial))))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (np00000 FE)))))))
+

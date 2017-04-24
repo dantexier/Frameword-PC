@@ -1,0 +1,463 @@
+Sentence #1 (38 tokens):
+Se estudió la influencia del tamaño de los bulbos de cebolla sobre las tasas de brotación y pérdida de peso en poscosecha, en experimentos con cultivares de diferente precocidad y bajo temperaturas de almacenamiento contrastantes.
+[Text=Se CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=estudió CharacterOffsetBegin=3 CharacterOffsetEnd=10 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=11 CharacterOffsetEnd=13 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=influencia CharacterOffsetBegin=14 CharacterOffsetEnd=24 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=25 CharacterOffsetEnd=26 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=26 CharacterOffsetEnd=28 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tamaño CharacterOffsetBegin=29 CharacterOffsetEnd=35 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=36 CharacterOffsetEnd=38 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=39 CharacterOffsetEnd=42 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=bulbos CharacterOffsetBegin=43 CharacterOffsetEnd=49 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=50 CharacterOffsetEnd=52 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cebolla CharacterOffsetBegin=53 CharacterOffsetEnd=60 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=61 CharacterOffsetEnd=66 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=67 CharacterOffsetEnd=70 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tasas CharacterOffsetBegin=71 CharacterOffsetEnd=76 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=77 CharacterOffsetEnd=79 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=brotación CharacterOffsetBegin=80 CharacterOffsetEnd=89 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=90 CharacterOffsetEnd=91 PartOfSpeech=cc NamedEntityTag=O]
+[Text=pérdida CharacterOffsetBegin=92 CharacterOffsetEnd=99 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=100 CharacterOffsetEnd=102 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=peso CharacterOffsetBegin=103 CharacterOffsetEnd=107 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=108 CharacterOffsetEnd=110 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=poscosecha CharacterOffsetBegin=111 CharacterOffsetEnd=121 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=121 CharacterOffsetEnd=122 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=123 CharacterOffsetEnd=125 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=experimentos CharacterOffsetBegin=126 CharacterOffsetEnd=138 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=139 CharacterOffsetEnd=142 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cultivares CharacterOffsetBegin=143 CharacterOffsetEnd=153 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=154 CharacterOffsetEnd=156 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=diferente CharacterOffsetBegin=157 CharacterOffsetEnd=166 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=precocidad CharacterOffsetBegin=167 CharacterOffsetEnd=177 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=178 CharacterOffsetEnd=179 PartOfSpeech=cc NamedEntityTag=O]
+[Text=bajo CharacterOffsetBegin=180 CharacterOffsetEnd=184 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=temperaturas CharacterOffsetBegin=185 CharacterOffsetEnd=197 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=198 CharacterOffsetEnd=200 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=almacenamiento CharacterOffsetBegin=201 CharacterOffsetEnd=215 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=contrastantes CharacterOffsetBegin=216 CharacterOffsetEnd=229 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=229 CharacterOffsetEnd=230 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmis000 estudió))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 influencia)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 el))
+            (grup.nom
+              (grup.nom
+                (grup.nom (nc0s000 tamaño)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (spec (da0000 los))
+                      (grup.nom (nc0p000 bulbos)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (grup.nom (nc0s000 cebolla)
+                              (sp
+                                (prep (sp000 sobre))
+                                (sn
+                                  (spec (da0000 las))
+                                  (grup.nom (nc0p000 tasas)
+                                    (sp
+                                      (prep (sp000 de))
+                                      (sn
+                                        (grup.nom (nc0s000 brotación))))))))))))))
+                (conj (cc y))
+                (grup.nom (nc0s000 pérdida)
+                  (sp
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 peso)
+                          (sp
+                            (prep (sp000 en))
+                            (s.a
+                              (grup.a (aq0000 poscosecha)))))))
+                    (fc ,)
+                    (sp
+                      (prep (sp000 en))
+                      (sn
+                        (grup.nom (nc0p000 experimentos)
+                          (sp
+                            (prep (sp000 con))
+                            (sn
+                              (grup.nom (nc0p000 cultivares)
+                                (sp
+                                  (prep (sp000 de))
+                                  (sn
+                                    (grup.nom
+                                      (s.a
+                                        (grup.a (aq0000 diferente)))
+                                      (nc0s000 precocidad))))))))))
+                    (conj (cc y))
+                    (sp
+                      (prep (sp000 bajo))
+                      (sn
+                        (grup.nom (nc0p000 temperaturas)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (nc0s000 almacenamiento))))))))))
+              (S
+                (participi (aq0000 contrastantes))))))))
+    (fp .)))
+
+Sentence #2 (48 tokens):
+El período de dormición de los bulbos chicos no difirió respecto de la de los bulbos de calibre grande, mientras que la pérdida de peso de aquellos fue superior a la de los bulbos grandes, en relación directa con su mayor cociente superficie:volumen.
+[Text=El CharacterOffsetBegin=231 CharacterOffsetEnd=233 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=período CharacterOffsetBegin=234 CharacterOffsetEnd=241 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=242 CharacterOffsetEnd=244 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=dormición CharacterOffsetBegin=245 CharacterOffsetEnd=254 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=255 CharacterOffsetEnd=257 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=258 CharacterOffsetEnd=261 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=bulbos CharacterOffsetBegin=262 CharacterOffsetEnd=268 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=chicos CharacterOffsetBegin=269 CharacterOffsetEnd=275 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=276 CharacterOffsetEnd=278 PartOfSpeech=rn NamedEntityTag=O]
+[Text=difirió CharacterOffsetBegin=279 CharacterOffsetEnd=286 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=respecto CharacterOffsetBegin=287 CharacterOffsetEnd=295 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=296 CharacterOffsetEnd=298 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=299 CharacterOffsetEnd=301 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=302 CharacterOffsetEnd=304 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=305 CharacterOffsetEnd=308 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=bulbos CharacterOffsetBegin=309 CharacterOffsetEnd=315 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=316 CharacterOffsetEnd=318 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=calibre CharacterOffsetBegin=319 CharacterOffsetEnd=326 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=grande CharacterOffsetBegin=327 CharacterOffsetEnd=333 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=333 CharacterOffsetEnd=334 PartOfSpeech=fc NamedEntityTag=O]
+[Text=mientras CharacterOffsetBegin=335 CharacterOffsetEnd=343 PartOfSpeech=cs NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=344 CharacterOffsetEnd=347 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=348 CharacterOffsetEnd=350 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pérdida CharacterOffsetBegin=351 CharacterOffsetEnd=358 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=359 CharacterOffsetEnd=361 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=peso CharacterOffsetBegin=362 CharacterOffsetEnd=366 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=367 CharacterOffsetEnd=369 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=aquellos CharacterOffsetBegin=370 CharacterOffsetEnd=378 PartOfSpeech=pd000000 NamedEntityTag=O]
+[Text=fue CharacterOffsetBegin=379 CharacterOffsetEnd=382 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=superior CharacterOffsetBegin=383 CharacterOffsetEnd=391 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=392 CharacterOffsetEnd=393 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=394 CharacterOffsetEnd=396 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=397 CharacterOffsetEnd=399 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=400 CharacterOffsetEnd=403 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=bulbos CharacterOffsetBegin=404 CharacterOffsetEnd=410 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=grandes CharacterOffsetBegin=411 CharacterOffsetEnd=418 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=418 CharacterOffsetEnd=419 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=420 CharacterOffsetEnd=422 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=relación CharacterOffsetBegin=423 CharacterOffsetEnd=431 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=directa CharacterOffsetBegin=432 CharacterOffsetEnd=439 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=440 CharacterOffsetEnd=443 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=444 CharacterOffsetEnd=446 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=mayor CharacterOffsetBegin=447 CharacterOffsetEnd=452 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=cociente CharacterOffsetBegin=453 CharacterOffsetEnd=461 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=superficie CharacterOffsetBegin=462 CharacterOffsetEnd=472 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=472 CharacterOffsetEnd=473 PartOfSpeech=fd NamedEntityTag=O]
+[Text=volumen CharacterOffsetBegin=473 CharacterOffsetEnd=480 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=480 CharacterOffsetEnd=481 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (da0000 El))
+        (grup.nom (nc0s000 período)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 dormición))))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 los))
+          (grup.nom (nc0p000 bulbos)
+            (s.a
+              (grup.a (nc0p000 chicos))))))
+      (neg (rn no))
+      (grup.verb (vmis000 difirió))
+      (sn
+        (grup.nom (nc0s000 respecto)))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 la))
+          (grup.nom
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 los))
+                (grup.nom (nc0p000 bulbos)
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (nc0s000 calibre)
+                        (s.a
+                          (grup.a (aq0000 grande)))))))))))
+        (fc ,)))
+    (conj
+      (grup.cc (cs mientras) (pr000000 que)))
+    (S
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 pérdida)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 peso)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom (pd000000 aquellos)))))))))
+      (grup.verb (vsis000 fue))
+      (s.a
+        (grup.a (aq0000 superior)
+          (sp
+            (prep (sp000 a))
+            (sn
+              (spec (da0000 la))
+              (grup.nom
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 los))
+                    (grup.nom (nc0p000 bulbos)
+                      (s.a
+                        (grup.a (aq0000 grandes)))
+                      (sp (fc ,)
+                        (prep (sp000 en))
+                        (sn
+                          (grup.nom (nc0s000 relación))))
+                      (S
+                        (participi (aq0000 directa))
+                        (sp
+                          (prep (sp000 con))
+                          (sn
+                            (spec (dp0000 su))
+                            (grup.nom
+                              (s.a
+                                (grup.a (aq0000 mayor)))
+                              (nc0s000 cociente)
+                              (sn
+                                (grup.nom (nc0s000 superficie)))
+                              (sn (fd :)
+                                (grup.nom (nc0s000 volumen))))))))))))))))
+    (fp .)))
+
+Sentence #3 (39 tokens):
+El incremento en las pérdidas de peso atribuible al tamaño pequeño de bulbos fue importante bajo condiciones de almacenamiento comercial (no refrigerada), en períodos prolongados de almacenamiento, o en cultivares de ciclo corto.
+[Text=El CharacterOffsetBegin=482 CharacterOffsetEnd=484 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=incremento CharacterOffsetBegin=485 CharacterOffsetEnd=495 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=496 CharacterOffsetEnd=498 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=499 CharacterOffsetEnd=502 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=pérdidas CharacterOffsetBegin=503 CharacterOffsetEnd=511 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=512 CharacterOffsetEnd=514 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=peso CharacterOffsetBegin=515 CharacterOffsetEnd=519 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=atribuible CharacterOffsetBegin=520 CharacterOffsetEnd=530 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=531 CharacterOffsetEnd=532 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=532 CharacterOffsetEnd=533 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=tamaño CharacterOffsetBegin=534 CharacterOffsetEnd=540 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=pequeño CharacterOffsetBegin=541 CharacterOffsetEnd=548 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=549 CharacterOffsetEnd=551 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=bulbos CharacterOffsetBegin=552 CharacterOffsetEnd=558 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=fue CharacterOffsetBegin=559 CharacterOffsetEnd=562 PartOfSpeech=vsis000 NamedEntityTag=O]
+[Text=importante CharacterOffsetBegin=563 CharacterOffsetEnd=573 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=bajo CharacterOffsetBegin=574 CharacterOffsetEnd=578 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=condiciones CharacterOffsetBegin=579 CharacterOffsetEnd=590 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=591 CharacterOffsetEnd=593 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=almacenamiento CharacterOffsetBegin=594 CharacterOffsetEnd=608 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=comercial CharacterOffsetBegin=609 CharacterOffsetEnd=618 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==LRB= CharacterOffsetBegin=619 CharacterOffsetEnd=620 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=620 CharacterOffsetEnd=622 PartOfSpeech=rn NamedEntityTag=O]
+[Text=refrigerada CharacterOffsetBegin=623 CharacterOffsetEnd=634 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text==RRB= CharacterOffsetBegin=634 CharacterOffsetEnd=635 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=635 CharacterOffsetEnd=636 PartOfSpeech=fc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=637 CharacterOffsetEnd=639 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=períodos CharacterOffsetBegin=640 CharacterOffsetEnd=648 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=prolongados CharacterOffsetBegin=649 CharacterOffsetEnd=660 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=661 CharacterOffsetEnd=663 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=almacenamiento CharacterOffsetBegin=664 CharacterOffsetEnd=678 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=678 CharacterOffsetEnd=679 PartOfSpeech=fc NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=680 CharacterOffsetEnd=681 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=682 CharacterOffsetEnd=684 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cultivares CharacterOffsetBegin=685 CharacterOffsetEnd=695 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=696 CharacterOffsetEnd=698 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=ciclo CharacterOffsetBegin=699 CharacterOffsetEnd=704 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=corto CharacterOffsetBegin=705 CharacterOffsetEnd=710 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=710 CharacterOffsetEnd=711 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 incremento)
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 las))
+            (grup.nom (nc0p000 pérdidas)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 peso)
+                    (s.a
+                      (grup.a (aq0000 atribuible)))
+                    (sp
+                      (prep (sp000 a))
+                      (sn
+                        (spec (da0000 el))
+                        (grup.nom (nc0s000 tamaño)
+                          (s.a
+                            (grup.a (aq0000 pequeño)))
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (nc0p000 bulbos)))))))))))))))
+    (grup.verb (vsis000 fue))
+    (s.a
+      (grup.a (aq0000 importante)))
+    (sp
+      (prep (sp000 bajo))
+      (sn
+        (grup.nom (nc0p000 condiciones))))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (grup.nom (nc0s000 almacenamiento)
+          (s.a
+            (grup.a (aq0000 comercial)))
+          (S (fpa =LRB=)
+            (neg (rn no))
+            (participi (aq0000 refrigerada))
+            (fpt =RRB=)))))
+    (sp (fc ,)
+      (prep (sp000 en))
+      (sn
+        (grup.nom (nc0p000 períodos)
+          (S
+            (participi (aq0000 prolongados))
+            (sp
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 almacenamiento)))
+                (fc ,))
+              (conj (cc o))
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (grup.nom (nc0p000 cultivares)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom (nc0s000 ciclo)
+                          (s.a
+                            (grup.a (aq0000 corto))))))))))))))
+    (fp .)))
+
+Sentence #4 (36 tokens):
+Esto sugiere la conveniencia de la clasificación de bulbos con el fin de efectuar la comercialización anticipada de los de menor calibre, especialmente para las situaciones antedichas o en cultivos destinados a la exportación.
+[Text=Esto CharacterOffsetBegin=712 CharacterOffsetEnd=716 PartOfSpeech=pd000000 NamedEntityTag=O]
+[Text=sugiere CharacterOffsetBegin=717 CharacterOffsetEnd=724 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=725 CharacterOffsetEnd=727 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=conveniencia CharacterOffsetBegin=728 CharacterOffsetEnd=740 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=741 CharacterOffsetEnd=743 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=744 CharacterOffsetEnd=746 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=clasificación CharacterOffsetBegin=747 CharacterOffsetEnd=760 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=761 CharacterOffsetEnd=763 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=bulbos CharacterOffsetBegin=764 CharacterOffsetEnd=770 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=771 CharacterOffsetEnd=774 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=775 CharacterOffsetEnd=777 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=fin CharacterOffsetBegin=778 CharacterOffsetEnd=781 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=782 CharacterOffsetEnd=784 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=efectuar CharacterOffsetBegin=785 CharacterOffsetEnd=793 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=794 CharacterOffsetEnd=796 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=comercialización CharacterOffsetBegin=797 CharacterOffsetEnd=813 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=anticipada CharacterOffsetBegin=814 CharacterOffsetEnd=824 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=825 CharacterOffsetEnd=827 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=828 CharacterOffsetEnd=831 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=832 CharacterOffsetEnd=834 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=menor CharacterOffsetBegin=835 CharacterOffsetEnd=840 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=calibre CharacterOffsetBegin=841 CharacterOffsetEnd=848 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=848 CharacterOffsetEnd=849 PartOfSpeech=fc NamedEntityTag=O]
+[Text=especialmente CharacterOffsetBegin=850 CharacterOffsetEnd=863 PartOfSpeech=rg NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=864 CharacterOffsetEnd=868 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=869 CharacterOffsetEnd=872 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=situaciones CharacterOffsetBegin=873 CharacterOffsetEnd=884 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=antedichas CharacterOffsetBegin=885 CharacterOffsetEnd=895 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=o CharacterOffsetBegin=896 CharacterOffsetEnd=897 PartOfSpeech=cc NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=898 CharacterOffsetEnd=900 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=cultivos CharacterOffsetBegin=901 CharacterOffsetEnd=909 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=destinados CharacterOffsetBegin=910 CharacterOffsetEnd=920 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=921 CharacterOffsetEnd=922 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=923 CharacterOffsetEnd=925 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=exportación CharacterOffsetBegin=926 CharacterOffsetEnd=937 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=937 CharacterOffsetEnd=938 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (pd000000 Esto)))
+    (grup.verb (vmip000 sugiere))
+    (sn
+      (spec (da0000 la))
+      (grup.nom (nc0s000 conveniencia)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 clasificación)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0p000 bulbos)))))))))
+    (sp
+      (prep (sp000 con))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 fin))))
+    (sp
+      (prep (sp000 de))
+      (S
+        (infinitiu (vmn0000 efectuar))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 comercialización)
+            (S
+              (participi (aq0000 anticipada))
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (spec (da0000 los))
+                  (grup.nom
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom
+                          (s.a
+                            (grup.a (aq0000 menor)))
+                          (nc0s000 calibre))))))))))))
+    (sp (fc ,)
+      (conj (rg especialmente))
+      (sp
+        (prep (sp000 para))
+        (sn
+          (spec (da0000 las))
+          (grup.nom (nc0p000 situaciones)
+            (s.a
+              (grup.a (aq0000 antedichas))))))
+      (conj (cc o))
+      (sp
+        (prep (sp000 en))
+        (sn
+          (grup.nom (nc0p000 cultivos)
+            (S
+              (participi (aq0000 destinados))
+              (sp
+                (prep (sp000 a))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 exportación)))))))))
+    (fp .)))
+

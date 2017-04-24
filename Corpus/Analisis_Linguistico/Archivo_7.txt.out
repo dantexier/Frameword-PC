@@ -1,0 +1,729 @@
+Sentence #1 (21 tokens):
+El monte de sierras y bolsones es uno de los ambientes áridos menos explorado a nivel de especies de aves.
+[Text=El CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=monte CharacterOffsetBegin=3 CharacterOffsetEnd=8 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=9 CharacterOffsetEnd=11 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=sierras CharacterOffsetBegin=12 CharacterOffsetEnd=19 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=20 CharacterOffsetEnd=21 PartOfSpeech=cc NamedEntityTag=O]
+[Text=bolsones CharacterOffsetBegin=22 CharacterOffsetEnd=30 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=31 CharacterOffsetEnd=33 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=uno CharacterOffsetBegin=34 CharacterOffsetEnd=37 PartOfSpeech=pi000000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=38 CharacterOffsetEnd=40 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=41 CharacterOffsetEnd=44 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=ambientes CharacterOffsetBegin=45 CharacterOffsetEnd=54 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=áridos CharacterOffsetBegin=55 CharacterOffsetEnd=61 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=menos CharacterOffsetBegin=62 CharacterOffsetEnd=67 PartOfSpeech=rg NamedEntityTag=O]
+[Text=explorado CharacterOffsetBegin=68 CharacterOffsetEnd=77 PartOfSpeech=vmp0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=78 CharacterOffsetEnd=79 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nivel CharacterOffsetBegin=80 CharacterOffsetEnd=85 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=86 CharacterOffsetEnd=88 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=89 CharacterOffsetEnd=97 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=98 CharacterOffsetEnd=100 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=aves CharacterOffsetBegin=101 CharacterOffsetEnd=105 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=105 CharacterOffsetEnd=106 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 monte)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom
+              (grup.nom (nc0p000 sierras))
+              (conj (cc y))
+              (grup.nom (nc0p000 bolsones)))))))
+    (grup.verb (vsip000 es))
+    (S
+      (sn
+        (grup.nom (pi000000 uno)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 los))
+              (grup.nom (nc0p000 ambientes)
+                (s.a
+                  (grup.a (aq0000 áridos))))))))
+      (sadv
+        (grup.adv (rg menos)))
+      (grup.verb (vmp0000 explorado))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (grup.nom (nc0s000 nivel))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom (nc0p000 especies)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom (nc0p000 aves))))))))
+    (fp .)))
+
+Sentence #2 (30 tokens):
+Asthenes steinbachi, Pseudoseisura gutturalis ochroleuca, Teledromas fuscus y Poospiza ornata presentes en este ambiente, son especies endémicas de Argentina, categorizadas como vulnerables a nivel nacional.
+[Text=Asthenes CharacterOffsetBegin=107 CharacterOffsetEnd=115 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=steinbachi CharacterOffsetBegin=116 CharacterOffsetEnd=126 PartOfSpeech=nc00000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=126 CharacterOffsetEnd=127 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Pseudoseisura CharacterOffsetBegin=128 CharacterOffsetEnd=141 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=gutturalis CharacterOffsetBegin=142 CharacterOffsetEnd=152 PartOfSpeech=vsip000 NamedEntityTag=ORG]
+[Text=ochroleuca CharacterOffsetBegin=153 CharacterOffsetEnd=163 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=163 CharacterOffsetEnd=164 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Teledromas CharacterOffsetBegin=165 CharacterOffsetEnd=175 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=fuscus CharacterOffsetBegin=176 CharacterOffsetEnd=182 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=y CharacterOffsetBegin=183 CharacterOffsetEnd=184 PartOfSpeech=cc NamedEntityTag=O]
+[Text=Poospiza CharacterOffsetBegin=185 CharacterOffsetEnd=193 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=ornata CharacterOffsetBegin=194 CharacterOffsetEnd=200 PartOfSpeech=vmip000 NamedEntityTag=ORG]
+[Text=presentes CharacterOffsetBegin=201 CharacterOffsetEnd=210 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=211 CharacterOffsetEnd=213 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=214 CharacterOffsetEnd=218 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=ambiente CharacterOffsetBegin=219 CharacterOffsetEnd=227 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=227 CharacterOffsetEnd=228 PartOfSpeech=fc NamedEntityTag=O]
+[Text=son CharacterOffsetBegin=229 CharacterOffsetEnd=232 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=233 CharacterOffsetEnd=241 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=endémicas CharacterOffsetBegin=242 CharacterOffsetEnd=251 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=252 CharacterOffsetEnd=254 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Argentina CharacterOffsetBegin=255 CharacterOffsetEnd=264 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=264 CharacterOffsetEnd=265 PartOfSpeech=fc NamedEntityTag=O]
+[Text=categorizadas CharacterOffsetBegin=266 CharacterOffsetEnd=279 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=como CharacterOffsetBegin=280 CharacterOffsetEnd=284 PartOfSpeech=cs NamedEntityTag=O]
+[Text=vulnerables CharacterOffsetBegin=285 CharacterOffsetEnd=296 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=297 CharacterOffsetEnd=298 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nivel CharacterOffsetBegin=299 CharacterOffsetEnd=304 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=nacional CharacterOffsetBegin=305 CharacterOffsetEnd=313 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=313 CharacterOffsetEnd=314 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (grup.nom (np00000 Asthenes)
+          (sn
+            (grup.nom
+              (grup.nom (nc00000 steinbachi) (fc ,))
+              (sn
+                (grup.nom (np00000 Pseudoseisura)))))))
+      (grup.verb (vsip000 gutturalis))
+      (sn
+        (s.a
+          (grup.a (aq0000 ochroleuca)))
+        (fc ,)
+        (sn
+          (grup.nom (np00000 Teledromas))))
+      (S
+        (S
+          (participi (aq0000 fuscus)))
+        (conj (cc y))
+        (S
+          (sn
+            (grup.nom (np00000 Poospiza)))
+          (grup.verb (vmip000 ornata))
+          (sn
+            (grup.nom (nc0p000 presentes)))
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (dd0000 este))
+              (grup.nom (nc0s000 ambiente))))))
+      (fc ,))
+    (grup.verb (vsip000 son))
+    (sn
+      (grup.nom (nc0p000 especies)
+        (s.a
+          (grup.a (aq0000 endémicas)))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (np00000 Argentina))))
+        (S (fc ,)
+          (participi (aq0000 categorizadas))
+          (sadv
+            (grup.adv (cs como) (aq0000 vulnerables)))
+          (sp
+            (prep (sp000 a))
+            (sn
+              (grup.nom (nc0s000 nivel)
+                (s.a
+                  (grup.a (aq0000 nacional)))))))))
+    (fp .)))
+
+Sentence #3 (37 tokens):
+El objetivo de este trabajo es actualizar su distribución y aportar información sobre su presencia en nuevas localidades de las provincias de Catamarca y La Rioja, y sobre su abundancia y aspectos biológicos y ecológicos.
+[Text=El CharacterOffsetBegin=315 CharacterOffsetEnd=317 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=objetivo CharacterOffsetBegin=318 CharacterOffsetEnd=326 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=327 CharacterOffsetEnd=329 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=este CharacterOffsetBegin=330 CharacterOffsetEnd=334 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=335 CharacterOffsetEnd=342 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=343 CharacterOffsetEnd=345 PartOfSpeech=vsip000 NamedEntityTag=O]
+[Text=actualizar CharacterOffsetBegin=346 CharacterOffsetEnd=356 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=357 CharacterOffsetEnd=359 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=distribución CharacterOffsetBegin=360 CharacterOffsetEnd=372 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=373 CharacterOffsetEnd=374 PartOfSpeech=cc NamedEntityTag=O]
+[Text=aportar CharacterOffsetBegin=375 CharacterOffsetEnd=382 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=información CharacterOffsetBegin=383 CharacterOffsetEnd=394 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=395 CharacterOffsetEnd=400 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=401 CharacterOffsetEnd=403 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=presencia CharacterOffsetBegin=404 CharacterOffsetEnd=413 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=414 CharacterOffsetEnd=416 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=nuevas CharacterOffsetBegin=417 CharacterOffsetEnd=423 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=localidades CharacterOffsetBegin=424 CharacterOffsetEnd=435 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=436 CharacterOffsetEnd=438 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=439 CharacterOffsetEnd=442 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=provincias CharacterOffsetBegin=443 CharacterOffsetEnd=453 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=454 CharacterOffsetEnd=456 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Catamarca CharacterOffsetBegin=457 CharacterOffsetEnd=466 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=y CharacterOffsetBegin=467 CharacterOffsetEnd=468 PartOfSpeech=cc NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=469 CharacterOffsetEnd=471 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=472 CharacterOffsetEnd=477 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=477 CharacterOffsetEnd=478 PartOfSpeech=fc NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=479 CharacterOffsetEnd=480 PartOfSpeech=cc NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=481 CharacterOffsetEnd=486 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=487 CharacterOffsetEnd=489 PartOfSpeech=dp0000 NamedEntityTag=O]
+[Text=abundancia CharacterOffsetBegin=490 CharacterOffsetEnd=500 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=501 CharacterOffsetEnd=502 PartOfSpeech=cc NamedEntityTag=O]
+[Text=aspectos CharacterOffsetBegin=503 CharacterOffsetEnd=511 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=biológicos CharacterOffsetBegin=512 CharacterOffsetEnd=522 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=523 CharacterOffsetEnd=524 PartOfSpeech=cc NamedEntityTag=O]
+[Text=ecológicos CharacterOffsetBegin=525 CharacterOffsetEnd=535 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=535 CharacterOffsetEnd=536 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 objetivo)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (dd0000 este))
+            (grup.nom (nc0s000 trabajo))))))
+    (grup.verb (vsip000 es))
+    (S
+      (S
+        (infinitiu (vmn0000 actualizar))
+        (sn
+          (spec (dp0000 su))
+          (grup.nom (nc0s000 distribución))))
+      (conj (cc y))
+      (S
+        (infinitiu (vmn0000 aportar))
+        (sn
+          (grup.nom (nc0s000 información)
+            (sp
+              (prep (sp000 sobre))
+              (sn
+                (spec (dp0000 su))
+                (grup.nom (nc0s000 presencia)
+                  (sp
+                    (prep (sp000 en))
+                    (sn
+                      (grup.nom
+                        (s.a
+                          (grup.a (aq0000 nuevas)))
+                        (nc0p000 localidades)
+                        (sp
+                          (prep (sp000 de))
+                          (sn
+                            (spec (da0000 las))
+                            (grup.nom (nc0p000 provincias)
+                              (sp
+                                (sp
+                                  (prep (sp000 de))
+                                  (sn
+                                    (sn
+                                      (grup.nom (np00000 Catamarca)))
+                                    (conj (cc y))
+                                    (sn
+                                      (spec (da0000 La))
+                                      (grup.nom (np00000 Rioja)))
+                                    (fc ,)))
+                                (conj (cc y))
+                                (sp
+                                  (prep (sp000 sobre))
+                                  (sn
+                                    (spec (dp0000 su))
+                                    (grup.nom
+                                      (grup.nom (nc0s000 abundancia))
+                                      (conj (cc y))
+                                      (grup.nom (nc0p000 aspectos)))))))))
+                        (s.a
+                          (s.a
+                            (grup.a (aq0000 biológicos)))
+                          (conj (cc y))
+                          (S
+                            (participi (aq0000 ecológicos))))))))))))))
+    (fp .)))
+
+Sentence #4 (42 tokens):
+En Catamarca, se realizaron 203 transectas de faja, 82 puntos de radio fijo, y 50 hs de observaciones al azar, registrando 58 individuos de Teledromas fuscus, 20 Pseudoseisura gutturalis ochroleuca, y 2 Poospiza ornata.
+[Text=En CharacterOffsetBegin=537 CharacterOffsetEnd=539 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Catamarca CharacterOffsetBegin=540 CharacterOffsetEnd=549 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=549 CharacterOffsetEnd=550 PartOfSpeech=fc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=551 CharacterOffsetEnd=553 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=realizaron CharacterOffsetBegin=554 CharacterOffsetEnd=564 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=203 CharacterOffsetBegin=565 CharacterOffsetEnd=568 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=transectas CharacterOffsetBegin=569 CharacterOffsetEnd=579 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=580 CharacterOffsetEnd=582 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=faja CharacterOffsetBegin=583 CharacterOffsetEnd=587 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=587 CharacterOffsetEnd=588 PartOfSpeech=fc NamedEntityTag=O]
+[Text=82 CharacterOffsetBegin=589 CharacterOffsetEnd=591 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=puntos CharacterOffsetBegin=592 CharacterOffsetEnd=598 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=599 CharacterOffsetEnd=601 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=radio CharacterOffsetBegin=602 CharacterOffsetEnd=607 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=fijo CharacterOffsetBegin=608 CharacterOffsetEnd=612 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=612 CharacterOffsetEnd=613 PartOfSpeech=fc NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=614 CharacterOffsetEnd=615 PartOfSpeech=cc NamedEntityTag=O]
+[Text=50 CharacterOffsetBegin=616 CharacterOffsetEnd=618 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=hs CharacterOffsetBegin=619 CharacterOffsetEnd=621 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=622 CharacterOffsetEnd=624 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=observaciones CharacterOffsetBegin=625 CharacterOffsetEnd=638 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=639 CharacterOffsetEnd=640 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=640 CharacterOffsetEnd=641 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=azar CharacterOffsetBegin=642 CharacterOffsetEnd=646 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=646 CharacterOffsetEnd=647 PartOfSpeech=fc NamedEntityTag=O]
+[Text=registrando CharacterOffsetBegin=648 CharacterOffsetEnd=659 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=58 CharacterOffsetBegin=660 CharacterOffsetEnd=662 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=individuos CharacterOffsetBegin=663 CharacterOffsetEnd=673 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=674 CharacterOffsetEnd=676 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Teledromas CharacterOffsetBegin=677 CharacterOffsetEnd=687 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=fuscus CharacterOffsetBegin=688 CharacterOffsetEnd=694 PartOfSpeech=nc0p000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=694 CharacterOffsetEnd=695 PartOfSpeech=fc NamedEntityTag=O]
+[Text=20 CharacterOffsetBegin=696 CharacterOffsetEnd=698 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=Pseudoseisura CharacterOffsetBegin=699 CharacterOffsetEnd=712 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=gutturalis CharacterOffsetBegin=713 CharacterOffsetEnd=723 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=ochroleuca CharacterOffsetBegin=724 CharacterOffsetEnd=734 PartOfSpeech=aq0000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=734 CharacterOffsetEnd=735 PartOfSpeech=fc NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=736 CharacterOffsetEnd=737 PartOfSpeech=cc NamedEntityTag=O]
+[Text=2 CharacterOffsetBegin=738 CharacterOffsetEnd=739 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=Poospiza CharacterOffsetBegin=740 CharacterOffsetEnd=748 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=ornata CharacterOffsetBegin=749 CharacterOffsetEnd=755 PartOfSpeech=vmip000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=755 CharacterOffsetEnd=756 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (grup.nom (np00000 Catamarca)))
+      (fc ,))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmis000 realizaron))
+    (sn
+      (spec (z0 203))
+      (grup.nom
+        (grup.nom (nc0p000 transectas)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 faja))))
+          (sn (fc ,)
+            (spec (z0 82))
+            (grup.nom (nc0p000 puntos)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (sn
+                    (grup.nom (nc0s000 radio)
+                      (s.a
+                        (grup.a (aq0000 fijo))))
+                    (fc ,))
+                  (conj (cc y))
+                  (sn
+                    (spec (z0 50))
+                    (grup.nom (nc0p000 hs)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (grup.nom (nc0p000 observaciones)
+                            (sp
+                              (prep (sp000 a))
+                              (sn
+                                (spec (da0000 el))
+                                (grup.nom (nc0s000 azar)))))))))))
+              (S (fc ,)
+                (gerundi (vmg0000 registrando))
+                (sn
+                  (spec (z0 58))
+                  (grup.nom (nc0p000 individuos)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (grup.nom
+                          (grup.nom (np00000 Teledromas) (nc0p000 fuscus))
+                          (sn (fc ,)
+                            (spec (z0 20))
+                            (grup.nom
+                              (grup.nom (np00000 Pseudoseisura) (np00000 gutturalis))
+                              (S
+                                (participi (aq0000 ochroleuca))))))))))))
+            (fc ,)))
+        (conj (cc y))
+        (sn
+          (spec (z0 2))
+          (grup.nom (np00000 Poospiza) (vmip000 ornata)))))
+    (fp .)))
+
+Sentence #5 (38 tokens):
+En La Rioja, se realizaron 308 transectas de faja y 20 hs de observaciones al azar, identificando 17 Asthenes steinbachi, 18 Pseudoseisura gutturalis ochroleuca, 12 Teledromas fuscus, y 16 Poospiza ornata.
+[Text=En CharacterOffsetBegin=757 CharacterOffsetEnd=759 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=760 CharacterOffsetEnd=762 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=763 CharacterOffsetEnd=768 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=768 CharacterOffsetEnd=769 PartOfSpeech=fc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=770 CharacterOffsetEnd=772 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=realizaron CharacterOffsetBegin=773 CharacterOffsetEnd=783 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=308 CharacterOffsetBegin=784 CharacterOffsetEnd=787 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=transectas CharacterOffsetBegin=788 CharacterOffsetEnd=798 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=799 CharacterOffsetEnd=801 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=faja CharacterOffsetBegin=802 CharacterOffsetEnd=806 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=807 CharacterOffsetEnd=808 PartOfSpeech=cc NamedEntityTag=O]
+[Text=20 CharacterOffsetBegin=809 CharacterOffsetEnd=811 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=hs CharacterOffsetBegin=812 CharacterOffsetEnd=814 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=815 CharacterOffsetEnd=817 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=observaciones CharacterOffsetBegin=818 CharacterOffsetEnd=831 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=832 CharacterOffsetEnd=833 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=833 CharacterOffsetEnd=834 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=azar CharacterOffsetBegin=835 CharacterOffsetEnd=839 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=839 CharacterOffsetEnd=840 PartOfSpeech=fc NamedEntityTag=O]
+[Text=identificando CharacterOffsetBegin=841 CharacterOffsetEnd=854 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=17 CharacterOffsetBegin=855 CharacterOffsetEnd=857 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=Asthenes CharacterOffsetBegin=858 CharacterOffsetEnd=866 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=steinbachi CharacterOffsetBegin=867 CharacterOffsetEnd=877 PartOfSpeech=nc00000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=877 CharacterOffsetEnd=878 PartOfSpeech=fc NamedEntityTag=O]
+[Text=18 CharacterOffsetBegin=879 CharacterOffsetEnd=881 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=Pseudoseisura CharacterOffsetBegin=882 CharacterOffsetEnd=895 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=gutturalis CharacterOffsetBegin=896 CharacterOffsetEnd=906 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=ochroleuca CharacterOffsetBegin=907 CharacterOffsetEnd=917 PartOfSpeech=aq0000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=917 CharacterOffsetEnd=918 PartOfSpeech=fc NamedEntityTag=O]
+[Text=12 CharacterOffsetBegin=919 CharacterOffsetEnd=921 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=Teledromas CharacterOffsetBegin=922 CharacterOffsetEnd=932 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=fuscus CharacterOffsetBegin=933 CharacterOffsetEnd=939 PartOfSpeech=nc0p000 NamedEntityTag=ORG]
+[Text=, CharacterOffsetBegin=939 CharacterOffsetEnd=940 PartOfSpeech=fc NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=941 CharacterOffsetEnd=942 PartOfSpeech=cc NamedEntityTag=O]
+[Text=16 CharacterOffsetBegin=943 CharacterOffsetEnd=945 PartOfSpeech=z0 NamedEntityTag=O]
+[Text=Poospiza CharacterOffsetBegin=946 CharacterOffsetEnd=954 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=ornata CharacterOffsetBegin=955 CharacterOffsetEnd=961 PartOfSpeech=vmip000 NamedEntityTag=ORG]
+[Text=. CharacterOffsetBegin=961 CharacterOffsetEnd=962 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (spec (da0000 La))
+        (grup.nom (np00000 Rioja)))
+      (fc ,))
+    (morfema.verbal (p0000000 se))
+    (grup.verb (vmis000 realizaron))
+    (sn
+      (sn
+        (spec (z0 308))
+        (grup.nom (nc0p000 transectas)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 faja))))))
+      (conj (cc y))
+      (sn
+        (spec (z0 20))
+        (grup.nom (nc0p000 hs)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0p000 observaciones)
+                (sp
+                  (prep (sp000 a))
+                  (sn
+                    (spec (da0000 el))
+                    (grup.nom (nc0s000 azar))))
+                (S (fc ,)
+                  (gerundi (vmg0000 identificando))
+                  (sn
+                    (spec (z0 17))
+                    (grup.nom (np00000 Asthenes)
+                      (sn
+                        (grup.nom (nc00000 steinbachi)))))
+                  (fc ,))))))))
+    (S
+      (sn
+        (sn
+          (spec (z0 18))
+          (grup.nom
+            (grup.nom (np00000 Pseudoseisura) (np00000 gutturalis)
+              (s.a
+                (grup.a (aq0000 ochroleuca))))
+            (sn (fc ,)
+              (sn
+                (grup.nom (z0 12) (np00000 Teledromas)))
+              (sn
+                (grup.nom (nc0p000 fuscus)))
+              (fc ,))))
+        (conj (cc y))
+        (sn
+          (spec (z0 16))
+          (grup.nom (np00000 Poospiza))))
+      (grup.verb (vmip000 ornata)))
+    (fp .)))
+
+Sentence #6 (31 tokens):
+Se examinaron además ejemplares depositados en la Colección Ornitológica de la Fundación Miguel Lillo (COFML), Tucumán, y se revisaron antecedentes bibliográficos para completar los datos aportados.
+[Text=Se CharacterOffsetBegin=963 CharacterOffsetEnd=965 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=examinaron CharacterOffsetBegin=966 CharacterOffsetEnd=976 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=además CharacterOffsetBegin=977 CharacterOffsetEnd=983 PartOfSpeech=rg NamedEntityTag=O]
+[Text=ejemplares CharacterOffsetBegin=984 CharacterOffsetEnd=994 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=depositados CharacterOffsetBegin=995 CharacterOffsetEnd=1006 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1007 CharacterOffsetEnd=1009 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1010 CharacterOffsetEnd=1012 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Colección CharacterOffsetBegin=1013 CharacterOffsetEnd=1022 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Ornitológica CharacterOffsetBegin=1023 CharacterOffsetEnd=1035 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=1036 CharacterOffsetEnd=1038 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1039 CharacterOffsetEnd=1041 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Fundación CharacterOffsetBegin=1042 CharacterOffsetEnd=1051 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Miguel CharacterOffsetBegin=1052 CharacterOffsetEnd=1058 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Lillo CharacterOffsetBegin=1059 CharacterOffsetEnd=1064 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text==LRB= CharacterOffsetBegin=1065 CharacterOffsetEnd=1066 PartOfSpeech=fpa NamedEntityTag=O]
+[Text=COFML CharacterOffsetBegin=1066 CharacterOffsetEnd=1071 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text==RRB= CharacterOffsetBegin=1071 CharacterOffsetEnd=1072 PartOfSpeech=fpt NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1072 CharacterOffsetEnd=1073 PartOfSpeech=fc NamedEntityTag=O]
+[Text=Tucumán CharacterOffsetBegin=1074 CharacterOffsetEnd=1081 PartOfSpeech=np00000 NamedEntityTag=PERS]
+[Text=, CharacterOffsetBegin=1081 CharacterOffsetEnd=1082 PartOfSpeech=fc NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1083 CharacterOffsetEnd=1084 PartOfSpeech=cc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=1085 CharacterOffsetEnd=1087 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=revisaron CharacterOffsetBegin=1088 CharacterOffsetEnd=1097 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=antecedentes CharacterOffsetBegin=1098 CharacterOffsetEnd=1110 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=bibliográficos CharacterOffsetBegin=1111 CharacterOffsetEnd=1125 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=1126 CharacterOffsetEnd=1130 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=completar CharacterOffsetBegin=1131 CharacterOffsetEnd=1140 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=1141 CharacterOffsetEnd=1144 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=datos CharacterOffsetBegin=1145 CharacterOffsetEnd=1150 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=aportados CharacterOffsetBegin=1151 CharacterOffsetEnd=1160 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1160 CharacterOffsetEnd=1161 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (morfema.verbal (p0000000 Se))
+    (grup.verb (vmis000 examinaron))
+    (S
+      (S
+        (sadv
+          (grup.adv (rg además)))
+        (sn
+          (grup.nom (nc0p000 ejemplares)
+            (S
+              (participi (aq0000 depositados))
+              (sp
+                (prep (sp000 en))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom
+                    (grup.nom (np00000 Colección) (np00000 Ornitológica)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (da0000 la))
+                          (grup.nom (np00000 Fundación) (np00000 Miguel) (np00000 Lillo)))))
+                    (sn
+                      (grup.nom (fpa =LRB=) (np00000 COFML) (fpt =RRB=)))
+                    (sn (fc ,)
+                      (grup.nom (np00000 Tucumán))
+                      (fc ,)))))))))
+      (conj (cc y))
+      (S
+        (morfema.verbal (p0000000 se))
+        (grup.verb (vmis000 revisaron))
+        (sn
+          (grup.nom (nc0p000 antecedentes)
+            (s.a
+              (grup.a (aq0000 bibliográficos)))
+            (sp
+              (prep (sp000 para))
+              (S
+                (infinitiu (vmn0000 completar))
+                (sn
+                  (spec (da0000 los))
+                  (grup.nom (nc0p000 datos)
+                    (s.a
+                      (grup.a (aq0000 aportados)))))))))))
+    (fp .)))
+
+Sentence #7 (42 tokens):
+Se pudo establecer nuevas localidades  de distribución y se aportan datos sobre la abundancia, aspectos biológicos y ecológicos de estas cuatro especies endémicas de Catamarca y La Rioja, relacionando la información obtenida con datos de colección y datos bibliográficos.
+[Text=Se CharacterOffsetBegin=1162 CharacterOffsetEnd=1164 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=pudo CharacterOffsetBegin=1165 CharacterOffsetEnd=1169 PartOfSpeech=vmis000 NamedEntityTag=O]
+[Text=establecer CharacterOffsetBegin=1170 CharacterOffsetEnd=1180 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=nuevas CharacterOffsetBegin=1181 CharacterOffsetEnd=1187 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=localidades CharacterOffsetBegin=1188 CharacterOffsetEnd=1199 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1201 CharacterOffsetEnd=1203 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=distribución CharacterOffsetBegin=1204 CharacterOffsetEnd=1216 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1217 CharacterOffsetEnd=1218 PartOfSpeech=cc NamedEntityTag=O]
+[Text=se CharacterOffsetBegin=1219 CharacterOffsetEnd=1221 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=aportan CharacterOffsetBegin=1222 CharacterOffsetEnd=1229 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=datos CharacterOffsetBegin=1230 CharacterOffsetEnd=1235 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=sobre CharacterOffsetBegin=1236 CharacterOffsetEnd=1241 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1242 CharacterOffsetEnd=1244 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=abundancia CharacterOffsetBegin=1245 CharacterOffsetEnd=1255 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1255 CharacterOffsetEnd=1256 PartOfSpeech=fc NamedEntityTag=O]
+[Text=aspectos CharacterOffsetBegin=1257 CharacterOffsetEnd=1265 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=biológicos CharacterOffsetBegin=1266 CharacterOffsetEnd=1276 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1277 CharacterOffsetEnd=1278 PartOfSpeech=cc NamedEntityTag=O]
+[Text=ecológicos CharacterOffsetBegin=1279 CharacterOffsetEnd=1289 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1290 CharacterOffsetEnd=1292 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=estas CharacterOffsetBegin=1293 CharacterOffsetEnd=1298 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=cuatro CharacterOffsetBegin=1299 CharacterOffsetEnd=1305 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=1306 CharacterOffsetEnd=1314 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=endémicas CharacterOffsetBegin=1315 CharacterOffsetEnd=1324 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1325 CharacterOffsetEnd=1327 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Catamarca CharacterOffsetBegin=1328 CharacterOffsetEnd=1337 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=y CharacterOffsetBegin=1338 CharacterOffsetEnd=1339 PartOfSpeech=cc NamedEntityTag=O]
+[Text=La CharacterOffsetBegin=1340 CharacterOffsetEnd=1342 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Rioja CharacterOffsetBegin=1343 CharacterOffsetEnd=1348 PartOfSpeech=np00000 NamedEntityTag=LUG]
+[Text=, CharacterOffsetBegin=1348 CharacterOffsetEnd=1349 PartOfSpeech=fc NamedEntityTag=O]
+[Text=relacionando CharacterOffsetBegin=1350 CharacterOffsetEnd=1362 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=1363 CharacterOffsetEnd=1365 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=información CharacterOffsetBegin=1366 CharacterOffsetEnd=1377 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=obtenida CharacterOffsetBegin=1378 CharacterOffsetEnd=1386 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=1387 CharacterOffsetEnd=1390 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=datos CharacterOffsetBegin=1391 CharacterOffsetEnd=1396 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1397 CharacterOffsetEnd=1399 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=colección CharacterOffsetBegin=1400 CharacterOffsetEnd=1409 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=1410 CharacterOffsetEnd=1411 PartOfSpeech=cc NamedEntityTag=O]
+[Text=datos CharacterOffsetBegin=1412 CharacterOffsetEnd=1417 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=bibliográficos CharacterOffsetBegin=1418 CharacterOffsetEnd=1432 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1432 CharacterOffsetEnd=1433 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (S
+        (S
+          (morfema.verbal (p0000000 Se))
+          (grup.verb (vmis000 pudo)
+            (infinitiu (vmn0000 establecer)))
+          (sn
+            (grup.nom
+              (s.a
+                (grup.a (aq0000 nuevas)))
+              (nc0p000 localidades)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 distribución)))))))
+        (conj (cc y))
+        (S
+          (morfema.verbal (p0000000 se))
+          (grup.verb (vmip000 aportan))
+          (sn
+            (grup.nom (nc0p000 datos)
+              (sp
+                (prep (sp000 sobre))
+                (sn
+                  (spec (da0000 la))
+                  (grup.nom (nc0s000 abundancia))))))))
+      (fc ,)
+      (S
+        (sn
+          (grup.nom (nc0p000 aspectos)
+            (s.a
+              (grup.a
+                (grup.a (aq0000 biológicos))
+                (conj (cc y))
+                (grup.a (aq0000 ecológicos))))))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (dd0000 estas) (dn0000 cuatro))
+            (grup.nom (nc0p000 especies)
+              (s.a
+                (grup.a (aq0000 endémicas)))
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (np00000 Catamarca))))))))
+      (conj (cc y))
+      (S
+        (sn
+          (spec (da0000 La))
+          (grup.nom (np00000 Rioja)))))
+    (S (fc ,)
+      (gerundi (vmg0000 relacionando))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 información)
+          (s.a
+            (grup.a (aq0000 obtenida)))
+          (sp
+            (prep (sp000 con))
+            (sn
+              (grup.nom (nc0p000 datos)
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (grup.nom
+                      (grup.nom (nc0s000 colección))
+                      (conj (cc y))
+                      (grup.nom (nc0p000 datos))))))))
+          (S
+            (participi (aq0000 bibliográficos))))))
+    (fp .)))
+
+Sentence #8 (21 tokens):
+Este trabajo puede servir de base para futuras investigaciones poblacionales que buscan establecer categorías de conservación en especies endémicas de Monte
+[Text=Este CharacterOffsetBegin=1434 CharacterOffsetEnd=1438 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=1439 CharacterOffsetEnd=1446 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=puede CharacterOffsetBegin=1447 CharacterOffsetEnd=1452 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=servir CharacterOffsetBegin=1453 CharacterOffsetEnd=1459 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1460 CharacterOffsetEnd=1462 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=base CharacterOffsetBegin=1463 CharacterOffsetEnd=1467 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=1468 CharacterOffsetEnd=1472 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=futuras CharacterOffsetBegin=1473 CharacterOffsetEnd=1480 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=investigaciones CharacterOffsetBegin=1481 CharacterOffsetEnd=1496 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=poblacionales CharacterOffsetBegin=1497 CharacterOffsetEnd=1510 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=1511 CharacterOffsetEnd=1514 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=buscan CharacterOffsetBegin=1515 CharacterOffsetEnd=1521 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=establecer CharacterOffsetBegin=1522 CharacterOffsetEnd=1532 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=categorías CharacterOffsetBegin=1533 CharacterOffsetEnd=1543 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1544 CharacterOffsetEnd=1546 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=conservación CharacterOffsetBegin=1547 CharacterOffsetEnd=1559 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=1560 CharacterOffsetEnd=1562 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=especies CharacterOffsetBegin=1563 CharacterOffsetEnd=1571 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=endémicas CharacterOffsetBegin=1572 CharacterOffsetEnd=1581 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=1582 CharacterOffsetEnd=1584 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Monte CharacterOffsetBegin=1585 CharacterOffsetEnd=1590 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (dd0000 Este))
+        (grup.nom (nc0s000 trabajo))))
+    (S
+      (grup.verb (vmip000 puede)
+        (infinitiu (vmn0000 servir)))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (grup.nom (nc0s000 base)
+            (sp
+              (prep (sp000 para))
+              (sn
+                (grup.nom
+                  (s.a
+                    (grup.a (aq0000 futuras)))
+                  (nc0p000 investigaciones)
+                  (s.a
+                    (grup.a (aq0000 poblacionales)))
+                  (S
+                    (relatiu (pr000000 que))
+                    (grup.verb (vmip000 buscan))
+                    (S
+                      (infinitiu (vmn0000 establecer))
+                      (sn
+                        (grup.nom (nc0p000 categorías)
+                          (sp
+                            (prep (sp000 de))
+                            (sn
+                              (grup.nom (nc0s000 conservación))))))
+                      (sp
+                        (prep (sp000 en))
+                        (sn
+                          (grup.nom (nc0p000 especies)
+                            (S
+                              (participi (aq0000 endémicas))))))))
+                  (sp
+                    (prep (sp000 de))
+                    (sn
+                      (grup.nom (np00000 Monte)))))))))))))
+

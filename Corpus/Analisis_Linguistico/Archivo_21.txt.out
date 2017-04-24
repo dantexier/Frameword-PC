@@ -1,0 +1,306 @@
+Sentence #1 (46 tokens):
+En el marco de la asignatura Psicología del Desarrollo del Profesorado Universitario en Ciencias Económicas, carrera de la Universidad Nacional de Chilecito se propone una experiencia de trabajo de carácter interdisciplinar entre diferentes asignaturas de formación pedagógica de la carrera antes mencionada.
+[Text=En CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=3 CharacterOffsetEnd=5 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=marco CharacterOffsetBegin=6 CharacterOffsetEnd=11 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=12 CharacterOffsetEnd=14 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=15 CharacterOffsetEnd=17 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=asignatura CharacterOffsetBegin=18 CharacterOffsetEnd=28 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=Psicología CharacterOffsetBegin=29 CharacterOffsetEnd=39 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=de CharacterOffsetBegin=40 CharacterOffsetEnd=41 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=41 CharacterOffsetEnd=43 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Desarrollo CharacterOffsetBegin=44 CharacterOffsetEnd=54 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=de CharacterOffsetBegin=55 CharacterOffsetEnd=56 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=56 CharacterOffsetEnd=58 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Profesorado CharacterOffsetBegin=59 CharacterOffsetEnd=70 PartOfSpeech=nc0s000 NamedEntityTag=ORG]
+[Text=Universitario CharacterOffsetBegin=71 CharacterOffsetEnd=84 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=en CharacterOffsetBegin=85 CharacterOffsetEnd=87 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Ciencias CharacterOffsetBegin=88 CharacterOffsetEnd=96 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=Económicas CharacterOffsetBegin=97 CharacterOffsetEnd=107 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=, CharacterOffsetBegin=107 CharacterOffsetEnd=108 PartOfSpeech=fc NamedEntityTag=O]
+[Text=carrera CharacterOffsetBegin=109 CharacterOffsetEnd=116 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=117 CharacterOffsetEnd=119 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=120 CharacterOffsetEnd=122 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=Universidad CharacterOffsetBegin=123 CharacterOffsetEnd=134 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=Nacional CharacterOffsetBegin=135 CharacterOffsetEnd=143 PartOfSpeech=np00000 NamedEntityTag=ORG]
+[Text=de CharacterOffsetBegin=144 CharacterOffsetEnd=146 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=Chilecito CharacterOffsetBegin=147 CharacterOffsetEnd=156 PartOfSpeech=np00000 NamedEntityTag=OTROS]
+[Text=se CharacterOffsetBegin=157 CharacterOffsetEnd=159 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=propone CharacterOffsetBegin=160 CharacterOffsetEnd=167 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=168 CharacterOffsetEnd=171 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=experiencia CharacterOffsetBegin=172 CharacterOffsetEnd=183 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=184 CharacterOffsetEnd=186 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=trabajo CharacterOffsetBegin=187 CharacterOffsetEnd=194 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=195 CharacterOffsetEnd=197 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=carácter CharacterOffsetBegin=198 CharacterOffsetEnd=206 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=interdisciplinar CharacterOffsetBegin=207 CharacterOffsetEnd=223 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=224 CharacterOffsetEnd=229 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=diferentes CharacterOffsetBegin=230 CharacterOffsetEnd=240 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=asignaturas CharacterOffsetBegin=241 CharacterOffsetEnd=252 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=253 CharacterOffsetEnd=255 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=formación CharacterOffsetBegin=256 CharacterOffsetEnd=265 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=pedagógica CharacterOffsetBegin=266 CharacterOffsetEnd=276 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=277 CharacterOffsetEnd=279 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=280 CharacterOffsetEnd=282 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=carrera CharacterOffsetBegin=283 CharacterOffsetEnd=290 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=antes CharacterOffsetBegin=291 CharacterOffsetEnd=296 PartOfSpeech=rg NamedEntityTag=O]
+[Text=mencionada CharacterOffsetBegin=297 CharacterOffsetEnd=307 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=307 CharacterOffsetEnd=308 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sp
+      (prep (sp000 En))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 marco)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 asignatura)
+                (sn
+                  (grup.nom (np00000 Psicología)))
+                (sp
+                  (prep (sp000 de))
+                  (sn
+                    (spec (da0000 el))
+                    (grup.nom (np00000 Desarrollo)
+                      (sp
+                        (prep (sp000 de))
+                        (sn
+                          (spec (da0000 el))
+                          (grup.nom (nc0s000 Profesorado)
+                            (sn
+                              (grup.nom (np00000 Universitario)))
+                            (sp
+                              (prep (sp000 en))
+                              (sn
+                                (grup.nom (np00000 Ciencias) (np00000 Económicas)))))))))))))))
+      (fc ,))
+    (sn
+      (grup.nom (nc0s000 carrera)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (np00000 Universidad) (np00000 Nacional)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (np00000 Chilecito)))))))))
+    (morfema.pronominal (p0000000 se))
+    (grup.verb (vmip000 propone))
+    (sn
+      (spec (di0000 una))
+      (grup.nom (nc0s000 experiencia)
+        (sp
+          (prep (sp000 de))
+          (sn
+            (grup.nom (nc0s000 trabajo)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0s000 carácter)
+                    (s.a
+                      (grup.a (aq0000 interdisciplinar)))))))))))
+    (sp
+      (prep (sp000 entre))
+      (sn
+        (spec (di0000 diferentes))
+        (grup.nom (nc0p000 asignaturas)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (nc0s000 formación))))
+          (S
+            (participi (aq0000 pedagógica))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 la))
+                (grup.nom (nc0s000 carrera)
+                  (S
+                    (sadv
+                      (grup.adv (rg antes)))
+                    (participi (aq0000 mencionada))))))))))
+    (fp .)))
+
+Sentence #2 (45 tokens):
+Esta experiencia persigue un doble objetivo, por una parte, utilizar estrategias innovadoras en la formación de docentes y planificar actividades que permitan articular distintas asignaturas de la carrera profundizando la relación entre las disciplinas a través de la articulación teoría y práctica.
+[Text=Esta CharacterOffsetBegin=309 CharacterOffsetEnd=313 PartOfSpeech=dd0000 NamedEntityTag=O]
+[Text=experiencia CharacterOffsetBegin=314 CharacterOffsetEnd=325 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=persigue CharacterOffsetBegin=326 CharacterOffsetEnd=334 PartOfSpeech=vmip000 NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=335 CharacterOffsetEnd=337 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=doble CharacterOffsetBegin=338 CharacterOffsetEnd=343 PartOfSpeech=dn0000 NamedEntityTag=O]
+[Text=objetivo CharacterOffsetBegin=344 CharacterOffsetEnd=352 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=352 CharacterOffsetEnd=353 PartOfSpeech=fc NamedEntityTag=O]
+[Text=por CharacterOffsetBegin=354 CharacterOffsetEnd=357 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=una CharacterOffsetBegin=358 CharacterOffsetEnd=361 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=parte CharacterOffsetBegin=362 CharacterOffsetEnd=367 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=367 CharacterOffsetEnd=368 PartOfSpeech=fc NamedEntityTag=O]
+[Text=utilizar CharacterOffsetBegin=369 CharacterOffsetEnd=377 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=estrategias CharacterOffsetBegin=378 CharacterOffsetEnd=389 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=innovadoras CharacterOffsetBegin=390 CharacterOffsetEnd=401 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=402 CharacterOffsetEnd=404 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=405 CharacterOffsetEnd=407 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=formación CharacterOffsetBegin=408 CharacterOffsetEnd=417 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=418 CharacterOffsetEnd=420 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=docentes CharacterOffsetBegin=421 CharacterOffsetEnd=429 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=430 CharacterOffsetEnd=431 PartOfSpeech=cc NamedEntityTag=O]
+[Text=planificar CharacterOffsetBegin=432 CharacterOffsetEnd=442 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=actividades CharacterOffsetBegin=443 CharacterOffsetEnd=454 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=455 CharacterOffsetEnd=458 PartOfSpeech=pr000000 NamedEntityTag=O]
+[Text=permitan CharacterOffsetBegin=459 CharacterOffsetEnd=467 PartOfSpeech=vmsp000 NamedEntityTag=O]
+[Text=articular CharacterOffsetBegin=468 CharacterOffsetEnd=477 PartOfSpeech=vmn0000 NamedEntityTag=O]
+[Text=distintas CharacterOffsetBegin=478 CharacterOffsetEnd=487 PartOfSpeech=di0000 NamedEntityTag=O]
+[Text=asignaturas CharacterOffsetBegin=488 CharacterOffsetEnd=499 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=500 CharacterOffsetEnd=502 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=503 CharacterOffsetEnd=505 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=carrera CharacterOffsetBegin=506 CharacterOffsetEnd=513 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=profundizando CharacterOffsetBegin=514 CharacterOffsetEnd=527 PartOfSpeech=vmg0000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=528 CharacterOffsetEnd=530 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=relación CharacterOffsetBegin=531 CharacterOffsetEnd=539 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=entre CharacterOffsetBegin=540 CharacterOffsetEnd=545 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=546 CharacterOffsetEnd=549 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=disciplinas CharacterOffsetBegin=550 CharacterOffsetEnd=561 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=562 CharacterOffsetEnd=563 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=través CharacterOffsetBegin=564 CharacterOffsetEnd=570 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=571 CharacterOffsetEnd=573 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=574 CharacterOffsetEnd=576 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=articulación CharacterOffsetBegin=577 CharacterOffsetEnd=589 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=teoría CharacterOffsetBegin=590 CharacterOffsetEnd=596 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=597 CharacterOffsetEnd=598 PartOfSpeech=cc NamedEntityTag=O]
+[Text=práctica CharacterOffsetBegin=599 CharacterOffsetEnd=607 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=607 CharacterOffsetEnd=608 PartOfSpeech=fp NamedEntityTag=O]
+(ROOT
+  (sentence
+    (sn
+      (spec (dd0000 Esta))
+      (grup.nom (nc0s000 experiencia)))
+    (grup.verb (vmip000 persigue))
+    (sn
+      (spec (di0000 un) (dn0000 doble))
+      (grup.nom (nc0s000 objetivo)))
+    (sp (fc ,)
+      (prep (sp000 por))
+      (sn
+        (spec (di0000 una))
+        (grup.nom (nc0s000 parte)))
+      (fc ,))
+    (S
+      (S
+        (infinitiu (vmn0000 utilizar))
+        (sn
+          (grup.nom (nc0p000 estrategias)
+            (s.a
+              (grup.a (aq0000 innovadoras)))))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 formación)
+              (sp
+                (prep (sp000 de))
+                (sn
+                  (grup.nom (nc0p000 docentes))))))))
+      (conj (cc y))
+      (S
+        (infinitiu (vmn0000 planificar))
+        (sn
+          (grup.nom (nc0p000 actividades)
+            (S
+              (relatiu (pr000000 que))
+              (grup.verb (vmsp000 permitan))
+              (S
+                (infinitiu (vmn0000 articular))
+                (sn
+                  (spec (di0000 distintas))
+                  (grup.nom (nc0p000 asignaturas)
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (spec (da0000 la))
+                        (grup.nom (nc0s000 carrera))))
+                    (S
+                      (gerundi (vmg0000 profundizando))
+                      (sn
+                        (spec (da0000 la))
+                        (grup.nom (nc0s000 relación)
+                          (sp
+                            (prep (sp000 entre))
+                            (sn
+                              (spec (da0000 las))
+                              (grup.nom (nc0p000 disciplinas)
+                                (sp
+                                  (prep (sp000 a))
+                                  (sn
+                                    (grup.nom (nc0s000 través)
+                                      (sp
+                                        (prep (sp000 de))
+                                        (sn
+                                          (spec (da0000 la))
+                                          (grup.nom (nc0s000 articulación)
+                                            (sn
+                                              (grup.nom
+                                                (grup.nom (nc0s000 teoría))
+                                                (conj (cc y))
+                                                (grup.nom (nc0s000 práctica))))))))))))))))))))))))
+    (fp .)))
+
+Sentence #3 (19 tokens):
+Se trabajarán estrategias para el logro del aprendizaje significativo y estrategias para el logro del aprendizaje colaborativo
+[Text=Se CharacterOffsetBegin=609 CharacterOffsetEnd=611 PartOfSpeech=p0000000 NamedEntityTag=O]
+[Text=trabajarán CharacterOffsetBegin=612 CharacterOffsetEnd=622 PartOfSpeech=vmif000 NamedEntityTag=O]
+[Text=estrategias CharacterOffsetBegin=623 CharacterOffsetEnd=634 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=635 CharacterOffsetEnd=639 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=640 CharacterOffsetEnd=642 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=logro CharacterOffsetBegin=643 CharacterOffsetEnd=648 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=649 CharacterOffsetEnd=650 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=650 CharacterOffsetEnd=652 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=aprendizaje CharacterOffsetBegin=653 CharacterOffsetEnd=664 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=significativo CharacterOffsetBegin=665 CharacterOffsetEnd=678 PartOfSpeech=aq0000 NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=679 CharacterOffsetEnd=680 PartOfSpeech=cc NamedEntityTag=O]
+[Text=estrategias CharacterOffsetBegin=681 CharacterOffsetEnd=692 PartOfSpeech=nc0p000 NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=693 CharacterOffsetEnd=697 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=698 CharacterOffsetEnd=700 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=logro CharacterOffsetBegin=701 CharacterOffsetEnd=706 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=707 CharacterOffsetEnd=708 PartOfSpeech=sp000 NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=708 CharacterOffsetEnd=710 PartOfSpeech=da0000 NamedEntityTag=O]
+[Text=aprendizaje CharacterOffsetBegin=711 CharacterOffsetEnd=722 PartOfSpeech=nc0s000 NamedEntityTag=O]
+[Text=colaborativo CharacterOffsetBegin=723 CharacterOffsetEnd=735 PartOfSpeech=aq0000 NamedEntityTag=O]
+(ROOT
+  (sentence
+    (S
+      (morfema.verbal (p0000000 Se))
+      (grup.verb (vmif000 trabajarán))
+      (sn
+        (grup.nom (nc0p000 estrategias)))
+      (sp
+        (prep (sp000 para))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 logro)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 aprendizaje)
+                  (s.a
+                    (grup.a (aq0000 significativo))))))))))
+    (conj (cc y))
+    (S
+      (sn
+        (grup.nom (nc0p000 estrategias)))
+      (sp
+        (prep (sp000 para))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 logro)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 aprendizaje)
+                  (S
+                    (participi (aq0000 colaborativo))))))))))))
+
